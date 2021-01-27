@@ -1,0 +1,327 @@
+<html lang="zh-Hans">
+    <head>
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-WCCFW98');</script>
+        <!-- End Google Tag Manager -->
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>高速铁路 > 搜寻车费及时间表</title>
+        <link rel="icon" href="/assets/img/logo/favicon.ico" type="image/x-icon"/>
+        <link rel="shortcut icon" href="/assets/img/logo/favicon.ico" type="image/x-icon">
+        <link rel="stylesheet" href="/assets/css/reset.css">
+        <link rel="stylesheet" href="/assets/vendor/css/bootstrap.min.css">
+        <link rel="stylesheet" href="/assets/vendor/css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="/assets/vendor/css/slick.css">
+        <link rel="stylesheet" href="/assets/vendor/css/slick-theme.css">	
+        <link rel="stylesheet" href="/assets/vendor/css/swiper.min.css" />
+        <link rel="stylesheet" href="/assets/css/style.css">
+        <script src='/assets/vendor/js/jquery-3.3.1.min.js'></script>
+        <script src='/assets/vendor/js/bootstrap.min.js'></script>
+        <script src='/assets/vendor/js/slick.min.js'></script>
+        <script src='/assets/vendor/js/isotope.pkgd.min.js' type="text/javascript"></script>
+        <script src='/assets/vendor/js/swiper.min.js'></script>
+        <script src='/assets/js/config.js'></script>
+        <script src='/assets/js/main.js'></script>
+        <script src='/assets/js/navigation.js'></script>    </head>
+    <body>
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WCCFW98"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+		<!--#include virtual="/sc/common/header.inc.html" -->
+                    <div class="content-container">
+                        <!--#include virtual="/sc/common/trip_planner_search_bar.inc.html" -->
+						<div class="trip-planner container-fluid">
+                            <div class="row">
+                                <div class="container">
+                                    <div class="inner-content-container row">
+                                        <div class="clearfix">
+                                            <ul id="breadcrumb" class="breadcrumb">
+                                            </ul>
+											<div class="title-box"><h1 class="h2">搜寻车费及时间表</h1></div>
+                                        </div>
+                                        <div class="trip-planner-container">
+                                            <div class="price-list col-xs-12 col-md-6">
+                                                <ul class="featured-list-style">
+                                                    <li class="clearfix">
+                                                        <span class="left-content clearfix">
+                                                            <div class="icon-container">
+                                                                <span class="featured-icon icon ico-fare"></span>
+                                                            </div>
+                                                            <span>车费</span>
+                                                        </span>
+                                                        <span class="right-content">
+                                                            <div class="price-trigger button-container"></div>
+                                                        </span>
+                                                    </li>
+                                                </ul>
+                                                <div class="article-container styled-text-wrapper">
+                                                    <p>车票以人民币定价，港元票价会按汇率变动每月而调整，并于每月首日公布。</p>
+													<p>以港元发售的车票，票价将为购票当月的有效執行票价，可能与乘车当日的票价不同。</p>
+													<p>来往香港西九龙站至广州南或虎门的长途列车的一等﹑特等及商务座的执行票价，均较短途列车的执行票价为高。</p>
+													<p>所有票价以中国铁路总公司（铁总）公布为准。</p>
+													<p><a href="/res/pdf/promotion-fare-sc.pdf" target="_blank">按此</a>查阅特别车次票价。</p>
+                                                </div>
+                                            </div>
+                                            <div class="time-table col-xs-12 col-md-6">
+                                                <ul class="featured-list-style">
+                                                    <li>
+                                                        <span class="left-content clearfix">
+                                                            <span class="icon-container">
+                                                                <span class="featured-icon icon icon-inline ico-time-table"></span>
+                                                            </span>
+                                                            <span>时间表</span>
+                                                        </span>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                            <!--<div class="collapsable-list">
+													<div class="list-item">
+														<div class="item-container" collapsableid=>
+																<a href="javascript:void(0)" class="item-title"><span>條款及細則</span></a>
+																<div class="item-content styled-text-wrapper"><p>有關我們的私隱政策及處理方法，請參閱我們的「收集個人資料聲明」。如有關個人資料是透過於本網站提供的特定服務或計劃（包括港鐵計劃及訂閱服務）收集，會員亦須參閱「個人資料收集聲明」；有關聲明已連結於閣下個人資料收集的表格內。</p></div>
+														</div>
+													</div>
+                                            </div>-->
+										</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <script>
+                        var tripPlannerData,
+                            route = searchSpecificURLParam('id'),
+                            routeInfo,
+                            pricesInfo,
+                            lang = languagePreference()
+                        route = route.replace(/([^a-zA-Z1-9])/g, '')
+                        $(document).ready(function(){
+                            $.ajax({
+                                method: 'GET',
+                                url: trip_planner_api
+                            }).then(function(data){
+                                tripPlannerData = data
+                                routeInfo = searchWithRoute(route, 'route_result')
+                                if(routeInfo){
+                                    initTripPlanner()
+                                } else {
+                                    var errorMessage = "所选列车并不存在，请重新选择。",
+                                        html = '<div class="article-container styled-text-wrapper">' +
+                                                    '<p>' + errorMessage + '</p>' +
+                                                '</div>'
+                                    $('.trip-planner-container').hide().before(html)
+                                }
+                            })
+                            $('.price-list').on('click', '.dropdown-trigger',function(){
+                                $(this).hasClass('collapsed') ? $(this).removeClass('collapsed') : $(this).addClass('collapsed');
+                            })
+                            $('.button-container').on('click', 'a', function(){
+                                $(this).parent('.switch-button').find('a.active').removeClass('active');
+                                $(this).addClass('active');
+                            })
+                        })
+                        function initTripPlanner(){
+                            initEstimatedTime('normal_route')
+                            initTimeTable()
+                            initPriceTable()
+                        }
+                        function initEstimatedTime(selectedService){
+                            var routeDetails = routeInfo[selectedService]['route'].split('+')
+                            $('.estimated-time .min-time').text(routeInfo[selectedService].estimate_time_min)
+                            $('.estimated-time .max-time').text(routeInfo[selectedService].estimate_time_max)
+                            $('.estimated-time .travel-info').remove()
+                            if(routeInfo.p2p_route && routeInfo.normal_route){
+                                $('.estimated-time .button-container').html(
+                                    '<a href="javascript:void(0)" class="' + (selectedService == 'normal_route' ? 'active' : '') + '" onclick="initEstimatedTime(' + "'normal_route'" + ')"><span class="content-wrapper">普通列车</span></a>' +
+                                    '<a href="javascript:void(0)" class="' + (selectedService == 'p2p_route' ? 'active' : '') + '" onclick="initEstimatedTime(' + "'p2p_route'" + ')"><span class="content-wrapper">直达列车</span></a>'
+                                )
+                            } else if(routeInfo.p2p_route && !routeInfo.normal_route) {
+                                $('.estimated-time .button-container').removeClass('switch-button').html('<a href="javascript:void(0)" class="button button-default"><span class="content-wrapper"">直达列车</span></a>')
+                            } else {
+                                $('.estimated-time .button-container').removeClass('switch-button').html('<a href="javascript:void(0)" class="button button-default"><span class="content-wrapper"">普通列车</span></a>')
+                            }
+                            routeDetails.map(function(item, id){
+                                var stationId = item.match(/(\w+)(?=,)/g)[0],
+                                    time = item.match(/(\w+)(?=\))/g)[0],
+                                    startFlag = '<li class="travel-info start-point">' + 
+                                                '<div class="flag"><span>起点</span></div>',
+                                    endFlag = '<li class="travel-info end-point">' +
+                                                '<div class="flag"><span>终点</span></div>'
+                                    prependedHtml = id === 0 ? startFlag : id === routeDetails.length -1 ? endFlag : '<li class="travel-info">'
+                                    html =  prependedHtml + 
+                                                '<div class="description">' +
+                                                    '<span class="travel-time"><span class="time">' + (id === 0 ? '' : '~ ') + time + '</span> 分钟</span>' +
+                                                    '<span class="trace"></span>' +
+                                                    '<span class="station">' + searchRouteText(stationId, lang) + '</span>' +
+                                                '</div>' +
+                                            '</li>'
+                                $('.estimated-time .featured-list-style').append(html)
+                            })
+                        }
+                        function initPriceTable (){
+                            pricesInfo = searchWithRoute(route, 'fee').fee_data
+                            pricesInfo.length > 1 ? ($('.price-trigger').addClass('switch-button').html(
+                                '<a href="javascript:void(0)" class="active" onclick="switchPriceTable(pricesInfo[0])"><span class="content-wrapper"><span><span class="year">2019</span>年<span class="month">1月</span></span></span></a>' + 
+                                '<a href="javascript:void(0)" onclick="switchPriceTable(pricesInfo[1])"><span class="content-wrapper"><span><span class="year">2019</span>年<span class="month">1月</span></span></span></a>'
+                            )) : ($('.price-trigger').html(
+                                '<a href="javascript:void(0)" class="button button-default"><span class="content-wrapper"><span><span class="year">2019</span>年<span class="month">1月</span></span></span></a>'
+                            ))
+                            pricesInfo.map(function(item, id){
+                                var button = $($('.price-trigger a')[id]),
+                                    fee = item.fee_date.split(",")
+                                    months = {
+                                        tc: ['1月', '2月', '3月', '4月', '5月', '6月', '7月', '8月', '9月', '10月', '11月', '12月'],
+                                        sc: ['1月', '2月', '3月', '4月', '5月', '6月', '7月', '8月', '9月', '10月', '11月', '12月'],
+                                        en: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+                                    }
+                                button.find('.year').text(fee[0])
+                                button.find('.month').text(months[lang][parseInt(fee[1]) - 1])
+                            })
+                            switchPriceTable(pricesInfo[0])
+                        }
+                        function initTimeTable(){
+                            var html = '<li>' + 
+                                            '<div class="container-fluid">' +
+                                                '<div class="row">' +
+                                                    '<div class="col-xs-12">' +
+                                                        '<div class="station">' +
+                                                            //'<span class="start-point">' + searchRouteText(routeInfo.start_id, lang) + '</span> > <span class="end-point">' + searchRouteText(routeInfo.dest_id, lang) + '</span>' +
+															'<span>列车行车时间表</span>' +
+                                                        '</div>' +
+                                                        '<a class="download-link" href="' +  routeInfo['timetable_pdf_'+ lang ] + '" target="_blank"><div class="icon-l icon-inline ico-download" /></a>' +
+                                                    '</div>' +
+                                                '</div>' +
+                                            '</div>' +
+                                        '</li>'
+                            $('.time-table .featured-list-style').append(html)
+                            
+                        }
+                        function searchRouteText(stationId, lang){
+                            return tripPlannerData.station.filter(function(item, id){
+                                return item.station_id === stationId
+                            })[0]['station_title_' + lang]
+                        }
+                        function switchPriceTable(priceInfo){
+                            $('.price-list .featured-list-style').children('.dropdown').remove()
+                            var seatClass = ['商务', '特等', '一等', '二等']
+                            priceInfo.fee_detail.map(function(item, id){
+                                var html = '<li class="dropdown">' +
+                                                '<ul>' +
+                                                    '<li class="dropdown-trigger">' +
+                                                        '<a href="javascript:void(0)">' + 
+                                                            '<div class="container-fluid">' +
+                                                            '<div class="row">' + 
+                                                            '<div class="col-xs-5 category"><span class="dropdown-icon icon-s icon-inline"></span><span class="category-title">' + seatClass[item.class_type-1] + '</span></div>' +
+                                                            '<div class="col-xs-3 price-hkd">港币</div>' +
+                                                            '<div class="col-xs-4 price-cny">人民币</div>' +
+                                                            '</div>' +
+                                                            '</div>' +
+                                                        '</a>' +
+                                                    '</li>' +
+                                                    '<li class="collapsed-content">' +
+                                                        '<div class="container-fluid">' +
+                                                        '<div class="row">' + 
+                                                        '<div class="col-xs-5 category">成人</div>' +
+                                                        '<div class="col-xs-3 price-hkd">$ ' + decimalPlace(item.adult_hkd, 1, false) + '</div>' +
+                                                        '<div class="col-xs-4 price-cny">¥ ' + decimalPlace(item.adult_cny, 1, false) + '</div>' +
+                                                        '</div>' +
+                                                        '</div>' +
+                                                    '</li>' +
+                                                    '<li class="collapsed-content">' +
+                                                        '<div class="container-fluid">' +
+                                                        '<div class="row">' + 
+                                                        '<div class="col-xs-5 category">兒童</div>' +
+                                                        '<div class="col-xs-3 price-hkd">$ ' + decimalPlace(item.child_hkd, 1, false) + '</div>' +
+                                                        '<div class="col-xs-4 price-cny">¥ ' + decimalPlace(item.child_cny, 1, false) + '</div>' +
+                                                        '</div>' +
+                                                        '</div>' +
+                                                    '</li>' +
+                                                '</ul>' +
+                                            '</li>'
+                                $('.price-list .featured-list-style').append(html)
+                            })
+                        }
+                    </script>
+                <!--#include virtual="/sc/common/footer.inc.html" -->
+        <script>
+            $(document).ready(function(){
+                //sticky tab
+                $(window).on('scroll scrollstart', function(){
+                    initStickyBar()
+                })
+    
+                initLangSwitch();
+                initBackToTop();
+    
+                function initStickyBar(){
+                    $.map($('.content-container .sticky-bar-container'), function(item, index){
+                        var offsetTop = $(item).offset().top
+                        if($(document).scrollTop() >= offsetTop && $(document).width() > 960){
+                            if(!$(item).hasClass('sticky')){
+                                $('.sticky').removeClass('sticky')
+                                $(item).height($(item).find('.sticky-content').outerHeight())
+                                $(item).addClass('sticky')
+                            } 
+                        } else {
+                            if($(item).hasClass('sticky')){
+                                $('.sticky').removeClass('sticky')
+                                $(item).removeClass('sticky').height('auto')
+                            }
+                        }
+                    })
+                }
+    
+                function initLangSwitch(){
+                    $.map($('.lang-switch'), function(item, id){
+                        $.map($(item).children(), function(item, id){
+                            var newLink = window.location.pathname.replace(/(\/tc|\/sc|\/en)/g, '') + (window.location.pathname == '/' ? 'main/index.html' : '') + window.location.search
+                            $(item).attr('href', '/' + $(item).attr('langKey') + newLink)
+                        })
+                    })
+                }
+    
+                function initBackToTop(){
+                    var scrolling = false
+                    $('.back-to-top-container').on('click', function(){
+                        if(!scrolling){
+                            scrolling = true
+                            $('body').animate({scrollTop: 0}, function(){
+                                scrolling = false
+                            })
+                        }
+                    })
+                }
+            })
+        </script>
+            <script>
+                $(document).ready(function(){
+                    var param = window.location.hash
+                    $('.item-title').on('click', function(){
+                        $(this).parent().hasClass('active') ? (
+                            $(this).parent().removeClass('active'),
+                            $(this).siblings('.item-content').slideUp()
+                        ) : (
+                            $(this).parent().addClass('active'),
+                            $(this).siblings('.item-content').slideDown()
+                        )
+                    })
+                    setTimeout(function(){
+                        if(param && param.split('#').length > 1){
+                            var targetId = param.split('#')[1],
+                                selector = $('[collapsableid="' + targetId + '"]')
+                                scrollTop = getElementScrollTop(selector)
+                            $(selector).find('a').trigger('click')
+                            $('body').animate({scrollTop: scrollTop - getStickyHeight()})
+                        }
+                    }, 500)
+                    $('.attractions .list-item .item-container').find('.item-title').first().trigger('click')
+                })
+            </script>
+    </body>
+</html>

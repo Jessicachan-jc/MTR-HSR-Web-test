@@ -1,0 +1,37 @@
+[
+  {
+    "name": "重要告示",
+    "link": "https://www.highspeed.mtr.com.hk/tc/main/important-notice.html",
+    "target": "_blank"
+  },
+  {
+    "name": "使用條款",
+    "link": "https://www.highspeed.mtr.com.hk/tc/main/terms-and-conditions.html",
+    "target": "_blank"
+  },
+  {
+    "name": "私隱政策",
+    "link": "https://www.highspeed.mtr.com.hk/tc/main/privacy-policy.html",
+    "target": "_blank"
+  },
+  {
+    "name": "香港鐵路附例",
+    "link": "https://www.highspeed.mtr.com.hk/tc/main/mtr-by-laws.html",
+    "target": "_blank"
+  },
+  {
+    "name": "聯絡我們",
+    "link": "https://www.highspeed.mtr.com.hk/tc/main/contact-us.html",
+    "target": "_blank"
+  },
+  {
+    "name": "常見問題",
+    "link": "https://www.highspeed.mtr.com.hk/tc/main/cross-boundary-ticket-purchase.html",
+    "target": "_blank"
+  },
+  {
+    "name": "重要連結",
+    "link": "https://www.highspeed.mtr.com.hk/tc/main/useful-links.html",
+    "target": "_blank"
+  }
+]

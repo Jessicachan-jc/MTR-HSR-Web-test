@@ -1,0 +1,107 @@
+{
+    "section":"connection",
+    "current_ver": "202006220002",
+	"last_update_date":"yyyy-MM-DD",
+	"station": [
+        {
+            "from_id": "WEK",
+            "from_en": "Hong Kong West Kowloon Station",
+            "from_tc": "香港西九龍站",
+            "from_sc": "香港西九龙站",
+            "to_list": [
+               {
+                    "id": 1,
+                    "title_en":"Introduction",
+                    "title_tc":"簡介",
+                    "title_sc":"简介",
+                    "image_en":"/res/media/app/connection/wek.jpg",
+                    "image_tc":"/res/media/app/connection/wek.jpg",
+                    "image_sc":"/res/media/app/connection/wek.jpg",
+                    "content_en":"<p>Located in the downtown area, Hong Kong West Kowloon Station provides easy access to transportation with pick up and drop off facilities for franchised bus, minibus, taxi, private car and non-franchised bus.</p><p>The Station is also connected to the MTR West Rail Line Austin Station and Tung Chung Line / Airport Express Kowloon Station via the overhead bridge or pedestrian tunnel. The Hong Kong West Kowloon Station Bus Terminus and Kowloon Station Public Transport Interchange located nearby provide bus and minibus services to / from different districts.</p><p>Details to be available upon HSR opening on Transport Department’s <a href='javascript:link(\"https://bit.ly/2oJXPn9\")'><font color=\"red\">hketransport.gov.hk</font></a> website.</p>",
+                    "content_tc":"<p>香港西九龍站位處鬧市中心，有完善交通配套，設有專營巴士、專綫小巴、私家車、的士及非專營巴士上落客設施。</p><p>此外，旅客可經行人天橋及行人隧道連接西鐵綫柯士甸站及東涌綫/機場快綫九龍站，往返香港各區。附近的西九龍站巴士總站和九龍站公共交通交匯處亦有巴士及小巴路綫前往不同地區。</p><p>詳情可於高速鐵路通車時於運輸署網頁<a href='javascript:link(\"https://bit.ly/2oJXPn9\")'><font color=\"red\">hketransport.gov.hk</font></a>查詢。</p>",
+                    "content_sc":"<p>香港西九龙站位处闹市中心，有完善交通配套，设有专营巴士、专线小巴、私家车、的士及非专营巴士上落客设施。</p><p>此外，旅客可经行人天桥及行人隧道连接西铁线柯士甸站及东涌线/机场快线九龙站，往返香港各区。附近的西九龙站巴士总站和九龙站公共交通交汇处亦有巴士及小巴路线前往不同地区。</p><p>详情可于高速铁路通车时在运输署网页<a href='javascript:link(\"https://bit.ly/2oJXPn9\")'><font color=\"red\">hketransport.gov.hk</font></a>查询。</p>"
+                },
+				{
+                    "id": 2,
+                    "title_en":"MTR",
+                    "title_tc":"港鐵",
+                    "title_sc":"港铁",
+                    "image_en":"/res/media/app/connection/mtr.jpg",
+                    "image_tc":"/res/media/app/connection/mtr.jpg",
+                    "image_sc":"/res/media/app/connection/mtr.jpg",
+                    "content_en":"<p>The MTR network covers all major districts of Hong Kong. The Hong Kong West Kowloon Station provides direct access to the MTR Austin Station and Kowloon Station via the overhead bridge or pedestrian tunnel, facilitating a seamless transfer on the MTR.</p><p>For more information on MTR services, visit the MTR website <a href='javascript:link(\"https://www.mtr.com.hk/en/customer/main/index.html\")'><font color=\"red\">www.mtr.com.hk</font></a></p>",
+                    "content_tc":"<p>港鐵網絡涵蓋香港的所有主要地區，香港西九龍站經天橋或行人隧道接駁柯士甸站或九龍站，讓旅客利用港鐵輕鬆往返各區。</p><p>有關港鐵服務詳情，可瀏覽港鐵網頁 <a href='javascript:link(\"https://www.mtr.com.hk/ch/customer/main/index.html\")'><font color=\"red\">www.mtr.com.hk</font></a></p>",
+                    "content_sc":"<p>港铁网络涵盖香港的所有主要地区，香港西九龙站经天桥或行人隧道接驳柯士甸站或九龙站，让旅客利用港铁轻松往返各区。</p><p>有关港铁服务详情，可浏览港铁网页 <a href='javascript:link(\"https://www.mtr.com.hk/ch/customer/main/index.html\")'><font color=\"red\">www.mtr.com.hk</font></a></p>"
+                },
+				{
+                    "id": 3,
+                    "title_en":"Franchised Bus",
+                    "title_tc":"專營巴士",
+                    "title_sc":"专营巴士",
+                    "image_en":"",
+                    "image_tc":"",
+                    "image_sc":"",
+                    "content_en":"<p>There are over 40 franchised bus routes serving the West Kowloon Station Bus Terminus, the Kowloon Station Public Transport Interchange, Canton Road and Jordan Road.</p><p>Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/bus_location_map.pdf\")'><font color=\"red\">here</font></a> to view the map.</p>",
+                    "content_tc":"<p>香港西九龍站設有巴士總站，加上鄰近的港鐵九龍站公共運輸交匯處、廣東道及佐敦道，提供超過40條專營巴士路線服務。</p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/bus_location_map.pdf\")'><font color=\"red\">按此</font></a>查看位置圖</p>",
+                    "content_sc":"<p>香港西九龙站设有巴士总站，加上邻近的港铁九龙站公共运输交汇处、广东道及佐敦道，提供超过40条专营巴士路线服务。</p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/bus_location_map.pdf\")'><font color=\"red\">按此</font></a>查看位置图</p>"
+                },
+				{
+                    "id": 4,
+                    "title_en":"Green Minibuses",
+                    "title_tc":"專線小巴",
+                    "title_sc":"专线小巴",
+                    "image_en":"",
+                    "image_tc":"",
+                    "image_sc":"",
+                    "content_en":"<p>Currently, there are a few green minibus routes that stop over the Hong Kong West Kowloon Station and surrounding areas.</p><p>Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/GMB_location_map.pdf\")'><font color=\"red\">here</font></a> to view the map.</p>",
+                    "content_tc":"<p>現時有數條綠色專線小巴路線行經香港西九龍站及附近地區。</p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/GMB_location_map.pdf\")'><font color=\"red\">按此</font></a>查看位置圖</p>",
+                    "content_sc":"<p>现时有数条绿色专线小巴路线行经香港西九龙站及附近地区。</p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/GMB_location_map.pdf\")'><font color=\"red\">按此</font></a>查看位置图</p>"
+                },
+				{
+                    "id": 5,
+                    "title_en":"Non-franchised Bus",
+                    "title_tc":"非專營巴士",
+                    "title_sc":"非专营巴士",
+                    "image_en":"",
+                    "image_tc":"",
+                    "image_sc":"",
+                    "content_en":"<p>Non-franchised buses may make use of the lay-by at Wui Man Road for passenger drop-off / pick-up. Parking spaces are available near West Kowloon Station Bus Terminus.</p><p>Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/Non_Bus_location_map.pdf\")'><font color=\"red\">here</font></a> to view the map.</p>",
+                    "content_tc":"<p>位於西九龍站外的匯民道設有非專營巴士上落客區，鄰近西九龍站巴士總站亦設置非專營巴士停泊位。</p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/Non_Bus_location_map.pdf\")'><font color=\"red\">按此</font></a>查看位置圖</p>",
+                    "content_sc":"<p>位于西九龙站外的汇民道设有非专营巴士上落客区，邻近西九龙站巴士总站亦设置非专营巴士停泊位。</p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/Non_Bus_location_map.pdf\")'><font color=\"red\">按此</font></a>查看位置图</p>"
+                },
+				{
+                    "id": 6,
+                    "title_en":"Taxi",
+                    "title_tc":"的士",
+                    "title_sc":"的士",
+                    "image_en":"",
+                    "image_tc":"",
+                    "image_sc":"",
+                    "content_en":"<p>Taxi passengers going to West Kowloon Station can get off at the Station’s B1 level. Passengers who wish to take a taxi should go to B2 level where the taxi stand with queueing facility is located.</p><p>Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/Taxi_location_map.pdf\")'><font color=\"red\">here</font></a> to view the map.</p>",
+                    "content_tc":"<p>利用的士前往西九龍站乘客可直達車站B1層下車，而打算乘搭的士離開車站的旅客可到B2層的士站候車。</p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/Taxi_location_map.pdf\")'><font color=\"red\">按此</font></a>查看位置圖</p>",
+                    "content_sc":"<p>位于西九龙站外的汇民道设有非专营巴士上落客区，邻近西九龙站巴士总站亦设置非专营巴士停泊位。</p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/Taxi_location_map.pdf\")'><font color=\"red\">按此</font></a>查看位置图</p>"
+                }
+            ]
+        },
+        {
+            "from_id": "SZN",
+            "from_en": "Destinations",
+            "from_tc": "目的地",
+            "from_sc": "目的地",
+            "to_list": [
+               {
+                    "id": 1,
+                    "title_en":"Introduction",
+                    "title_tc":"簡介",
+                    "title_sc":"简介",
+                    "image_en":"",
+                    "image_tc":"",
+                    "image_sc":"",
+                    "content_en":"<p>With the well-developed transportation network, travellers could change to local metro or other public transports at most of the major High Speed Rail stations in the Mainland originated from Hong Kong. <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/en/guide/destination.html\")'><font color=\"red\">The table</font></a> lists the local metro stations (if available) connecting to the abovementioned High Speed Rail stations and their website links for your reference.</p>",
+                    "content_tc":"<p>高速鐵路接駁交通完善，由香港直達的內地主要高鐵站，大部份都均連接地鐵或其他交通工具，方便旅客到埗後轉乘其他接駁交通工具前往目的地。<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/guide/destination.html\")'><font color=\"red\">列表</font></a>列出接駁有關內地高鐵站的當地地鐵站(如有)及其相關網址，以供參考。</p>",
+                    "content_sc":"<p>高速铁路接驳交通完善，由香港直达的内地主要高铁站，大部份都均连接地铁或其他交通工具，方便旅客到埗后换乘其他接驳交通工具前往目的地。<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/sc/guide/destination.html\")'><font color=\"red\">列表</font></a>列出接驳有关内地高铁站的当地地铁站(如有)及其相关网址，以供参考。</p>"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,1010 @@
+
+<!DOCTYPE html>
+<html lang="zh-HK" itemscope="" itemtype="https://schema.org/WebPage">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>高鐵遊攻略 > 首頁</title>
+    <meta name="country" content="China">
+    <meta name="city" content="Hong Kong">
+    <meta name="robots" content="index,follow">
+    <meta name="copyright" content="香港鐵路有限公司">
+    <meta name="author" content="香港鐵路有限公司">
+
+    <link rel="icon" href="./images/common/favicon.ico" type="image/x-icon"/>
+    <link rel="shortcut icon" href="./images/common/favicon.ico" type="image/x-icon">
+
+    <meta name="keywords" content="高鐵遊攻略, 高速鐵路, High Speed Rail, MTR, 港鐵, 熱點推介, 主題旅遊, 行程推介, 高鐵旅遊專家">
+    <meta name="description" content="全長26公里的高速鐵路(香港段)以西九龍為起點，連接超過25,000公里的國家高鐵網絡。無論商務出行，抑或旅遊探親，高鐵帶給你一個舒適可靠的旅程，讓你以嶄新旅遊模式發掘更多更遠的地方！"></meta>
+
+    <meta property="og:url" content="https://www.highspeed.mtr.com.hk/tc/travel/">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="zh-HK">
+    <meta property="og:title" content="高速鐵路">
+    <meta property="og:description" content="全長26公里的高速鐵路(香港段)以西九龍為起點，連接超過25,000公里的國家高鐵網絡。無論商務出行，抑或旅遊探親，高鐵帶給你一個舒適可靠的旅程，讓你以嶄新旅遊模式發掘更多更遠的地方！">
+    <meta property="og:image" content="./images/common/share-img-l.jpg">
+
+    <meta name="twitter:card" content="Summary">
+    <meta name="twitter:site" content="https://www.highspeed.mtr.com.hk/">
+    <meta name="twitter:url" content="https://www.highspeed.mtr.com.hk/tc/travel/">
+    <meta name="twitter:title" content="高速鐵路">
+    <meta name="twitter:description" content="全長26公里的高速鐵路(香港段)以西九龍為起點，連接超過25,000公里的國家高鐵網絡。無論商務出行，抑或旅遊探親，高鐵帶給你一個舒適可靠的旅程，讓你以嶄新旅遊模式發掘更多更遠的地方！">
+    <meta name="twitter:image" content="./images/common/share-img.jpg"/>
+
+    <script src="./js/lib/jquery.min.js" type="text/javascript"></script>
+    <script src="./js/datalist.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="./css/style.min.css" type="text/css">
+    <link rel="stylesheet" href="./css/home.min.css" type="text/css">
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WCCFW98');</script>
+    <!-- End Google Tag Manager -->
+</head>
+
+<body class="font-size-m">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WCCFW98" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div id="hsr-loading"><div class="loading-msg"><div class="loading-msg_txt">請等等</div><div class="loading-msg_deco"></div><div class="loading-msg_dot"></div></div></div>
+    <script> var status = sessionStorage.getItem('PAGE_LOAD');if(status == 1){$('#hsr-loading').remove()}</script>
+    <div class="wrap" id="hsr">
+        <hsr-top :page="pageid" :article="articleId"></hsr-top>
+        <top-banner :text="text" :page="pageid"></top-banner>
+
+        <main id="primary" class="contents" aria-label="content">
+            <div class="blind" id="a-primary-focus"></div>
+            <h1 class="blind" v-html="pagetitle"></h1>
+
+            <section id="offer" class="bg-wave">
+                <div class="sec-inner">
+                    <section-tit title="今期推介" img="offer"></section-tit>
+                    <article class="sec-contents">
+                        <a href="./offer.html" v-html="text.btnDetailCont" class="btn-default-arrow" role="link"></a>
+                        <div class="swiper-container">
+                            <div class="swiper-wrapper latest-list" v-for="section in highlights" v-if="section.section == 'offer'">
+                                <div class="swiper-slide" v-for="(list, i) in section.article" :key="i" :data-v-slide="i" v-if="i < 5">
+                                    <div class="article-item effect-hover has-label">
+                                        <div>
+                                            <div class="article-thumb-wrap">
+                                                <a :href="list.link" target="_blank">
+                                                    <div class="article-label">
+                                                        <div class="article-label-in">
+                                                            <div class="article-label-txt">
+                                                                <div class="label-package" v-html="list.label"></div>
+                                                                <div class="label-price">
+                                                                    <span class="label-price__hkd">HKD</span>
+                                                                    <span v-html="list.price"></span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="article-label-bg"><div></div></div>
+                                                        </div>
+                                                    </div>
+                                                    <figure class="article-thumb">
+                                                        <div class="hover-img">
+                                                            <img :src="list.thumb" :alt="list.thumb_alt?list.thumb_alt:''" class="br767"/>
+                                                            <img :src="list.thumb_m" :alt="list.thumb_m_alt?list.thumb_m_alt:''" class="view767"/>
+                                                        </div>
+                                                        <div class="hover-bg">
+                                                            <img :src="list.thumb" :alt="list.thumb_alt?list.thumb_alt:''" class="br767"/>
+                                                            <img :src="list.thumb_m" :alt="list.thumb_m_alt?list.thumb_m_alt:''" class="view767"/>
+                                                        </div>
+                                                        <figcaption class="blind" v-html="list.thumb_alt"></figcaption>
+                                                    </figure>
+                                                </a>
+                                            </div>
+                                            <div class="article-info">
+                                                <div class="article-info_tit__wrap">
+                                                    <a :href="list.link" class="arti-info_tit">
+                                                        <span v-html="textLimitHomeLatestTit([list.tit, i])"></span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-pagination"></div>
+                        </div>
+                        <div class="btn-slide-ctr swiper-button-prev"></div>
+                        <div class="btn-slide-ctr swiper-button-next"></div>
+                    </article>
+                    <div class="sec-contents-bg">
+                        <div id="wave-wrap">
+                            <div><canvas id="wave-top"></canvas></div>
+                            <div><canvas id="wave-btm"></canvas></div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <section id="theme">
+                <div class="sec-inner">
+                    <section-tit title="主題旅遊" img="theme"></section-tit>
+                    <article class="sec-contents">
+                        <!-- <list-latest :list="highlights" filter="theme" page="theme.html" :btntxt="text.btnDetailCont" :btntxtdetail="text.btnDetail"></list-latest> -->
+                        <a href="./theme.html" v-html="text.btnDetailCont" class="btn-default-arrow" role="link"></a>
+                        <div class="swiper-container">
+                            <div class="swiper-wrapper latest-list" v-for="section in highlights" v-if="section.section == 'theme'">
+                                <div class="swiper-slide" v-for="(list, i) in section.article" :key="i" :data-v-slide="i" v-if="i < 5">
+                                    <div class="article-item effect-hover has-like-btn">
+                                        <div>
+                                            <div class="article-thumb-wrap">
+                                                <div class="arti-info_like">
+                                                    <div class="btn-like" :class="[isLikeActive([section.section, list.id])?'i-like':'']" :data-article-section="section.section" :data-article-id="list.id" @click.prevent="countlike([section.section, list.id])" tabindex="0">
+                                                        <span class="ico-heart"></span><span class="like-count" v-html="isLikeActiveCnt([section.section, list.id])"></span>
+                                                    </div>
+                                                </div>
+                                                <a :href="list.link">
+                                                    <figure class="article-thumb">
+                                                        <div class="hover-img">
+                                                            <img :src="list.thumb" :alt="list.thumb_alt?list.thumb_alt:''" class="br767"/>
+                                                            <img :src="list.thumb_m" :alt="list.thumb_m_alt?list.thumb_m_alt:''" class="view767"/>
+                                                        </div>
+                                                        <div class="hover-bg">
+                                                            <img :src="list.thumb" :alt="list.thumb_alt?list.thumb_alt:''" class="br767"/>
+                                                            <img :src="list.thumb_m" :alt="list.thumb_m_alt?list.thumb_m_alt:''" class="view767"/>
+                                                        </div>
+                                                        <figcaption class="blind" v-html="list.thumb_alt"></figcaption>
+                                                    </figure>
+                                                </a>
+                                            </div>
+                                            <div class="article-info">
+                                                <div class="article-info_tit__wrap">
+                                                    <a :href="list.link" class="arti-info_tit">
+                                                        <span v-html="textLimitHomeLatestTit([list.tit, i])"></span>
+                                                    </a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-pagination"></div>
+                        </div>
+                        <div class="btn-slide-ctr swiper-button-prev"></div>
+                        <div class="btn-slide-ctr swiper-button-next"></div>
+                    </article>
+                </div>
+            </section>
+
+            <section id="hotspot-search">
+                <div class="sec-inner size-full">
+                    <article class="sec-contents">
+                        <div id="search-hotspot">
+                            <div class="sec-cont-search">
+                                <div class="hsr-drop selected">
+                                    <a href="javascript:;" class="hsr-input drop-list-crr">
+                                        <span v-if="dropSelected.length == 0" v-html="text.selectAllArea"></span>
+                                        <span v-else v-html="cateList"></span>
+                                    </a>
+
+                                    <div class="drop-list" tabindex="-1">
+                                        <ul role="listbox">
+                                            <li v-for="(item, idx) in articleDetail" role="listitem" class="depth1" :class="{'has-child':item.City}">
+                                                <div class="depth1-wrap">
+                                                    <span class="list-txt" @click.prevent="goArea(item.RegionId)" v-on:keyup.enter="goArea(item.RegionId)" v-html="item.RegionName" tabindex="0"></span>
+                                                </div>
+                                                <ul role="listbox" v-if="item.City">
+                                                    <li v-for="(subcate, idxx) in item.City" class="depth2" role="listitem" tabindex="0" @click.prevent="goArea([item.RegionId, subcate.CityId])" v-on:keyup.enter="goArea([item.RegionId, subcate.CityId])" v-html="subcate.CityName"></li>
+                                                </ul>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <form action="javascript:void(0);" role="search">
+                                    <div class="search-keyword">
+                                        <div class="hsr-input input-search">
+                                            <label id="keywords-label" class="blind" for="keyword" tabindex="-1" v-html="text.searchKeyword"></label>
+                                            <input type="text" name="keyword" ref="keyword" v-model="searchkeywordAuto" :placeholder="text.searchKeyword" autocomplete="off" aria-labelledby="keywords-label"/>
+                                            <button class="btn-search" :title="text.searchBtn" :value="text.searchBtn" disabled><span v-html="text.searchBtn" class="blind"></span></button>
+                                        </div>
+                                        <div class="search-list-auto load-list" v-show="searchkeywordAuto">
+                                            <ul role="listbox">
+                                                <li v-for="(item, idx) in autosearchHotspot" class="redirect" :data-link="item.link" :key="idx" :ref="'result'+idx" role="listitem" tabindex="0" @click="goHotspot(item.link)">
+                                                    <div class="list-auto-option" role="option">
+                                                        <div v-html="item.tit" class="auto-result-tit auto-option-1"></div>
+                                                        <div v-html="item.desc" class="auto-option-2"></div>
+                                                    </div>
+                                                </li>
+                                                <li class="redirect" role="listitem" tabindex="0" v-if="!autosearchHotspot">
+                                                    <div class="list-auto-option no-result" role="option">
+                                                        <div v-html="'沒有找到&ldquo;'+searchkeywordAuto+'&rdquo;的相關結果'" class="auto-result-tit auto-option-1"></div>
+                                                    </div>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+
+                    </article>
+                </div>
+            </section>
+
+            <section id="hotspot">
+                <div class="sec-inner size-full">
+                    <section-tit title="熱門城市" img="hotspot"></section-tit>
+                    <article class="sec-contents">
+                        <div id="map"></div>
+                    </article>
+                </div>
+            </section>
+
+            <div class="sec-bg">
+                <section id="plan">
+                    <div class="sec-inner">
+                        <section-tit title="行程推介" img="plan"></section-tit>
+                        <article class="sec-contents">
+                            <a href="./plan.html" v-html="text.btnDetailCont" class="btn-default-arrow" role="link"></a>
+                            <div class="swiper-container">
+                                <div class="swiper-wrapper latest-list" v-for="section in highlights" v-if="section.section == 'plan'">
+                                    <div class="swiper-slide" v-for="(list, i) in section.article" :key="i" v-if="i < 5">
+                                        <div class="article-item effect-hover has-like-btn">
+                                            <div>
+                                                <div class="article-thumb-wrap">
+                                                    <div class="arti-info_like">
+                                                        <div class="btn-like" :class="[isLikeActive([section.section, list.id])?'i-like':'']" :data-article-section="section.section" :data-article-id="list.id" @click.prevent="countlike([section.section, list.id])" tabindex="0">
+                                                            <span class="ico-heart"></span><span class="like-count" v-html="isLikeActiveCnt([section.section, list.id])"></span>
+                                                        </div>
+                                                    </div>
+                                                    <a :href="list.link">
+                                                        <figure class="article-thumb">
+                                                            <div class="hover-img">
+                                                                <img :src="list.thumb" :alt="list.thumb_alt?list.thumb_alt:''" class="br767"/>
+                                                                <img :src="list.thumb_m" :alt="list.thumb_m_alt?list.thumb_m_alt:''" class="view767"/>
+                                                            </div>
+                                                            <div class="hover-bg">
+                                                                <img :src="list.thumb" :alt="list.thumb_alt?list.thumb_alt:''" class="br767"/>
+                                                                <img :src="list.thumb_m" :alt="list.thumb_m_alt?list.thumb_m_alt:''" class="view767"/>
+                                                            </div>
+                                                            <figcaption class="blind" v-html="list.thumb_alt"></figcaption>
+                                                        </figure>
+                                                    </a>
+                                                </div>
+                                                <div class="article-info">
+                                                    <div class="article-info_tit__wrap">
+                                                        <a :href="list.link" class="arti-info_tit">
+                                                            <span v-html="textLimitHomeLatestTit([list.tit, i])"></span>
+                                                        </a>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="swiper-pagination"></div>
+                            </div>
+                            <div class="btn-slide-ctr swiper-button-prev"></div>
+                            <div class="btn-slide-ctr swiper-button-next"></div>
+                        </article>
+                    </div>
+                </section>
+
+                <section id="agency">
+                    <div class="sec-inner">
+                        <section-tit title="高鐵旅遊專家" img="agency"></section-tit>
+                        <article class="sec-contents">
+                            <a href="./agency.html" v-html="text.btnDetailCont" class="btn-default-arrow"></a>
+                            <div class="swiper-container">
+                                <p class="agency-leadin" v-html="agency.desc"></p>
+                                <div class="swiper-wrapper agency-list">
+                                    <div class="swiper-slide" v-for="item in agency.shop" v-if="agency">
+                                        <div class="agency-item" :title="item.name">
+                                            <div class="agency-item_logo">
+                                                <a class="agency-cover" :href="'./agency-detail.html?article='+item.id" tabindex="0" :title="'瀏覽'+item.name+'產品資料'">產品及查詢詳情</a>
+                                                <a :href="'./agency-detail.html?article='+item.id" tabindex="0" :title="'瀏覽'+item.name+'產品資料'">
+                                                    <figure>
+                                                        <img :src="item.img_highlight_d" :alt="item.img_highlight_d_tag?item.img_highlight_d_tag:''" class="br767" />
+                                                        <img :src="item.img_highlight_m" :alt="item.img_highlight_m_tag?item.img_highlight_m_tag:''" class="view767"/>
+                                                        <figcaption class="blind" v-html="item.name+' logo'"></figcaption>
+                                                    </figure>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="swiper-pagination"></div>
+                        </article>
+                    </div>
+                </section>
+
+                <section id="remark-btm">
+                    <div class="sec-inner">
+                        <ul class="sec-remark">
+                            <li v-for="item in text.languageRemark" v-html="item"></li>
+                        </ul>
+                    </div>
+                </section>
+
+                <div class="sec-bg-group">
+                    <div class="sec-bg-group__inner">
+                        <div class="bg-item-top"></div>
+                        <div class="bg-item-mid"></div>
+                        <div class="bg-item-circle2"></div>
+                        <div class="bg-item-circle3"></div>
+                        <div class="bg-item-circle4"></div>
+                        <div class="bg-item-btm">
+                            <div id="canvas-container"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+
+        <hsr-foot :backtotop="text.btnBackTop" :copytxt="text.fcopy"></hsr-foot>
+    </div>
+
+    <script src="./js/lib/vue.min.js" defer type="text/javascript"></script>
+    <script src="./js/lib/plugins.min.js" defer type="text/javascript"></script>
+    <script src="https://webapi.amap.com/maps?v=1.4.15&key=b41b0ccf786c6bf6af9de8d46ed539b6"></script>
+
+    <script type="text/javascript">
+    ;(function(win,doc,callback){'use strict';callback=callback||function(){};function detach(){if(doc.addEventListener){doc.removeEventListener('DOMContentLoaded',completed)}else{doc.detachEvent('onreadystatechange',completed)}}function completed(){if(doc.addEventListener||event.type==='load'||doc.readyState==='complete'){detach();callback(window,window.jQuery)}}function init(){if (doc.addEventListener){doc.addEventListener('DOMContentLoaded',completed)}else{doc.attachEvent('onreadystatechange',completed)}}init()})(window,document,function(win,$){
+        $.ajaxSetup({cache:true});
+        $.ajax('./js/components.min.js')
+        .then(function(){return $.ajax('./js/common.min.js')})
+        .then(function(){
+
+            var pageid = 'home';
+            $.each(topmenu, function(index, item){
+                if(item.id == pageid) {
+                    MTR.pagetitle  = item.name;
+                    MTR.pageid     = item.id;
+                    MTR.articleId  = item.id;
+                }
+            });
+            MTR.dropSelected = "";
+
+            setTimeout(function(){
+                var topBannerOpt = {
+                    slidesPerView: 1,
+                    speed: 1000,
+                    loop:true,
+                    pagination: {
+                        el: '#topbanner .swiper-pagination',
+                        clickable: true,
+                    },
+                    breakpoints: {
+                        300: {
+                            simulateTouch:true,
+                            allowTouchMove:true,
+                        },
+                        1024: {
+                            simulateTouch:true,
+                            allowTouchMove:true,
+                        }
+                    },
+                    centeredSlides:true,
+                    on: {
+                        init: function () {
+
+                            var control = (function(){
+
+                                var el      = $('.wrap'),
+                                    btnPlay = $('.btn-banner-play'),
+                                    btnStop = $('.btn-banner-stop'),
+                                    btnNav  = $('.btn-nav'),
+                                    active  = 'nav-active',
+                                    cPlay   = 'topbanner-play',
+                                    cStop   = 'topbanner-stop';
+
+                                var btns = {
+                                    init:function(){
+                                        el.addClass(cPlay);
+                                        btnPlay.addClass('disabled').attr('tabindex','-1');
+                                        btnPlay.on('click', function(){
+                                            btns.play();
+                                        });
+                                        btnStop.on('click', function(){
+                                            btns.stop();
+                                        });
+                                        btnNav.on('click', function(){
+                                            btns.check();
+                                        });
+                                        btns.inview();
+                                    },
+                                    check:function(){
+                                        var hasclass = (el.hasClass(active)) ? btns.stop() : btns.play();
+                                    },
+                                    stop:function(){
+                                        el.addClass(cStop).removeClass(cPlay);
+                                        btnPlay.removeClass('disabled').attr('tabindex','');
+                                        btnStop.addClass('disabled').attr('tabindex','-1');
+                                        topBannerImg.autoplay.stop();
+                                    },
+                                    play:function(){
+                                        el.addClass(cPlay).removeClass(cStop);
+                                        btnPlay.addClass('disabled').attr('tabindex','-1');
+                                        btnStop.removeClass('disabled').attr('tabindex','');
+                                        topBannerImg.autoplay.start();
+                                    },
+                                    inview:function(){
+                                        $('#topbanner').on('inview', function(event, isInView){
+                                            if (isInView) {
+                                                $(this).removeClass('banner-pause');
+                                                if(!el.hasClass(cStop)){
+                                                    btns.play();
+                                                }
+                                            } else {
+                                                $(this).addClass('banner-pause');
+                                                btnPlay.removeClass('disabled').attr('tabindex','');
+                                                btnStop.addClass('disabled').attr('tabindex','-1');
+                                                topBannerImg.autoplay.stop();
+                                            }
+                                        })
+                                    }
+                                }
+                                btns.init();
+                            })();
+                        }
+                    },
+                    autoplay: {
+                        delay: 5000,
+                        disableOnInteraction: false,
+                    }
+                }
+
+                var topBannerImg = new Swiper('.topbanner-img', topBannerOpt);
+                //topBannerTxt = new Swiper('.topbanner-txt', topBannerOpt)
+
+                topBannerImg.autoplay.start();
+                //topBannerTxt.autoplay.start();
+
+                /* function getSlide(){
+                    var index = $('.topbanner-txt').find('.swiper-slide-active').data('swiper-slide-index');
+                    if(index == 0) {return 0;}else {return index;}
+                }
+
+                topBannerTxt.on('transitionStart', function () {
+                    topBannerImg.slideTo(getSlide()+1);
+                }); */
+            },1000);
+
+            //Map
+            var homeMap = (function(){
+
+                // NOTE: Load Status Check - api/webservice/guide/tools/info, 10009 <--- For Test
+                var errors = ['10001', '10002', '10003', '10004', '10005', '10006', '10007', '10008', '10010', '10012', '10013', '10014', '10015', '10016', '10017', '10019', '10020', '10021', '10022', '10023', '10029', '20000', '20001', '20002', '20003', '20011', '20012', '20800', '20801', '20802', '20803', '30001', '30002', '30003', '32000', '32001', '32002', '32003', '32200', '32201', '32202', '32203', '40000', '40001', '40002', '40003'];
+
+                var errorCode;
+                $.ajax(
+                    {
+                        type:'GET',
+                        url:'https://restapi.amap.com/v3/geocode/geo?key=b41b0ccf786c6bf6af9de8d46ed539b6&output=JSON',
+                        success: function(data){errorCode = data.infocode;}
+                    }
+                ).fail(function(){
+                    console.log('load fail // load map mask');
+                }).then(function(){
+                    var cnt = 0;
+                    $.each(errors, function(index, item){
+                        if(errorCode == item) {
+                            cnt++;
+                            return false;
+                        }
+                    });
+                    if(cnt > 0) {
+                        console.log('load fail // load map mask');
+                    }else {
+                        mapLoad();
+                    }
+                });
+
+                function mapLoad(){
+                    var style = "amap://styles/3002bc552c47784f682fa3a1d6f9f319";
+                    var opt_d = {
+                        zoom:5,
+                        mapStyle: style,
+                        features: ['bg'],
+                        zoomEnable: false,
+                        dragEnable : false,
+                        resizeEnable: true,
+                        center:[103.978043,31.961904],
+                    }
+
+                    var opt_m = {
+                        zoom:4,
+                        mapStyle: style,
+                        features: ['bg'],
+                        zoomEnable: false,
+                        dragEnable : false,
+                        resizeEnable: true,
+                        center:[103.978043,33.961904],
+                    }
+
+                    var opt_t = {
+                        zoom:4,
+                        mapStyle: style,
+                        features: ['bg'],
+                        zoomEnable: false,
+                        dragEnable : false,
+                        resizeEnable: true,
+                        center:[103.978043,38.961904],
+                    }
+
+                    var opt_xm = {
+                        zoom:4,
+                        mapStyle: style,
+                        features: ['bg'],
+                        zoomEnable: false,
+                        dragEnable : false,
+                        resizeEnable: true,
+                        center:[103.978043,33.961904],
+                    }
+
+                    var map, winW = $(window).width();
+
+                    if(winW > 1000) {
+                        map = new AMap.Map('map',opt_d);
+                    }else if(winW < 400) {
+                        map = new AMap.Map('map',opt_xm);
+                    }else if(winW < 1000 && winW >= 700) {
+                        map = new AMap.Map('map',opt_t);
+                    }else {
+                        map = new AMap.Map('map',opt_m);
+                    }
+
+                    function updateZoom(lv) {
+                        map.setStatus({zoomEnable:true,zoom:lv,});
+                        setTimeout(function(){map.setStatus({zoomEnable:false,})},100);
+                    }
+
+                    $(window).resize(function(){
+                        var winW = $(window).width();
+                        if(winW > 1000) {updateZoom(5);}
+                        else if(winW < 400) {updateZoom(4);}
+                        else{updateZoom(4);}
+                    })
+
+                    // Area Polygon
+                    var wa_b = [
+                        [119.303971,35.093351],[119.21608,35.120314],[118.996354,35.057386],[118.864518,35.048392],[118.820572,34.895349],[118.721695,34.80519],[118.732682,34.705901],[118.655777,34.687835],[118.534928,34.714932],[118.293229,34.570314],[118.271256,34.407318],[118.13942,34.352916],[118.040543,34.66073],[117.831803,34.66073],[117.831803,34.543171],[117.568131,34.461686],[117.337418,34.588405],[117.172623,34.425445],[116.799088,34.985409],[116.480484,34.895349],[116.337662,34.714932],[116.326676,34.588405],[116.183854,34.552219],[116.161881,34.443567],[116.414566,34.289401],[116.568375,34.298478],[116.546402,34.107667],[116.667252,33.952885],[116.623307,33.879948],[116.293717,33.75216],[116.161881,33.688194],[115.953141,33.889069],[115.898209,34.025758],[115.65651,34.071273],[115.579606,34.016653],[115.557633,33.907307],[115.612565,33.861705],[115.623551,33.779559],[115.53566,33.770427],[115.645524,33.578428],[115.436783,33.569274],[115.293961,33.441023],[115.337906,33.321763],[115.293961,33.128766],[115.11818,33.082752],[114.986344,33.073546],[114.942399,33.137966],[114.854508,33.018292],[115.074234,32.907678],[115.184098,32.824627],[115.217057,32.593523],[115.425797,32.565751],[115.557633,32.398934],[115.810318,32.51018],[115.887223,32.352541],[115.909195,32.008496],[115.909195,31.784638],[115.634537,31.737933],[115.458756,31.625743],[115.359879,31.43846],[115.370865,31.372822],[115.228043,31.382202],[115.173111,31.560237],[115.11818,31.616388],[115.085221,31.485316],[114.986344,31.532148],[114.887467,31.466576],[114.656754,31.522784],[114.568863,31.588317],[114.535904,31.607032],[114.568863,31.765959],[114.404068,31.728589],[114.217301,31.775299],[114.107438,31.868649],[113.986588,31.737933],[113.865738,31.868649],[113.755875,31.989862],[113.733902,32.361822],[113.646012,32.436031],[113.360367,32.259684],[113.1736,32.417485],[112.975846,32.389658],[112.536393,32.34326],[112.459488,32.40821],[112.316666,32.333978],[111.954117,32.454574],[111.635514,32.612034],[111.514664,32.584267],[111.305924,32.824627],[111.22902,32.990651],[110.98732,33.257478],[110.976334,33.550964],[110.822525,33.679052],[110.580826,33.861705],[110.624772,33.971109],[110.591813,34.134952],[110.438004,34.271245],[110.44899,34.380122],[110.339127,34.606492],[110.207291,34.669766],[110.218277,34.751047],[110.218277,34.859297],[110.427018,35.380497],[110.613785,35.657699],[110.536881,35.889452],[110.438004,36.182625],[110.481949,36.580645],[110.350113,36.712864],[110.3611,37.038035],[110.657731,37.274447],[110.657731,37.388011],[110.602799,37.388011],[110.624772,37.457811],[110.77858,37.457811],[110.800553,37.56239],[110.701676,37.753736],[110.481949,38.057132],[110.459977,38.221309],[110.624772,38.342045],[110.789566,38.46258],[110.89943,38.531367],[110.888443,38.660165],[110.998307,39.002495],[111.097184,39.028104],[111.240006,39.266668],[111.097184,39.377155],[111.196061,39.453544],[111.371842,39.470508],[111.448746,39.597605],[111.459732,39.682207],[111.624527,39.673752],[111.899186,39.614534],[111.954117,39.656838],[111.998063,39.859535],[112.316666,40.305043],[112.525406,40.296664],[112.63527,40.24637],[112.745133,40.179252],[112.833024,40.187645],[112.898941,40.338548],[113.239518,40.422238],[113.360367,40.338548],[113.558121,40.346922],[113.678971,40.438963],[113.755875,40.505823],[113.788834,40.530878],[113.887711,40.464043],[113.942643,40.530878],[114.063492,40.514176],[114.085465,40.572616],[113.997574,40.597647],[114.04152,40.747632],[114.151383,40.747632],[114.085465,40.805869],[114.008561,40.963682],[113.821793,41.112842],[113.931656,41.179027],[114.04152,41.261664],[113.898697,41.319448],[113.931656,41.393666],[113.854752,41.451333],[114.107438,41.550071],[114.272232,41.525401],[114.184342,41.796258],[114.349137,41.992529],[114.480973,41.976196],[114.459,42.106741],[114.557877,42.155627],[114.78859,42.155627],[114.942399,41.992529],[114.876481,41.607599],[115.359879,41.615813],[115.304947,41.7143],[115.898209,41.943517],[116.030045,41.804448],[116.150895,41.861748],[116.326676,42.008857],[116.436539,42.008857],[116.623307,41.927172],[116.886979,42.01702],[116.755143,42.196336],[116.897965,42.212612],[116.85402,42.35891],[117.15065,42.512967],[117.414322,42.488667],[117.425309,42.585809],[117.677994,42.62624],[117.798844,42.610071],[118.040543,42.399488],[117.985611,42.228884],[118.13942,42.131189],[118.293229,42.049661],[118.271256,41.779874],[118.161393,41.812636],[118.128434,41.738898],[118.315201,41.566513],[118.370133,41.327698],[118.765641,41.393666],[118.897477,41.360691],[119.271012,41.286435],[118.974381,40.980272],[118.864518,40.805869],[119.040299,40.672682],[119.183121,40.672682],[119.271012,40.530878],[119.523697,40.539228],[119.567643,40.572616],[119.589615,40.330173],[119.721451,40.187645],[119.798356,40.170857],[119.853287,39.994335],[119.567643,39.918543],[119.523697,39.817356],[119.446793,39.783593],[119.260025,39.529849],[119.347916,39.462026],[119.260025,39.385647],[119.161149,39.343178],[118.930436,39.156007],[118.567887,39.138966],[118.512955,39.053703],[118.589859,38.976878],[118.501969,38.917067],[118.194352,39.053703],[118.084488,39.198589],[117.985611,39.215615],[117.820816,39.121922],[117.886734,38.908519],[117.842789,38.865761],[117.656022,38.831536],[117.754899,38.694472],[117.60109,38.617258],[117.754899,38.367891],[117.897721,38.367891],[117.897721,38.264452],[118.458024,38.08308],[118.776627,38.152227],[119.029313,38.091727],[119.12819,37.797155],[119.249039,37.727672],[118.963395,37.623326],[118.930436,37.39674],[119.051285,37.248216],[119.271012,37.230723],[119.271012,37.099398],[119.413834,37.125681],[119.75441,37.151955],[119.87526,37.274447],[119.842301,37.361819],[120.007096,37.431644],[120.237809,37.54497],[120.215836,37.640727],[120.237809,37.762422],[120.457535,37.753736],[120.820084,37.840548],[120.929947,37.831872],[121.083756,37.718982],[121.138688,37.736361],[121.204606,37.588511],[121.3694,37.632027],[121.512223,37.457811],[121.863785,37.475251],[122.138443,37.579805],[122.215348,37.431644],[122.522965,37.431644],[122.742691,37.414194],[122.599869,37.230723],[122.599869,37.151955],[122.544938,36.941507],[122.446061,36.818477],[122.23732,36.827271],[121.962662,36.932726],[121.655045,36.774489],[121.666031,36.704057],[121.435318,36.774489],[121.083756,36.642375],[120.886002,36.350926],[120.809098,36.46587],[120.710221,36.350926],[120.699234,36.129402],[120.281754,36.031732],[120.040055,35.75583],[119.655533,35.532629],[119.556656,35.344659],[119.391861,35.111327]
+                    ]
+
+                    var wa_d = [
+                        [119.303971,35.093351],[119.21608,35.120314],[118.996354,35.057386],[118.864518,35.048392],[118.820572,34.895349],[118.721695,34.80519],[118.732682,34.705901],[118.655777,34.687835],[118.534928,34.714932],[118.293229,34.570314],[118.271256,34.407318],[118.13942,34.352916],[118.040543,34.66073],[117.831803,34.66073],[117.831803,34.543171],[117.568131,34.461686],[117.337418,34.588405],[117.172623,34.425445],[116.799088,34.985409],[116.480484,34.895349],[116.337662,34.714932],[116.326676,34.588405],[116.183854,34.552219],[116.161881,34.443567],[116.414566,34.289401],[116.568375,34.298478],[116.546402,34.107667],[116.667252,33.952885],[116.623307,33.879948],[116.293717,33.75216],[116.161881,33.688194],[115.953141,33.889069],[115.898209,34.025758],[115.65651,34.071273],[115.579606,34.016653],[115.557633,33.907307],[115.612565,33.861705],[115.623551,33.779559],[115.53566,33.770427],[115.645524,33.578428],[115.436783,33.569274],[115.293961,33.441023],[115.337906,33.321763],[115.293961,33.128766],[115.11818,33.082752],[114.986344,33.073546],[114.942399,33.137966],[114.854508,33.018292],[115.074234,32.907678],[115.184098,32.824627],[115.217057,32.593523],[115.425797,32.565751],[115.557633,32.398934],[115.810318,32.51018],[115.887223,32.352541],[115.909195,32.008496],[115.909195,31.784638],[115.634537,31.737933],[115.458756,31.625743],[115.359879,31.43846],[115.370865,31.372822],[115.593338,31.14508],[115.670243,31.215574],[115.747147,31.154482],[115.763627,31.12157],[115.884476,31.130975],[116.076737,30.975679],[115.85701,30.848431],[115.75264,30.687952],[115.911942,30.508277],[115.87349,30.32827],[116.032792,30.190673],[116.126175,29.87204],[116.145204,29.820314],[115.94745,29.724953],[115.661806,29.877488],[115.486024,29.867961],[115.453065,29.763108],[115.277284,29.61995],[115.07953,29.648598],[114.859804,29.486152],[114.87079,29.380901],[114.673036,29.400046],[114.255556,29.342601],[114.21161,29.237201],[114.00287,29.179665],[113.91498,29.083699],[113.958925,28.949196],[114.112733,28.833769],[114.12372,28.592885],[114.079774,28.53499],[114.244569,28.361115],[114.156679,28.24504],[113.991884,28.167586],[114.024843,28.002811],[113.761171,27.944595],[113.717226,27.779478],[113.563417,27.565425],[113.607362,27.350954],[113.717226,27.341196],[113.849062,27.370469],[113.827089,27.194714],[113.772157,27.165395],[113.805116,27.067607],[113.903993,26.920766],[113.827089,26.79335],[113.849062,26.646152],[114.090761,26.557742],[114.046815,26.361032],[113.969911,26.203423],[113.936952,26.144264],[114.12372,26.173847],[114.222597,26.213279],[114.189638,26.094942],[114.046815,26.065339],[113.969911,25.927092],[114.024843,25.857908],[113.893007,25.67982],[113.969911,25.461795],[114.046815,25.263246],[114.387392,25.312914],[114.5412,25.402264],[114.738954,25.273182],[114.695009,25.094225],[114.442323,25.014604],[114.343446,24.865176],[114.310487,24.715567],[114.156679,24.685624],[114.420351,24.505813],[114.760927,24.585761],[115.024599,24.645688],[115.398134,24.785407],[115.705751,24.57577],[115.85956,24.555786],[115.760683,24.775433],[115.85956,24.934932],[116.002382,24.915006],[116.222108,24.835269],[116.364931,24.815327],[116.540712,24.665658],[116.518739,24.60574],[116.716493,24.645688],[116.793398,24.645688],[116.826356,24.665658],[116.760439,24.565779],[116.881288,24.375789],[116.991151,24.185514],[116.947206,24.075224],[117.02411,23.814163],[117.112001,23.623055],[117.276796,23.592855],[117.386659,23.612989],[117.694276,23.924677],[118.034853,24.195535],[118.144716,24.395802],[118.441347,24.615728],[118.661073,24.585761],[118.847841,24.88511],[118.990663,25.114122],[119.232362,25.183736],[119.507021,25.461795],[119.671815,25.848021],[119.715761,26.124538],[119.968446,26.449593],[120.188173,26.714868],[120.188173,26.901173],[120.462831,27.15562],[120.682558,27.448493],[120.935243,27.915475],[121.03412,28.080384],[121.198915,28.080384],[121.374696,28.196638],[121.517519,28.332108],[121.605409,28.254718],[121.682314,28.467406],[121.616396,28.689305],[121.704286,28.929967],[121.825136,29.102899],[121.978944,29.170072],[122.011903,29.677238],[122.198671,29.782181],[122.154726,29.915585],[121.671327,30.020278],[121.495546,30.257804],[121.308778,30.390569],[121.089052,30.362135],[120.891298,30.229331],[120.781435,30.219839],[120.781435,30.305241],[120.968202,30.428469],[121.297792,30.683907],[121.627382,30.844392],[121.924013,30.853824],[122.011903,30.919822],[121.956972,31.474277],[122.011903,31.558569],[121.967958,31.745611],[121.847108,31.960243],[121.704286,32.109258],[121.418642,32.183674],[121.473573,32.220859],[121.407655,32.406557],[121.297792,32.462192],[120.990175,32.638144],[120.913271,32.721369],[120.94623,32.749093],[121.012148,32.878359],[120.70453,33.476053],[120.49579,33.878323],[120.28705,34.22422],[120.28705,34.333157],[119.946474,34.451013],[119.660829,34.550607],[119.485048,34.668156],[119.550966,34.749439],[119.221376,34.821623],[119.188417,34.956797],[119.243349,35.04679]
+                    ]
+
+                    var wa_c = [
+                        [110.98732,33.257478],[111.22902,32.990651],[111.305924,32.824627],[111.514664,32.584267],[111.635514,32.612034],[111.954117,32.454574],[112.316666,32.333978],[112.459488,32.40821],[112.536393,32.34326],[112.975846,32.389658],[113.1736,32.417485],[113.360367,32.259684],[113.646012,32.436031],[113.733902,32.361822],[113.755875,31.989862],[113.865738,31.868649],[113.986588,31.737933],[114.107438,31.868649],[114.217301,31.775299],[114.404068,31.728589],[114.568863,31.765959],[114.535904,31.607032],[114.568863,31.588317],[114.656754,31.522784],[114.887467,31.466576],[114.986344,31.532148],[115.085221,31.485316],[115.11818,31.616388],[115.173111,31.560237],[115.228043,31.382202],[115.370865,31.372822],[115.593338,31.14508],[115.670243,31.215574],[115.747147,31.154482],[115.763627,31.12157],[115.884476,31.130975],[116.076737,30.975679],[115.85701,30.848431],[115.75264,30.687952],[115.911942,30.508277],[115.87349,30.32827],[116.032792,30.190673],[116.126175,29.87204],[116.145204,29.820314],[115.94745,29.724953],[115.661806,29.877488],[115.486024,29.867961],[115.453065,29.763108],[115.277284,29.61995],[115.07953,29.648598],[114.859804,29.486152],[114.87079,29.380901],[114.673036,29.400046],[114.255556,29.342601],[114.21161,29.237201],[114.00287,29.179665],[113.91498,29.083699],[113.958925,28.949196],[114.112733,28.833769],[114.12372,28.592885],[114.079774,28.53499],[114.244569,28.361115],[114.156679,28.24504],[113.991884,28.167586],[114.024843,28.002811],[113.761171,27.944595],[113.717226,27.779478],[113.563417,27.565425],[113.607362,27.350954],[113.717226,27.341196],[113.849062,27.370469],[113.827089,27.194714],[113.772157,27.165395],[113.805116,27.067607],[113.903993,26.920766],[113.827089,26.79335],[113.849062,26.646152],[114.090761,26.557742],[114.046815,26.361032],[113.969911,26.203423],[113.936952,26.144264],[114.12372,26.173847],[114.222597,26.213279],[114.189638,26.094942],[114.046815,26.065339],[113.969911,25.927092],[114.024843,25.857908],[113.893007,25.67982],[113.969911,25.461795],[113.777848,25.324614],[113.59108,25.344474],[113.327408,25.413956],[113.195572,25.513147],[113.05275,25.404033],[112.876969,25.304752],[112.865982,25.215329],[112.997818,25.185507],[112.997818,24.936707],[112.833024,24.896852],[112.756119,24.886886],[112.646256,25.135788],[112.360611,25.175565],[112.195816,25.205389],[112.09694,25.006422],[112.162857,24.787184],[111.921158,24.727325],[111.591568,24.827075],[111.613541,24.627495],[111.43776,24.647468],[111.415787,25.086048],[111.261979,25.125841],[111.064225,24.906817],[110.976334,24.946668],[111.020279,25.165622],[111.283951,25.503232],[111.261979,25.681584],[111.393815,25.820118],[111.240006,25.899208],[111.130143,25.997995],[111.240006,26.274158],[110.910416,26.392314],[110.888443,26.215036],[110.536881,26.293859],[110.317154,25.938733],[109.943619,26.215036],[109.789811,25.938733],[109.636002,25.859669],[109.438248,26.076966],[109.438248,26.313557],[109.262467,26.352942],[109.438248,26.58897],[109.28444,26.706803],[109.526139,26.902919],[109.460221,27.137809],[109.152604,27.059567],[108.888932,27.039998],[108.757096,27.079133],[108.95485,27.25507],[109.174576,27.489221],[109.438248,27.547681],[109.438248,27.703422],[109.306412,27.839514],[109.306412,28.130565],[109.350357,28.28547],[109.262467,28.324161],[109.240494,28.729565],[109.28444,29.056603],[109.196549,29.190965],[109.04274,29.401751],[108.910904,29.325152],[108.801041,29.669393],[108.581315,29.841074],[108.449479,29.70757],[108.339615,29.898235],[108.493424,29.879185],[108.537369,30.278472],[108.427506,30.486978],[108.823014,30.581606],[109.04274,30.657242],[109.394303,30.60052],[109.855729,30.90265],[109.965592,30.921501],[110.097428,30.827206],[110.097428,31.109813],[110.141373,31.410335],[109.811783,31.560237],[109.592057,31.728589],[109.570084,32.231809],[109.438248,32.34326],[109.592057,32.621288],[109.987565,32.602779],[110.163346,32.621288],[110.097428,32.806161],[109.833756,32.916901],[109.70192,33.045923],[109.416275,33.156363],[109.70192,33.3034],[110.141373,33.229913],[110.558854,33.24829],[110.712662,33.119565]
+                    ]
+
+                    var wa_n = [
+                        [117.112001,23.623055],[117.02411,23.814163],[116.947206,24.075224],[116.991151,24.185514],[116.881288,24.375789],[116.760439,24.565779],[116.826356,24.665658],[116.793398,24.645688],[116.716493,24.645688],[116.518739,24.60574],[116.540712,24.665658],[116.364931,24.815327],[116.222108,24.835269],[116.002382,24.915006],[115.85956,24.934932],[115.760683,24.775433],[115.85956,24.555786],[115.705751,24.57577],[115.398134,24.785407],[115.024599,24.645688],[114.760927,24.585761],[114.420351,24.505813],[114.156679,24.685624],[114.310487,24.715567],[114.343446,24.865176],[114.442323,25.014604],[114.695009,25.094225],[114.738954,25.273182],[114.5412,25.402264],[114.387392,25.312914],[114.046815,25.263246],[113.969911,25.461795],[113.969911,25.461795],[113.777848,25.324614],[113.59108,25.344474],[113.327408,25.413956],[113.195572,25.513147],[113.05275,25.404033],[112.876969,25.304752],[112.865982,25.215329],[112.997818,25.185507],[112.997818,24.936707],[112.833024,24.896852],[112.756119,24.886886],[112.646256,25.135788],[112.360611,25.175565],[112.195816,25.205389],[112.09694,25.006422],[112.162857,24.787184],[111.921158,24.727325],[111.591568,24.827075],[111.613541,24.627495],[111.43776,24.647468],[111.415787,25.086048],[111.261979,25.125841],[111.064225,24.906817],[110.976334,24.946668],[111.020279,25.165622],[111.283951,25.503232],[111.261979,25.681584],[111.393815,25.820118],[111.240006,25.899208],[111.130143,25.997995],[111.240006,26.274158],[110.910416,26.392314],[110.888443,26.215036],[110.536881,26.293859],[110.317154,25.938733],[109.943619,26.215036],[109.789811,25.938733],[109.636002,25.859669],[109.438248,26.076966],[109.405289,25.978244],[109.295426,25.731079],[109.174576,25.810228],[109.04274,25.820118],[108.899918,25.740975],[108.899918,25.681584],[108.943863,25.681584],[109.04274,25.731079],[109.064713,25.701384],[109.020768,25.641973],[109.053727,25.513147],[108.888932,25.572623],[108.768082,25.552801],[108.768082,25.671682],[108.669205,25.602349],[108.636246,25.493316],[108.570328,25.463562],[108.614273,25.314683],[108.471451,25.453642],[108.394547,25.433801],[108.339615,25.542889],[108.185807,25.443722],[108.108902,25.314683],[108.119889,25.215329],[107.87819,25.165622],[107.746354,25.095997],[107.702408,25.255081],[107.625504,25.334545],[107.471695,25.225268],[107.405777,25.394108],[107.3069,25.423879],[107.350846,25.503232],[107.208023,25.612256],[107.065201,25.552801],[106.944352,25.423879],[106.999283,25.324614],[106.933365,25.215329],[106.812516,25.185507],[106.614762,25.145733],[106.296158,24.996465],[106.153336,24.986507],[106.153336,24.827075],[106.054459,24.67742],[106.010514,24.60752],[105.922623,24.747281],[105.746842,24.707365],[105.680924,24.77721],[105.527115,24.807131],[105.439225,24.886886],[105.428238,24.936707],[105.36232,24.966589],[105.263443,24.936707],[105.197525,24.996465],[105.043717,24.906817],[105.010758,24.797158],[104.878922,24.727325],[104.82399,24.647468],[104.725113,24.617508],[104.659195,24.687403],[104.549332,24.757258],[104.4944,24.667437],[104.4944,24.567559],[104.571305,24.377572],[104.7361,24.327528],[104.7361,24.457602],[104.933854,24.427596],[105.15358,24.367565],[105.208512,24.227381],[105.230484,24.187299],[105.15358,24.127154],[105.263443,24.056949],[105.318375,24.127154],[105.439225,24.026849],[105.516129,24.026849],[105.527115,24.13718],[105.615006,24.107099],[105.647965,24.036883],[105.889664,24.006779],[105.911637,24.127154],[106.032486,24.056949],[106.14235,23.926466],[106.131363,23.795851],[106.153336,23.675167],[106.109391,23.514081],[106.0215,23.443544],[105.889664,23.554371],[105.757828,23.453623],[105.636979,23.332623],[105.48317,23.251896],[105.505143,23.181219],[105.549088,23.07008],[105.779801,23.029643],[105.856705,22.928498],[105.999527,22.95885],[106.032486,22.999308],[106.186295,22.989194],[106.263199,22.90826],[106.252213,22.857651],[106.384049,22.867775],[106.526871,22.968965],[106.636734,22.877897],[106.801529,22.817151],[106.724625,22.675305],[106.691666,22.594184],[106.614762,22.604326],[106.548844,22.482564],[106.570816,22.411487],[106.592789,22.360695],[106.647721,22.320048],[106.702652,22.035189],[106.702652,21.984261],[106.779557,22.01482],[106.988297,21.933314],[107.054215,21.892544],[106.999283,21.810968],[107.251969,21.729346],[107.328873,21.698726],[107.372818,21.61704],[107.493668,21.606826],[107.812272,21.657889],[107.955094,21.545527],[107.999039,21.504647],[108.251725,21.545527],[108.383561,21.545527],[108.581315,21.688518],[108.757096,21.627253],[108.95485,21.606826],[109.152604,21.545527],[109.053727,21.473979],[109.152604,21.422851],[109.537125,21.484202],[109.559098,21.514868],[109.592057,21.586396],[109.668961,21.57618],[109.657975,21.484202],[109.877701,21.412624],[109.877701,21.371706],[109.767838,21.34101],[109.734879,21.238644],[109.657975,21.12596],[109.668961,20.961902],[109.756852,20.694925],[109.756852,20.633248],[109.921647,20.427477],[109.91066,20.293578],[109.91066,20.23174],[110.086441,20.283273],[110.130387,19.994464],[109.987565,19.953162],[109.789811,19.953162],[109.679947,20.004788],[109.58107,20.025433],[109.460221,19.90152],[109.273453,19.922179],[109.119645,19.777508],[109.141617,19.653401],[108.834,19.477417],[108.603287,19.332346],[108.62526,19.093735],[108.603287,18.802787],[108.680191,18.584245],[108.669205,18.521753],[108.812027,18.459238],[109.130631,18.313281],[109.427262,18.29242],[109.537125,18.250691],[109.515152,18.198514],[109.70192,18.240257],[109.789811,18.427972],[110.053482,18.3967],[110.097428,18.563417],[110.273209,18.646715],[110.405045,18.667533],[110.547867,18.761182],[110.503922,18.969105],[110.56984,19.062586],[110.613785,19.270133],[110.910416,19.549904],[111.075211,19.632707],[110.932389,20.035755],[110.756607,20.025433],[110.679703,20.14925],[110.536881,20.087354],[110.547867,20.107989],[110.56984,19.98414],[110.328141,20.087354],[110.174332,20.077036],[110.130387,20.23174],[110.284195,20.242048],[110.481949,20.396588],[110.547867,20.509819],[110.372086,20.828473],[110.207291,20.879806],[110.207291,20.951643],[110.459977,20.982419],[110.514908,20.900334],[110.591813,21.166946],[110.77858,21.392166],[111.240006,21.463755],[111.261979,21.392166],[111.580582,21.535308],[111.690445,21.504647],[112.031022,21.657889],[111.987076,21.729346],[112.173844,21.790567],[112.261734,21.688518],[112.470475,21.75996],[112.668229,21.780365],[112.789078,21.933314],[112.876969,21.872154],[113.030777,21.933314],[113.05275,22.106458],[113.074723,22.075919],[113.217545,21.912931],[113.305436,21.902738],[113.481217,22.096279],[113.656998,22.46226],[113.689957,22.715847],[113.766861,22.665167],[113.876725,22.452107],[113.79982,22.177691],[114.107438,22.279389],[114.239273,22.177691],[114.371109,22.431798],[114.305191,22.58404],[114.480973,22.472412],[114.645768,22.502865],[114.557877,22.705713],[114.711686,22.725981],[114.744645,22.58404],[114.854508,22.563751],[115.074234,22.776638],[115.315934,22.766508],[115.348893,22.685441],[115.568619,22.655029],[115.612565,22.857651],[115.766373,22.827277],[115.788346,22.715847],[116.205826,22.89814],[116.381607,22.948733],[116.557389,22.928498],[116.579361,23.181219],[116.755143,23.211514],[116.832047,23.362883],[116.952897,23.564441],[116.996842,23.504006],
+                    ]
+
+                    var sai_n = [
+                        [105.48317,23.251896],[105.636979,23.332623],[105.757828,23.453623],[105.889664,23.554371],[106.0215,23.443544],[106.109391,23.514081],[106.153336,23.675167],[106.131363,23.795851],[106.14235,23.926466],[106.032486,24.056949],[105.911637,24.127154],[105.889664,24.006779],[105.647965,24.036883],[105.615006,24.107099],[105.527115,24.13718],[105.516129,24.026849],[105.439225,24.026849],[105.318375,24.127154],[105.263443,24.056949],[105.15358,24.127154],[105.230484,24.187299],[105.208512,24.227381],[105.15358,24.367565],[104.933854,24.427596],[104.7361,24.457602],[104.7361,24.327528],[104.571305,24.377572],[104.4944,24.567559],[104.4944,24.667437],[104.549332,24.757258],[104.659195,24.687403],[104.725113,24.617508],[104.82399,24.647468],[104.878922,24.727325],[105.010758,24.797158],[105.043717,24.906817],[105.197525,24.996465],[105.263443,24.936707],[105.36232,24.966589],[105.428238,24.936707],[105.439225,24.886886],[105.527115,24.807131],[105.680924,24.77721],[105.746842,24.707365],[105.922623,24.747281],[106.010514,24.60752],[106.054459,24.67742],[106.153336,24.827075],[106.153336,24.986507],[106.296158,24.996465],[106.614762,25.145733],[106.812516,25.185507],[106.933365,25.215329],[106.999283,25.324614],[106.944352,25.423879],[107.065201,25.552801],[107.208023,25.612256],[107.350846,25.503232],[107.3069,25.423879],[107.405777,25.394108],[107.471695,25.225268],[107.625504,25.334545],[107.702408,25.255081],[107.746354,25.095997],[107.87819,25.165622],[108.119889,25.215329],[108.108902,25.314683],[108.185807,25.443722],[108.339615,25.542889],[108.394547,25.433801],[108.471451,25.453642],[108.614273,25.314683],[108.570328,25.463562],[108.636246,25.493316],[108.669205,25.602349],[108.768082,25.671682],[108.768082,25.552801],[108.888932,25.572623],[109.053727,25.513147],[109.020768,25.641973],[109.064713,25.701384],[109.04274,25.731079],[108.943863,25.681584],[108.899918,25.681584],[108.899918,25.740975],[109.04274,25.820118],[109.174576,25.810228],[109.295426,25.731079],[109.405289,25.978244],[109.438248,26.076966],[109.438248,26.076966],[109.438248,26.313557],[109.262467,26.352942],[109.438248,26.58897],[109.28444,26.706803],[109.526139,26.902919],[109.460221,27.137809],[109.152604,27.059567],[108.888932,27.039998],[108.757096,27.079133],[108.95485,27.25507],[109.174576,27.489221],[109.438248,27.547681],[109.438248,27.703422],[109.306412,27.839514],[109.306412,28.130565],[109.350357,28.28547],[109.262467,28.324161],[109.240494,28.729565],[109.28444,29.056603],[109.196549,29.190965],[109.04274,29.401751],[108.910904,29.325152],[108.801041,29.669393],[108.581315,29.841074],[108.449479,29.70757],[108.339615,29.898235],[108.493424,29.879185],[108.537369,30.278472],[108.427506,30.486978],[108.823014,30.581606],[109.04274,30.657242],[109.394303,30.60052],[109.855729,30.90265],[109.965592,30.921501],[110.097428,30.827206],[110.097428,31.109813],[110.141373,31.410335],[109.811783,31.560237],[109.592057,31.728589],[109.273453,31.728589],[109.16359,31.868649],[108.768082,32.082994],[108.526383,32.194628],[108.438492,32.287552],[107.867203,32.231809],[107.339859,32.547231],[107.186051,32.436031],[107.054215,32.602779],[107.09816,32.750739],[106.746598,32.787691],[106.131363,32.695283],[106.0215,32.84309],[105.538102,32.750739],[105.406266,32.935345],[105.120621,32.602779],[104.241715,32.898454],[104.307633,33.3034],[104.043961,33.724752],[103.516617,33.743025],[103.099137,33.889069],[103.121109,34.162228],[102.835465,34.343845],[102.54982,34.216754],[102.154313,33.961997],[102.330094,33.596732],[102.439957,33.505172],[102.374039,33.413516],[102.13234,33.24829],[101.868668,33.137966],[101.846695,33.468521],[101.824723,33.669909],[101.648941,33.468521],[101.648941,33.229913],[101.47316,33.211531],[101.121598,33.285034],[101.121598,33.064339],[101.033707,32.916901],[101.209488,32.787691],[101.121598,32.658293],[100.682145,32.695283],[100.242691,32.769217],[100.110856,32.824627],[99.869156,33.082752],[99.715348,32.953784],[99.715348,32.732258],[99.385758,32.935345],[99.144059,33.082752],[98.814469,33.211531],[98.418961,33.943771],[98.396988,34.125858],[98.023453,34.144045],[97.869645,34.271245],[97.671891,34.198583],[97.627945,33.961997],[97.386246,33.943771],[97.320328,33.797821],[97.430191,33.541808],[97.693863,33.413516],[97.540055,33.24829],[97.430191,33.156363],[97.320328,32.916901],[97.584,32.528707],[97.364274,32.584267],[97.25441,32.157432],[96.946793,32.064376],[96.705094,32.027126],[96.727066,31.747276],[96.419449,31.840654],[96.353531,31.952583],[96.17775,31.952583],[96.155777,31.635097],[95.892106,31.821986],[95.782242,31.728589],[95.408707,31.840654],[95.408707,32.138828],[95.408707,32.268974],[95.167008,32.436031],[94.925309,32.473113],[94.705582,32.713772],[94.068375,32.473113],[93.69484,32.602779],[93.431168,32.473113],[93.189469,32.695283],[92.881852,32.806161],[92.266617,32.769217],[92.222672,32.861549],[91.980973,32.916901],[91.409684,33.137966],[90.728531,33.174756],[90.157242,33.468521],[89.937516,33.669909],[89.871598,33.907307],[89.585953,34.107667],[89.80568,34.253086],[89.761734,34.398254],[89.761734,34.669766],[89.849625,34.832248],[89.761734,34.99441],[89.563981,35.138284],[89.432145,35.246024],[89.542008,35.425272],[89.849625,35.496859],[89.783707,35.889452],[89.410172,35.978407],[89.498063,36.120528],[89.783707,36.120528],[89.1465,36.297818],[88.838883,36.386312],[88.685074,36.368621],[88.509293,36.527693],[88.157731,36.527693],[87.432633,36.403998],[87.256852,36.386312],[86.443863,36.244673],[86.180191,36.120528],[86.114274,35.925046],[85.718766,35.782573],[85.564957,35.657699],[85.323258,35.782573],[84.532242,35.586255],[84.202652,35.371539],[84.004899,35.478969],[83.609391,35.389454],[83.060074,35.478969],[82.928238,35.729079],[82.356949,35.71124],[82.137223,35.496859],[81.917496,35.335697],[81.69777,35.281905],[81.390152,35.263966],[81.302262,35.425272],[80.950699,35.461074],[80.818863,35.35362],[80.511246,35.443175],[80.335465,35.371539],[80.093766,35.102339],[79.896012,34.850282],[79.742203,34.561267],[79.280777,34.470744],[78.88527,34.434507],[78.995133,34.361985],[78.88527,34.180408],[78.687516,34.107667],[78.621598,34.05307],[78.753434,33.889069],[78.709488,33.688194],[78.687516,33.596732],[78.841324,33.431855],[79.061051,33.229913],[79.192887,32.972219],[79.30275,32.713772],[79.170914,32.51018],[78.929215,32.34326],[78.819352,32.473113],[78.709488,32.769217],[78.335953,32.565751],[78.445816,32.268974],[78.445816,32.176032],[78.665543,31.933937],[78.687516,31.803314],[78.797379,31.560237],[78.731461,31.485316],[78.797379,31.335294],[78.929215,31.241409],[78.97316,31.053358],[79.258805,30.940349],[79.412613,31.090998],[79.610367,30.940349],[79.742203,30.978034],[79.917984,30.808336],[80.04982,30.581606],[80.29152,30.581606],[80.665055,30.411209],[80.862809,30.316415],[81.03859,30.240514],[81.082535,30.050505],[81.280289,30.088536],[81.412125,30.240514],[81.412125,30.449101],[81.675797,30.411209],[82.027359,30.373303],[82.159195,30.145556],[82.203141,30.069523],[82.554703,29.936325],[82.642594,29.936325],[82.730484,29.745732],[83.367691,29.459163],[83.609391,29.190965],[83.873063,29.325152],[84.136734,29.229322],[84.202652,28.960522],[84.488297,28.806608],[84.554215,28.729565],[84.751969,28.652465],[84.993668,28.575309],[85.125504,28.691022],[85.191422,28.556011],[85.103531,28.44015],[85.147477,28.324161],[85.389176,28.304817],[85.696793,28.343501],[85.850602,28.091803],[85.960465,27.956029],[86.158219,27.917204],[86.136246,28.111186],[86.224137,28.208045],[86.202164,27.994839],[86.443863,27.936618],[86.531754,27.994839],[86.641617,28.111186],[86.729508,28.091803],[87.015152,27.936618],[87.146988,27.820083],[87.696305,27.839514],[87.806168,27.858942],[87.872086,27.956029],[88.113785,27.878366],[88.465348,28.033635],[88.685074,28.091803],[88.882828,27.839514],[88.772965,27.586637],[88.882828,27.333175],[89.014664,27.25507],[89.168473,27.372207],[89.1465,27.586637],[89.344254,27.936618],[89.607926,28.14994],[89.959488,28.169312],[90.354996,28.169312],[90.420914,28.053028],[90.794449,28.053028],[91.014176,27.839514],[91.146012,27.917204],[91.321793,28.072418],[91.54152,27.878366],[91.651383,27.683967],[91.563492,27.60611],[91.695328,27.508711],[92.024918,27.469727],[92.112809,27.333175],[92.024918,27.118254],[92.134781,26.942101],[92.222672,26.902919],[92.662125,26.961687],[93.101578,26.902919],[93.826676,27.059567],[93.870621,27.215997],[94.332047,27.625579],[94.573746,27.625579],[95.254899,27.897787],[95.364762,28.111186],[95.782242,28.266119],[96.001969,28.18868],[96.287613,28.208045],[97.056656,27.761768],[97.298356,27.897787],[97.386246,27.897787],[97.408219,28.053028],[97.518082,28.498096],[97.627945,28.53671],[97.803727,28.343501],[98.023453,28.324161],[98.155289,28.033635],[98.265152,27.586637],[98.550797,27.625579],[98.682633,27.469727],[98.770524,26.922512],[98.704606,26.333251],[98.638688,26.116431],[98.682633,25.87944],[98.506852,25.839895],[98.33107,25.523062],[98.133316,25.602349],[98.067399,25.344474],[97.91359,25.225268],[97.847672,25.265017],[97.836686,25.284886],[97.693863,25.095997],[97.715836,24.896852],[97.518082,24.77721],[97.518082,24.457602],[97.671891,24.237399],[97.562027,23.956589],[97.649918,23.876245],[98.067399,24.036883],[98.57277,24.117127],[98.858414,24.15723],[98.880387,24.097071],[98.682633,23.956589],[98.638688,23.735523],[98.902359,23.453623],[98.946305,23.211514],[99.385758,23.090294],[99.517594,22.928498],[99.275895,22.725981],[99.385758,22.523163],[99.275895,22.40133],[99.166031,22.157342],[99.583512,22.096279],[99.97902,21.994448],[99.957047,21.749756],[100.198746,21.647678],[100.088883,21.586396],[100.132828,21.525088],[100.3965,21.586396],[100.572281,21.484202],[101.099625,21.831367],[101.165543,21.627253],[101.165543,21.484202],[101.209488,21.300072],[101.275406,21.218163],[101.539078,21.218163],[101.758805,21.1567],[101.912613,21.218163],[101.714859,21.463755],[101.80275,21.790567],[101.583024,22.136991],[101.561051,22.320048],[101.736832,22.523163],[101.868668,22.381014],[102.264176,22.421643],[102.46193,22.766508],[102.989274,22.482564],[103.187027,22.604326],[103.362809,22.827277],[103.472672,22.62461],[103.692399,22.807024],[103.95607,22.523163],[104.153824,22.807024],[104.28566,22.807024],[104.28566,22.725981],[104.61525,22.867775],[104.747086,22.827277],[104.878922,22.968965],[104.813004,23.150918],[105.252457,23.352798],[105.36232,23.433464],
+                    ]
+
+                    function opt(path, color){
+                        return {
+                            map: map,
+                            path: path,
+                            strokeColor: "#000000",
+                            strokeOpacity: 0,
+                            strokeWeight: 0,
+                            fillColor: color,
+                            fillOpacity: 0.3,
+                        }
+                    }
+
+                    var opt_wa_b = opt(wa_b, "#f69c2b"),
+                        polygon_wa_b = new AMap.Polygon(opt_wa_b);
+
+                    var opt_wa_d = opt(wa_d, "#f6cb26"),
+                        polygon_wa_d = new AMap.Polygon(opt_wa_d);
+
+                    var opt_wa_c = opt(wa_c, "#f76a27"),
+                        polygon_wa_c = new AMap.Polygon(opt_wa_c);
+
+                    var opt_wa_n = opt(wa_n, "#f69b27"),
+                        polygon_wa_n = new AMap.Polygon(opt_wa_n);
+
+                    var opt_sai_n = opt(sai_n, "#f6cb29"),
+                        polygon_sai_n = new AMap.Polygon(opt_sai_n);
+
+                    // Keep Same order Polygon Order with Area Label Order
+                    var polygons = [polygon_wa_b, polygon_wa_d, polygon_wa_c, polygon_wa_n, polygon_sai_n];
+
+                    // Area Label
+                    var region = [
+                        {
+                            "name": "華北",
+                            "id"  : 1,
+                            "lng" : 115.513688,
+                            "lat" : 37.77979,
+                            "link": "./hotspot.html?region=3",
+                        },
+                        {
+                            "name": "華東",
+                            "id"  : 2,
+                            "lng" : 118.633805,
+                            "lat" : 30.08159,
+                            "link": "./hotspot.html?region=2",
+                        },
+                        {
+                            "name": "華中",
+                            "id"  : 3,
+                            "lng" : 112.459488,
+                            "lat" : 29.698027,
+                            "link": "./hotspot.html?region=4",
+                        },
+                        {
+                            "name": "華南",
+                            "id"  : 4,
+                            "lng" : 111.310172,
+                            "lat" : 24.657452,
+                            "link": "./hotspot.html?region=1",
+                        },
+                        {
+                            "name": "西南",
+                            "id"  : 5,
+                            "lng" : 96.17775,
+                            "lat" : 31.025119,
+                            "link": "./hotspot.html?region=5",
+                        }
+                    ]
+
+                    for (var i = 0; i < region.length; i++) {
+                        var item = region[i];
+                        var marker_opt={
+                            map: map,
+                            position: [item.lng,item.lat],
+                            anchor: 'top-center',
+                        }
+                        var marker = new AMap.Marker(marker_opt);
+
+                        var markerContent = document.createElement("a"),
+                            markerLabel = document.createElement("div");
+                            //markerDeco = document.createElement("div");
+
+                        markerContent.className      = 'region-label';
+                        markerContent.href           = item.link;
+                        markerContent.dataset.region = item.id;
+                        markerContent.appendChild(markerLabel);
+                        //markerContent.appendChild(markerDeco);
+
+                        markerLabel.innerHTML = item.name;
+                        markerLabel.className = 'region-name';
+                        //markerDeco.className  = 'region-deco';
+                        marker.setContent(markerContent)
+                    }
+
+                    var areaColor = {
+                        on:function(t){
+                            $('.amap-markers').find('.region-label[data-region="'+(t+1)+'"]').addClass('active');
+                            $('.amap-container').addClass('cursor-on');
+                        },
+                        off:function(t){
+                            $('.amap-markers').find('.region-label[data-region="'+(t+1)+'"]').removeClass('active');
+                            $('.amap-container').removeClass('cursor-on');
+                        }
+                    }
+                    // Area Hover
+                    function areaHover(p, idx){
+                        let opacity = [0.3, 0.4, 0.5, 0.6, 0.7, 0.8, 0.9];
+                        $.each(opacity, function(index, item){
+                            setTimeout(function(){
+                                p.setOptions({fillOpacity:item})
+                            }, index*20);
+                        })
+                        areaColor.on(idx);
+                    }
+
+                    // Area Out
+                    function areaOut(p, idx){
+                        let opacity = [0.9, 0.8, 0.7, 0.6, 0.5, 0.4, 0.3];
+                        $.each(opacity, function(index, item){
+                            setTimeout(function(){
+                                p.setOptions({fillOpacity:item})
+                            }, index*20);
+                        })
+
+                        areaColor.off(idx);
+                    }
+
+                    // Area Click
+                    function areaClick(p, idx){
+                        var target = region[idx];
+                        window.location.href= target.link;
+                    }
+
+                    $.each(polygons, function(i){
+                        polygons[i]
+                        .on('mouseover', function(e){areaHover(this, i);})
+                        .on('mouseout', function(e){areaOut(this, i)})
+                        .on('click', function(e){areaClick(this, i)});
+                    })
+
+                    // Area label Focus
+                    function getRegion(d){
+                        return regionid = new Number(d.data('region')) - 1;
+                    }
+
+                    setTimeout(function(){
+                        var regionid;
+                        $('.region-label').focus(function(){
+                            regionid = getRegion($(this));
+                            polygons[regionid].setOptions({fillOpacity:1})
+                        }).focusout(function(){
+                            regionid = getRegion($(this));
+                            polygons[regionid].setOptions({fillOpacity:0.3})
+                        })
+                    }, 1000);
+                }
+            })();
+
+            // Each section contents
+            var getLatest = $.getJSON('./data/highlights.json', function(data){
+                return MTR.highlights = data;
+            })
+            .done(function(){
+
+                setTimeout(function(){
+
+                    var latest_offer = new Swiper('#offer .swiper-container', {
+                        loop: true,
+                        navigation: {
+                            nextEl: '#offer .swiper-button-next',
+                            prevEl: '#offer .swiper-button-prev',
+                        },
+                        pagination: {
+                            el: '#offer .swiper-pagination',
+                            clickable: true,
+                        },
+                        breakpoints: {
+                            300: {
+                                slidesPerView: 1,
+                                spaceBetween: 20,
+                                allowTouchMove:true,
+                                simulateTouch:true,
+                            },
+                            768: {
+                                slidesPerView: 3,
+                                spaceBetween: 20,
+                                allowTouchMove:true,
+                                simulateTouch:true,
+                            },
+                            1024: {
+                                slidesPerView: 4,
+                                spaceBetween: 20,
+                                allowTouchMove:true,
+                                simulateTouch:true,
+                            },
+                            1440: {
+                                slidesPerView: 5,
+                                spaceBetween: 20,
+                                allowTouchMove:false,
+                                simulateTouch:false,
+                                loop: false,
+                            },
+                        },
+                        on:{
+                            init:function(){
+                                $('#offer').css('opacity', '1');
+                            }
+                        }
+                    });
+
+                    var latest_theme = new Swiper('#theme .swiper-container', {
+                        loop: true,
+                        navigation: {
+                            nextEl: '#theme .swiper-button-next',
+                            prevEl: '#theme .swiper-button-prev',
+                        },
+                        pagination: {
+                            el: '#theme .swiper-pagination',
+                            clickable: true,
+                        },
+                        breakpoints: {
+                            300: {
+                                slidesPerView: 1,
+                                spaceBetween: 20,
+                                allowTouchMove:true,
+                                simulateTouch:true,
+                            },
+                            768: {
+                                slidesPerView: 3,
+                                spaceBetween: 20,
+                                allowTouchMove:true,
+                                simulateTouch:true,
+                            },
+                            1024: {
+                                slidesPerView: 4,
+                                spaceBetween: 20,
+                                allowTouchMove:true,
+                                simulateTouch:true,
+                            },
+                            1440: {
+                                slidesPerView: 5,
+                                spaceBetween: 20,
+                                allowTouchMove:false,
+                                simulateTouch:false,
+                                loop: false,
+                            },
+                        },
+                        on:{
+                            init:function(){
+                                $('#theme').css('opacity', '1');
+                            }
+                        }
+                    });
+
+
+                    var latest_plan = new Swiper('#plan .swiper-container', {
+                        loop: true,
+                        navigation: {
+                            nextEl: '#plan .swiper-button-next',
+                            prevEl: '#plan .swiper-button-prev',
+                        },
+                        pagination: {
+                            el: '#plan .swiper-pagination',
+                            clickable: true,
+                        },
+                        breakpoints: {
+                            300: {
+                                slidesPerView: 1,
+                                spaceBetween: 20,
+                                allowTouchMove:true,
+                                simulateTouch:true,
+                            },
+                            768: {
+                                slidesPerView: 3,
+                                spaceBetween: 20,
+                                allowTouchMove:true,
+                                simulateTouch:true,
+                            },
+                            1024: {
+                                slidesPerView: 4,
+                                spaceBetween: 20,
+                                allowTouchMove:true,
+                                simulateTouch:true,
+                            },
+                            1440: {
+                                slidesPerView: 5,
+                                spaceBetween: 20,
+                                allowTouchMove:false,
+                                simulateTouch:false,
+                                loop: false,
+                            }
+                        },
+                        on:{
+                            init:function(){
+                                $('#plan').css('opacity', '1');
+                            }
+                        }
+                    });
+                }, 1000);
+
+            });
+
+            var getHotspot = $.getJSON('./data/hotspot.json', function(data){
+                return MTR.articleDetail = data;
+            });
+
+            // Agency slider
+            setTimeout(function(){
+                var secAgency = undefined;
+                function initSlider() {
+                    var screenWidth = $(window).width();
+                    if(screenWidth < 1000 && secAgency == undefined) {
+                        secAgency = new Swiper('#agency .swiper-container', {
+                            breakpoints: {
+                                300: {
+                                    slidesPerView: 2,
+                                    slidesPerGroup: 2,
+                                    spaceBetween: 10,
+                                },
+                                768: {
+                                    slidesPerView: 2,
+                                    spaceBetween: 10,
+                                },
+                                1024: {
+                                    slidesPerView: 3,
+                                    spaceBetween: 10,
+                                },
+                            },
+                            navigation: {
+                                nextEl: '#agency .swiper-button-next',
+                                prevEl: '#agency .swiper-button-prev',
+                            },
+                            pagination: {
+                                el: '#agency .swiper-pagination',
+                                clickable: true,
+                            },
+                            on:{
+                                init:function(){
+                                    $('#agency').css('opacity', '1');
+                                }
+                            }
+                        });
+                    } else if (screenWidth > 1000 && secAgency != undefined) {
+                        secAgency.destroy();
+                        secAgency = undefined;
+                        $('#agency .swiper-wrapper').removeAttr('style');
+                        $('#agency .swiper-slide').removeAttr('style');
+                    }
+                }
+                initSlider();
+
+                $(window).on('resize', function(){
+                    initSlider();
+                });
+            }, 1000);
+
+            // Scroll Deco Position
+            var decoScroll = (function(){
+                var el = $('.deco-go-down');
+
+                var setPos = {
+                    init:function(){
+                        setPos.pos();
+                        $(window).resize(function(){
+                            setPos.pos();
+                        });
+                        setTimeout(function(){
+                            el.fadeIn(2000);
+                        }, 3000);
+                    },
+                    pos:function(){
+                        var crrH = $(window).height();
+                        el.css('top', crrH - 200);
+                    }
+                }
+                setPos.init();
+            })();
+
+            //in view setting
+            $('.deco-go-down').on('inview', function(event, isInView){
+                if (isInView) {
+                    $(this).addClass('go-ani');
+                } else {
+                    $(this).removeClass('go-ani');
+                }
+            })
+
+            $(function(){
+                // Agency List a11y set
+                setTimeout(function(){
+                    var agencyHover = (function(){
+                        var wrap = $('#agency');
+                        var el = wrap.find('.agency-item');
+                        $.each(el, function(idx){
+                            $(this).on('focus', function(){
+                                $(this).addClass('on-focus');
+                            });
+                            $(this).find('a').last().bind('keydown', function(event){
+                                if (!event.shiftKey && event.keyCode === 9) {
+                                    el.removeClass('on-focus');
+                                }
+                            });
+                            $(this).bind('keydown', function(event){
+                                if (event.shiftKey && event.keyCode == 9) {
+                                    el.removeClass('on-focus');
+                                }
+                            });
+                            $('body').bind('mousedown', function() {
+                                el.removeClass('on-focus');
+                            });
+                        })
+                    })();
+                }, 1000);
+            })
+
+        })
+    });
+    var satellite=setInterval(startPage,1e3);function startPage(){if(("ready"===document.readyState||"complete"===document.readyState)&&"complete"==document.readyState){if("undefined"!=typeof MTR)return LOAD_STATUS=!0,MTR.pageLoad=!0,void clearInterval(satellite);startPage()}}
+    </script>
+
+</body>
+</html>

@@ -1,0 +1,247 @@
+{
+  "section": "facilities",
+  "current_ver": "201908221100",
+  "last_update_date": "yyyy-MM-DD",
+  "facility": [
+    {
+      "type_id": 1,
+      "type_en": "Station Facilities",
+      "type_tc": "車站設施",
+      "type_sc": "车站设施",
+      "type_list": [
+        {
+          "id": 1,
+          "title_en": "Ticketing Counters",
+          "title_tc": "票務處",
+          "title_sc": "票务处",
+          "image_en":"/res/media/app/facilities/ticketing-counter.jpg",
+          "image_tc":"/res/media/app/facilities/ticketing-counter.jpg",
+          "image_sc":"/res/media/app/facilities/ticketing-counter.jpg",
+          "content_en": "<p><strong>Level B1</strong><br>The Ticketing Concourse has a total of 28 ticketing counters to provide Cross Boundary and Mainland Domestic ticketing and other relevant services, including ticket purchase, refund, alteration, collection and lost tickets.</p><p>The ticketing office in front of the gates provides alteration and lost ticket services for passengers.</p><p><strong>Level B2</strong><br>The ticketing office in front of the gates provides excess fares and lost ticket services for passengers.</p><p><strong>Level B3</strong><br>The ticketing office at the waiting concourse provides alteration and lost ticket services for passengers.</p>",
+          "content_tc": "<p><strong>B1層</strong><br>售票大堂共設28個售票櫃檯，為旅客提供跨境及內地票務相關服務，包括售票、退票、改票、取票、補辦車票等。</p><p>入閘機前票務處為旅客提供改票及補辦車票服務。</p><p><strong>B2層</strong><br>出閘機前票務處為旅客提供補票及補辦車票服務。</p><p><strong>B3層</strong><br>離港大堂票務處為旅客提供改票及補辦車票服務。</p>",
+          "content_sc": "<p><strong>B1层</strong><br>售票大堂共设28个售票柜台，为旅客提供跨境及内地票务相关服务，包括售票、退票、改签、取票、补办车票等。</p><p>入闸机前票务处为旅客提供改签及补办车票服务。</p><p><strong>B2层</strong><br>出闸机前票务处为旅客提供补票及补办车票服务。</p><p><strong>B3层</strong><br>离港大堂票务处为旅客提供改签及补办车票服务。</p>"
+        },
+        {
+          "id": 2,
+          "title_en": "Information Counters",
+          "title_tc": "詢問處",
+          "title_sc": "询问处",
+          "image_en":"/res/media/app/facilities/information-counters.jpg",
+          "image_tc":"/res/media/app/facilities/information-counters.jpg",
+          "image_sc":"/res/media/app/facilities/information-counters.jpg",
+          "content_en": "<p><strong>Level B1</strong><br>There are 2 Information Counters that provide departing and arriving passengers with information on facilities available at Hong Kong West Kowloon Station and answer passenger enquiries.</p><p>In addition, Hong Kong West Kowloon Station also has maps of Hong Kong West Kowloon Station and other practical information for passengers.</p>",
+          "content_tc": "<p><strong>B1層</strong><br>共設2個詢問處，為離港及抵港旅客提供各項香港西九龍站設施的資料，並處理旅客查詢。</p><p>此外，香港西九龍站亦設有多個資訊站，放置了多種西九龍站位置圖及其他實用資訊單張，供旅客索閱。</p>",
+          "content_sc": "<p><strong>B1层</strong><br>共设2个询问处，为离港及抵港旅客提供各项香港西九龙站设施的资料，并处理旅客查询。</p><p>此外，香港西九龙站亦设有多个信息站，放置了多种西九龙站位置图及其他实用信息单张，供旅客索阅。</p>"
+        },
+        {
+          "id": 3,
+          "title_en": "Tourist Services",
+          "title_tc": "旅客服務",
+          "title_sc": "旅客服务",
+          "image_en":"/res/media/app/facilities/tourist-services.jpg",
+          "image_tc":"/res/media/app/facilities/tourist-services.jpg",
+          "image_sc":"/res/media/app/facilities/tourist-services.jpg",
+          "content_en": "<p>Locates at B2 Arrival Hall, Tourist Services offers you a variety of MTR tickets, <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/en/shop/gift-shop.html\")'><font color=\"red\">MTR and High Speed Rail Souvenirs</font></a> and Theme Park admission tickets. Welcome to visit Tourist Services to obtain a wealth of information related to MTR and travel, which help you to plan your journey.</p><p>Tourist Services – Hong Kong West Kowloon</p><p>Address: Level B2 and Shop B2-13, Arrival Concourse, Hong Kong West Kowloon Station</p><p>Opening Hours: 08:00-20:00 (Mon- Sun)</p><p>Enquiry: <a href=\"tel:+85239710118\">(852) 3971 0118</a> / <a href=\"tel:+85239710086\">(852) 3971 0086</a></p><p>You can purchase the following travel related products</p><ul><li>MTR Tickets and Souvenirs<br><ul><li>Airport Express Tickets</li><li>Tourist Day Passes</li><li><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/en/shop/gift-shop.html\")'><font color=\"red\">MTR and High Speed Rail Souvenirs</font></a></li></ul><li>Theme Park and Attraction Tickets<br><ul><li>Ocean Park Tickets</li><li>Hong Kong and Shanghai Disneyland Park Tickets</li><li>Peak Tram Sky Pass (The Peak Tram + Sky Terrace 428)</li><li>Ngong Ping 360 Cable Car Ticket Redemption Vouchers</li><li>Madame Tussauds Hong Kong Tickets</li><li>Sky 100 Tickets</li><li>Macau Tower Tickets and other Macau attraction tickets</li></ul><li>Other Travel Related Products and Services<br><ul><li>Hotel Reservation in Hong Kong, Macau and the Mainland of China</li><li>Sightseeing Tours in Hong Kong</li><li>Dukling Harbour Cruise</li><li>Open Top Bus</li><li>Ferry Tickets to Macau and the Mainland China</li><li>Air Ticket Reservation</li><li>Prepaid Sim Card</li></ul>",
+          "content_tc": "<p>位於B2層抵港大堂的旅客服務，提供多種類的車票、<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/shop/gift-shop.html\")'><font color=\"red\">港鐵及高鐵精品</font></a>及主題公園門票。歡迎到旅客服務取得港鐵及旅遊相關資訊，助你計劃行程。</p><p>旅客服務 – 香港西九龍</p><p>地址: 香港西九龍站B2層抵港大堂及B2-13 號舖</p><p>營業時間: 星期一至日上午8時至晚上8時</p><p>查詢電話: <a href=\"tel:+85239710118\">(852) 3971 0118</a> / <a href=\"tel:+85239710086\">(852) 3971 0086</a></p><p>代售以下旅遊產品</p><ul><li>港鐵車票及精品<br><ul><li>機場快綫車票</li><li>旅客全日通</li><li><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/shop/gift-shop.html\")'><font color=\"red\">港鐵及高鐵精品</font></a></li></ul><li>主題公園及景點門票<br><ul><li>香港海洋公園門票</li><li>香港及上海迪士尼樂園門票</li><li>山頂纜車摩天套票 (山頂纜車 + 凌霄閣摩天台428)</li><li>昂坪360纜車換票證</li><li>香港杜莎夫人蠟像館門票</li><li>天際100門票</li><li>澳門旅遊塔門票及其他澳門景點門票</li></ul><li>其他旅遊產品及服務<br><ul><li>香港、澳門及中國內地酒店訂房服務</li><li>香港觀光遊</li><li>鴨靈號維港遊</li><li>香港觀光巴士</li><li>往澳門及中國內地船票</li><li>機票預訂服務</li><li>儲值流動數據及話音咭</li></ul>",
+          "content_sc": "<p>位于B2层抵港大堂的旅客服务，提供多种类的车票、<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/sc/shop/gift-shop.html\")'><font color=\"red\">港铁及高铁精品</font></a>及主题公园门票。欢迎到旅客服务取得港铁及旅游相关信息，助你计划行程。</p><p>旅客服务 – 香港西九龙</p><p>地址: 香港西九龙站B2层抵港大堂及B2-13 号铺</p><p>营业时间: 星期一至日上午8时至晚上8时</p><p>查询电话: <a href=\"tel:+85239710118\">(852) 3971 0118</a> / <a href=\"tel:+85239710086\">(852) 3971 0086</a></p><p>代售以下旅游产品</p><ul><li>港铁车票及精品<br><ul><li>机场快线车票</li><li>旅客全日通</li><li><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/sc/shop/gift-shop.html\")'><font color=\"red\">港铁及高铁精品</font></a></li></ul><li>主题公园及景点门票<br><ul><li>香港海洋公园门票</li><li>香港及上海迪士尼乐园门票</li><li>山顶缆车摩天套票 (山顶缆车 + 凌霄阁摩天台428)</li><li>昂坪360缆车换票证</li><li>香港杜莎夫人蜡像馆门票</li><li>天际100门票</li><li>澳门旅游塔门票及其他澳门景点门票</li></ul><li>其他旅游产品及服务<br><ul><li>香港、澳门及中国内地酒店订房服务</li><li>香港观光游</li><li>鸭灵号维港游</li><li>香港观光巴士</li><li>往澳门及中国内地船票</li><li>机票预订服务</li><li>储值流动数据及话音咭</li></ul>"
+        },
+        {
+          "id": 4,
+          "title_en": "Station Wi-Fi",
+          "title_tc": "免費車站Wi-Fi",
+          "title_sc": "免费车站Wi-Fi",
+          "image_en":"/res/media/app/facilities/free-station-wi-fi.jpg",
+          "image_tc":"/res/media/app/facilities/free-station-wi-fi.jpg",
+          "image_sc":"/res/media/app/facilities/free-station-wi-fi.jpg",
+          "content_en": "<p>Free Wi-Fi access is available in Hong Kong West Kowloon Station. Enjoy free Wi-Fi service by connecting to &quot;MTR Free Wi-Fi&quot; using an internet enabled smart phone / computer and stay connected with the world.</p><ul><li>The use of the free MTR Wi-Fi service by each eligible Wi-Fi device is limited to a maximum of 4 sessions of 30 minutes each per day (from 00:00 – 23:59). A fresh session will start with every new connection. If the connection is disconnected and restarted, it will count as a new session.</li><li>First set the network name (SSID) to &quot;MTR Free Wi-Fi&quot;. Launch your internet browser. Type any URL into the address field and you will be redirected to the MTR Free Wi-Fi Service login page automatically. Click the &quot;Agree and connect&quot; button after you have read and agreed to the Terms of Service. You can now enjoy the free Wi-Fi service.</li><li>Some mobile headsets will auto-switch from Wi-Fi to mobile data connectivity under certain circumstances. To avoid auto-switch to mobile data connectivity, you could consider switching off the data function when using the Wi-Fi service.</li><li>The free MTR Wi-Fi service is provided by Comba Telecom Limited. Comba Telecom Limited is responsible for the quality of service provided. All users are subject to the Terms &amp; Conditions of Comba Telecom Limited listed on the first page when you access the Wi-Fi service.</li></ul>",
+          "content_tc": "<p>高鐵香港西九龍站站內範圍提供免費Wi-Fi！你可使用個人隨身設有上網功能的智能手機或電腦在站内範圍，以網絡名稱「MTR Free Wi-Fi」網絡，享用免費Wi-Fi服務，讓你隨時緊貼網絡世界。</p><p>注意事項：</p><ul><li>每部已設定的流動上網裝置於一天內（00:00 - 23:59）可使用港鐵免費流動上網服務最多4節，每節30分鐘。每節時數不可累積，如綫路中斷後重新連綫，將視作新一節計算。</li><li>首先將網絡名稱(SSID)設定為「MTR Free Wi-Fi」，開啟瀏覽器，輸入任何網址，即自動連結到「港鐵免費流動上網服務」的登入版面。先細閱條款及細則，再按「同意並連接」，即可免費上網。</li><li>有些手機設定在某些情況下會將流動上網設定自動轉為數據傳輸。為免發生自動轉換，建議使用流動上網服務前先關掉數據傳輸功能。</li><li>港鐵免費流動上網服務之網絡供應商為Comba Telecom Limited (京信通信)。Comba Telecom Limited (京信通信)負責有關流動上網服務之質素。使用此服務人士均受Comba Telecom Limited (京信通信)之服務條款及細則規限，有關細節詳列於港鐵免費流動上網服務網頁之首頁。</li></ul>",
+          "content_sc": "<p>高铁香港西九龙站站内范围提供免费Wi-Fi！你可使用个人随身设有上网功能的智能手机或计算机在站内范围，以网络名称「MTR Free Wi-Fi」网络，享用免费Wi-Fi服务，让你随时紧贴网络世界。</p><p>注意事项：</p><ul><li>每部已设定的流动上网装置于一天内（00:00 - 23:59）可使用港铁免费流动上网服务最多4节，每节30分钟。每节时数不可累积，如线路中断后重新连线，将视作新一节计算。</li><li>首先将网络名称(SSID)设定为「MTR Free Wi-Fi」，开启浏览器，输入任何网址，即自动连结到「港铁免费流动上网服务」的登入版面。先细阅条款及细则，再按「同意并连接」，即可免费上网。</li><li>有些手机设定在某些情况下会将流动上网设定自动转为数据传输。为免发生自动转换，建议使用流动上网服务前先关掉数据传输功能。</li><li>港铁免费流动上网服务之网络供货商为Comba Telecom Limited (京信通信)。Comba Telecom Limited (京信通信)负责有关流动上网服务之质素。使用此服务人士均受Comba Telecom Limited (京信通信)之服务条款及细则规限，有关细节详列于港铁免费流动上网服务网页之首页。</li></ul>"
+        },
+        {
+          "id": 5,
+          "title_en": "Free Mobile Device Charging Service",
+          "title_tc": "免費流動裝置充電服務",
+          "title_sc": "免费流动装置充电服务",
+          "image_en":"/res/media/app/facilities/mobile-device-charging.jpg",
+          "image_tc":"/res/media/app/facilities/mobile-device-charging.jpg",
+          "image_sc":"/res/media/app/facilities/mobile-device-charging.jpg",
+          "content_en": "<p>Free mobile device charging service counters are located at Exit G (3), B2 Arrival Concourse (2) and B3 Departure Concourse (3) for passengers to charge their personal electronic devices.</p><p>We provide different types of charging sockets. In accordance with Hong Kong’s statutory safety specification, 3-rectangular-pin 13A plugs must be used. Passengers can use their own adapters to comply with the safety specification. All charging counters have USB sockets for passengers to charge their devices using a USB cable.</p>",
+          "content_tc": "<p>免費流動裝置充電服務處分別位於G出口處 (3個)、B2抵港大堂(2個)及B3離港大堂 (3個) ,方便乘客為個人電子裝置充電。</p><p>我們提供不同類型的充電插座。根據香港的法定安全規格，必須使用13安培（13A）的三方腳插頭，旅客可自備此款插頭的轉接器，以符合安全規定。各個地點亦設有USB插座，旅客可自攜USB連接線以便充電。</p>",
+          "content_sc": "<p>免费流动装置充电服务处分别位于G出口处 (3个)、B2抵港大堂(2个)及B3离港大堂 (3个) ,方便乘客为个人电子装置充电。</p><p>我们提供不同类型的充电插座。根据香港的法定安全规格，必须使用13安培（13A）的三方脚插头，旅客可自备此款插头的转接器，以符合安全规定。各个地点亦设有USB插座，旅客可自携USB连接线以便充电。</p>"
+        },
+		{
+          "id": 6,
+          "title_en": "Business Lounge",
+          "title_tc": "商務候車室",
+          "title_sc": "商务休息室",
+          "image_en":"",
+          "image_tc":"",
+          "image_sc":"",
+          "content_en": "<p>Passengers of Business Class, Premium Class and First Class can access Business Lounge from Level B3 to enjoy a comfortable waiting environment.</p>",
+          "content_tc": "<p>從B3層可進入商務候車室，為商務座、特等座和一等座的乘客提供更舒適的候車環境。</p>",
+          "content_sc": "<p>从B3层可进入商务候车室，为商务座、特等座和一等座的乘客提供更舒适的候车环境。</p>"
+        },
+        {
+          "id": 7,
+          "title_en": "Toilets/ Nursing Rooms",
+          "title_tc": "洗手間/ 育嬰間",
+          "title_sc": "洗手间/ 育婴间",
+          "image_en":"",
+          "image_tc":"",
+          "image_sc":"",
+          "content_en": "<p><strong>Toilets</strong><br>Male and female toilets are available at every level of Hong Kong West Kowloon Station. In addition, accessible toilets are also available for passengers with special needs. Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/en/guide/accessibility.html\")'><font color=\"red\">here</font></a> for more information on barrier-free facilities.</p><p><strong>Nursing Rooms</strong><br>Nursing rooms are located at B1 (3), B2 (4) and B3 (5). We clean and sanitise the nursing rooms regularly to ensure that they remain hygienic.</p><p>For location of the nursing rooms, please check the map for each level or visit a Information Counter.</p>",
+          "content_tc": "<p><strong>洗手間</strong><br>香港西九龍站各樓層皆設有男、女洗手間，同時亦設有無障礙多目的洗手間，方便乘客使用。<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/guide/accessibility.html\")'><font color=\"red\">按此</font></a>了解更多有關無障礙設施。</p><p>位置可參閱各樓層之位置圖或到詢問處查詢。</p><p><strong>育嬰室</strong><br>育嬰室分別位於B1 (3間)、B2 (4間)、B3 (5間), 為確保育嬰室的衛生水準，我們會定時進行清潔和消毒。</p><p>位置可參閱各樓層之位置圖或到詢問處查詢。</p>",
+          "content_sc": "<p><strong>洗手间</strong><br>香港西九龙站各楼层皆设有男、女洗手间，同时亦设有无障碍多目的洗手间，方便乘客使用。<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/sc/guide/accessibility.html\")'><font color=\"red\">按此</font></a>了解更多有关无障碍设施。</p><p>位置可参阅各楼层之位置图或到询问处查询。</p><p><strong>育婴室</strong><br>育婴室分别位于B1 (3间)、B2 (4间)、B3 (5间), 为确保育婴室的卫生水平，我们会定时进行清洁和消毒。</p><p>位置可参阅各楼层之位置图或到询问处查询。</p>"
+        },
+        {
+          "id": 8,
+          "title_en": "Water Dispensers",
+          "title_tc": "飲水機",
+          "title_sc": "饮水机",
+          "image_en":"",
+          "image_tc":"",
+          "image_sc":"",
+          "content_en": "<p>Water dispensers are available at Level B3 waiting concourse for passengers to use.</p>",
+          "content_tc": "飲水機設於B3層離港大堂，方便乘客使用。",
+          "content_sc": "饮水机设于B3层离港大堂，方便乘客使用。"
+        },
+        {
+          "id": 9,
+          "title_en": "Barrier-free Facilities",
+          "title_tc": "無障礙設施",
+          "title_sc": "无障碍设施",
+          "image_en":"",
+          "image_tc":"",
+          "image_sc":"",
+          "content_en": "<p>Hong Kong West Kowloon Station provides the following barrier-free facilities and services for passengers with different special needs:</p><ol><li><strong>Mobility Impaired Passengers:</strong><br><br><p><strong>Wheelchair Seat Reservation</strong><br>Passengers with special needs can reserve a wheelchair seat with our staff during ticket purchase</p><p><strong>Lifts</strong><br>Currently, Hong Kong West Kowloon Station has 64 lifts that connect the different levels and ground floor of the station to make it easy for wheelchair users to enter and exit the station and use the facilities.</p><p><strong>Wide Gate</strong><br>The width of the wide gate enables wheelchair users to go through the gate without needing to ask for assistance from station staff</p><p><strong>Accessible Toilets</strong><br>Designated accessible toilets equipped with handrails and call buttons are provided at Hong Kong West Kowloon Station to meet the needs of passengers with disabilities</p><p><strong>Wheelchair Space inside Car</strong><br>Wheelchair spaces are provided in High Speed Trains. There are 2 spaces in Vibrant Express Car 7. Passengers in need may visit the Ticketing Counters at Hong Kong West Kowloon Station or call our Ticketing and Service Hotline to make arrangements</p></li><li><strong>Visually Impaired Passengers:</strong><br><br><p><strong>Audible Lift Message</strong><br>Audible messages indicating direction and floor level are broadcast in all passenger lifts in Hong Kong West Kowloon Station</p><p><strong>Tactile Guide Path</strong><br>Tactile guide paths are installed at Hong Kong West Kowloon Station to guide passengers to different station facilities</p><p><strong>Audible Device at Exit/Entry Gates</strong><br>In Hong Kong West Kowloon Station, an audible device is located at the gate reached from the tactile guide path. When using the gate with a valid ticket, the audio device will say \"please enter\"</p> <p><strong>Escalator Audible Warning Signals</strong><br>Escalator audible warning signals are installed in Hong Kong West Kowloon Station to help passengers locate escalators and identify the running direction of the escalator at platforms and in the concourses</p><p><strong>Tactile Station Layout Map</strong><br>Hong Kong West Kowloon Station is equipped with Tactile Station Layout Maps in concourses and platforms so that visually impaired passengers can become familiar with the station layout, use the station facilities, and find barrier-free access to trains</p><p><strong>Facilities with Braille Plates</strong><br>Braille plates are installed on Ticket Issuing Machines, accessible toilets, lift buttons, lift level plates and staircase handrails in Hong Kong West Kowloon Station</p><p><strong>Broadcast at Platform Level and Door Closing Chimes</strong><br>Automatic voice announcements will be broadcast when a train is approaching and arriving at the platform. A chime will also sound when the train doors/platform screen doors/automatic platform gates are opening/closing. Moreover, all trains are equipped with a digital broadcasting system which automatically states the next station name</p></li><li><strong>Hearing Impaired Passengers:</strong><br><br><p><strong>Information Cards</strong><br>Information Cards, which facilitate communication between hearing impaired passengers and station staff, are available at all information counters at Hong Kong West Kowloon Station.</p><p><strong>Passenger Information Display Systems</strong><br>Passenger Information Display Systems provide visual messages and are supported by an audible warning in case of an incident. They are installed at the entrances and concourses of Hong Kong West Kowloon Station, with the next train arriving visual message always displayed on platforms. Trains are also equipped with displays to show the name of the next station and railway operation information</p></li></ol>",
+          "content_tc": "<p>香港西九龍站為不同需要的人士提供以下的無障礙設施和服務：</p><ol><li><strong>行動不便乘客：</strong><br><br><p><strong>預訂輪椅座位</strong><br>有需要的旅客可在購票時向職員預訂有關的輪椅座位</p><p><strong>升降機</strong><br>現時香港西九龍站已裝設64部升降機，連接車站各樓層和地面，方便輪椅使用者進出車站及使用各項設施</p><p><strong>闊閘機</strong><br>闊閘機有足夠的寬度，讓輪椅使用者可自行通過入閘機</p><p><strong>無障礙洗手間</strong><br>香港西九龍站設有無障礙洗手間，並配備扶手及召援鐘以配合殘疾人士的需要</p><p><strong>車廂內的輪椅停泊處</strong><br>高速列車車廂內設有輪椅停泊處，而於港鐵動感號的兩個輪椅停泊處則設於第七卡車廂。使用輪椅的乘客，可親臨香港西九龍站票務處或致電購票熱綫，以便安排合適的座位</p></li><li><strong>視障乘客：</strong><br><br><p><strong>升降機發聲器</strong><br>香港西九龍站內所有客用升降機均裝有發聲器，播放信息提示乘客升降機的方向和樓層</p><p><strong>失明人士引導徑</strong><br>香港西九龍站設有失明人士引導徑，播放信息提示乘客前往不同的車站設施</p><p><strong>出入閘機發聲器</strong><br>香港西九龍站連接失明人士引導徑的出/入閘機已裝設發聲器。使用有效車票入閘時，發聲器會發出「請入閘」語音訊息</p><p><strong>扶手電梯發聲提示器</strong><br>香港西九龍站安裝了扶手電梯發聲提示器，協助月台上及／或大堂內的乘客確定扶手電梯的位置及運行方向</p><p><strong>觸覺車站佈置圖</strong><br>香港西九龍站的月台或大堂已安裝觸覺車站佈置圖，此裝置具備發聲功能及點字指引，藉此幫助視障乘客認識車站的佈置，以便使用車站的設施及無障礙的列車服務</p><p><strong>配備點字板的設施</strong><br>香港西九龍站內的售票機、無障礙洗手間、升降機按鈕、升降機樓層標誌牌及樓梯扶手桿，均設有點字牌</p><p><strong>月台廣播及開關門提示聲</strong><br>香港西九龍站的車站月台設置自動廣播系統，當列車駛入及抵達月台時會發出廣播。當車門／月台幕門／自動月台閘門打開／關閉時，開門／關門提示聲會自動響起。另外，列車亦設有數碼自動廣播系統，提供下一個車站名稱的資料</p></li><li><strong>聽障乘客：</strong><br><br><p><strong>諮詢卡</strong><br>香港西九龍站的詢問處已備有諮詢卡，方便聽障乘客與車站職員溝通</p><p><strong>乘客資訊顯示系統</strong><br>香港西九龍站入口和大堂都設有乘客資訊顯示系統，為乘客提供視像信息。一旦發生事故，乘客資訊顯示系統會發出警報聲響，提示乘客注意當時所顯示的信息。此外，月台上的乘客資訊顯示系統會顯示列車抵站時間的視像信息。列車上亦裝有顯示屏，為乘客提供下一站的名稱及鐵路運作的資訊</p></li></ol>",
+          "content_sc": "<p>香港西九龙站为不同需要的人士提供以下的无障碍设施和服务：</p><ol><li><strong>行动不便乘客：</strong><br><br><p><strong>预订轮椅座位</strong><br>有需要的旅客可在购票时向职员预订有关的轮椅座位</p><p><strong>升降机</strong><br>现时香港西九龙站已装设64部升降机，连接车站各楼层和地面，方便轮椅使用者进出车站及使用各项设施</p><p><strong>阔闸机</strong><br>阔闸机有足够的宽度，让轮椅使用者可自行通过入闸机</p><p><strong>无障碍洗手间</strong><br>香港西九龙站设有无障碍洗手间，并配备扶手及召援钟以配合残疾人士的需要</p><p><strong>车厢内的轮椅停泊处</strong><br>高速列车车厢内设有轮椅停泊处，而于港铁动感号的两个轮椅停泊处则设于第七节车厢。使用轮椅的乘客，可亲临香港西九龙站票务处或致电购票热线，以便安排合适的座位</p></li><li><strong>视障乘客：</strong><br><br><p><strong>升降机发声器</strong><br>香港西九龙站内所有客用升降机均装有发声器，播放信息提示乘客升降机的方向和楼层</p><p><strong>失明人士引导径</strong><br>香港西九龙站设有失明人士引导径，播放信息提示乘客前往不同的车站设施</p><p><strong>出入闸机发声器</strong><br>香港西九龙站连接失明人士引导径的出/入闸机已装设发声器。使用有效车票入闸时，发声器会发出「请入闸」语音消息</p><p><strong>扶手电梯发声提示器</strong><br>香港西九龙站安装了扶手电梯发声提示器，协助月台上及／或大堂内的乘客确定扶手电梯的位置及运行方向</p><p><strong>触觉车站布置图</strong><br>香港西九龙站的月台或大堂已安装触觉车站布置图，此装置具备发声功能及点字指引，藉此帮助视障乘客认识车站的布置，以便使用车站的设施及无障碍的列车服务</p><p><strong>配备点字板的设施</strong><br>香港西九龙站内的售票机、无障碍洗手间、升降机按钮、升降机楼层标志牌及楼梯扶手杆，均设有点字牌</p><p><strong>月台广播及开关门提示声</strong><br>香港西九龙站的车站月台设置自动广播系统，当列车驶入及抵达月台时会发出广播。当车门／月台幕门／自动月台闸门打开／关闭时，开门／关门提示声会自动响起。另外，列车亦设有数码自动广播系统，提供下一个车站名称的数据</p></li><li><strong>听障乘客：</strong><br><br><p><strong>咨询卡</strong><br>香港西九龙站的询问处已备有咨询卡，方便听障乘客与车站职员沟通</p><p><strong>乘客信息显示系统</strong><br>香港西九龙站入口和大堂都设有乘客信息显示系统，为乘客提供视像信息。一旦发生事故，乘客信息显示系统会发出警报声响，提示乘客注意当时所显示的信息。此外，月台上的乘客信息显示系统会显示列车抵站时间的视像信息。列车上亦装有显示屏，为乘客提供下一站的名称及铁路运作的信息</p></li></ol>"
+        },
+        {
+          "id": 10,
+          "title_en": "Smoking Room",
+          "title_tc": "吸煙室",
+          "title_sc": "吸烟室",
+          "image_en":"",
+          "image_tc":"",
+          "image_sc":"",
+          "content_en": "<p>According to MTR By-laws, smoking is prohibited inside Hong Kong West Kowloon Station. Passengers can only smoke inside the designated smoking room, which is located at Level B3 waiting concourse near ticket gate 8 (near 8-16 cars).</p>",
+          "content_tc": "<p>根據港鐵附例，香港西九龍站內嚴禁吸煙，乘客只可在指定的吸煙室內吸煙。吸煙室設於B3層離港大堂，鄰近檢票閘口8（近8-16車廂）。</p>",
+          "content_sc": "<p>根据港铁附例，香港西九龙站内严禁吸烟，乘客只可在指定的吸烟室内吸烟。吸烟室设于B3层离港大堂，邻近检票闸口8（近8-16车厢）。</p>"
+        },
+        {
+          "id": 11,
+          "title_en": "Lost and Found Counter",
+          "title_tc": "失物認領處",
+          "title_sc": "失物认领处",
+          "image_en":"",
+          "image_tc":"",
+          "image_sc":"",
+          "content_en": "<p>Passengers who have lost any items at Hong Kong West Kowloon Station should contact or visit the lost and found counter. The lost and found counter provides lost item reporting, storage, enquiry and collection services.</p>",
+          "content_tc": "<p>乘客如在香港西九龍站遺失物件，請聯絡或前往失物認領處。失物認領處提供財物報失、在香港西九龍站遺失財物儲存、查詢及認領服務。</p>",
+          "content_sc": "<p>乘客如在香港西九龙站遗失物件，请联络或前往失物认领处。失物认领处提供财物报失、在香港西九龙站遗失财物储存、查询及认领服务。</p>"
+        },
+        {
+          "id": 13,
+          "title_en": "Special Assistance",
+          "title_tc": "特別協助",
+          "title_sc": "特別协助",
+          "image_en":"",
+          "image_tc":"",
+          "image_sc":"",
+          "content_en": "<p>MTR Corporation is committed to providing services of the highest quality. We provide special assistance to passengers to satisfy different travel needs so that passengers can enjoy a satisfactory journey. For more information, please read our detailed guide or speak to one of our helpful staff at the Information Counters.</p>",
+          "content_tc": "<p>港鐵一直致力提供最優質的服務，我們亦為乘客提供特別協助，以滿足多種不同的旅遊需要，讓乘客的旅程更臻圓滿。詳情請參閱我們的詳細指南，如要與職員對話溝通，請到詢問處了解。</p>",
+          "content_sc": "<p>港铁一直致力提供最优质的服务，我们亦为乘客提供特别协助，以满足多种不同的旅游需要，让乘客的旅程更臻圆满。详情请参阅我们的详细指南，如要与职员对话沟通，请到询问处了解。</p>"
+        },
+        {
+          "id": 14,
+          "title_en": "Station Car Park",
+          "title_tc": "停車場",
+          "title_sc": "停车场",
+          "image_en":"",
+          "image_tc":"",
+          "image_sc":"",
+          "content_en": "<p>Station car park is located at B2 level of the station. Discount scheme is available for High Speed Rail \"Park and Ride\" users<sup>*</sup>.</p><p><sup>*</sup>Terms & Conditions apply</p>",
+          "content_tc": "<p>停車場設於車站B2層，並提供泊車轉乘優惠予高鐵乘客<sup>*</sup>。</p><p><sup>*</sup>優惠受條款及細則約束</p>",
+          "content_sc": "<p>停车场设于车站B2层，并为高铁乘客提供泊车换乘优惠<sup>*</sup>。</p><p><sup>*</sup>优惠受条款及细则约束</p>"
+        },
+        {
+          "id": 15,
+          "title_en": "Left Baggage Service",
+          "title_tc": "行李寄存服務",
+          "title_sc": "行李寄存服务",
+          "image_en":"",
+          "image_tc":"",
+          "image_sc":"",
+          "content_en": "<p>Left baggage service and baggage lockers at Hong Kong West Kowloon Station are provided by Far East Storage. Service details are as follow:<br>Shop Location: GF, WEK G-2<br>Nearest High Speed Rail Exit: Exit B at Level G</p>",
+          "content_tc": "<p>遠東行李寄存在香港西九龍站內提供行李寄存及自助行李寄存櫃服務，詳情如下：<br>商店位置: GF, WEK G-2<br>最近高鐵站出口: 地面 B 出口</p>",
+          "content_sc": "<p>远东行李寄存在香港西九龙站内提供行李寄存及自助行李寄存柜服务，详情如下：<br>商店位置: GF, WEK G-2<br>最近高铁站出口: 地面 B 出口</p>"
+        },
+		{
+          "id": 16,
+          "title_en": "Hong Kong West Kowloon Station Public Open Space",
+          "title_tc": "香港西九龍站公共休憩空間",
+          "title_sc": "香港西九龙站公共休憩空间",
+          "image_en":"",
+          "image_tc":"",
+          "image_sc":"",
+          "content_en": "<ol><li>The Green Plaza and Bus Terminus Rooftop Garden are both open for public use</li><li>Crowd management measures may be implemented during festivals or major events, or under any circumstances found necessary</li><li>Sightseeing Deck opening hours: 07:00-22:00 daily</li><li>The Sightseeing Deck will be closed temporarily due to adverse weather conditions or operational needs without prior notice being given</li></ol>",
+          "content_tc": "<ol><li>綠化空間和巴士總站天台花園均開放予公眾使用</li><li>於節日期間、大型活動或有需要時，我們或會實施人潮管理措施</li><li>觀景台開放時間：每日早上7時至晚上10時</li><li>如遇惡劣天氣或因應營運需要，觀景台會暫時關閉，恕不另行通知</li></ol>",
+          "content_sc": "<ol><li>绿化空间和巴士总站天台花园均开放予公众使用</li><li>于节日期间、大型活动或有需要时，我们或会实施人潮管理措施</li><li>观景台开放时间：每日早上7时至晚上10时</li><li>如遇恶劣天气或因应营运需要，观景台会暂时关闭，恕不另行通知</li></ol>"
+        },
+		{
+          "id": 17,
+          "title_en": "Station Layout",
+          "title_tc": "位置圖",
+          "title_sc": "位置图",
+          "image_en":"",
+          "image_tc":"",
+          "image_sc":"",
+          "content_en": "<p>Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/WEK-station-layout-L1-L2.pdf\")'><font color=\"red\">here</font></a> to download L1 & L2 Station layout</p><p>Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/WEK-station-layout-G.pdf\")'><font color=\"red\">here</font></a> to download G Station layout</p><p>Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/WEK-station-layout-B1.pdf\")'><font color=\"red\">here</font></a> to download B1 Station layout</p><p>Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/WEK-station-layout-B2.pdf\")'><font color=\"red\">here</font></a> to download B2 Station layout</p><p>Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/WEK-station-layout-B3.pdf\")'><font color=\"red\">here</font></a> to download B3 Station layout</p><p>Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/WEK-open-space-location-map.pdf\")'><font color=\"red\">here</font></a> to download Public Open Space Station layout</p>",
+          "content_tc": "<p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/WEK-station-layout-L1-L2.pdf\")'><font color=\"red\">按此</font></a>下載L1 & L2位置圖</p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/WEK-station-layout-G.pdf\")'><font color=\"red\">按此</font></a>下載G位置圖</p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/WEK-station-layout-B1.pdf\")'><font color=\"red\">按此</font></a>下載B1位置圖</p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/WEK-station-layout-B2.pdf\")'><font color=\"red\">按此</font></a>下載B2位置圖</p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/WEK-station-layout-B3.pdf\")'><font color=\"red\">按此</font></a>下載B3位置圖</p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/WEK-open-space-location-map.pdf\")'><font color=\"red\">按此</font></a>下載公共休憩空間位置圖</p>",
+          "content_sc": "<p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/WEK-station-layout-L1-L2.pdf\")'><font color=\"red\">按此</font></a>下载L1 & L2位置图</p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/WEK-station-layout-G.pdf\")'><font color=\"red\">按此</font></a>下载G位置图</p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/WEK-station-layout-B1.pdf\")'><font color=\"red\">按此</font></a>下载B1位置图</p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/WEK-station-layout-B2.pdf\")'><font color=\"red\">按此</font></a>下载B2位置图</p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/WEK-station-layout-B3.pdf\")'><font color=\"red\">按此</font></a>下载B3位置图</p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/WEK-open-space-location-map.pdf\")'><font color=\"red\">按此</font></a>下载公共休憩空间位置图（仅提供繁体中文版本）</p>"
+        }
+      ]
+    },
+    {
+      "type_id": 2,
+      "type_en": "Train Facilities",
+      "type_tc": "列車設施",
+      "type_sc": "列车设施",
+      "type_list": [
+        {
+          "id": 1,
+          "title_en": "Vibrant Express",
+          "title_tc": "港鐵動感號",
+          "title_sc": "港铁动感号",
+          "image_en": "/res/media/app/facilities/vibrant.jpg",
+          "image_tc": "/res/media/app/facilities/vibrant.jpg",
+          "image_sc": "/res/media/app/facilities/vibrant.jpg",
+          "content_en": "<p>Vibrant Express has two classes of travel. First class has 68 seats, while second class has 511 seats. The direction of all seats can be adjusted in line with the direction of the train. Baggage racks are available above the seats. Each car also has racks for baggage. Free Wi-Fi service is available on Vibrant Express. Passengers can enjoy internet using their Wi-Fi enabled mobile devices. Wi-Fi service provided by Comba Telecom Limited.</p><p><strong>First Class </strong></p><p>A total of 68 first class seats are available in the first and last cars. </p><p>Featuring soft lighting, seats in silver grey with grey rose patterns and rose red, as well as rose patterns on the floor, the cars feel comfortable and look fashionable. </p><p>Facilities include: Individual reading light, Multi-standard power socket, Foldable seat table, footrest and hanging hook</p><p>More hanging hooks are available on the side of the car next to the seats.</p><p>Besides, First class provides individual audio output socket with music and in-train TV channels. Simply plug in your earphones to enjoy music or receive audio broadcast from the in-train TV during the journey.</p><p>First Class passengers can stay connected with the world by selecting the &quot;MTR Free Wi-Fi&quot; network for free connectivity throughout the journey.</p><strong>Second Class</strong><p>A total of 511 second class seats are available in the cars located in the middle of the train.</p><p>Featuring seats in light grey and different shades of orange, as well as a wavelike pattern on the floor, the cars feel bright and vibrant.</p><p>Two wheelchair spaces are located in the seventh car.</p><p>Facilities include: Multi-standard power socket, Foldable seat table, footrest and hanging hook</p><p>More hanging hooks are available on the side of the car next to the seats.</p><p>Second Class passengers can connect to the world by selecting the &quot;MTR Free Wi-Fi&quot; network for free connectivity of up to 15 minutes per session with maximum 1 session in Hong Kong section and maximum 2 sessions in Mainland section for each smart phone / computer. A fresh session will start with every new connection. If the connection is disconnected and restarted, it will count as a new session.</p><strong>Free In-Train Wi-Fi Service Notes:</strong><ul><li>Some mobile headsets will auto-switch from Wi-Fi to mobile data connectivity under certain circumstances. To avoid auto-switch to mobile data connectivity, you could consider switching off the data function when using the Wi-Fi service.</li><li>The free MTR Wi-Fi service is provided by Comba Telecom Limited. Comba Telecom Limited is responsible for the quality of service provided. All users are subject to the Terms & Conditions of Comba Telecom Limited listed on the first page when you access the Wi-Fi service.</li></ul><p><strong>Hong Kong Section (Hong Kong West Kowloon Station to Hong Kong/Mainland Boundary)</strong></p><ul><li>First set the network name (SSID) to &quot;MTR Free Wi-Fi&quot;. You will be redirected to the MTR Free Wi-Fi Service login page automatically. Click the &quot;Agree and connect&quot; button after you have read and agreed to the Terms of Service. You can now enjoy the free Wi-Fi service.</li></ul><p><strong>Mainland Section (Hong Kong/Mainland Boundary to Guangzhounan Station)</strong></p><ul><li>The Wi-Fi service to be provided after the train has entered the Mainland area will be subject to the laws and regulations of the Mainland. Passengers are required to reconnect to the Wi-Fi service when crossing the boundary. The Wi-Fi service in the Mainland area will only be provided to passengers with a PRC mobile phone number registered with the Mainland's Real Name Policy.&nbsp;</li><li>First set the network name (SSID) to &quot;MTR Free Wi-Fi&quot;. You will be redirected to the MTR Free Wi-Fi Service login page automatically. Connect with a PRC mobile phone number registered with the Mainland's Real Name Policy after you have read and agreed to the Terms of Service. You can now enjoy the free Wi-Fi service.</li></ul>",
+          "content_tc": "<p>港鐵動感號設有兩個座位等級，一等座提供68個座位，二等座，提供511個座位。整列座椅可調校方向，配合行車。座位上方設有行李放置架。每卡車廂內亦有行李擺放架。港鐵動感號為乘客提供免費列車Wi-Fi無線上網服務，乘客可使用已內置Wi-Fi功能的手提產品，享受上網樂趣。服務由Comba Telecom Limited (京信通信)提供。</p><p><strong>一等座</strong></p><p>列車頭、尾兩卡車廂為一等座，提供68個座位。</p><p>車廂內燈光柔和，座椅顏色主要以銀灰襯托灰色玫瑰花紋，另搭配玫瑰紅色座椅，地板亦印有玫瑰花紋。整體感覺舒適時尚。</p><p>設施包括: 獨立的閱讀燈，多地制式電源插座，可開合的餐桌、腳踏及掛鉤</p><p>座椅旁的牆身亦設有掛衣鉤</p><p>此外，一等座設個人音頻輸出插座，備有音樂及車廂電視選台，只要插上自攜耳筒，便可沿途享受悠揚樂曲或接收車廂電視屏的語音廣播。</p><p>一等座乘客可在車廂內，以網絡名稱「MTR Free Wi-Fi」網絡，全程享用免費Wi-Fi服務，讓你全程緊貼網絡世界。</p><p><strong>二等座</strong></p><p>列車中間的車廂為二等座，提供511個座位。</p><p>座椅顏色以淺灰色配襯深淺不一的橙色，地板印上波浪形紋，車廂內整體感覺明亮，充滿朝氣活力。</p><p>第七號車廂設有兩個輪椅使用者空間。</p><p>設施包括: 多地制式電源插座，可開合的餐桌、腳踏及掛鉤</p><p>座椅旁的牆身亦設有掛衣鉤</p><p>二等座乘客可在車廂內，以網絡名稱「MTR Free Wi-Fi」網絡，享用15分鐘一節的免費Wi-Fi服務，而每部流動上網裝置於香港段最多可使用1節，於中國內地段最多可使用2節，讓你連接網絡世界。每節服務使用時數不可累積，如綫路中斷後重新連綫，將視作新一節計算。</p><p><strong>免費列車Wi-Fi無線上網服務注意事項：</strong></p><ul><li>有些手機設定在某些情況下會將流動上網設定自動轉為數據傳輸。為免發生自動轉換，建議使用流動上網服務前先關掉數據傳輸功能。</li><li>港鐵免費流動上網服務之網絡供應商為Comba Telecom Limited (京信通信)。 Comba Telecom Limited (京信通信)負責有關流動上網服務之質素。使用此服務人士均受Comba Telecom Limited (京信通信)之服務條款及細則規限，有關細節詳列於港鐵免費流動上網服務網頁之首頁。</li></ul><p><strong>香港境內（香港西九龍站至香港／內地邊境）</strong></p><ul><li>首先將網絡名稱(SSID)設定為「MTR Free Wi-Fi」，即自動連結到「港鐵免費流動上網服務」的登入版面。先細閱條款及細則，再按「同意並連接」，即可免費上網。</li></ul><p><strong>內地境內（香港／內地邊境至廣州南站）</strong></p><ul><li>進入中國境內範圍的Wi-Fi 服務受中國內地的法律和法規所規管，乘客需重新連接以繼續享用服務，並只會提供予擁有已通過中國內地實名制登記的手機號碼的乘客。</li><li>首先將網絡名稱(SSID)設定為「MTR Free Wi-Fi」，即自動連結到「港鐵免費流動上網服務」的登入版面。先細閱條款及細則，再以已通過中國內地實名制登記的手機號碼連接上網。</li></ul>",
+          "content_sc": "<p>港铁动感号设有两个座位等级，一等座提供68个座位，二等座，提供511个座位。整列座椅可调校方向，配合行车。座位上方设有行李放置架。每卡车厢内亦有行李摆放架。港铁动感号为乘客提供免费列車Wi-Fi无线上网服务，乘客可使用已内置Wi-Fi功能的手提产品，享受上网乐趣。服务由Comba Telecom Limited (京信通信)提供。</p><p><strong>一等座</strong></p><p>列车头丶尾两卡车厢为一等座，提供68个座位。</p><p>车厢内灯光柔和，座椅颜色主要以银灰衬托灰色玫瑰花纹，另搭配玫瑰红色座椅，地板亦印有玫瑰花纹。整体感觉舒适时尚。</p><p>设施包括︰独立的阅读灯，多地制式电源插座，可开合的餐桌、脚踏及挂钩</p><p>座椅旁的墙身亦设有挂衣钩</p><p>此外，一等座设个人音频输出插座，备有音乐及车厢电视选台，只要插上自携耳筒，便可沿途享受悠扬乐曲或接收车厢电视屏的语音广播。</p><p>一等座乘客可在车厢内，以网络名称「MTR Free Wi-Fi」网络，全程享用免费Wi-Fi服务，让你全程紧贴网络世界。</p><p><strong>二等座</strong></p><p>列车中间的车厢为二等座，提供511个座位。</p><p>座椅颜色以浅灰色配衬深浅不一的橙色，地板印上波浪形纹，车厢内整体感觉明亮，充满朝气活力。</p><p>第七号车厢设有两个轮椅使用者空间。</p><p>设施包括︰多地制式电源插座，可开合的餐桌、脚踏及挂钩</p><p>座椅旁的墙身亦设有挂衣钩</p><p>二等座乘客可在车厢内，以网络名称「MTR Free Wi-Fi」网络，享用15分钟一节的免费Wi-Fi服务，而每部流动上网装置于香港段最多可使用1节，于中国内地段最多可使用2节，让你连接网络世界。每节服务使用时数不可累积，如线路中断后重新连线，将视作新一节计算。</p><p><strong>免费列車Wi-Fi无线上网服务注意事项：</strong></p><ul><li>有些手机设定在某些情况下会将流动上网设定自动转为数据传输。为免发生自动转换，建议使用流动上网服务前先关掉数据传输功能。</li><li>港铁免费流动上网服务之网络供货商为Comba Telecom Limited (京信通信)。 Comba Telecom Limited (京信通信)负责有关流动上网服务之质素。使用此服务人士均受Comba Telecom Limited (京信通信)之服务条款及细则规限，有关细节详列于港铁免费流动上网服务网页之首页。</li></ul><p><strong>香港境内（香港西九龙站至香港／内地边境）</strong></p><ul><li>首先将网络名称(SSID)设定为「MTR Free Wi-Fi」，即自动连接到「港铁免费流动上网服务」的登入版面。先细阅条款及细则，再按「同意并连接」，即可免费上网。</li></ul><p><strong>内地境内（香港／内地边境至广州南站）</strong></p><ul><li>进入中国境内范围的Wi-Fi 服务受中国内地的法律和法规所规管，乘客需重新连接以继续享用服务，并只会提供予拥有已通过中国内地实名制登记的手机号码的乘客。</li><li>首先将网络名称(SSID)设定为「MTR Free Wi-Fi」，即自动连接到「港铁免费流动上网服务」的登入版面。先细阅条款及细则，再以已通过中国内地实名制登记的手机号码连接上网。</li></ul>"
+        }
+      ]
+    },
+    {
+      "type_id": 3,
+      "type_en": "Art in Station",
+      "type_tc": "車站藝術",
+      "type_sc": "车站艺术",
+      "type_list": [
+        {
+          "id": 1,
+          "title_en": "Hong Kong West Kowloon Station",
+          "title_tc": "香港西九龍站",
+          "title_sc": "香港西九龙站",
+          "image_en":"",
+          "image_tc":"",
+          "image_sc":"",
+          "content_en": "<p>There are high quality art pieces to enrich the travelling environment installed through the Hong Kong West Kowloon Station (WEK).</p><p>6 artworks by established local and international artists from Mainland China, South Korea, France, Morocco and Hong Kong serve as memorable focal points in various locations inside WEK. </p><p>For more details, please visit our dedicated <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/en/services-facilities/station-art.html\")'><font color=\"red\">\"WEK Artwork\"</font></a> website.</p>",
+          "content_tc": "<p>透過「港鐵 ‧ 藝術」計劃，高質素的藝術品在香港西九龍站為顧客帶來更舒適悅目的乘車環境。</p><p>一九九八年，隨著機場快綫及東涌綫通車時推出「機場快綫藝術品計劃」，港鐵把不同類型引人注目的藝術品，如雕塑品、懸垂藝術品及馬賽克畫作等融入車站的設計和建築，該計劃其後擴展至港鐵全綫網絡。</p><p>現時香港西九龍站共裝置了六件藝術品，由來自本地及世界各地如中國內地、南韓、法國及摩洛哥的藝術家創作，作為站內令人難忘的亮點，詳情可參考以下資訊。</p><p>詳程請參閱我們<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/services-facilities/station-art.html\")'><font color=\"red\">香港西九龍站‧港鐵藝術</font></a>的特設網站。</p>",
+          "content_sc": "<p>透过「港铁 ‧ 艺术」计划，高质素的艺术品在香港西九龙站为顾客带来更舒适悦目的乘车环境。</p><p>一九九八年，随着机场快线及东涌线通车时推出「机场快线艺术品计划」，港铁把不同类型引人注目的艺术品，如雕塑品、悬垂艺术品及马赛克画作等融入车站的设计和建筑，该计划其后扩展至港铁全线网络。</p><p>现时香港西九龙站共装置了六件艺术品，由来自本地及世界各地如中国内地、南韩、法国及摩洛哥的艺术家创作，作为站内令人难忘的亮点，详情可参考以下信息。</p><p>详程请参阅我们<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/sc/services-facilities/station-art.html\")'><font color=\"red\">香港西九龙站‧港铁艺术</font></a>的特设网站。</p>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+[
+  {
+    "pageid": "home",
+    "banners": [
+      {
+        "tit": "愛搭高鐵去旅遊",
+        "img": "./images/home/f36b3b425da04ff3a4d4023e810fdb.jpg",
+        "img_alt": "???",
+        "img_t": "./images/home/17806b06eac94926b9006b8b3121db.jpg",
+        "img_t_alt": "???",
+        "img_m": "./images/home/f0b90f79f8284e708a9be0d57aea41.jpg",
+        "img_m_alt": "???",
+        "link": "http://cheil.com/tw"
+      },
+      {
+        "tit": "高鐵1週年大賞",
+        "img": "./images/home/0dca5c8f8096420e895595738f8132.jpg",
+        "img_alt": "??1??",
+        "img_t": "./images/home/9db76edbac004ab1adad2ed4c0a380.jpg",
+        "img_t_alt": "??1??",
+        "img_m": "./images/home/00f1a93286c84d219e3e29ff76140f.jpg",
+        "img_m_alt": "??1??",
+        "link": "https://www.highspeed.mtr.com.hk/tc/travel/shenzhen.html"
+      },
+      {
+        "tit": " 長者搭高鐵 玩轉深圳$40優惠",
+        "img": "./images/home/4be2a8109503476984339892c1c042.jpg",
+        "img_alt": " ????$40??",
+        "img_t": "./images/home/42ada7ec382642ffbf5a193a75c4c2.jpg",
+        "img_t_alt": " ????$40??",
+        "img_m": "./images/home/a5adf16d86324a0283d1836be361f3.jpg",
+        "img_m_alt": " ????$40??",
+        "link": "https://www.highspeed.mtr.com.hk/tc/travel/shenzhen.html"
+      }
+    ]
+  },
+  {
+    "pageid": "hotspot",
+    "banners": [
+      {
+        "tit": "",
+        "img": "./images/hotspot/bc837e5d58ab4191a9eb25f054e1c3.jpg",
+        "img_alt": "image tag 3",
+        "img_t": "./images/hotspot/afa91aa25d4d4d8cb4d9030ced6f4b.jpg",
+        "img_t_alt": "image tag 3",
+        "img_m": "",
+        "img_m_alt": "",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "pageid": "theme",
+    "banners": [
+      {
+        "tit": "",
+        "img": "./images/theme/b4194b8c0da5471694384bf3930633.jpg",
+        "img_alt": "image tag1",
+        "img_t": "./images/theme/3a5f87ece96d4988a53152f45dd848.jpg",
+        "img_t_alt": "image tag 3",
+        "img_m": "",
+        "img_m_alt": "",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "pageid": "plan",
+    "banners": [
+      {
+        "tit": "",
+        "img": "./images/plan/dcc0df4bb1b34f049f9206b2219977.jpg",
+        "img_alt": "plan",
+        "img_t": "./images/plan/12c391650d9e4823b3182bfb2c9d2f.jpg",
+        "img_t_alt": "plan",
+        "img_m": "",
+        "img_m_alt": "",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "pageid": "agency",
+    "banners": [
+      {
+        "tit": "",
+        "img": "./images/agency/ff551b5f1def46bf8c28c0fc69d305.jpg",
+        "img_alt": "agency",
+        "img_t": "./images/agency/f92133c49a324027ae16b9c40ddfa6.jpg",
+        "img_t_alt": "agency",
+        "img_m": "",
+        "img_m_alt": "",
+        "link": ""
+      }
+    ]
+  },
+  {
+    "pageid": "offer",
+    "banners": [
+      {
+        "tit": "",
+        "img": "./images/offer/9a9626ebfb33491381b4380f4a9729.jpg",
+        "img_alt": "offer",
+        "img_t": "./images/offer/cf0bc7870b7a411aac6d611acddce3.jpg",
+        "img_t_alt": "offer",
+        "img_m": "",
+        "img_m_alt": "",
+        "link": ""
+      }
+    ]
+  }
+]

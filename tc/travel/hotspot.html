@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="zh-HK" itemscope="" itemtype="https://schema.org/WebPage">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>高鐵遊攻略 > 熱門城市</title>
+    <meta name="country" content="China">
+    <meta name="city" content="Hong Kong">
+    <meta name="robots" content="index,follow">
+    <meta name="copyright" content="香港鐵路有限公司">
+    <meta name="author" content="香港鐵路有限公司">
+
+    <link rel="icon" href="./images/common/favicon.ico" type="image/x-icon"/>
+    <link rel="shortcut icon" href="./images/common/favicon.ico" type="image/x-icon">
+
+    <meta name="keywords" content="高鐵遊攻略, 高速鐵路, High Speed Rail, MTR, 港鐵, 熱點推介, 主題旅遊, 行程推介, 高鐵旅遊專家">
+    <meta name="description" content="全長26公里的高速鐵路(香港段)以西九龍為起點，連接超過25,000公里的國家高鐵網絡。無論商務出行，抑或旅遊探親，高鐵帶給你一個舒適可靠的旅程，讓你以嶄新旅遊模式發掘更多更遠的地方！"></meta>
+
+    <meta property="og:url" content="https://www.highspeed.mtr.com.hk/tc/travel/">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="zh-HK">
+    <meta property="og:title" content="高速鐵路">
+    <meta property="og:description" content="全長26公里的高速鐵路(香港段)以西九龍為起點，連接超過25,000公里的國家高鐵網絡。無論商務出行，抑或旅遊探親，高鐵帶給你一個舒適可靠的旅程，讓你以嶄新旅遊模式發掘更多更遠的地方！">
+    <meta property="og:image" content="./images/common/share-img-l.jpg">
+
+    <meta name="twitter:card" content="Summary">
+    <meta name="twitter:site" content="https://www.highspeed.mtr.com.hk/">
+    <meta name="twitter:url" content="https://www.highspeed.mtr.com.hk/tc/travel/">
+    <meta name="twitter:title" content="高速鐵路">
+    <meta name="twitter:description" content="全長26公里的高速鐵路(香港段)以西九龍為起點，連接超過25,000公里的國家高鐵網絡。無論商務出行，抑或旅遊探親，高鐵帶給你一個舒適可靠的旅程，讓你以嶄新旅遊模式發掘更多更遠的地方！">
+    <meta name="twitter:image" content="./images/common/share-img.jpg"/>
+
+    <script src="./js/lib/jquery.min.js" type="text/javascript"></script>
+    <script src="./js/datalist.js" type="text/javascript"></script>
+
+    <link rel="stylesheet" href="./css/style.min.css" type="text/css"/>
+    <link rel="stylesheet" href="./css/hotspot.min.css" type="text/css"/>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WCCFW98');</script>
+
+</head>
+<body class="font-size-m">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WCCFW98" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!-- Body Content -->
+    <div id="hsr-loading"><div class="loading-msg"><div class="loading-msg_txt">請等等</div><div class="loading-msg_deco"></div><div class="loading-msg_dot"></div></div></div>
+    <script> var status = sessionStorage.getItem('PAGE_LOAD');if(status == 1){$('#hsr-loading').remove()}</script>
+    <div class="wrap sub-page" id="hsr">
+        <hsr-top :page="pageid" :article="articleId"></hsr-top>
+        <sub-top-banner :page="pageid"></sub-top-banner>
+        <main id="primary" class="contents" aria-label="content">
+            <div class="blind" id="a-primary-focus"></div>
+            <h1 class="blind" v-html="pagetitle"></h1>
+            <hsr-breadcrumb :current="pagetitle"></hsr-breadcrumb>
+            <div class="sec-bg">
+                <section id="hotspot">
+                    <div class="sec-inner">
+
+                        <section-tit :title="pagetitle" :img="pageid" class="hide-line"></section-tit>
+
+                        <div class="amap_container">
+                            <div id="search-hotspot">
+                                <div class="sec-cont-search">
+                                    <div class="hsr-drop selected">
+                                        <a href="javascript:;" class="hsr-input drop-list-crr">
+                                            <span v-if="dropSelected.length == 0" v-html="text.selectAllArea"></span>
+                                            <span v-else v-html="selected"></span>
+                                        </a>
+
+                                        <div class="drop-list" tabindex="-1">
+                                            <ul role="listbox">
+                                                <li v-for="(item, idx) in articleDetail" role="listitem" class="depth1" :class="{'has-child':item.City}">
+                                                    <div class="depth1-wrap">
+                                                        <span class="list-txt" @click.prevent="showArea(['region',item.RegionId])" v-on:keyup.enter="showArea(['region',item.RegionId])" v-html="item.RegionName" tabindex="0"></span>
+                                                    </div>
+                                                    <ul role="listbox" v-if="item.City">
+                                                        <li v-for="(subcate, idxx) in item.City" class="depth2" role="listitem" tabindex="0" @click.prevent="showArea(['city', subcate.CityId])" @keyup.enter="showArea(['city', subcate.CityId])" v-html="subcate.CityName"></li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <form action="javascript:void(0);" role="search">
+                                        <div class="search-keyword">
+                                            <div class="hsr-input input-search">
+                                                <label id="keywords-label" class="blind" for="keyword" tabindex="-1" v-html="text.searchKeyword"></label>
+                                                <input type="text" name="keyword" ref="keyword" v-model="searchkeyword" :placeholder="text.searchKeyword" autocomplete="off" aria-labelledby="keywords-label"/>
+                                                <button class="btn-search" :title="text.searchBtn" :value="text.searchBtn" disabled><span v-html="text.searchBtn" class="blind"></span></button>
+                                            </div>
+                                            <div class="search-list-auto load-list" v-show="searchkeyword">
+                                                <ul role="listbox">
+                                                    <li class="showarea" v-for="(item, idx) in autosearchHotspot" :data-type="item.type" :data-id="item.id" :key="idx" :ref="'result'+idx" role="listitem" tabindex="0" @click="showHotspot([item.type, item.id])" v-on:keyup.enter="showHotspot([item.type, item.id])">
+                                                        <div class="list-auto-option" role="option">
+                                                            <div v-html="item.tit" class="auto-result-tit auto-option-1"></div>
+                                                            <div v-html="item.desc" class="auto-option-2"></div>
+                                                        </div>
+                                                    </li>
+                                                    <li class="showarea" role="listitem" tabindex="0" v-if="!autosearchHotspot">
+                                                        <div class="list-auto-option no-result" role="option">
+                                                            <div v-html="'沒有找到&ldquo;'+searchkeywordAuto+'&rdquo;的相關結果'" class="auto-result-tit auto-option-1"></div>
+                                                        </div>
+                                                    </li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+
+                            <div id="amap_wrap" data-mode="district" data-panel="on">
+                                <div id="warning">
+                                    <div class="warning_content">
+                                        <div id="warning_reload_icon"></div>
+                                        地圖暫時無法使用<br />請稍後重試
+                                    </div>
+                                </div>
+                                <div id="map">
+                                    <div class="amap_marker_guide">
+                                        <div class="hotspot-cate-list">
+                                            <ul>
+                                                <li v-for="(list, order) in articleCate" :key="order" :data-cate="order + 1">
+                                                    <i>
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="13.56" height="20.375" viewBox="0 0 13.56 20.375">
+                                                            <path id="Shape_1_copy_16" data-name="Shape 1 copy 16" class="cls-1" d="M1734.06,746.514a6.781,6.781,0,0,0-5.97,10.014l5.6,10.131a0.409,0.409,0,0,0,.37.219,0.432,0.432,0,0,0,.37-0.219l5.6-10.135A6.778,6.778,0,0,0,1734.06,746.514Zm0,10.182a3.394,3.394,0,1,1,3.39-3.394A3.4,3.4,0,0,1,1734.06,756.7Z" transform="translate(-1727.28 -746.5)"/>
+                                                        </svg>
+                                                    </i>
+                                                    <span v-html="list"></span>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="panel" aria-label="Hotspot list">
+                                    <div role="button" aria-label="panel toggle" class="panel_toggle"></div>
+                                    <div role="button" aria-label="panel move" class="panel_movetop"><div class="panel_movetop_in"></div></div>
+                                    <div class="panel-in">
+                                        <div class="city_desc_container">
+                                            <div class="city_desc_in">
+                                                <div class="city_label"></div>
+                                                <div class="city_desc"></div>
+                                            </div>
+                                            <button class="city_desc_more"></button>
+                                        </div>
+                                        <div role="listbox" id="hotspot-list" class="swiper-container">
+                                            <div class="hotspot-list-wrap swiper-wrapper"></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <div class="sec-bg-group">
+                    <div class="sec-bg-group__inner">
+                        <div class="bg-item-top"></div>
+                        <div class="bg-item-circle6"></div>
+                        <div class="bg-item-circle7"></div>
+                        <div class="bg-item-last"></div>
+                        <div class="bg-item-btm">
+                            <div id="canvas-container"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+        <hsr-foot :backtotop="text.btnBackTop" :copytxt="text.fcopy"></hsr-foot>
+
+        <!-- Modal -->
+        <div class="hsr-mask-custom" @click.prevent="popupHotspotClose"></div>
+        <div class="hsr-popup hotspot" style="display:none;"><div class="hsr-popup-in"><div class="hsr-popup-content">
+            <a href="javascript:;" @click.prevent="popupHotspotClose" class="btn-close-popup"></a>
+
+            <div class="cont-hotspot" v-for="detail in hotspotDetailinMap">
+                <div class="cont-hotspot-in">
+                    <div class="hotspot-detail-thumb">
+                        <figure>
+                            <img :src="detail.DesktopFullImage" class="br767" onerror="MTR.imgError([this, 'hotspotDetail']);"/>
+                            <img :src="detail.MobileFullImage " class="view767" onerror="MTR.imgError([this, 'hotspotDetail_m']);"/>
+                            <figcaption class="blind" v-html="detail.HotspotDescription"></figcaption>
+                        </figure>
+                    </div>
+                    <div class="hotspot-detail-text">
+                        <div class="detail-text-in">
+                            <div class="detail-text">
+                                <div class="detail-text_tit">
+                                    <span class="tit_d" v-html="detail.Title"></span>
+                                    <span class="tit_label" v-html="detail.CityName"></span>
+                                </div>
+                                <div class="detail-text_desc">
+                                    <p class="text_desc desc-info" v-html="detail.HotspotDescription" v-if="detail.HotspotDescription"></p>
+                                    <p class="text_desc desc-location" v-html="detail.Location" v-if="detail.Location"></p>
+                                    <p class="text_desc desc-way" v-html="detail.HowToGo" v-if="detail.HowToGo"></p>
+                                    <p class="text_desc desc-site" v-if="detail.Site" v-html="popupSiteLink(detail.Site)"></p>
+                                </div>
+                                <div class="detail-text_btn">
+                                    <a :href="'./plan.html?stxt='+detail.Title" v-if="detail.Itinerary" class="btn-default type-ani-circle">
+                                        <div class="btn-txt_tit">行程推介</div>
+                                        <div class="btn-txt_line"><i></i></div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="detail-share">
+                                <div class="util-sns-share type-blue type-sm">
+                                    <a href="javascript:;" class="sns-item sns-fb" @click.prevent="countShare([pageid+'-detail-popup', articleId, 'Facebook', 'crr'])"><span class="blind">Facebook</span></a>
+                                    <a href="javascript:;" class="sns-item sns-whatsapp" @click.prevent="countShare([pageid+'-detail-popup', articleId, 'WhatsApp', 'crr'])"><span class="blind">WhatsApp</span></a>
+                                    <a href="javascript:;" class="sns-item sns-wechat" @click.prevent="countShare([pageid+'-detail-popup', articleId, 'WeChat', 'crr'])"><span class="blind">WeChat</span></a>
+                                    <div class="btn-like" :class="[isLikeActive(['hotspot', detail.HotspotId])?'i-like':'']" data-article-section="hotspot" :data-article-id="detail.HotspotId" @click.prevent="countlike(['hotspot', detail.HotspotId])" :tabindex="[isLikeActive(['hotspot', detail.id])?'-1':'0']">
+                                        <span class="ico-heart"></span><span class="like-count" v-html="isLikeActiveCnt(['hotspot', detail.HotspotId])"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div></div></div>
+
+
+        <div id="log"></div>
+
+    </div>
+    <!-- // Body content -->
+
+    <!-- Script -->
+    <script src="./js/lib/vue.min.js" defer type="text/javascript"></script>
+    <script src="./js/lib/plugins.min.js" defer type="text/javascript"></script>
+    <script src="https://webapi.amap.com/maps?v=1.4.15&key=b41b0ccf786c6bf6af9de8d46ed539b6&&plugin=AMap.ToolBar,AMap.DistrictSearch,AMap.Geocoder"></script>
+    <script src="//webapi.amap.com/ui/1.1/main.js?v=1.1.1"></script>
+
+    <script type="text/javascript">
+    ;(function(win,doc,callback){'use strict';callback=callback||function(){};function detach(){if(doc.addEventListener){doc.removeEventListener('DOMContentLoaded',completed)}else{doc.detachEvent('onreadystatechange',completed)}}function completed(){if(doc.addEventListener||event.type==='load'||doc.readyState==='complete'){detach();callback(window,window.jQuery)}}function init(){if (doc.addEventListener){doc.addEventListener('DOMContentLoaded',completed)}else{doc.attachEvent('onreadystatechange',completed)}}init()})(window,document,function(win,$){
+        $.ajaxSetup({cache:true});
+        $.ajax('./js/components.min.js')
+        .then(function(){return $.ajax('./js/common.min.js')})
+        .then(function(){return $.ajax('./js/hotspot.min.js')})
+        .then(function(){
+
+            var pageid = 'hotspot';
+            $.each(topmenu, function(index, item){
+                if(item.id == pageid) {
+                    MTR.pagetitle  = item.name;
+                    MTR.pageid     = item.id;
+                    MTR.depth1     = item.name;
+                    MTR.depth1link = item.link;
+                    MTR.articleId  = 'hotspot';
+                }
+            });
+
+            MTR.dropSelected = "";
+
+            map.on("complete", function(e) {
+                if (e.type === 'complete') {} else {$('#warning').css('display', 'flex');}
+            });
+
+            function smoothScroll(x, s, c){
+                $('html, body').animate({scrollTop: x.offset().top + s}, c);
+            };
+
+            var breaktarget = $("#amap_wrap canvas, .amap-layers");
+            breaktarget.bind("mousewheel", function() {
+                return false;
+            });
+
+            breaktarget.bind('DOMMouseScroll', function(e){
+                if(e.originalEvent.detail > 0) {scrolling('up');}else {scrolling('down');}
+                return false;
+            });
+
+            breaktarget.bind('mousewheel', function(e){
+                if(e.originalEvent.wheelDelta < 0) {scrolling('up');}else {scrolling('down');}
+                return false;
+            });
+
+            function scrolling(type){
+                if(type == "up") {
+                    $(window).scrollTop($(document).scrollTop() + 40);
+                }else if(type == 'down') {
+                    $(window).scrollTop($(document).scrollTop() - 40);
+                }
+            }
+
+        })
+    });
+    var satellite=setInterval(startPage,1e3);function startPage(){if(("ready"===document.readyState||"complete"===document.readyState)&&"complete"==document.readyState){if("undefined"!=typeof MTR)return LOAD_STATUS=!0,MTR.pageLoad=!0,void clearInterval(satellite);startPage();}}
+    </script>
+    <!-- // Script -->
+</body>
+</html>
