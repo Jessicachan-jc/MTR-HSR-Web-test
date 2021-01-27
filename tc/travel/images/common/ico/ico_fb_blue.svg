@@ -1,0 +1,24 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #00234f;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect class="cls-1" x="29.57" y="12.55" width="39.76" height="79.51"/>
+    </clipPath>
+  </defs>
+  <title>ico_fb_blue</title>
+  <g class="cls-2">
+    <path class="cls-3" d="M56.71,12.55c-11.91,0-17.2,5.24-17.2,15.29V39.05H29.57V52.31h9.94V92.06H56.07V52.31H68.14l1.19-13.25H56.07V33.53c0-3.16.64-4.41,3.7-4.41h9.56V12.55Z"/>
+  </g>
+</svg>

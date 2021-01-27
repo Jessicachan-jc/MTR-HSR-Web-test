@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="zh-HK" itemscope="" itemtype="https://schema.org/WebPage">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>高鐵遊攻略 > 熱點推介</title>
+    <meta name="country" content="China">
+    <meta name="city" content="Hong Kong">
+    <meta name="robots" content="index,follow">
+    <meta name="copyright" content="香港鐵路有限公司">
+    <meta name="author" content="香港鐵路有限公司">
+    
+    <link rel="icon" href="./images/common/favicon.ico" type="image/x-icon"/>
+    <link rel="shortcut icon" href="./images/common/favicon.ico" type="image/x-icon">
+
+    <meta name="keywords" content="高鐵遊攻略, 高速鐵路, High Speed Rail, MTR, 港鐵, 熱點推介, 主題旅遊, 行程推介, 高鐵旅遊專家">
+    <meta name="description" content="全長26公里的高速鐵路(香港段)以西九龍為起點，連接超過25,000公里的國家高鐵網絡。無論商務出行，抑或旅遊探親，高鐵帶給你一個舒適可靠的旅程，讓你以嶄新旅遊模式發掘更多更遠的地方！"></meta>
+
+    <meta property="og:url" content="https://www.highspeed.mtr.com.hk/tc/travel/">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="zh-HK">
+    <meta property="og:title" content="高速鐵路">
+    <meta property="og:description" content="全長26公里的高速鐵路(香港段)以西九龍為起點，連接超過25,000公里的國家高鐵網絡。無論商務出行，抑或旅遊探親，高鐵帶給你一個舒適可靠的旅程，讓你以嶄新旅遊模式發掘更多更遠的地方！">
+    <meta property="og:image" content="./images/common/share-img-l.jpg">
+
+    <meta name="twitter:card" content="Summary">
+    <meta name="twitter:site" content="https://www.highspeed.mtr.com.hk/">
+    <meta name="twitter:url" content="https://www.highspeed.mtr.com.hk/tc/travel/">
+    <meta name="twitter:title" content="高速鐵路">
+    <meta name="twitter:description" content="全長26公里的高速鐵路(香港段)以西九龍為起點，連接超過25,000公里的國家高鐵網絡。無論商務出行，抑或旅遊探親，高鐵帶給你一個舒適可靠的旅程，讓你以嶄新旅遊模式發掘更多更遠的地方！">
+    <meta name="twitter:image" content="./images/common/share-img.jpg"/>
+
+    <script src="./js/lib/jquery.min.js" type="text/javascript"></script>
+    <script src="./js/datalist.js" type="text/javascript"></script>
+    
+    <link rel="stylesheet" href="./css/style.min.css" type="text/css"/>
+    <link rel="stylesheet" href="./css/hotspot-new.min.css" type="text/css"/>
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WCCFW98');</script>
+    
+</head>
+<body class="font-size-m">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WCCFW98" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <!-- Body Content -->
+    <div id="hsr-loading"><div class="loading-msg"><div class="loading-msg_txt">請等等</div><div class="loading-msg_deco"></div><div class="loading-msg_dot"></div></div></div>
+    <script> var status = sessionStorage.getItem('PAGE_LOAD');var ta = document.getElementById('hsr-loading'); if(status == 1){ta.remove()}</script>
+    <div class="wrap sub-page" id="hsr">
+        <hsr-top :page="pageid" :article="articleId"></hsr-top>
+        <sub-top-banner :page="pageid"></sub-top-banner>
+        <main id="primary" class="contents" aria-label="content">
+            <div class="blind" id="a-primary-focus"></div>
+            <h1 class="blind" v-html="pagetitle"></h1>
+            <hsr-breadcrumb :current="pagetitle"></hsr-breadcrumb>
+            <div class="sec-bg">
+                <section id="hotspot">
+                    <div class="sec-inner">
+
+                        <section-tit :title="pagetitle" :img="pageid" class="hide-line"></section-tit>
+
+                        <div class="amap_container">
+                            <div id="amap_filter">
+                                <div class="amap_dropdown_container">
+                                    <button class="amap_dropdown_menu"><p>地區</p><span><img src="./images/common/ico/ico_arrow_down_angle.png"/></span></button>
+                                    <ul class="amap_dropdown" role="listbox"></ul> 
+                                </div>
+                                <form action="javascript:void(0)" role="search">
+                                    <div class="search_bar">
+                                        <div class="search_input">
+                                            <input type="text" name="search" autocomplete="off" placeholder="輸入景點關鍵字">
+                                            <button class="btn-search">
+                                                <span class="btn-blind">搜索</span>
+                                            </button>
+                                        </div>
+                                        <div class="search_result">
+                                            <ul role="listbox" class="search_result_list"></ul>
+                                        </div>
+                                    </div>
+                                </form>
+                            </div>
+                            <div id="amap_wrap">
+                                <div id="warning">
+                                    <div class="warning_content">
+                                        <div id="warning_reload_icon"></div>
+                                        地圖暫時無法使用<br />請稍後重試
+                                    </div>
+                                </div>
+                                <div id="map" data-mode="district">
+                                    <div class="amap_marker_guide">
+                                        <div class="hotspot-cate-list">
+                                            <ul>
+                                                <li v-for="(list, order) in articleCate" :key="order" :data-cate="order + 1">
+                                                    <i>
+                                                        <svg xmlns="http://www.w3.org/2000/svg" width="13.56" height="20.375" viewBox="0 0 13.56 20.375">
+                                                            <path id="Shape_1_copy_16" data-name="Shape 1 copy 16" class="cls-1" d="M1734.06,746.514a6.781,6.781,0,0,0-5.97,10.014l5.6,10.131a0.409,0.409,0,0,0,.37.219,0.432,0.432,0,0,0,.37-0.219l5.6-10.135A6.778,6.778,0,0,0,1734.06,746.514Zm0,10.182a3.394,3.394,0,1,1,3.39-3.394A3.4,3.4,0,0,1,1734.06,756.7Z" transform="translate(-1727.28 -746.5)"/>
+                                                        </svg>
+                                                    </i>
+                                                    <span v-html="list"></span>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div id="panel" aria-label="panel">
+                                    <span role="button" aria-label="panel toggle" class="panel_toggle"></span>
+                                    <div class="city_desc_container">
+                                        <div class="city_label"></div>
+                                        <div class="city_desc"></div>
+                                    </div>
+                                    <ul role="listbox" id="amap_markers_list"></ul>
+                                </div>
+                            </div>
+                            <div id="amap_mobile_list_container">
+                                <div class="amap_mobile_list_bar"></div>
+                                <div class="city_desc_container">
+                                    <div class="city_label"></div>
+                                    <div class="city_desc"></div>
+                                </div>
+                                <div class="city_desc_toggle"></div>
+                                <div class="swiper-container">
+                                    <ul id="amap_mobile_markers_list" class="swiper-wrapper"></ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <div id="map_ux_bar" class="amap_mobile_list_bar"></div>
+                <div class="sec-bg-group">
+                    <div class="sec-bg-group__inner">
+                        <div class="bg-item-top"></div>
+                        <div class="bg-item-circle6"></div>
+                        <div class="bg-item-circle7"></div>
+                        <div class="bg-item-last"></div>
+                        <div class="bg-item-btm">
+                            <div id="canvas-container"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+        <hsr-foot :backtotop="text.btnBackTop" :copytxt="text.fcopy"></hsr-foot>
+
+        <!-- Modal -->
+        <div class="hsr-mask-custom"></div>
+        <div class="hsr-popup hotspot" style="display:none;"><div class="hsr-popup-in"><div class="hsr-popup-content">
+            <a href="javascript:;" @click.prevent="popupHotspotClose" class="btn-close-popup"></a>
+
+            <div class="cont-hotspot" v-for="detail in hotspotDetailinMap">
+                <div class="cont-hotspot-in">
+                    <div class="hotspot-detail-thumb">
+                        <figure>
+                            <img :src="detail.DesktopFullImage" class="br767" onerror="MTR.imgError([this, 'hotspotDetail']);"/>
+                            <img :src="detail.MobileFullImage " class="view767" onerror="MTR.imgError([this, 'hotspotDetail_m']);"/>
+                            <figcaption class="blind" v-html="detail.HotspotDescription"></figcaption>
+                        </figure>
+                    </div>
+                    <div class="hotspot-detail-text">
+                        <div class="detail-text-in">
+                            <div class="detail-text">
+                                <div class="detail-text_tit">
+                                    <span class="tit_d" v-html="detail.Title"></span>
+                                    <span class="tit_label" v-html="detail.CityName"></span>
+                                </div>
+                                <div class="detail-text_desc">
+                                    <p class="text_desc desc-info" v-html="detail.HotspotDescription" v-if="detail.HotspotDescription"></p>
+                                    <p class="text_desc desc-location" v-html="detail.Location" v-if="detail.Location"></p>
+                                    <p class="text_desc desc-way" v-html="detail.HowToGo" v-if="detail.HowToGo"></p>
+                                    <p class="text_desc desc-site" v-if="detail.Site"><a :href="detail.Site" target="_blank" v-html="detail.Site"></a></p>
+                                </div>
+                                <div class="detail-text_btn">
+                                    <a :href="detail.Itinerary" v-if="detail.Itinerary" class="btn-default type-ani-circle">
+                                        <div class="btn-txt_tit">行程推介</div>
+                                        <div class="btn-txt_line"><i></i></div>
+                                    </a>
+                                </div>
+                            </div>
+                            <div class="detail-share">
+                                <div class="util-sns-share type-blue type-sm">
+                                    <a href="javascript:;" class="sns-item sns-fb" @click.prevent="countShare([pageid+'-detail-popup', articleId, 'Facebook', 'crr'])"><span class="blind">Facebook</span></a>
+                                    <a href="javascript:;" class="sns-item sns-whatsapp" @click.prevent="countShare([pageid+'-detail-popup', articleId, 'WhatsApp', 'crr'])"><span class="blind">WhatsApp</span></a>
+                                    <a href="javascript:;" class="sns-item sns-wechat" @click.prevent="countShare([pageid+'-detail-popup', articleId, 'WeChat', 'crr'])"><span class="blind">WeChat</span></a>
+                                    <div class="btn-like" :class="[isLikeActive(['hotspot', detail.HotspotId])?'i-like':'']" data-article-section="hotspot" :data-article-id="detail.HotspotId" @click.prevent="countlike(['hotspot', detail.HotspotId])" :tabindex="[isLikeActive(['hotspot', detail.id])?'-1':'0']">
+                                        <span class="ico-heart"></span><span class="like-count" v-html="isLikeActiveCnt(['hotspot', detail.HotspotId])"></span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div></div></div>
+ 
+    </div>
+    <!-- // Body content -->
+
+    <!-- Script -->
+    <!-- <script src="./js/lib/vue.min.js" defer type="text/javascript"></script> -->
+    <script src='//unpkg.com/vue@2.6.10/dist/vue.js'></script>
+    <script src="./js/lib/plugins.min.js" defer type="text/javascript"></script>
+    <script src="https://webapi.amap.com/maps?v=1.4.15&key=b41b0ccf786c6bf6af9de8d46ed539b6&&plugin=AMap.ToolBar,AMap.DistrictSearch,AMap.Geocoder"></script>
+    <script src="//webapi.amap.com/ui/1.1/main.js?v=1.1.1"></script>
+    
+    <script type="text/javascript">
+    ;(function(win,doc,callback){'use strict';callback=callback||function(){};function detach(){if(doc.addEventListener){doc.removeEventListener('DOMContentLoaded',completed)}else{doc.detachEvent('onreadystatechange',completed)}}function completed(){if(doc.addEventListener||event.type==='load'||doc.readyState==='complete'){detach();callback(window,window.jQuery)}}function init(){if (doc.addEventListener){doc.addEventListener('DOMContentLoaded',completed)}else{doc.attachEvent('onreadystatechange',completed)}}init()})(window,document,function(win,$){
+        $.ajaxSetup({cache:true});
+        $.ajax('./js/components.js')
+        .then(function(){return $.ajax('./js/common-new.js')})
+        .then(function(){return $.ajax('./js/hotspot-new.js')})
+        .then(function(){
+
+            var pageid = 'hotspot'; 
+            $.each(topmenu, function(index, item){
+                if(item.id == pageid) {
+                    MTR.pagetitle  = item.name;
+                    MTR.pageid     = item.id;
+                    MTR.depth1     = item.name;
+                    MTR.depth1link = item.link;
+                    MTR.articleId  = 'hotspot';
+                }
+            });
+            MTR.dropSelected = "";
+            MTR.selected = [1,1];
+
+            map.on("complete", function(e) {
+                if (e.type === 'complete') {} else {$('#warning').css('display', 'flex');}
+            });
+
+            function smoothScroll(x, s, c){
+                $('html, body').animate({scrollTop: x.offset().top + s}, c);
+            }
+            
+            var breaktarget = $("#amap_wrap canvas, .amap-layers");
+            breaktarget.bind("mousewheel", function() {
+                return false;
+            });     
+            breaktarget.bind('DOMMouseScroll', function(e){
+                if(e.originalEvent.detail > 0) {scrolling('up');}else {scrolling('down');}
+                return false;
+            });
+            breaktarget.bind('mousewheel', function(e){
+                if(e.originalEvent.wheelDelta < 0) {scrolling('up');}else {scrolling('down');}
+                return false;
+            });
+
+            function scrolling(type){
+                if(type == "up") {
+                    $(window).scrollTop($(document).scrollTop() + 40);
+                }else if(type == 'down') {
+                    $(window).scrollTop($(document).scrollTop() - 40);
+                }
+            }
+
+        })
+    });
+    var satellite=setInterval(startPage,1e3);function startPage(){if(("ready"===document.readyState||"complete"===document.readyState)&&"complete"==document.readyState){if("undefined"!=typeof MTR)return LOAD_STATUS=!0,MTR.pageLoad=!0,void clearInterval(satellite);startPage()}}
+    </script>
+    <!-- // Script -->
+</body>
+</html>

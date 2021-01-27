@@ -1,0 +1,117 @@
+<html lang="zh-Hant">
+    <head>
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-WCCFW98');</script>
+        <!-- End Google Tag Manager -->
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>高速鐵路 > 乘客守則</title>
+        <link rel="icon" href="/assets/img/logo/favicon.ico" type="image/x-icon"/>
+        <link rel="shortcut icon" href="/assets/img/logo/favicon.ico" type="image/x-icon">
+        <link rel="stylesheet" href="/assets/css/reset.css">
+        <link rel="stylesheet" href="/assets/vendor/css/bootstrap.min.css">
+        <link rel="stylesheet" href="/assets/vendor/css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="/assets/vendor/css/slick.css">
+        <link rel="stylesheet" href="/assets/vendor/css/slick-theme.css">	
+        <link rel="stylesheet" href="/assets/vendor/css/swiper.min.css" />
+        <link rel="stylesheet" href="/assets/css/style.css">
+        <script src='/assets/vendor/js/jquery-3.3.1.min.js'></script>
+        <script src='/assets/vendor/js/bootstrap.min.js'></script>
+        <script src='/assets/vendor/js/slick.min.js'></script>
+        <script src='/assets/vendor/js/isotope.pkgd.min.js' type="text/javascript"></script>
+        <script src='/assets/vendor/js/swiper.min.js'></script>
+        <script src='/assets/js/config.js'></script>
+        <script src='/assets/js/main.js'></script>
+        <script src='/assets/js/navigation.js'></script>    </head>
+    <body>
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WCCFW98"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+    <!--#include virtual="/tc/common/header.inc.html" -->
+                	<div class="content-container">
+                		<!--#include virtual="/tc/common/trip_planner_search_bar.inc.html" -->		<div class="container-fluid">
+                			<div class="row">
+                				<div class="container">
+                					<div class="inner-content-container row">
+                						<div class="clearfix">
+                							<ul id="breadcrumb" class="breadcrumb">
+                							</ul>							<div class="title-box"><h1 class="h2">乘客守則</h1></div>
+                						</div>
+                						<div class="article-container styled-text-wrapper">
+                							<div class="image-container">
+                							    <img src="/res/media/web/shop/default.jpg" alt="">
+                							</div>
+                							<p class="title">香港西九龍站   綠化美學新地標 </p>
+                							<p>香港西九龍站佔地約11公頃，毗鄰西九文化區，遠眺維多利亞港，配合其匠心獨運的建築設計，成為香港又一打卡新地標。 </p>
+                							<p>建築特色： </p>
+                							<ul>
+                								<li>採用大型玻璃幕牆設計，由 4千多塊形狀不一的玻璃組成，製造自然採光，環保節能。 </li>
+                								<li>大型天幕呈流線型，用了超過8千噸鋼材，約一個巴黎鐵塔重量。 </li>
+                								<li>内部由9組不規則的巨型支柱支撐，最高的支柱達45米，由地下B3層中庭連接天幕的V型橫樑，型態獨特。 </li>
+                								<li>無論站內站外都提供寬闊空間，令旅客和訪客都感到心曠神怡。 </li>
+                								<li>站外的「綠化空間」和「天空走廊」(tbc) 提供總面積約3公頃的休憩用地。沿「天空走廊」歩行上站頂，維港景致盡入眼簾。 </li>
+                								<li>站內展示多件藝術品，由來自本地、中國內地、法國、摩洛哥及韓國等地的藝術家創作，讓您的旅途更賞心悅目。 </li>
+                							</ul>						</div>
+                					</div>
+                				</div>
+                			</div>
+                		</div>
+                	</div>
+                <!--#include virtual="/tc/common/footer.inc.html" -->
+    </div>    <script>
+            $(document).ready(function(){
+                //sticky tab
+                $(window).on('scroll scrollstart', function(){
+                    initStickyBar()
+                })
+    
+                initLangSwitch();
+                initBackToTop();
+    
+                function initStickyBar(){
+                    $.map($('.content-container .sticky-bar-container'), function(item, index){
+                        var offsetTop = $(item).offset().top
+                        if($(document).scrollTop() >= offsetTop && $(document).width() > 960){
+                            if(!$(item).hasClass('sticky')){
+                                $('.sticky').removeClass('sticky')
+                                $(item).height($(item).find('.sticky-content').outerHeight())
+                                $(item).addClass('sticky')
+                            } 
+                        } else {
+                            if($(item).hasClass('sticky')){
+                                $('.sticky').removeClass('sticky')
+                                $(item).removeClass('sticky').height('auto')
+                            }
+                        }
+                    })
+                }
+    
+                function initLangSwitch(){
+                    $.map($('.lang-switch'), function(item, id){
+                        $.map($(item).children(), function(item, id){
+                            var newLink = window.location.pathname.replace(/(\/tc|\/sc|\/en)/g, '') + (window.location.pathname == '/' ? 'main/index.html' : '') + window.location.search
+                            $(item).attr('href', '/' + $(item).attr('langKey') + newLink)
+                        })
+                    })
+                }
+    
+                function initBackToTop(){
+                    var scrolling = false
+                    $('.back-to-top-container').on('click', function(){
+                        if(!scrolling){
+                            scrolling = true
+                            $('body').animate({scrollTop: 0}, function(){
+                                scrolling = false
+                            })
+                        }
+                    })
+                }
+            })
+        </script>
+    </body></html>

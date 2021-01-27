@@ -1,0 +1,3864 @@
+[
+  {
+    "id": "1",
+    "tit": "深圳：文青潮玩1天遊",
+    "plan": [
+      {
+        "day": "1",
+        "path": [
+          {
+            "location": "香港西九龍站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": []
+          },
+          {
+            "location": "福田站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": [
+              {
+                "type": "1",
+                "way": {
+                  "from": "港鐵 「動感號」或內地高鐵列車，上午抵達",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "深圳大學",
+            "hotspot": {
+              "id": "540",
+              "tit": "漫遊深圳大學 感受青蔥朝氣",
+              "img_d": "./images/hotspot/e93cd4ae414f4a9e8a196ac2497f48.jpg",
+              "img_d_tag": "深圳大學",
+              "img_m": "./images/hotspot/8e11ace8cd8f48bf8170ddf88e230d.jpg",
+              "img_m_tag": "深圳大學",
+              "img_article_d": "./images/hotspot/adbbba45ddc244b8bedcfb035da629.jpg",
+              "img_article_d_tag": "深圳大學",
+              "img_article_m": "./images/hotspot/74de86a47085480a83902a782cc728.jpg",
+              "img_article_m_tag": "深圳大學",
+              "img_detail_d": "./images/hotspot/29e9fd4ede754d53a23d562ef0b169.jpg",
+              "img_detail_d_tag": "深圳大學",
+              "img_detail_m": "./images/hotspot/d58a23f13ca34f25b0163b1b789f0f.jpg",
+              "img_detail_m_tag": "深圳大學",
+              "name": "深圳大學",
+              "city": "深圳",
+              "hotspotDescription": "深圳大學位於南山區後海灣，有「荔園」之稱，不只景色優美，建築物設計富特色，被評為中國十大景色最美的大學校園。校園有兩湖、草坪、荔枝樹等休憩地區。特別推介設計時尚的理工樓，其純白外牆配上藍色系窗戶，是拍攝好地方。此外，深大圖書館亦相當有品味，館內寬敞又舒適。 ",
+              "howToGo": "建議交通：乘地鐵1號綫，於深大站下車，步行約10分鐘。<br /><br />高鐵站出發：由福田站步行至購物公園站，乘地鐵1號綫前往；若由深圳北站出發，乘地鐵4號綫，於會展中心站轉乘地鐵1號綫前往。",
+              "location": "深圳市南山區南海大道3688 號深圳大學 (後海校區)",
+              "link": "/hotspot.html?region=1&city=1&hotspot=540",
+              "site": "微信公眾號：深圳大學"
+            },
+            "route": [
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵1號綫",
+                  "to": "深大站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約10分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "萬象天地",
+            "hotspot": {
+              "id": "532",
+              "tit": "超人氣藝術大象",
+              "img_d": "./images/hotspot/d53c8025cb47423ba404ce54622651.jpg",
+              "img_d_tag": "萬象天地",
+              "img_m": "./images/hotspot/583fcc6709a441cd91ded61de80985.jpg",
+              "img_m_tag": "萬象天地",
+              "img_article_d": "./images/hotspot/47f1ba93a2cd47728ec9e459da6d58.jpg",
+              "img_article_d_tag": "萬象天地",
+              "img_article_m": "./images/hotspot/24c8fc596e0447ddbbc802141e1c72.jpg",
+              "img_article_m_tag": "萬象天地",
+              "img_detail_d": "./images/hotspot/75c8fd63367a41c3a621b898ada980.jpg",
+              "img_detail_d_tag": "萬象天地",
+              "img_detail_m": "./images/hotspot/592926bec6e442f196a79f2a9d7408.jpg",
+              "img_detail_m_tag": "萬象天地",
+              "name": "萬象天地",
+              "city": "深圳",
+              "hotspotDescription": "位於深圳南山區，是文青旅遊熱點，最標誌性的設計絕對是正門處的大象藝術裝置「Bubblecoat Elephant」。23萬平方米空間，融合了街區及商場，匯集近300間店鋪、逾1,000個品牌、12座單棟品牌旗艦店，以及超過2,000平方米的室內兒童樂園和24小時美食街等。",
+              "howToGo": "建議交通：乘地鐵1號綫，於高新園站下車，步行約8分鐘。<br /><br />高鐵站出發：由福田站經地鐵11號綫，於車公廟站轉乘地鐵1號綫前往；若由深圳北站出發，經地鐵4號綫，於會展中心站轉乘地鐵1號綫前往。",
+              "location": "深圳市南山區粵海街道深南大道9668號",
+              "link": "/hotspot.html?region=1&city=1&hotspot=532",
+              "site": "微信公眾號：深圳萬象天地"
+            },
+            "route": [
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵1號綫",
+                  "to": "高新園站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約7分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "華僑城創意文化園",
+            "hotspot": {
+              "id": "535",
+              "tit": "走進創意園　呼吸文藝空氣",
+              "img_d": "./images/hotspot/487e5c1266804d6db77a009afc7702.jpg",
+              "img_d_tag": "華僑城創意文化園",
+              "img_m": "./images/hotspot/1ace2ad7741b49c491103a38c6bed7.jpg",
+              "img_m_tag": "華僑城創意文化園",
+              "img_article_d": "./images/hotspot/7af82d3761144cb198b0ec6542a9b4.jpg",
+              "img_article_d_tag": "華僑城創意文化園",
+              "img_article_m": "./images/hotspot/55d3550c8a5243aabe904a85959f4c.jpg",
+              "img_article_m_tag": "華僑城創意文化園",
+              "img_detail_d": "./images/hotspot/67b980872db54b678e7861749489fc.jpg",
+              "img_detail_d_tag": "華僑城創意文化園",
+              "img_detail_m": "./images/hotspot/e1f617907eb6479996da02071b879d.jpg",
+              "img_detail_m_tag": "華僑城創意文化園",
+              "name": "華僑城創意文化園",
+              "city": "深圳",
+              "hotspotDescription": "集合了當下創意與設計文化產業的華僑城創意文化園，佔地超過60萬平方米，進駐機構達300多家，包括藝術家工作室、畫廊、書店、手創精品、時裝、餐飲等，於文化氛圍中瀰漫著咖啡與蛋糕的香氣，不時更會舉辦不同的藝術展及現場表演，處處充滿文青氣息。",
+              "howToGo": "建議交通：乘地鐵1號綫，於僑城東站下車，步行約16分鐘。<br /><br />高鐵站出發：由福田站經地鐵11號綫，於車公廟站轉乘地鐵1號綫前往；若由深圳北站出發，經地鐵4號綫，於會展中心站轉乘地鐵1號綫前往。",
+              "location": "深圳市南山區錦繡北街2號",
+              "link": "/hotspot.html?region=1&city=1&hotspot=535",
+              "site": "微信公眾號：深圳華僑城創意文化園"
+            },
+            "route": [
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵1號綫",
+                  "to": "僑城東站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約16分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "深圳歡樂海岸",
+            "hotspot": {
+              "id": "537",
+              "tit": "讓你樂而忘返",
+              "img_d": "./images/hotspot/b863fc4647cf4e8ba8ee3d1d794307.jpg",
+              "img_d_tag": "深圳歡樂海岸",
+              "img_m": "./images/hotspot/8fa75865fee14e4390acf4ec927afb.jpg",
+              "img_m_tag": "深圳歡樂海岸",
+              "img_article_d": "./images/hotspot/2e833c29c7a14ec9a9cdcbd5eb865b.jpg",
+              "img_article_d_tag": "深圳歡樂海岸",
+              "img_article_m": "./images/hotspot/7a2ee975ee01431ba7d08d7b79bd70.jpg",
+              "img_article_m_tag": "深圳歡樂海岸",
+              "img_detail_d": "./images/hotspot/0132327b11f64e649281f75851360d.jpg",
+              "img_detail_d_tag": "深圳歡樂海岸",
+              "img_detail_m": "./images/hotspot/418e5bef276a4386b604c0b88f5140.jpg",
+              "img_detail_m_tag": "深圳歡樂海岸",
+              "name": "深圳歡樂海岸",
+              "city": "深圳",
+              "hotspotDescription": "坐落在濱海大道旁的深圳歡樂海岸是以海洋文化及生態環保為主題的綜合消閒區，主要分為購物、美食、娛樂與休閒四大區域，並將水概念融入其中。最大特色是以開放式組合概念建造的「曲水灣」，彎彎曲曲的河道貫穿整個區域，將深圳灣深海的海水引入，途經多間餐廳、不同設計特式的建築物，包括明清時期的兩幢老房子，以及地標建築OCT 創意展示中心。室外設有大型間歇性噴水池供訪客耍樂，甫一抵達已有種清涼快感。除了彙集多間國際品牌商店的購物中心，歡樂海岸更設有水秀劇場、海洋館、各式展覽，小朋友們可以盡情玩樂放電，家長們可以隨意挑選精美的餐廳享受一下。 <br /><br />水秀劇場<br />規模大而壯觀的多媒體現代化水秀劇場，佔地面積近1萬平方米，運用水幕、噴泉、鐳射、投影、火焰、音樂、煙火等多媒體技術，呈現一場精彩的光影水上表演，令人嘆為觀止。<br /><br />紅樹林<br />前往歡樂海岸北區的紅樹林濕地，可觀鳥並欣賞醉人日落景色。",
+              "howToGo": "建議交通：乘地鐵9號綫，於深圳灣公園站下車，步行約5分鐘。<br /><br />高鐵站出發：由福田站經地鐵11號綫，於車公廟站轉乘地鐵9號綫前往；若由深圳北站出發，經地鐵4號綫，於上梅林站轉乘地鐵9號綫前往。",
+              "location": "深圳市南山區白石路東8號",
+              "link": "/hotspot.html?region=1&city=1&hotspot=537",
+              "site": "微信公眾號：歡樂海岸"
+            },
+            "route": [
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵9號綫",
+                  "to": "深圳灣公園站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約5分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "福田站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": [
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵9號綫",
+                  "to": "紅樹灣南站"
+                }
+              },
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵11號綫",
+                  "to": "福田站"
+                }
+              }
+            ]
+          },
+          {
+            "location": "香港西九龍站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": [
+              {
+                "type": "1",
+                "way": {
+                  "from": "港鐵 「動感號」或內地高鐵列車，晚上回港",
+                  "to": ""
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "tnc": "",
+    "banner": {
+      "type": "3",
+      "tit": "",
+      "desc": "",
+      "img_d": "",
+      "img_d_tag": "",
+      "img_m": "",
+      "img_m_tag": "",
+      "link": null,
+      "btnTxt": null,
+      "agency": []
+    }
+  },
+  {
+    "id": "3",
+    "tit": "深圳：打卡朝聖1天遊",
+    "plan": [
+      {
+        "day": "1",
+        "path": [
+          {
+            "location": "香港西九龍站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": []
+          },
+          {
+            "location": "深圳北站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": [
+              {
+                "type": "1",
+                "way": {
+                  "from": "港鐵 「動感號」或內地高鐵列車，上午抵達",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "大芬油畫村",
+            "hotspot": {
+              "id": "541",
+              "tit": "大芬油畫村　文藝打卡熱點",
+              "img_d": "./images/hotspot/d0f96d78b07b438cb3de147897e32d.jpg",
+              "img_d_tag": "大芬油畫村",
+              "img_m": "./images/hotspot/3960dbcf354d4b1c9056266f259868.jpg",
+              "img_m_tag": "大芬油畫村",
+              "img_article_d": "./images/hotspot/20202b711e1045b4b6452c3ae5bafd.jpg",
+              "img_article_d_tag": "大芬油畫村",
+              "img_article_m": "./images/hotspot/36c572cdf3e3477ab8f78aa31c51d7.jpg",
+              "img_article_m_tag": "大芬油畫村",
+              "img_detail_d": "./images/hotspot/e44b30480e2b4804b80f09dd86f157.jpg",
+              "img_detail_d_tag": "大芬油畫村",
+              "img_detail_m": "./images/hotspot/956e084ba81643559dae746f146692.jpg",
+              "img_detail_m_tag": "大芬油畫村",
+              "name": "大芬油畫村",
+              "city": "深圳",
+              "hotspotDescription": "大芬村有「中國油畫第一村」之稱，到處都是小型畫廊、繪畫工作室、油畫作坊 ; 街道兩旁可以看到不少畫家正在製作油畫，甚有藝術氣息。另外，村內的大芬美術館展示了不少以社區為題的畫作。這裡亦有不少咖啡店，逛到累了不妨坐下來喝杯咖啡，十分愜意舒爽。",
+              "howToGo": "建議交通：乘地鐵3號綫，於大芬站下車，步行約10分鐘。<br /><br />高鐵站出發：由福田站乘地鐵3號綫前往；若由深圳北站出發，經地鐵5號綫，於布吉站轉乘地鐵3號綫前往。",
+              "location": "深圳市龍崗區大芬油畫村",
+              "link": "/hotspot.html?region=1&city=1&hotspot=541",
+              "site": "微信公眾號：大芬油畫村"
+            },
+            "route": [
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵5號綫",
+                  "to": "布吉站"
+                }
+              },
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵3號綫",
+                  "to": "大芬站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約10分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "洪湖公園",
+            "hotspot": {
+              "id": "545",
+              "tit": "尋找街頭文化",
+              "img_d": "./images/hotspot/c79993e453d54cbdad23bece26fd42.jpg",
+              "img_d_tag": "洪湖公園",
+              "img_m": "./images/hotspot/348122472d61479fb23c4c7b5bb2d4.jpg",
+              "img_m_tag": "洪湖公園",
+              "img_article_d": "./images/hotspot/d882d853969f452a8a1cb7ebf59606.jpg",
+              "img_article_d_tag": "洪湖公園",
+              "img_article_m": "./images/hotspot/f4b6067f325c43079b082fbde7486e.jpg",
+              "img_article_m_tag": "洪湖公園",
+              "img_detail_d": "./images/hotspot/ee65bbd952a54ef2810792848acbfa.jpg",
+              "img_detail_d_tag": "洪湖公園",
+              "img_detail_m": "./images/hotspot/28b16c17507f45acabd57e12f07b86.jpg",
+              "img_detail_m_tag": "洪湖公園",
+              "name": "洪湖公園",
+              "city": "深圳",
+              "hotspotDescription": "洪湖公園除了是以荷花為主題的市級公園，還藏有不為人知的藝術一面。在公園的布吉河堤邊，有著 2 公里長的塗鴉牆。牆上一幅幅精心傑作，代表街頭文化反叛的一面，同時亦是「潮人」必到的熱點。 ",
+              "howToGo": "建議交通：乘地鐵7號綫，於洪湖站下車，步行約8分鐘。<br /><br />高鐵站出發：由福田站經地鐵3號綫，於華新站轉乘地鐵7號綫前往；若由深圳北站出發，經地鐵6號綫，於八卦嶺站轉乘地鐵7號綫前往。",
+              "location": "深圳市羅湖區文錦北路 2023 號",
+              "link": "/hotspot.html?region=1&city=1&hotspot=545",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵3號綫",
+                  "to": "田貝站"
+                }
+              },
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵7號綫",
+                  "to": "洪湖站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約3分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "ADC 藝展中心",
+            "hotspot": {
+              "id": "546",
+              "tit": "創意天臺歐陸空間",
+              "img_d": "./images/hotspot/a8831b77960c4312bf9d1b05c66e56.jpg",
+              "img_d_tag": "ADC 藝展中心",
+              "img_m": "./images/hotspot/75c527599a9e434e9f401e9ab977d5.jpg",
+              "img_m_tag": "ADC 藝展中心",
+              "img_article_d": "./images/hotspot/f300badb94e443e7a5c3423f2f63bf.jpg",
+              "img_article_d_tag": "ADC 藝展中心",
+              "img_article_m": "./images/hotspot/f9e730b920144d9fb7ed5bcf424b1a.jpg",
+              "img_article_m_tag": "ADC 藝展中心",
+              "img_detail_d": "./images/hotspot/9d7b953e03da4862b778f5b15f7243.jpg",
+              "img_detail_d_tag": "ADC 藝展中心",
+              "img_detail_m": "./images/hotspot/160f96d7241449c8977b50ddc8c224.jpg",
+              "img_detail_m_tag": "ADC 藝展中心",
+              "name": "ADC 藝展中心",
+              "city": "深圳",
+              "hotspotDescription": "ADC 藝展中心是一站式的家居購物平臺，薈萃了國內國外的設計品牌，是讓你感受家居藝術、生活美學的好地方。另外，藝展中心二期和三期的天臺更有一個空中創意園，隱藏了咖啡店、特色餐廳、書屋、花藝教室等，歐陸風情，環境時尚清新，是讓你感受藝術氛圍的好地方。",
+              "howToGo": "建議交通：乘地鐵7/9號綫，於紅嶺北站下車，步行約7分鐘。<br /><br />高鐵站出發：由福田站經地鐵3號綫，於華新站轉乘地鐵7號綫前往；若由深圳北站出發，經地鐵6號綫，於銀湖站轉乘地鐵9號綫前往。",
+              "location": "深圳市羅湖區梅園路 125 號",
+              "link": "/hotspot.html?region=1&city=1&hotspot=546",
+              "site": "微信公眾號：藝展中心和國際藝展中心"
+            },
+            "route": [
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵7號綫",
+                  "to": "紅嶺北站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約7分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "深業上城",
+            "hotspot": {
+              "id": "539",
+              "tit": "深業上城　清新的歐陸小鎮 ",
+              "img_d": "./images/hotspot/a754ff8454fb43ada8fd428f6c53bd.jpg",
+              "img_d_tag": "深業上城",
+              "img_m": "./images/hotspot/d410371ac99346ee8fcf25629d687c.jpg",
+              "img_m_tag": "深業上城",
+              "img_article_d": "./images/hotspot/a51ff0722fff4c8bbbaf8437cfc208.jpg",
+              "img_article_d_tag": "深業上城",
+              "img_article_m": "./images/hotspot/624ac0ee11824000a96232d54aa211.jpg",
+              "img_article_m_tag": "深業上城",
+              "img_detail_d": "./images/hotspot/67b11e64412d443f923ebb5a2c3ff5.jpg",
+              "img_detail_d_tag": "深業上城",
+              "img_detail_m": "./images/hotspot/f8b12128b92b40188149d148729fa3.jpg",
+              "img_detail_m_tag": "深業上城",
+              "name": "深業上城",
+              "city": "深圳",
+              "hotspotDescription": "集綠色生活概念、SOHO住宿體驗與商業購物樂趣於一身的旅遊最新熱點，綠化率達40%。位於東西兩側兩座300多米長的行人天橋更將蓮花山和筆架山連接起來，風景怡人。品牌街及商場更有超過300個商戶進駐；至於10萬平米的Loft小鎮，以SOHO式住宿為亮點，是充滿設計感及文化休閒概念的小社區。",
+              "howToGo": "建議交通：乘地鐵3號綫，於蓮花村站下車，步行17分鐘；或乘地鐵10號綫，於冬瓜嶺站下車，步行約17分鐘。<br /><br />高鐵站出發：由福田站經地鐵3號綫，於蓮花村站前往；若由深圳北站出發，經地鐵5號綫，於五和站轉乘地鐵10號綫前往。",
+              "location": "深圳市福田區皇崗路5001號",
+              "link": "/hotspot.html?region=1&city=1&hotspot=539",
+              "site": "微信公眾號：深業上城"
+            },
+            "route": [
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵9號綫",
+                  "to": "孖嶺站"
+                }
+              },
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵10號綫",
+                  "to": "冬瓜嶺站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約17分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "MUJI HOTEL SHENZHEN",
+            "hotspot": {
+              "id": "543",
+              "tit": "MUJI 粉絲朝聖之地",
+              "img_d": "./images/hotspot/151273d73a8544a6a34d0a44722831.png",
+              "img_d_tag": "MUJI HOTEL SHENZHEN",
+              "img_m": "./images/hotspot/d9c123e8950e4b3db8b2c5d56e50cb.png",
+              "img_m_tag": "MUJI HOTEL SHENZHEN",
+              "img_article_d": "./images/hotspot/61d03b7d478d412681f08ae97fe68a.png",
+              "img_article_d_tag": "MUJI HOTEL SHENZHEN",
+              "img_article_m": "./images/hotspot/d3cc269791a3494fa4ce07666057f1.png",
+              "img_article_m_tag": "MUJI HOTEL SHENZHEN",
+              "img_detail_d": "./images/hotspot/c0a45676327f4935b7bee00a6f5761.png",
+              "img_detail_d_tag": "MUJI HOTEL SHENZHEN",
+              "img_detail_m": "./images/hotspot/01dc3c379db149bca299dffdbb4117.png",
+              "img_detail_m_tag": "MUJI HOTEL SHENZHEN",
+              "name": "MUJI HOTEL SHENZHEN",
+              "city": "深圳",
+              "hotspotDescription": "來到深圳，MUJI 迷又豈能錯過去朝聖呢？位於深業上城的 MUJI HOTEL SHENZHEN，從酒店大堂設計到客房擺設，都貫徹品牌的簡約風格，讓你全程體會無印良品概念。 另外，酒店設 MUJI Diner，主打以時令食材製作獨特風味的家庭料理。而兩層高的無印良品深圳旗艦店則有別於香港店，除有專設有展覽空間及刺繡工作坊等，你可設計刺繡圖案，作個小手信或紀念品。",
+              "howToGo": "建議交通：乘地鐵3號綫，於蓮花村站下車，步行約17分鐘；或乘地鐵10號綫，於冬瓜嶺站下車，步行約17分鐘。<br /><br />高鐵站出發：由福田站乘地鐵3號綫前往；若由深圳北站出發，經地鐵5號綫，於五和站轉乘地鐵10號綫前往。",
+              "location": "深圳市福田區皇崗路5001 號深業上城內",
+              "link": "/hotspot.html?region=1&city=1&hotspot=543",
+              "site": "微信公眾號：無印良品酒店深圳"
+            },
+            "route": [
+              {
+                "type": "3",
+                "way": {
+                  "from": "由深業上城步行約5分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "福華三路",
+            "hotspot": {
+              "id": "547",
+              "tit": "覓食好地方",
+              "img_d": "./images/hotspot/c9080b47d0fe4cea864dc2bb7b68e8.jpg",
+              "img_d_tag": "福華三路",
+              "img_m": "./images/hotspot/068699c80c6748ad8d6995fc50c92a.jpg",
+              "img_m_tag": "福華三路",
+              "img_article_d": "./images/hotspot/adc3cd367e62450f86a681adf66750.jpg",
+              "img_article_d_tag": "福華三路",
+              "img_article_m": "./images/hotspot/78846523de6b4b57a6b651fa936c25.jpg",
+              "img_article_m_tag": "福華三路",
+              "img_detail_d": "./images/hotspot/e2b76d4072b24001a2762fbb9dcb95.jpg",
+              "img_detail_d_tag": "福華三路",
+              "img_detail_m": "./images/hotspot/477ed49c9f374c6ab96db221e00e98.jpg",
+              "img_detail_m_tag": "福華三路",
+              "name": "福華三路",
+              "city": "深圳",
+              "hotspotDescription": "福華三路周邊有數座大商場，如星河 COCO Park、皇庭廣場、怡景中心城等，匯集各式美食餐飲，可以讓你大快朵頤，當中的星河 COCO Park 是深圳老牌的購物中心，有不少著名的餐廳，無論是西北菜肴、四川名菜，還是韓國烤肉等等，任君選擇，總有一間合你心意。",
+              "howToGo": "建議交通：乘地鐵1/3號綫，於購物公園站下車，步行約9分鐘；或乘地鐵4號綫，於會展中心站下車，步行約5-10分鐘。<br /><br />高鐵站出發：由福田站步行前往，約10分鐘；若由深圳北站出發，乘地鐵4號綫前往。",
+              "location": "深圳市福華三路 268 號星河COCO Park",
+              "link": "/hotspot.html?region=1&city=1&hotspot=547",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵3號綫",
+                  "to": "購物公園站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約9分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "深圳北站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": [
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵3號綫",
+                  "to": "少年宮站"
+                }
+              },
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵4號綫",
+                  "to": "深圳北站"
+                }
+              }
+            ]
+          },
+          {
+            "location": "香港西九龍站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": [
+              {
+                "type": "1",
+                "way": {
+                  "from": "港鐵 「動感號」或內地高鐵列車，晚上回港",
+                  "to": ""
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "tnc": "",
+    "banner": {
+      "type": "3",
+      "tit": "",
+      "desc": "",
+      "img_d": "",
+      "img_d_tag": "",
+      "img_m": "",
+      "img_m_tag": "",
+      "link": null,
+      "btnTxt": null,
+      "agency": []
+    }
+  },
+  {
+    "id": "4",
+    "tit": "廣州：快閃尋藝2天遊",
+    "plan": [
+      {
+        "day": "1",
+        "path": [
+          {
+            "location": "香港西九龍站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": []
+          },
+          {
+            "location": "廣州南站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": [
+              {
+                "type": "1",
+                "way": {
+                  "from": "港鐵 「動感號」或內地高鐵列車，上午抵達",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "入住廣州市內酒店",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": []
+          },
+          {
+            "location": "方所書店",
+            "hotspot": {
+              "id": "555",
+              "tit": "中國最美書店發源地",
+              "img_d": "./images/hotspot/18cb78e50dc442c68085e4bfa69517.JPG",
+              "img_d_tag": "方所書店",
+              "img_m": "./images/hotspot/fb6b7bf1e20f4dffabbf31011ca8ca.JPG",
+              "img_m_tag": "方所書店",
+              "img_article_d": "./images/hotspot/f735e117472b476fb8daec483523e4.JPG",
+              "img_article_d_tag": "方所書店",
+              "img_article_m": "./images/hotspot/5f4405f6958b4e0f957b4d0e72a121.JPG",
+              "img_article_m_tag": "方所書店",
+              "img_detail_d": "./images/hotspot/a53c4157d0f5402099762744c92da0.JPG",
+              "img_detail_d_tag": "方所書店",
+              "img_detail_m": "./images/hotspot/2f85b2087a1e40479caa4defb9b54d.JPG",
+              "img_detail_m_tag": "方所書店",
+              "name": "方所書店",
+              "city": "廣州",
+              "hotspotDescription": "位於廣州天河區的方所書店開業於 2011 年，是這個品牌的首間店鋪。書店的設計概念源自「一所大家一起來共修的道場」，禪意十足，希望讓讀者遠離城市的煩囂，靜靜讀書。書店甫開幕便受到建築界、文學界的關注，當時更被評為「華文界目前最新鮮、最具震撼力的書店」。店內不管是書刊、衣飾及生活用品的揀選都別具品味，而且這裡亦會不時舉辦講座、展覽和文創活動，難怪被內地潮人們列為必逛書店之一。",
+              "howToGo": "建議交通：乘地鐵3號綫，於石牌橋站下車，步行約2分鐘。<br /><br />高鐵站出發：由廣州南站經地鐵7號綫，於漢溪長隆站轉乘地鐵3號綫前往。",
+              "location": "廣州市天河區天河路 383 號太古匯 MU35 店",
+              "link": "/hotspot.html?region=1&city=7&hotspot=555",
+              "site": "微信公眾號：方所文化"
+            },
+            "route": [
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵3號綫",
+                  "to": "石牌橋站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約2分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "T. I. T. 創意園",
+            "hotspot": {
+              "id": "556",
+              "tit": "潮遊創意時尚特區",
+              "img_d": "./images/hotspot/e83e309e46964dfb8c8feb4333d044.JPG",
+              "img_d_tag": "T. I. T. 創意園",
+              "img_m": "./images/hotspot/e2dd3cd35571454b87d463b8548df8.JPG",
+              "img_m_tag": "T. I. T. 創意園",
+              "img_article_d": "./images/hotspot/5f76bad0c47b4d399a5069468143f0.JPG",
+              "img_article_d_tag": "T. I. T. 創意園",
+              "img_article_m": "./images/hotspot/ea68ec468dd14b909718a037b3b5b0.JPG",
+              "img_article_m_tag": "T. I. T. 創意園",
+              "img_detail_d": "./images/hotspot/52d5f88b4bf848b5ba838d193d04a9.JPG",
+              "img_detail_d_tag": "T. I. T. 創意園",
+              "img_detail_m": "./images/hotspot/9f45691d2269432bb64eb16b27fef7.JPG",
+              "img_detail_m_tag": "T. I. T. 創意園",
+              "name": "T. I. T. 創意園",
+              "city": "廣州",
+              "hotspotDescription": "T. I. T.是廣州市內的創意藝術園區，這裡的前身是 1956 年成立的廣州紡織機械廠，至 2007 年停產後被改造成以服裝文化、時尚創新為題的創意園區，當中保留了不少原有的建築設計，一些機械設備亦被改為藝術裝置，園內亦有不少文藝小店，是悠閒逛逛和拍照的好地方。",
+              "howToGo": "建議交通：乘地鐵3/8號綫，於客村站下車，步行約15分鐘。<br /><br />高鐵站出發：由廣州南站經地鐵7號綫，於漢溪長隆站轉乘地鐵3號綫前往。",
+              "location": "廣州市海珠區新港中路 397 號",
+              "link": "/hotspot.html?region=1&city=7&hotspot=556",
+              "site": "微信公眾號：廣州TIT創意園"
+            },
+            "route": [
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵3號綫",
+                  "to": "於客村站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約15分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "廣州塔",
+            "hotspot": {
+              "id": "549",
+              "tit": "登上小蠻腰俯瞰全城 ",
+              "img_d": "./images/hotspot/c3811230e5e4441c8f95999d714656.jpg",
+              "img_d_tag": "廣州塔",
+              "img_m": "./images/hotspot/b649b30db8bf48d88aa661d0c43a56.jpg",
+              "img_m_tag": "廣州塔",
+              "img_article_d": "./images/hotspot/919700990eb740948d6809a10f1a3f.jpg",
+              "img_article_d_tag": "廣州塔",
+              "img_article_m": "./images/hotspot/67ac4230cefe4184992a5af1b71351.jpg",
+              "img_article_m_tag": "廣州塔",
+              "img_detail_d": "./images/hotspot/68f7bcde36a443e8ac44bf748cad2d.jpg",
+              "img_detail_d_tag": "廣州塔",
+              "img_detail_m": "./images/hotspot/443bcdb67f44455da1bf662d8553ef.jpg",
+              "img_detail_m_tag": "廣州塔",
+              "name": "廣州塔",
+              "city": "廣州",
+              "hotspotDescription": "廣州塔是廣州的地標，集旅遊觀光、餐飲、文化娛樂和科學普及教育等於一身，總高度600米，擁有46環LED燈帶，千變萬化的色彩吸引著遊人目光。位於106層的廣州塔旋轉餐廳，約100分鐘旋轉一圈，可全方位欣賞廣州美景。",
+              "howToGo": "建議交通：乘地鐵3號綫，於廣州塔站下車，步行約5分鐘。<br /><br />高鐵站出發：由廣州南站經地鐵7號綫，於漢溪長隆站轉乘地鐵3號綫前往。",
+              "location": "廣州市海珠區閱江西路222號",
+              "link": "/hotspot.html?region=1&city=7&hotspot=549",
+              "site": "微信公眾號：廣州塔CantonTower"
+            },
+            "route": [
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵3號綫",
+                  "to": "廣州塔站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約5分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "1200bookshop",
+            "hotspot": {
+              "id": "558",
+              "tit": "最 COOL 書店打書釘",
+              "img_d": "./images/hotspot/e0923ff011304d49b35f7ffa25c890.JPG",
+              "img_d_tag": "1200bookshop",
+              "img_m": "./images/hotspot/d2fa34d0748a49718143000cb7d241.JPG",
+              "img_m_tag": "1200bookshop",
+              "img_article_d": "./images/hotspot/9b623030fe83449aafc61e98d52347.JPG",
+              "img_article_d_tag": "1200bookshop",
+              "img_article_m": "./images/hotspot/712a341d9c6f4702a06cfb3609e469.JPG",
+              "img_article_m_tag": "1200bookshop",
+              "img_detail_d": "./images/hotspot/fed5d342a3fe4fa796f436a39a5730.JPG",
+              "img_detail_d_tag": "1200bookshop",
+              "img_detail_m": "./images/hotspot/6d91b7498a9d4aecbfffdd233dbe5e.JPG",
+              "img_detail_m_tag": "1200bookshop",
+              "name": "1200bookshop",
+              "city": "廣州",
+              "hotspotDescription": "1200bookshop 於 2014 年開業，是廣州首家 24 小時營業的書店，亦被喻為「廣州最酷書店」。「1200」不但是書店不打烊的意思，也是店主劉二囍先生於臺灣環島走過的距離。在臺灣環島時的經歷，激起店主開設一所 24 小時書店的想法，希望可以讓城市的夜歸人、陌路人在深夜也有一個溫暖的落腳點。這間多達 1 萬本藏書的書店設有 Cafe，而且更有一個「沙發客」角落，讓背包客可以在此留宿。",
+              "howToGo": "建議交通：乘地鐵3號綫，於體育西路站下車，步行約13分鐘；或乘地鐵APM綫，於黃埔大道站下車，步行約10分鐘。<br /><br />高鐵站出發：由廣州南站經地鐵7號綫，於漢溪長隆站轉乘地鐵3號綫前往。",
+              "location": "廣州市天河區體育東路 27 號",
+              "link": "/hotspot.html?region=1&city=7&hotspot=558",
+              "site": "微信公眾號：1200bookshop"
+            },
+            "route": [
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵3號綫",
+                  "to": "體育西路站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約13分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "2",
+        "path": [
+          {
+            "location": "芳村信義會館",
+            "hotspot": {
+              "id": "559",
+              "tit": "老榕樹下感受悠閒氣息",
+              "img_d": "./images/hotspot/ffba35a240984f12b9ee390b5e939b.jpg",
+              "img_d_tag": "芳村信義會館",
+              "img_m": "./images/hotspot/63e5339a43c34a66bee37cbdf2f3ba.jpg",
+              "img_m_tag": "芳村信義會館",
+              "img_article_d": "./images/hotspot/220d8782b3814011a9595128832138.jpg",
+              "img_article_d_tag": "芳村信義會館",
+              "img_article_m": "./images/hotspot/40a967ab66c74a7484ef836b96751b.jpg",
+              "img_article_m_tag": "芳村信義會館",
+              "img_detail_d": "./images/hotspot/ed30c8c6610d4b31bac07a537ff87b.jpg",
+              "img_detail_d_tag": "芳村信義會館",
+              "img_detail_m": "./images/hotspot/75ea00e2134e437cb0a2e33a7e8183.jpg",
+              "img_detail_m_tag": "芳村信義會館",
+              "name": "芳村信義會館",
+              "city": "廣州",
+              "hotspotDescription": "芳村信義會館位於荔灣區白鵝潭畔，是廣州其中一個文化藝術發展集聚點，已被荔灣區政府定為「嶺南創意灣」。會館原址為上世紀 60 年代廣東水利水電廠的廠房，經過多番發展，將館內範圍內超過 80 棵老榕樹、原有廠房外牆上的各種口號都一一保留，令會館洋溢古早風韻的廣州文化氣息。在大榕樹和老建築之間遊走，可以找到不同的商業展覽、工作坊等的藝術活動；館內更有食肆、住宿等設施，方便遊人。",
+              "howToGo": "建議交通：乘地鐵1號綫，於芳村站下車，步行約12分鐘或轉乘信義會館提供的穿梭巴士。<br /><br />高鐵站出發：由廣州南站經地鐵2號綫，於公園前站轉乘地鐵1號綫前往。",
+              "location": "廣州市荔灣區芳村大道下市直街 1 號",
+              "link": "/hotspot.html?region=1&city=7&hotspot=559",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵1號綫",
+                  "to": "芳村站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約12分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "1850創意園",
+            "hotspot": {
+              "id": "681",
+              "tit": "重拾昔日廣州文化",
+              "img_d": "./images/hotspot/f6ef7cfb001e48e58ae550fd52dd73.jpg",
+              "img_d_tag": "1850創意園",
+              "img_m": "./images/hotspot/98c51bdfc1f749f598184ade09e9f9.jpg",
+              "img_m_tag": "1850創意園",
+              "img_article_d": "./images/hotspot/8ea1c66ddb95471c82dbd30da3e1a8.jpg",
+              "img_article_d_tag": "1850創意園",
+              "img_article_m": "./images/hotspot/9c7c4d0b36d64ef388cf4a139e2c08.jpg",
+              "img_article_m_tag": "1850創意園",
+              "img_detail_d": "./images/hotspot/07ca67f0cb1a4a47b2175a130b4d46.jpg",
+              "img_detail_d_tag": "1850創意園",
+              "img_detail_m": "./images/hotspot/f4a3486d5a5e4f5cb01685dc823fc9.jpg",
+              "img_detail_m_tag": "1850創意園",
+              "name": "1850創意園",
+              "city": "廣州",
+              "hotspotDescription": "1850 創意園是由華南最大的金珠江雙氧水廠改建而成，集藝術創作、設計、常設展覽、文化交流、辦公空間於一身。它取名1850，是因為 1850 年這段期間，廣州是世界十大經濟城市之一，在國際上薄有名氣。1850 創意園所在的鵝潭映月古渡口，更是古代海上絲綢之路的發祥地，當年的廣繡廣彩、石灣陶瓷都是從這裡出口世界各地。當地政府希望透過這裡的工業歷史文化、現代藝術文化的薰陶，營造一個創意濃厚、配套完備的創意產業基地及複合型文化社區。",
+              "howToGo": "建議交通：乘地鐵1號綫，於芳村站下車，步行約12分鐘。<br /><br />高鐵站出發：由廣州南站經地鐵2號綫，於公園前站轉乘地鐵1號綫前往。",
+              "location": "廣州市荔灣區芳村大道東 200 號",
+              "link": "/hotspot.html?region=1&city=7&hotspot=681",
+              "site": "http://www.gz1850.cn"
+            },
+            "route": [
+              {
+                "type": "3",
+                "way": {
+                  "from": "由芳村信義會館步行約9分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "石室聖心大教堂",
+            "hotspot": {
+              "id": "551",
+              "tit": "細味哥德式建築 文青打咭必去",
+              "img_d": "./images/hotspot/12e6147b722c49cbb48d03b4959b44.jpg",
+              "img_d_tag": "石室聖心大教堂",
+              "img_m": "./images/hotspot/704cc29572234e6aaea363347e8c6b.jpg",
+              "img_m_tag": "石室聖心大教堂",
+              "img_article_d": "./images/hotspot/10833ccdc2cd474a851081c05f1824.jpg",
+              "img_article_d_tag": "石室聖心大教堂",
+              "img_article_m": "./images/hotspot/e058e6c83540441099119210549988.jpg",
+              "img_article_m_tag": "石室聖心大教堂",
+              "img_detail_d": "./images/hotspot/41150e1670054ffd92743b7877eece.jpg",
+              "img_detail_d_tag": "石室聖心大教堂",
+              "img_detail_m": "./images/hotspot/1112bc47e0614ab484dae460f6bbaa.jpg",
+              "img_detail_m_tag": "石室聖心大教堂",
+              "name": "石室聖心大教堂",
+              "city": "廣州",
+              "hotspotDescription": "於1863年聖心瞻禮日正式舉行奠基典禮，故命名聖心大教堂。由於教堂全部牆壁和柱子都是用花崗岩石建造，所以又稱為石室。它歷時25年始建成，正面是一對高聳的尖頂石塔，象徵升向天堂，皈依天主；正立面的鐘樓上聳立尖塔，是經典的哥德式教堂建築風格，是天主教廣州教區最宏偉的一間大教堂。",
+              "howToGo": "建議交通：乘地鐵2/6號綫，於海珠廣場站下車，步行約10分鐘。<br /><br />高鐵站出發：由廣州南站乘地鐵2號綫前往。",
+              "location": "廣州市越秀區一德路舊部前56號",
+              "link": "/hotspot.html?region=1&city=7&hotspot=551",
+              "site": "微信公眾號：廣州石室耶穌聖心大教堂"
+            },
+            "route": [
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵1號綫",
+                  "to": "黃沙站"
+                }
+              },
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵6號綫",
+                  "to": "海珠廣場站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約10分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "廣州南站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": [
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵2號綫",
+                  "to": "廣州南站"
+                }
+              }
+            ]
+          },
+          {
+            "location": "香港西九龍站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": [
+              {
+                "type": "1",
+                "way": {
+                  "from": "港鐵 「動感號」或內地高鐵列車，晚上回港",
+                  "to": ""
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "tnc": "",
+    "banner": {
+      "type": "3",
+      "tit": "",
+      "desc": "",
+      "img_d": "",
+      "img_d_tag": "",
+      "img_m": "",
+      "img_m_tag": "",
+      "link": null,
+      "btnTxt": null,
+      "agency": []
+    }
+  },
+  {
+    "id": "5",
+    "tit": "潮汕：訪古懷舊4天遊",
+    "plan": [
+      {
+        "day": "1",
+        "path": [
+          {
+            "location": "香港西九龍站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": []
+          },
+          {
+            "location": "潮汕站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": [
+              {
+                "type": "1",
+                "way": {
+                  "from": "內地高鐵列車，上午抵達",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "入住汕頭市內酒店",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": []
+          },
+          {
+            "location": "石炮臺公園 ",
+            "hotspot": {
+              "id": "577",
+              "tit": "寫意漫步觀海長廊",
+              "img_d": "./images/hotspot/f6b87b64af97432a8ed1a9143a8a2d.jpg",
+              "img_d_tag": "石炮臺公園 ",
+              "img_m": "./images/hotspot/ee171cc4cd414a2ba54a909037aaad.jpg",
+              "img_m_tag": "石炮臺公園 ",
+              "img_article_d": "./images/hotspot/216b615d3cb9453794dae753dc0b38.jpg",
+              "img_article_d_tag": "石炮臺公園 ",
+              "img_article_m": "./images/hotspot/8883929d9fc44dda997607db3e5035.jpg",
+              "img_article_m_tag": "石炮臺公園 ",
+              "img_detail_d": "./images/hotspot/fd5cca0ad13d4a068990172762d19e.jpg",
+              "img_detail_d_tag": "石炮臺公園 ",
+              "img_detail_m": "./images/hotspot/fbead97f36914ea9865a17340f38e6.jpg",
+              "img_detail_m_tag": "石炮臺公園 ",
+              "name": "石炮臺公園 ",
+              "city": "汕頭",
+              "hotspotDescription": "汕頭市是廣東省的經濟特區之一，市內一片繁華向榮的景象。在距離市中心不遠處的海濱路，這裡有一個沿岸邊而建的海濱長廊公園，是一片讓人瞬間放鬆、心曠神怡的綠化地帶。沿著觀海長廊往前走，有一個石炮臺公園，以環圓形城堡建築，被護城河包圍，像土樓也像太空基地。原來它是崎碌炮臺，是清末海防設施的歷史遺跡，現更被列為國家級重點文物保護單位。大家可以沿護城河進入炮臺，走到城牆上看仿製大炮，感受昔日軍事要塞之氣勢。",
+              "howToGo": "建議交通：乘公車K1/19/46/103路，於石炮台公園站下車，步行約5分鐘。<br /><br />高鐵站出發：由汕頭站乘公車103路前往；若由潮汕站出發，乘的士前往，約1小時。",
+              "location": "汕頭市金平區海濱路 20 號",
+              "link": "/hotspot.html?region=1&city=9&hotspot=577",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "5",
+                "way": {
+                  "from": "乘的士前往",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "汕頭小公園",
+            "hotspot": {
+              "id": "569",
+              "tit": "速覽汕頭懷舊氣息",
+              "img_d": "./images/hotspot/75579550a3194af2ac0e418aed1c2f.jpg",
+              "img_d_tag": "汕頭小公園",
+              "img_m": "./images/hotspot/7183a452f7c44e46ac2c76bef9cb84.jpg",
+              "img_m_tag": "汕頭小公園",
+              "img_article_d": "./images/hotspot/bee74e9539344c968e5f50b645b9b3.jpg",
+              "img_article_d_tag": "汕頭小公園",
+              "img_article_m": "./images/hotspot/eba31c6a6fdc403d988c6f7d9d2f02.jpg",
+              "img_article_m_tag": "汕頭小公園",
+              "img_detail_d": "./images/hotspot/e093493f4a2b4fea8c562a281afb46.jpg",
+              "img_detail_d_tag": "汕頭小公園",
+              "img_detail_m": "./images/hotspot/43e2be45977c41a98fca8d9dcd6697.jpg",
+              "img_detail_m_tag": "汕頭小公園",
+              "name": "汕頭小公園",
+              "city": "汕頭",
+              "hotspotDescription": "汕頭小公園位於汕頭市舊城區的商業及文化中心，是老城區的核心地標。小公園是以中山紀念亭爲核心向外環形放射的區域，是全國唯一呈放射狀的騎樓街道，規模更超過廣州「上下九」。在這裏有中西合壁的騎樓建築群，見證著汕頭經濟和文化發展的歷史，在街道上走著，仿佛回到往日的汕頭，是一個充滿懷舊味道的地方。附近街道亦有不少著名的牛肉火鍋店，讓你可以品嘗地道美食。",
+              "howToGo": "建議交通：乘公車2/3/5/12/14/17/19/23/59/101路，於市總工會站下車，步行約5分鐘。<br /><br />高鐵站出發：由汕頭站乘公車2路前往；若由潮汕站出發，乘公車181路，於東廈中學站轉乘公車3路前往。",
+              "location": "汕頭市金平區小公園",
+              "link": "/hotspot.html?region=1&city=9&hotspot=569",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "4",
+                "way": {
+                  "from": "公車19路",
+                  "to": "市總工會站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約5分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "福合埕牛肉丸 (福平路店)",
+            "hotspot": {
+              "id": "682",
+              "tit": "品嘗地道手打牛肉火鍋",
+              "img_d": "./images/hotspot/cb3f69a55637478fb8c7ff65318e42.png",
+              "img_d_tag": null,
+              "img_m": "./images/hotspot/d8bb13a8a92a449abd8197201094fa.png",
+              "img_m_tag": null,
+              "img_article_d": "./images/hotspot/6768ce192fd045c3a122af23a17f35.png",
+              "img_article_d_tag": null,
+              "img_article_m": "./images/hotspot/d58fc4567d074e9a93ea118ae75d70.png",
+              "img_article_m_tag": null,
+              "img_detail_d": "./images/hotspot/e156c9f97a4448d3b47e05c048fa95.png",
+              "img_detail_d_tag": null,
+              "img_detail_m": "./images/hotspot/02d4d09b982041a0880fca723d88f6.png",
+              "img_detail_m_tag": null,
+              "name": "福合埕牛肉丸 (福平路店)",
+              "city": "汕頭",
+              "hotspotDescription": "潮汕牛肉火鍋當中，老字號福合埕牛肉丸已有超過60年歷史，自設牧場放養黃牛，因此牛肉除了質素好，更有大量刁鑽牛部位如吊龍、五花趾、匙仁、匙柄等，價格相宜，配上他們的秘製沙茶醬或辣椒醬，味道更昇華！他們的招牌牛丸更是不可錯過，每天新鮮製作，彈牙又鮮嫩多汁！",
+              "howToGo": "建議交通：乘公車2/22A路，於金鳳壇東站下車，步行約7分鐘。<br /><br />高鐵站出發：由汕頭站乘公車2/22A路前往；若由潮汕站出發，乘公車181路，於萬達廣場站轉乘公車22B路，於福平韓堤路口站下車，步行約4分鐘。",
+              "location": "汕頭市金平區福平路福合綜合大樓 87-89 號",
+              "link": "/hotspot.html?region=1&city=9&hotspot=682",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "3",
+                "way": {
+                  "from": "由汕頭小公園步行約4分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "2",
+        "path": [
+          {
+            "location": "南澳島",
+            "hotspot": {
+              "id": "571",
+              "tit": "動與靜的結合",
+              "img_d": "./images/hotspot/a78912d224a146f9af821b9913f334.jpg",
+              "img_d_tag": "南澳島",
+              "img_m": "./images/hotspot/ef431004dc21447685934fbe7a2dbf.jpg",
+              "img_m_tag": "南澳島",
+              "img_article_d": "./images/hotspot/ebcaa6991b624915a0ff3c02efc63d.jpg",
+              "img_article_d_tag": "南澳島",
+              "img_article_m": "./images/hotspot/3d76eb90ae164578a5ab43bdcfd9c9.jpg",
+              "img_article_m_tag": "南澳島",
+              "img_detail_d": "./images/hotspot/abdf4afeeec74687827f879063a0af.jpg",
+              "img_detail_d_tag": "南澳島",
+              "img_detail_m": "./images/hotspot/355357ee975e49298cc564b64ebd19.jpg",
+              "img_detail_m_tag": "南澳島",
+              "name": "南澳島",
+              "city": "汕頭",
+              "hotspotDescription": "南澳島是度假勝地，面積等於香港島和九龍半島的總和，是廣東省唯一的島縣。島上有長長的海岸線，每逢夏天遊人都蜂擁而至，享受陽光海灘或者參觀不同名勝。前往南澳島需經過南澳大橋，它全長11公里，以斜拉索設計，兩邊風景優美。到達後，這邊有一條海濱長廊，沿著走廊慢走，看看海邊風景，十分悠閒愜意。島上風景獨特：走海線可訪海上漁家、品嘗美味海鮮；走山線則可游茶園果園，盡情投入大自然的懷抱。",
+              "howToGo": "建議交通：乘公車161A/161B路，於遊客中心站下車，上島後可選擇乘坐島內公交或包車遊覽各景點，但島內公交班次少，時間不方便，建議選擇包車或自駕。<br /><br />高鐵站出發：由汕頭站乘公車161A/161B前往；若由潮汕站出發，乘的士前往，約1小時50分鐘。",
+              "location": "汕頭市南澳島旅游區",
+              "link": "/hotspot.html?region=1&city=9&hotspot=571",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "5",
+                "way": {
+                  "from": "建議包車遊覽",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "宋井風景區",
+            "hotspot": {
+              "id": "573",
+              "tit": "相傳宋代皇帝落難之處 ",
+              "img_d": "./images/hotspot/6f65b33d74d44e8e8eaecaf64d0d54.jpg",
+              "img_d_tag": "宋井風景區",
+              "img_m": "./images/hotspot/889cbaee332c4585aa5a0fc4eef8f6.jpg",
+              "img_m_tag": "宋井風景區",
+              "img_article_d": "./images/hotspot/8aa5dd6784074a489c669aa7369258.jpg",
+              "img_article_d_tag": "宋井風景區",
+              "img_article_m": "./images/hotspot/151b70dbac604996badcb7e38757e1.jpg",
+              "img_article_m_tag": "宋井風景區",
+              "img_detail_d": "./images/hotspot/ecd4a03906a6408c900b623b82606e.jpg",
+              "img_detail_d_tag": "宋井風景區",
+              "img_detail_m": "./images/hotspot/ee4490f6e55440e8887c823dc23692.jpg",
+              "img_detail_m_tag": "宋井風景區",
+              "name": "宋井風景區",
+              "city": "汕頭",
+              "hotspotDescription": "南澳島古時是軍事要塞，不少歷史人物也曾到訪此處，例如宋帝昺、戚繼光、俞大猷等，所以島上仍遺留不少歷史古跡。位於斜坡之上的太子樓，相傳是宋代最後兩位皇帝趙罡及趙昺逃避元兵的藏身之所，今日「樓」不見了，只剩下老古樹及石刻讓人憑弔這段悲壯歷史。另外，宋井是一個臨海沙灘的水井，井水沒有被海水「污染」，這是一個天然奇觀，從古至今一直流出可飲用的淡水。",
+              "howToGo": "建議交通：乘公車161A/161B路，於遊客中心站下車，上島後可選擇乘坐島內公交或包車遊覽各景點，但島內公交班次少，時間不方便，建議選擇包車或自駕。<br /><br />高鐵站出發：由汕頭站乘公車161A/161B前往；若由潮汕站出發，乘的士前往，約1小時50分鐘。",
+              "location": "汕頭市南澳縣南澳島雲澳鎮澳前村",
+              "link": "/hotspot.html?region=1&city=9&hotspot=573",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "5",
+                "way": {
+                  "from": "建議包車遊覽",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "北回歸線標誌塔",
+            "hotspot": {
+              "id": "574",
+              "tit": "自然之門　北回歸線標誌塔",
+              "img_d": "./images/hotspot/69e44fb780094cfa85932477ab9f6b.jpg",
+              "img_d_tag": "北回歸線標誌塔",
+              "img_m": "./images/hotspot/6e70f6bf856a4aa78aa33f929b3868.jpg",
+              "img_m_tag": "北回歸線標誌塔",
+              "img_article_d": "./images/hotspot/e17fc9807d2a455e9ec7d4ed6826e2.jpg",
+              "img_article_d_tag": "北回歸線標誌塔",
+              "img_article_m": "./images/hotspot/2b4cadd51c2448998cad57fd240355.jpg",
+              "img_article_m_tag": "北回歸線標誌塔",
+              "img_detail_d": "./images/hotspot/9c92616913f942f88144324e94fafc.jpg",
+              "img_detail_d_tag": "北回歸線標誌塔",
+              "img_detail_m": "./images/hotspot/07e5f69f956c480694b474377a6c7b.jpg",
+              "img_detail_m_tag": "北回歸線標誌塔",
+              "name": "北回歸線標誌塔",
+              "city": "汕頭",
+              "hotspotDescription": "廣場內的標誌塔是中國第 11 座北回歸線標誌塔。據說它是依照「門」字來設計，中間以「北」字形狀支架支撐一個直徑 5 米的地球儀，整座建築總高度 13.6 米，屹立於廣場，面臨海灘，氣勢宏偉。北回歸線是太陽日射能夠到達的最北緯度，亦是熱帶與亞熱帶氣候的分界線。廣場附近亦有很多售賣旅遊紀念品和當地風味小吃的商店。",
+              "howToGo": "建議交通：乘公車161A/161B路，於遊客中心站下車，上島後可選擇乘坐島內公交或包車遊覽各景點，但島內公交班次少，時間不方便，建議選擇包車或自駕。<br /><br />高鐵站出發：由汕頭站乘公車161A/161B前往；若由潮汕站出發，乘的士前往，約1小時50分鐘。",
+              "location": "汕頭市南澳縣南澳島北回歸線標誌塔廣場",
+              "link": "/hotspot.html?region=1&city=9&hotspot=574",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "5",
+                "way": {
+                  "from": "建議包車遊覽",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "南澳總兵府",
+            "hotspot": {
+              "id": "575",
+              "tit": "總兵府見招兵樹",
+              "img_d": "./images/hotspot/772cf6241cd64154baf8bb616429e1.jpg",
+              "img_d_tag": "南澳總兵府",
+              "img_m": "./images/hotspot/22fddb4a3f824debb9ed5982362aa1.jpg",
+              "img_m_tag": "南澳總兵府",
+              "img_article_d": "./images/hotspot/eda830a9862744d2858e9ca9539285.jpg",
+              "img_article_d_tag": "南澳總兵府",
+              "img_article_m": "./images/hotspot/b897376335ab4ee7b2ef3e108bf7a2.jpg",
+              "img_article_m_tag": "南澳總兵府",
+              "img_detail_d": "./images/hotspot/4854640459e54250904a477c658d17.jpg",
+              "img_detail_d_tag": "南澳總兵府",
+              "img_detail_m": "./images/hotspot/05e06cf453ce42788a7883f7392e86.jpg",
+              "img_detail_m_tag": "南澳總兵府",
+              "name": "南澳總兵府",
+              "city": "汕頭",
+              "hotspotDescription": "南澳總兵府是全國唯一的海島總兵府，古為閩粵交界處，由於其地理位置特殊，所以明朝時已開設總兵衙門。總兵府由當時的南澳副總兵晏繼芳建造，外有一棵老榕樹名為「鄭成功招兵樹」，相傳鄭成功曾多次在此招兵，古樹下至今仍置有一塊重約 100 多斤的巨石，來此應募征的新兵必須舉起此石方可入伍。館內更設有鄭成功像，紀念他成功從荷蘭人手上收復臺灣的功績。",
+              "howToGo": "建議交通：乘公車161A/161B路，於遊客中心站下車，上島後可選擇乘坐島內公交或包車遊覽各景點，但島內公交班次少，時間不方便，建議選擇包車或自駕。<br /><br />高鐵站出發：由汕頭站乘公車161A/161B前往；若由潮汕站出發，乘的士前往，約1小時50分鐘。",
+              "location": "汕頭市南澳縣南澳島南山路",
+              "link": "/hotspot.html?region=1&city=9&hotspot=575",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "5",
+                "way": {
+                  "from": "建議包車遊覽",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "入住潮州市內酒店",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": []
+          }
+        ]
+      },
+      {
+        "day": "3",
+        "path": [
+          {
+            "location": "牌坊街",
+            "hotspot": {
+              "id": "561",
+              "tit": "立體功績表",
+              "img_d": "./images/hotspot/bad9ab23825d461b8a49f123fd1ad0.jpg",
+              "img_d_tag": "牌坊街",
+              "img_m": "./images/hotspot/5118e785ebb344ba9734403a5b1aab.jpg",
+              "img_m_tag": "牌坊街",
+              "img_article_d": "./images/hotspot/c32f99c21121465b85e23238ab2d68.jpg",
+              "img_article_d_tag": "牌坊街",
+              "img_article_m": "./images/hotspot/8fa10879922d4aa2b62ca763177a0d.jpg",
+              "img_article_m_tag": "牌坊街",
+              "img_detail_d": "./images/hotspot/3db2dc86a60749758a4f1d3d975d5c.jpg",
+              "img_detail_d_tag": "牌坊街",
+              "img_detail_m": "./images/hotspot/f557ccaeabbf4ab78fcd988b4a8582.jpg",
+              "img_detail_m_tag": "牌坊街",
+              "name": "牌坊街",
+              "city": "潮州",
+              "hotspotDescription": "如果你喜歡京都市伏見稻荷大社的鳥居陣，潮州市的牌坊街絕不會讓你失望而回。路上 23 座的石造大型牌坊，一個接一個沿太平路屹立，每個牌坊都紀錄不同的功名事蹟，表彰節義、功德、科第等傑出人士。牌坊街兩旁仍保留不少明清及民國時代的民宅，有的已改建為客棧，有的改為茶館，街道上手信店和食店林立，讓你品嘗各式地道美食，例如豬腳卷、蝦餅、糯米豬腸、蠔仔煎及各種粿點等。這裡可以讓您輕鬆逛上半天。<br /><br />在牌坊街也附近景點還有甲第巷，它曾是古代潮州城仕宦、商賈、望族聚居之地，其明清宅院、彩色嵌瓷、精製木雕和石雕，甚有特色。",
+              "howToGo": "建議交通：乘公車高鐵K1綫/K2路快綫/9/10/13/101/102/103/105/108/109/110/112/113/201/602路，於南橋市場站下車，步行約5分鐘。<br /><br />高鐵站出發：由潮汕站乘公車高鐵K1綫/K2路快綫前往；若由汕頭站出發，乘的士前往，約1小時。",
+              "location": "潮州市湘橋區太平路牌坊街",
+              "link": "/hotspot.html?region=1&city=14&hotspot=561",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "4",
+                "way": {
+                  "from": "公車101/102/K2路快綫",
+                  "to": "南橋市場站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約5分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "開元寺",
+            "hotspot": {
+              "id": "563",
+              "tit": "保留唐朝特色　宏偉開元寺",
+              "img_d": "./images/hotspot/5030042799c14165b2f332d69cd68c.JPG",
+              "img_d_tag": "開元寺",
+              "img_m": "./images/hotspot/3a22285d433d4967992b8c90699d2f.JPG",
+              "img_m_tag": "開元寺",
+              "img_article_d": "./images/hotspot/728ca1ab6daa44f18629430b2df9b8.JPG",
+              "img_article_d_tag": "開元寺",
+              "img_article_m": "./images/hotspot/efdb209e049342f8818dd16243d227.JPG",
+              "img_article_m_tag": "開元寺",
+              "img_detail_d": "./images/hotspot/48564030c6f9402bb3cd45507611ae.JPG",
+              "img_detail_d_tag": "開元寺",
+              "img_detail_m": "./images/hotspot/977638a36c2b469c908d28bc56e341.JPG",
+              "img_detail_m_tag": "開元寺",
+              "name": "開元寺",
+              "city": "潮州",
+              "hotspotDescription": "開元寺亦稱「開元鎮國禪寺」，始建於唐代開元二十六年，至今已有 1200 多年的歷史，向為歷朝祝福君主及宣講官府律令之所。雖經宋、元、明、清的不斷修繕，但如今的開元寺依然保留有唐朝時期的主要佈局，又融合了各朝代的建築藝術，殿閣壯觀，而且香火鼎盛，更被列入全國重點文物保護單位，十分值得參觀。",
+              "howToGo": "建議交通：乘公車K2路快綫/9/101/102/103/105/107/108/201/602路，於城南小學站下車，步行約10分鐘。<br /><br />高鐵站出發：由潮汕站乘公車K2路快綫前往；若由汕頭站出發，乘的士前往，約1小時。",
+              "location": "潮州市湘橋區開元路32號",
+              "link": "/hotspot.html?region=1&city=14&hotspot=563",
+              "site": "微信公眾號：潮州開元寺"
+            },
+            "route": [
+              {
+                "type": "3",
+                "way": {
+                  "from": "由牌坊街步行約10分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "廣濟門城樓 ",
+            "hotspot": {
+              "id": "564",
+              "tit": "走上城樓　飽覽城內外風景",
+              "img_d": "./images/hotspot/806a6d46e5c44d76938f6a2a43fb8f.jpg",
+              "img_d_tag": "廣濟門城樓 ",
+              "img_m": "./images/hotspot/b8c8a42f826d4341889cac4cda87d8.jpg",
+              "img_m_tag": "廣濟門城樓 ",
+              "img_article_d": "./images/hotspot/6377903bee5d41b0880353005f4638.jpg",
+              "img_article_d_tag": "廣濟門城樓 ",
+              "img_article_m": "./images/hotspot/9a8eca42ef3e401389bc3f44ee12ad.jpg",
+              "img_article_m_tag": "廣濟門城樓 ",
+              "img_detail_d": "./images/hotspot/b18ec94235434541beb5930fa8dee2.jpg",
+              "img_detail_d_tag": "廣濟門城樓 ",
+              "img_detail_m": "./images/hotspot/f2558cdc415546dab7aa5c31183d90.jpg",
+              "img_detail_m_tag": "廣濟門城樓 ",
+              "name": "廣濟門城樓 ",
+              "city": "潮州",
+              "hotspotDescription": "湘子橋前的廣濟樓，也稱作韓江樓或者東門樓，是中國古城牆保存得最完整的其中之一，也是潮州古城七門中最巍峨壯觀的一座，為今日潮州地標之一。廣濟樓始建於明洪武三年，登上城牆可俯視城內城外的景色，更可看到韓江和湘子橋的風景。每到晚上，廣濟門城樓，廣濟橋和對面山上都會亮燈，夜觀又是另一番景致。",
+              "howToGo": "建議交通：乘公車K2路快綫/9/101/102/103/105/107/108/201/602路，於城南小學站下車，步行約16分鐘。<br /><br />高鐵站出發：由潮汕站乘公車K2路快綫前往；若由汕頭站出發，乘的士前往，約1小時。",
+              "location": "潮州市湘橋區東門街頭廣濟門城樓",
+              "link": "/hotspot.html?region=1&city=14&hotspot=564",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "3",
+                "way": {
+                  "from": "由開元寺步行約6分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "廣濟橋",
+            "hotspot": {
+              "id": "565",
+              "tit": "世界上最早的啟閉式橋樑",
+              "img_d": "./images/hotspot/b9e6b4659d924707b7aee78c3c626a.jpg",
+              "img_d_tag": "廣濟橋",
+              "img_m": "./images/hotspot/ad93512022ef43db993fe2b3da4655.jpg",
+              "img_m_tag": "廣濟橋",
+              "img_article_d": "./images/hotspot/728056913348458eaa62142d0c51a8.jpg",
+              "img_article_d_tag": "廣濟橋",
+              "img_article_m": "./images/hotspot/6a2588faff4d4c4ab78649999fb58f.jpg",
+              "img_article_m_tag": "廣濟橋",
+              "img_detail_d": "./images/hotspot/c2b718c39a4a4e33ba811bf87760c9.jpg",
+              "img_detail_d_tag": "廣濟橋",
+              "img_detail_m": "./images/hotspot/ccb450755a4049ecb14bfc68b0c33d.jpg",
+              "img_detail_m_tag": "廣濟橋",
+              "name": "廣濟橋",
+              "city": "潮州",
+              "hotspotDescription": "潮州廣濟橋又稱湘子橋，橫跨於韓江之上，是中國四大古橋之一。廣濟橋設計獨特，讓您不得不驚歎古人的智慧，它集梁橋、拱橋、浮橋等形式於一體，有橋墩二十個，中間的一段浮橋由十八隻木船連接而成，是「世界上最早的啟閉式橋樑」。由於通航需要，下午 5時半左右，浮橋便會收起來，讓船隻通過。每晚廣濟橋都會有兩場燈光匯演，分別是晚上 8 時及 9 時，夜景十分迷人。<br /><br />開放時間：早上 10:00 至下午 5:00",
+              "howToGo": "建議交通：乘公車K2路快綫/9/101/102/103/105/107/108/201/602路，於城南小學站下車，步行約16分鐘到達廣濟門城樓，再步行約5分鐘。<br /><br />高鐵站出發：由潮汕站乘公車K2路快綫前往；若由汕頭站出發，乘的士前往，約1小時。",
+              "location": "潮州市湘橋區環城東路廣濟橋",
+              "link": "/hotspot.html?region=1&city=14&hotspot=565",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "3",
+                "way": {
+                  "from": "進入廣濟樓後即達",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "韓上廔",
+            "hotspot": {
+              "id": "683",
+              "tit": "歎頂級潮州菜",
+              "img_d": "./images/hotspot/8fe5007be286440980fc2022dffa25.png",
+              "img_d_tag": null,
+              "img_m": "./images/hotspot/d7a43f70913c4b939aff98c0bc8b47.png",
+              "img_m_tag": null,
+              "img_article_d": "./images/hotspot/262293a3106340cdaf0594250005e9.png",
+              "img_article_d_tag": null,
+              "img_article_m": "./images/hotspot/1d00334be4004ebcbd6a09527aa5bf.png",
+              "img_article_m_tag": null,
+              "img_detail_d": "./images/hotspot/ad0f89d0b28b4e13a437b895a0c5b3.png",
+              "img_detail_d_tag": null,
+              "img_detail_m": "./images/hotspot/71f5305a16974c39ad4edb62101da4.png",
+              "img_detail_m_tag": null,
+              "name": "韓上廔",
+              "city": "潮州",
+              "hotspotDescription": "堪稱潮州市頂級酒家之一的韓上廔，其古典樓閣外表氣派十足，室內設計及擺設全部一絲不苟。而且位於韓江旁邊，可飽覽潮州八景之一、建於明朝的鳳凰塔風光！餐廳有不少招牌菜式，除了焗肉蟹、海膽焗龍蝦仔等精緻潮州海鮮菜式，也有筍絲炒魚麵、 糕燒臘腸芋頭、超巨型鹵水獅頭鵝頸等傳統手工菜；必試的還有用上黑毛豬五花腩炮製的蜜香黑豚肉！每款菜式的精心擺設猶如藝術品，好食又賞心悅目。",
+              "howToGo": "建議交通：乘公車K2路快綫/高鐵K1綫/101/102/103/105/108/109/110/112/113/201/602路，於南橋市場站下車，步行約15分鐘；或乘公車103/104/109/207/603B路，於南堤路站下車，步行約15分鐘。<br /><br />高鐵站出發：由潮汕站乘公車K2路快綫/高鐵K1綫前往；若由汕頭站出發，乘的士前往，約1小時。",
+              "location": "潮州市湘橋區鳳凰洲公園內（近韓江大橋）",
+              "link": "/hotspot.html?region=1&city=14&hotspot=683",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "5",
+                "way": {
+                  "from": "乘的士前往",
+                  "to": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "4",
+        "path": [
+          {
+            "location": "潮州載陽客棧",
+            "hotspot": {
+              "id": "566",
+              "tit": "參觀當地建築　品嘗地道功夫茶",
+              "img_d": "./images/hotspot/642fc6c4d43448e4a38ace7f9e71ca.jpg",
+              "img_d_tag": "潮州載陽客棧",
+              "img_m": "./images/hotspot/1a14ed148b6f4bb0bef79e8fb277f3.jpg",
+              "img_m_tag": "潮州載陽客棧",
+              "img_article_d": "./images/hotspot/79debb80e8904fb9a93f32145da92f.jpg",
+              "img_article_d_tag": "潮州載陽客棧",
+              "img_article_m": "./images/hotspot/c4606f0c4cbd4c159ce68b2c2e3a8b.jpg",
+              "img_article_m_tag": "潮州載陽客棧",
+              "img_detail_d": "./images/hotspot/8fdabd5ed36c43389cd64a14eb85dc.jpg",
+              "img_detail_d_tag": "潮州載陽客棧",
+              "img_detail_m": "./images/hotspot/2cd9cd465a0e4a4f8ff87af068c760.jpg",
+              "img_detail_m_tag": "潮州載陽客棧",
+              "name": "潮州載陽客棧",
+              "city": "潮州",
+              "hotspotDescription": "載陽客棧是清朝的建築，它是典型潮州民居四點金格式，類似北京四合院，由前廳、天井及後廳組成。現時更改建成民宿，既能保育歷史建築又能幫助旅遊發展，一舉兩得，大家可入內參觀，體驗當地風情。",
+              "howToGo": "建議交通：乘公車高鐵K1綫/K2路快綫/101/102/103/105/107/108/109/201/601路，於中心醫院站下車，步行約15分鐘。<br /><br />高鐵站出發：由潮汕站乘公車高鐵K1綫前往；若由汕頭站出發，乘的士前往，約1小時10分鐘。",
+              "location": "潮州市湘橋區太平路載陽巷 15 號",
+              "link": "/hotspot.html?region=1&city=14&hotspot=566",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "4",
+                "way": {
+                  "from": "乘公車K2路快綫",
+                  "to": "中心醫院站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約15分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "龍湖古寨 ",
+            "hotspot": {
+              "id": "568",
+              "tit": "廣東最美古村之一",
+              "img_d": "./images/hotspot/895162be4f3d41eb93f9c98dea0c63.jpg",
+              "img_d_tag": "龍湖古寨 ",
+              "img_m": "./images/hotspot/d3c949ef13bb49c1bc29051d8db390.jpg",
+              "img_m_tag": "龍湖古寨 ",
+              "img_article_d": "./images/hotspot/676586fc8151430fa62712988e2b70.jpg",
+              "img_article_d_tag": "龍湖古寨 ",
+              "img_article_m": "./images/hotspot/bf7842f786344a9c87a872ead4dce8.jpg",
+              "img_article_m_tag": "龍湖古寨 ",
+              "img_detail_d": "./images/hotspot/ef1b26bc6e5c4a36bc964c61d0f77c.jpg",
+              "img_detail_d_tag": "龍湖古寨 ",
+              "img_detail_m": "./images/hotspot/f4b7921d31d04452b009d081a82675.jpg",
+              "img_detail_m_tag": "龍湖古寨 ",
+              "name": "龍湖古寨 ",
+              "city": "潮州",
+              "hotspotDescription": "龍湖古寨初建於南宋，現存古建築達 100 多座。古寨很特別，這裡有女性祠堂「阿婆祠」，在男尊女卑的古代歷史上非常少見。這裡的風水據說很好，在這裡獲取功名的人也很多，歷代科舉出身的進士、舉人達 53 人。有別於其他村莊，這裡並非單一姓氏居住，在高峰期時期多達 72 個姓氏聚居於此。",
+              "howToGo": "建議交通：乘公車潮安204路，於龍湖古寨站下車。<br /><br />高鐵站出發：由潮汕站乘公車高鐵K1綫，於南橋市場站轉乘公車潮安204路前往；若由汕頭站出發，乘的士前往，約1小時。",
+              "location": "潮州市潮安區市頭村龍湖古寨",
+              "link": "/hotspot.html?region=1&city=14&hotspot=568",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "5",
+                "way": {
+                  "from": "乘的士前往",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "潮汕站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": [
+              {
+                "type": "5",
+                "way": {
+                  "from": "乘的士前往",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "香港西九龍站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": [
+              {
+                "type": "1",
+                "way": {
+                  "from": "內地高鐵列車，下午回港",
+                  "to": ""
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "tnc": "",
+    "banner": {
+      "type": "3",
+      "tit": "",
+      "desc": "",
+      "img_d": "",
+      "img_d_tag": "",
+      "img_m": "",
+      "img_m_tag": "",
+      "link": null,
+      "btnTxt": null,
+      "agency": []
+    }
+  },
+  {
+    "id": "6",
+    "tit": "桂林：不一樣的山水4天遊",
+    "plan": [
+      {
+        "day": "1",
+        "path": [
+          {
+            "location": "香港西九龍站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": []
+          },
+          {
+            "location": "桂林西站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": [
+              {
+                "type": "1",
+                "way": {
+                  "from": "內地高鐵列車，下午抵達",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "入住桂林市內酒店",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": []
+          },
+          {
+            "location": "日月雙塔",
+            "hotspot": {
+              "id": "582",
+              "tit": "閃閃生輝—日月雙塔",
+              "img_d": "./images/hotspot/706a7fd1625942cc94b4eff101b070.jpg",
+              "img_d_tag": "日月雙塔",
+              "img_m": "./images/hotspot/594874f6e17f43e895c594c0bd4a04.jpg",
+              "img_m_tag": "日月雙塔",
+              "img_article_d": "./images/hotspot/6baacf4e30ea4cbb92b9ca25bba2e6.jpg",
+              "img_article_d_tag": "日月雙塔",
+              "img_article_m": "./images/hotspot/496b92d4d6c24d77bb3569802293a8.jpg",
+              "img_article_m_tag": "日月雙塔",
+              "img_detail_d": "./images/hotspot/a97971a0376147669a1099dd4f28b0.jpg",
+              "img_detail_d_tag": "日月雙塔",
+              "img_detail_m": "./images/hotspot/a0c2d72eb32a460195b8f0a556487a.jpg",
+              "img_detail_m_tag": "日月雙塔",
+              "name": "日月雙塔",
+              "city": "桂林",
+              "hotspotDescription": "位於市中心的日月雙塔，鄰近著名景區象鼻山。日塔高 41 米，共九層，以純銅裝飾，共耗用銅材 350 噸，創下了 3 項世界之最：世界上最高的銅質建築物、世界上最高的水中塔、世界上最高的銅塔。至於旁邊的月塔，高 35 米，共七層，被稱為琉璃塔，顏色以銀色為主調，每層都有雕花彩繪門窗，賞心悅目。建議大家可於黃昏時候開始遊覽，這樣可欣賞日景之餘，稍後又能欣賞兩塔亮燈後的璀璨夜景。<br /><br />開放時間：早上 8:00 至晚上10:00",
+              "howToGo": "建議交通：乘公車22/23/208路，於西門橋站下車，步行約14分鐘；或乘公車3/10/11/91/K99/100路，於陽橋站下車，步行約7分鐘。<br /><br />高鐵站出發：由桂林西站乘公車22路前往。",
+              "location": "桂林市象山區文明路日月雙塔文化公園",
+              "link": "/hotspot.html?region=1&city=15&hotspot=582",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "4",
+                "way": {
+                  "from": "公車22路",
+                  "to": "西門橋站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約14分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "2",
+        "path": [
+          {
+            "location": "穿山公園",
+            "hotspot": {
+              "id": "583",
+              "tit": "奇岩怪洞—穿山公園 ",
+              "img_d": "./images/hotspot/08f2ffee0c344b43ad4059767fcca0.jpg",
+              "img_d_tag": "穿山公園",
+              "img_m": "./images/hotspot/da70ae1fa86048d6a54460e1ffbbbc.jpg",
+              "img_m_tag": "穿山公園",
+              "img_article_d": "./images/hotspot/553501252d384e849fc324b57be312.jpg",
+              "img_article_d_tag": "穿山公園",
+              "img_article_m": "./images/hotspot/db436d370404490798df2742a2b05b.jpg",
+              "img_article_m_tag": "穿山公園",
+              "img_detail_d": "./images/hotspot/369cb3672127454d97a9b76ea449a3.jpg",
+              "img_detail_d_tag": "穿山公園",
+              "img_detail_m": "./images/hotspot/944e8676d4ff4e6f80651580336453.jpg",
+              "img_detail_m_tag": "穿山公園",
+              "name": "穿山公園",
+              "city": "桂林",
+              "hotspotDescription": "桂林最出名是奇峰山水，但亦以地下溶洞見稱，其中鐘乳石洞更蔚為奇觀。穿山公園鄰近象鼻山，是最近市中心能看到鐘乳石洞的地方。形成於3萬多年前的穿山岩，於1977年才被發現，當地政府立即開發岩洞，加入燈光效果，將獨特岩石冠以名稱，成為一條參觀路線。另外，在公園中有一座冒起小山，名為塔山，高44米，山上有一座八角形壽佛塔，遊客可以登山遙望對面的月岩。<br /><br />開放時間：早上 8:00 至下午 5:30",
+              "howToGo": "建議交通：乘公車6/9/16/23/85/96/100/204/214路，於穿山橋站下車，步行約11分鐘。<br /><br />高鐵站出發：由桂林西站乘公車22路，於觀音閣站轉乘公車100路前往。",
+              "location": "桂林市七星區穿山小街 55 號",
+              "link": "/hotspot.html?region=1&city=15&hotspot=583",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "4",
+                "way": {
+                  "from": "公車6/16/23/85/100路",
+                  "to": "穿山橋站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約11分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "飛拉達攀岩 ",
+            "hotspot": {
+              "id": "584",
+              "tit": "刺激飛拉達攀岩　欣賞好風光",
+              "img_d": "./images/hotspot/31f4adf942ec453ab77e73f81bab02.jpg",
+              "img_d_tag": "飛拉達攀岩 ",
+              "img_m": "./images/hotspot/1dea4e38267b4f47984544bf450e74.jpg",
+              "img_m_tag": "飛拉達攀岩 ",
+              "img_article_d": "./images/hotspot/b4c908e935d3491c9c84a534dea3b8.jpg",
+              "img_article_d_tag": "飛拉達攀岩 ",
+              "img_article_m": "./images/hotspot/4075a7830ce741bb803fe3a7c8ad80.jpg",
+              "img_article_m_tag": "飛拉達攀岩 ",
+              "img_detail_d": "./images/hotspot/8f03532d974c47b0bfe5cf1618e96f.jpg",
+              "img_detail_d_tag": "飛拉達攀岩 ",
+              "img_detail_m": "./images/hotspot/23e522a5551a49e699cb92fce39390.jpg",
+              "img_detail_m_tag": "飛拉達攀岩 ",
+              "name": "飛拉達攀岩 ",
+              "city": "桂林",
+              "hotspotDescription": "如果你認為桂林只有靜態山水，你就錯了，飛拉達攀岩讓你體驗動感桂林！飛拉達是意大利文（Via Ferrata）的音譯，意思是指岩壁探險或鐵道式攀登。飛拉達線路總長 720米，全程體驗時間約為 1.5 小時至 2 小時。其中飛拉達攀登線路長 277 米，第一條溜索長度 150米，第二條溜索長度 275 米，最大落差為 60米，難度介乎 F（容易）和 PD（略難），適合年齡 7 至 60 歲遊客體驗，不需要戶外運動基礎，現場教學，容易攀登。攀岩前做足安全措施，帶好頭盔、手套及鋼索安全繩。只要留心教練指導，大概學習 20 分鐘就可以攀上垂直懸崖。 無限風光在險峰，在懸崖上看桂林山水別有一番風味。扣好安全繩，你可以在懸崖放心拍照。<br />挑戰小秘方：<br />1. 有高血壓、心臟病等不宜劇烈運動的人不可以參加。<br />2. 10 歲以下兒童由於體力較差，宜在早上 9:00 前抵達。<br />3. 聽從教練安排，不可以隨意操作安全裝備。<br />4. 雷雨天氣、大風等惡劣天氣不作開放。<br /><br />營業時間：早上 8:30 至晚上 6:30",
+              "howToGo": "建議交通：由桂林市內乘的士前往，約1小時30分鐘。<br /><br />高鐵站出發：由桂林西站乘的士前往，約1小時30分鐘。",
+              "location": "桂林市陽朔縣 066 鄉道南（遇龍河生態公園門口對面）",
+              "link": "/hotspot.html?region=1&city=15&hotspot=584",
+              "site": "微信公眾號：陽朔飛拉達攀岩 "
+            },
+            "route": [
+              {
+                "type": "5",
+                "way": {
+                  "from": "乘的士前往",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "印象劉三姐 ",
+            "hotspot": {
+              "id": "585",
+              "tit": "載歌載舞的精彩表演",
+              "img_d": "./images/hotspot/2cadb0d502424081ab939d44344df3.jpg",
+              "img_d_tag": "印象劉三姐 ",
+              "img_m": "./images/hotspot/bdddbf930a334cb8b82563b125bd74.jpg",
+              "img_m_tag": "印象劉三姐 ",
+              "img_article_d": "./images/hotspot/a57ba507fdff43efb4019ca7ced8ae.jpg",
+              "img_article_d_tag": "印象劉三姐 ",
+              "img_article_m": "./images/hotspot/68fa8eb71ba1496aaee2407a132489.jpg",
+              "img_article_m_tag": "印象劉三姐 ",
+              "img_detail_d": "./images/hotspot/16387849d32946fe80bb29a4011cc2.jpg",
+              "img_detail_d_tag": "印象劉三姐 ",
+              "img_detail_m": "./images/hotspot/bca037c4d9b24258b17577eeae03d3.jpg",
+              "img_detail_m_tag": "印象劉三姐 ",
+              "name": "印象劉三姐 ",
+              "city": "桂林",
+              "hotspotDescription": "印象劉三姐由國際著名導演張藝謀炮製，以民間傳說人物劉三姐作為歌舞劇故事骨幹，將經典山歌、民族風情、灕江漁火等元素重新創作，是全國第一部「山水實景演出」的話劇，在號稱是世界上最大的鼓樓群及山水實景劇場演出。整個表演是將方圓兩公里的陽朔書童山段灕江水域，十二座背景山峰，利用環境藝術燈光及獨特的煙霧效果工程，製作出震撼舞台臺效果。參加演員多達 600 人，是由久經訓練的當地村民負責演出。紅色印象內對歌一幕，演員手拉長紅布，配合燈光效果，令人目炫。演員穿上LED特製燈光衫，隨著音樂節奏擺動，產生奇幻視覺效果。<br /><br />演出時間：<br />夏季：第一場 20:00；第二場 21:30<br />冬季：第一場 19:30；第二場 21:00<br />（場次因旺淡季地加或減少，請留意景區資訊）",
+              "howToGo": "建議交通：由桂林市內乘的士前往，約1小時35分鐘。<br /><br />高鐵站出發：由桂林西站乘的士前往，約1小時35分鐘。",
+              "location": "桂林市陽朔縣東街田園路一號灕江山水劇場",
+              "link": "/hotspot.html?region=1&city=15&hotspot=585",
+              "site": "微信公眾號：印象劉三姐官方訊息 "
+            },
+            "route": [
+              {
+                "type": "5",
+                "way": {
+                  "from": "乘的士前往",
+                  "to": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "3",
+        "path": [
+          {
+            "location": "相公山 ",
+            "hotspot": {
+              "id": "588",
+              "tit": "名乎其實的拍照打卡熱點 ",
+              "img_d": "./images/hotspot/9ff607b5a173433093dda632b8d5cd.jpg",
+              "img_d_tag": "相公山 ",
+              "img_m": "./images/hotspot/05ceb83ac59d4bf6a64d860de547e1.jpg",
+              "img_m_tag": "相公山 ",
+              "img_article_d": "./images/hotspot/67856de984b74e8aa12f5674db7a12.jpg",
+              "img_article_d_tag": "相公山 ",
+              "img_article_m": "./images/hotspot/451b9182f5e94ba89df5a27b65a3c3.jpg",
+              "img_article_m_tag": "相公山 ",
+              "img_detail_d": "./images/hotspot/adcdef4da78746cfa23f69bcf1ceb6.jpg",
+              "img_detail_d_tag": "相公山 ",
+              "img_detail_m": "./images/hotspot/0b807bfcd4d4430ca1880387186c22.jpg",
+              "img_detail_m_tag": "相公山 ",
+              "name": "相公山 ",
+              "city": "桂林",
+              "hotspotDescription": "相公山被當地攝影發燒友譽為拍攝基地，自然是因為其得天獨厚的地理環境，能夠在山頂上以最佳角度俯瞰四周環境，讓您親身體會「桂林山水甲天下，陽朔山水甲桂林」的讚譽。而相公山位於黃布灘和九馬畫山之間，兩排山峰有序地排列，山下的灕江蜿蜒曲折地流過，在山下看便成了一幅絕佳的山水畫。<br /><br />開放時間：上午 5:00 至下午 6:00",
+              "howToGo": "建議交通：由桂林市內乘的士前往，約1小時40分鐘。<br /><br />高鐵站出發：由桂林西站乘的士前往，約1小時40分鐘。",
+              "location": "桂林市陽朔縣興坪鎮境內的灕江西岸相公山景區",
+              "link": "/hotspot.html?region=1&city=15&hotspot=588",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "5",
+                "way": {
+                  "from": "乘的士前往",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "燕莎滑翔傘體驗",
+            "hotspot": {
+              "id": "589",
+              "tit": "滑翔傘體驗　非一般角度賞美景",
+              "img_d": "./images/hotspot/578ac44d15274249ac1b617737f4d4.jpg",
+              "img_d_tag": "燕莎滑翔傘體驗",
+              "img_m": "./images/hotspot/0935011d50fb4829a0b46a5cd73295.jpg",
+              "img_m_tag": "燕莎滑翔傘體驗",
+              "img_article_d": "./images/hotspot/0fc41373c7834863895238c683f476.jpg",
+              "img_article_d_tag": "燕莎滑翔傘體驗",
+              "img_article_m": "./images/hotspot/641593c6c7904a5eb5c6c76465d13e.jpg",
+              "img_article_m_tag": "燕莎滑翔傘體驗",
+              "img_detail_d": "./images/hotspot/4978ed4993fb411db0ab80496d9797.jpg",
+              "img_detail_d_tag": "燕莎滑翔傘體驗",
+              "img_detail_m": "./images/hotspot/bee56be50ed340a298f3ba753dded1.jpg",
+              "img_detail_m_tag": "燕莎滑翔傘體驗",
+              "name": "燕莎滑翔傘體驗",
+              "city": "桂林",
+              "hotspotDescription": "有沒有試過以俯瞰的角度欣賞桂林山水？不是坐在飛機上看，也不是用航拍機來看，而是乘坐動力滑翔傘來體驗！乘在滑翔傘上，您可以在山峰兩旁飛過，看見田野、蜿蜒曲折的河流。整個動力滑翔傘旅程來回 6 公里，需時約 5 至 8 分鐘，飛行地點是被譽為「小灕江」之稱的遇龍河，是灕江在陽朔境內最長的一條支流。由於中午時份氣流不穩定，所以一般在下午 2 時後才能起飛出發。另外，活動亦會視乎天氣情況，如遇上大風或雨霧天氣等極端天氣不可飛行，身高 1.3 米以下的兒童也禁止乘坐。<br /><br />營業時間：<br />12月至3月：上午 8:00 至下午 6:30；<br />4月至11月：上午 8:00 至下午 7:30",
+              "howToGo": "建議交通：由桂林市內乘的士前往，約1小時30分鐘。<br /><br />高鐵站出發：由桂林西站乘的士前往，約1小時30分鐘。",
+              "location": "桂林市陽朔縣山水大道與覽勝路交匯處",
+              "link": "/hotspot.html?region=1&city=15&hotspot=589",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "5",
+                "way": {
+                  "from": "乘的士前往",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "陽朔大榕樹景區",
+            "hotspot": {
+              "id": "590",
+              "tit": "巨樹參天　陽朔大榕樹景區",
+              "img_d": "./images/hotspot/3070078ded1d446ea9b6e16d252cc9.jpg",
+              "img_d_tag": "陽朔大榕樹景區",
+              "img_m": "./images/hotspot/56d90f7180ab47a9887efa3ddb6fc4.jpg",
+              "img_m_tag": "陽朔大榕樹景區",
+              "img_article_d": "./images/hotspot/1e2e1d0be6054516897ef8199a01f7.jpg",
+              "img_article_d_tag": "陽朔大榕樹景區",
+              "img_article_m": "./images/hotspot/0a511eec96494d27be0bafe5831363.jpg",
+              "img_article_m_tag": "陽朔大榕樹景區",
+              "img_detail_d": "./images/hotspot/ac20ab739c4143789d90334a9ac7d9.jpg",
+              "img_detail_d_tag": "陽朔大榕樹景區",
+              "img_detail_m": "./images/hotspot/c298e421203d4fd8827acf045bfad7.jpg",
+              "img_detail_m_tag": "陽朔大榕樹景區",
+              "name": "陽朔大榕樹景區",
+              "city": "桂林",
+              "hotspotDescription": "在陽朔有很多關於劉三姐的故事，當地有不少景點也跟她有關。除了著名大型歌舞劇《印象劉三姐》外，這個十里畫廊之一的大榕樹景區亦十分獨特。景區內有一棵著名的大榕樹，電影《劉三姐》也在這裡拍攝，更成為遊客打卡勝地。這棵老榕樹的來頭亦不簡單，相傳已經有 1,400 年歷史，樹高 17米，樹圍達 7 米，碩大的樹冠足以覆蓋 2 畝土地，是名乎其實的參天古樹。在景區內，您可以在湖上輕劃竹筏，悠游地觀賞奇峰秀麗的山水風光，例如：著名的駱駝峰。<br /><br />開放時間：上午 8:30 至下午 5:30",
+              "howToGo": "建議交通：由桂林市內乘的士前往，約1小時30分鐘。<br /><br />高鐵站出發：由桂林西站乘的士前往，約1小時20分鐘。",
+              "location": "桂林市陽朔縣穿岩村大榕樹景區",
+              "link": "/hotspot.html?region=1&city=15&hotspot=590",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "5",
+                "way": {
+                  "from": "乘的士前往",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "陽朔西街 ",
+            "hotspot": {
+              "id": "591",
+              "tit": "感受復古商店街之熱鬧",
+              "img_d": "./images/hotspot/643ce99c2a2f474bb10fcbfac89a71.jpg",
+              "img_d_tag": "陽朔西街 ",
+              "img_m": "./images/hotspot/18fe9659c24c4d62ac78f91d0461a4.jpg",
+              "img_m_tag": "陽朔西街 ",
+              "img_article_d": "./images/hotspot/20d48d7668df43cea28c6d0f9ff89d.jpg",
+              "img_article_d_tag": "陽朔西街 ",
+              "img_article_m": "./images/hotspot/8403c52d71f34e358278f4f9d39939.jpg",
+              "img_article_m_tag": "陽朔西街 ",
+              "img_detail_d": "./images/hotspot/5bebc4bca7054e1baf8d1fa30e8f76.jpg",
+              "img_detail_d_tag": "陽朔西街 ",
+              "img_detail_m": "./images/hotspot/96f46768c20147b8b3f5689daf47b6.jpg",
+              "img_detail_m_tag": "陽朔西街 ",
+              "name": "陽朔西街 ",
+              "city": "桂林",
+              "hotspotDescription": "陽朔最有名、最古老的石板街「西街」，據說已經有 1,400 多年歷史，保存明城牆、碑刻、古亭、名人故居、紀念館等古老建築。全長超過1公里的陽朔西街近年發展迅速，有新穎的商場，還有各式各樣的酒吧、國際連鎖咖啡店、餐廳、旅館及民間藝術商店等等，已成為外國人聚集的地方，被稱為洋人街。可以嚐嚐當地有名的啤酒魚，亦有大量手信店，可以買各式各樣的特產回家自用或送禮。白天的西街比較冷清，入夜後燈火通明，人潮湧現，像是換了另一番景象。",
+              "howToGo": "建議交通：由桂林市內乘的士前往，約1小時40分鐘。<br /><br />高鐵站出發：由桂林西站乘的士前往，約1小時35分鐘。",
+              "location": "桂林市陽朔縣西街步行街",
+              "link": "/hotspot.html?region=1&city=15&hotspot=591",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "5",
+                "way": {
+                  "from": "乘的士前往",
+                  "to": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "4",
+        "path": [
+          {
+            "location": "象鼻山",
+            "hotspot": {
+              "id": "579",
+              "tit": "輕鬆遊走灕江畔",
+              "img_d": "./images/hotspot/7edb2efb82254b738275247c140cc9.jpg",
+              "img_d_tag": "象鼻山",
+              "img_m": "./images/hotspot/51675fbf3f7a496a8adcad9b6928ae.jpg",
+              "img_m_tag": "象鼻山",
+              "img_article_d": "./images/hotspot/f143ffb446a9491b9e5f889b63c1ca.jpg",
+              "img_article_d_tag": "象鼻山",
+              "img_article_m": "./images/hotspot/19197982970745f48b998fcc580641.jpg",
+              "img_article_m_tag": "象鼻山",
+              "img_detail_d": "./images/hotspot/e9a5b561b91f48daa966c9878c722f.jpg",
+              "img_detail_d_tag": "象鼻山",
+              "img_detail_m": "./images/hotspot/5ad0000a2fce458c9a4ece78873aea.jpg",
+              "img_detail_m_tag": "象鼻山",
+              "name": "象鼻山",
+              "city": "桂林",
+              "hotspotDescription": "4A級旅遊景區，位於象山景區內的象鼻山，由3億年前海底沉積純石灰岩組成，因外形像正在飲水的大象因而得名，桂林市的城徽中心圖案就是象山。景區內除象山之景外，更有水月洞、象眼岩及愛情島等多個景點，都是旅遊熱點。",
+              "howToGo": "建議交通：乘公車22/23/208路，於西門橋站下車，步行約15分鐘；或乘公車3/10/11/91/K99/100路，於陽橋站下車，步行約11分鐘。<br /><br />高鐵站出發：由桂林西站乘公車22路前往。",
+              "location": "桂林市象山區濱江路1號象山景區",
+              "link": "/hotspot.html?region=1&city=15&hotspot=579",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "4",
+                "way": {
+                  "from": "公車10/11/100路",
+                  "to": "陽橋站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約11分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "桂林西站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": [
+              {
+                "type": "5",
+                "way": {
+                  "from": "乘的士前往",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "香港西九龍站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": [
+              {
+                "type": "1",
+                "way": {
+                  "from": "內地高鐵列車，下午回港",
+                  "to": ""
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "tnc": "",
+    "banner": {
+      "type": "3",
+      "tit": "",
+      "desc": "",
+      "img_d": "",
+      "img_d_tag": "",
+      "img_m": "",
+      "img_m_tag": "",
+      "link": null,
+      "btnTxt": null,
+      "agency": []
+    }
+  },
+  {
+    "id": "7",
+    "tit": "廈門、福建：世界文化遺產4天遊",
+    "plan": [
+      {
+        "day": "1",
+        "path": [
+          {
+            "location": "香港西九龍站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": []
+          },
+          {
+            "location": "廈門站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": [
+              {
+                "type": "1",
+                "way": {
+                  "from": "內地高鐵列車，下午抵達",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "入住廈門市內酒店",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": []
+          },
+          {
+            "location": "環島路海濱風景區",
+            "hotspot": {
+              "id": "598",
+              "tit": "觀賞海灣美景",
+              "img_d": "./images/hotspot/f67f43bb62e14805b43c1ca826fe15.jpg",
+              "img_d_tag": "環島路海濱風景區",
+              "img_m": "./images/hotspot/5fe24b8c55b7490690a952828f1643.jpg",
+              "img_m_tag": "環島路海濱風景區",
+              "img_article_d": "./images/hotspot/820b0bf7279e48028d6d87dd6b7c1b.jpg",
+              "img_article_d_tag": "環島路海濱風景區",
+              "img_article_m": "./images/hotspot/e8bf3263651b4c61bb5e8aa55272a9.jpg",
+              "img_article_m_tag": "環島路海濱風景區",
+              "img_detail_d": "./images/hotspot/5f52901a81f1429595da132201eea3.jpg",
+              "img_detail_d_tag": "環島路海濱風景區",
+              "img_detail_m": "./images/hotspot/77a8be265ddd4a5fadaf85dfdeebd5.jpg",
+              "img_detail_m_tag": "環島路海濱風景區",
+              "name": "環島路海濱風景區",
+              "city": "廈門",
+              "hotspotDescription": "廈門的環島路是舉辦國際性馬拉松的主賽道，全長 43 公里，也被譽為世界最美的馬拉松賽道之一。它沿海邊而建，在這裡您可以看到與海岸線並排而立的摩天大廈，也可以飽覽一望無際的臺灣海峽。如遇上好天氣，更有機會欣賞到夕陽徐徐消失於海平線上的美景。每逢夏天，此處更是人山人海，因沿岸有多個沙灘，讓大家可以隨時享受日光浴，是個享受休閒娛樂的好地方。在環島路海濱風景區內，音樂廣場和書法廣場都是值得一去的景點，均可步行前往。",
+              "howToGo": "建議交通：乘公車29/47/48/751/B1/B2/B3/B7路，於曾厝垵站下車，步行約4分鐘。<br /><br />高鐵站出發：由廈門站乘公車B2路前往；若由廈門北站出發，乘地鐵1號綫，於鎮海路站下車，步行約5分鐘至鎮海路口，轉乘公車48路前往。",
+              "location": "廈門市思明區環島路",
+              "link": "/hotspot.html?region=2&city=16&hotspot=598",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "4",
+                "way": {
+                  "from": "公車29/47/48/751",
+                  "to": "曾厝垵站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約4分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "曾厝垵步行街",
+            "hotspot": {
+              "id": "594",
+              "tit": "享受慢活步調",
+              "img_d": "./images/hotspot/2d7006c5b58c4518854b626f629c7d.jpg",
+              "img_d_tag": "曾厝垵步行街",
+              "img_m": "./images/hotspot/6c7fde58cc43440591fc5afef5d8a4.jpg",
+              "img_m_tag": "曾厝垵步行街",
+              "img_article_d": "./images/hotspot/2be6156639a44d358b67c9b884b3fb.jpg",
+              "img_article_d_tag": "曾厝垵步行街",
+              "img_article_m": "./images/hotspot/08a5160e0e874f84b436097f5eead2.jpg",
+              "img_article_m_tag": "曾厝垵步行街",
+              "img_detail_d": "./images/hotspot/cc8f979766f0498091a1c99c6b5077.jpg",
+              "img_detail_d_tag": "曾厝垵步行街",
+              "img_detail_m": "./images/hotspot/c0bedc4278984251b5fb003d7915fe.jpg",
+              "img_detail_m_tag": "曾厝垵步行街",
+              "name": "曾厝垵步行街",
+              "city": "廈門",
+              "hotspotDescription": "曾厝垵的「厝」字，粵語發音為醋，在閩南語中是屋子的意思。 這裡由漁村改建而成，厝垵既具風土民情，亦保有許多歷史遺 存，加上許多特色小食，吸引了不少人特意前來遊玩。表面上曾 厝垵是一條美食街，但在橫街暗巷之間，卻處處充滿文藝氛圍， 有著「文藝漁村」的稱號。遊走街上，你會發覺這裡被濃厚的文 化氣息圍繞著，別具特色的食店和咖啡廳，或者各個文藝小店， 都能讓享受慢活步調。在街角的簡 約茶舍和從聿書店，都值得一遊。 這裡也有各式各樣的特色民宿，遊 客可以花兩日一夜作住宿體驗，享 受悠閒假期。",
+              "howToGo": "建議交通：乘公車29/47/48/751/B1/B2/B3/B7路，於曾厝垵站下車，步行約5分鐘。<br /><br />高鐵站出發：由廈門站乘公車B2路前往；若由廈門北站出發，乘地鐵1號綫，於鎮海路站下車，步行約5分鐘至鎮海路口，轉乘公車48路前往。",
+              "location": "廈門市思明區曾厝垵",
+              "link": "/hotspot.html?region=2&city=16&hotspot=594",
+              "site": "微信公眾號：曾厝垵"
+            },
+            "route": [
+              {
+                "type": "3",
+                "way": {
+                  "from": "由環島路海濱風景區步行約15分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "2",
+        "path": [
+          {
+            "location": "二宜樓",
+            "hotspot": {
+              "id": "779",
+              "tit": "人類百年智慧結晶",
+              "img_d": "./images/hotspot/58b5d85f9acc431f9d874dff8db60e.jpg",
+              "img_d_tag": null,
+              "img_m": "./images/hotspot/abc69d83d44c435f80b69c14dfd902.jpg",
+              "img_m_tag": null,
+              "img_article_d": "./images/hotspot/fec49f2bb3e44e7188298fe97371d1.jpg",
+              "img_article_d_tag": null,
+              "img_article_m": "./images/hotspot/01d29a3cf2954c9c8e2ddfe83c6335.jpg",
+              "img_article_m_tag": null,
+              "img_detail_d": "./images/hotspot/57052fd80e1a4b138240b899b60bcf.jpg",
+              "img_detail_d_tag": null,
+              "img_detail_m": "./images/hotspot/7a1e513f595a45d0ad6ae117ab43b8.jpg",
+              "img_detail_m_tag": null,
+              "name": "二宜樓",
+              "city": "漳州",
+              "hotspotDescription": "位於華安縣仙都鎮大地村的二宜樓是雙環圓形作為設計格局的土樓，為褔建省內最大的雙圓環土樓。內環設廚房、餐廳；外環每單元有臥室、客廳、倉庫和祖堂，內藏數百幅壁畫、彩繪木雕等，外牆還特設防禦用的射擊窗和槍眼，是土樓建築的另一典範！",
+              "howToGo": "建議交通：由於二宜樓較為偏遠，建議參加當地一天團或乘的士前往，約2小時30分鐘。<br /><br />高鐵站出發：由漳州站參加當地一天團或乘的士前往，約2小時30分鐘。",
+              "location": "漳州市華安縣仙都鎮大地村二宜樓",
+              "link": "/hotspot.html?region=2&city=28&hotspot=779",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "5",
+                "way": {
+                  "from": "建議參加當地一天團或乘的士前往",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "龍頭路商業街",
+            "hotspot": {
+              "id": "599",
+              "tit": "食玩買熱點",
+              "img_d": "./images/hotspot/346d8483987747558821b86723e151.jpg",
+              "img_d_tag": "龍頭路商業街",
+              "img_m": "./images/hotspot/26d73a454bd846dda22146d503bf4d.jpg",
+              "img_m_tag": "龍頭路商業街",
+              "img_article_d": "./images/hotspot/6595b439183a4ded9e0895b4dd2454.jpg",
+              "img_article_d_tag": "龍頭路商業街",
+              "img_article_m": "./images/hotspot/4e1a83f184f346f585cc8a9a220388.jpg",
+              "img_article_m_tag": "龍頭路商業街",
+              "img_detail_d": "./images/hotspot/ff7efa92792a40d899e5659fa6d300.jpg",
+              "img_detail_d_tag": "龍頭路商業街",
+              "img_detail_m": "./images/hotspot/9dadf04883ba432eb0416bef26918a.jpg",
+              "img_detail_m_tag": "龍頭路商業街",
+              "name": "龍頭路商業街",
+              "city": "廈門",
+              "hotspotDescription": "來廈門，不可不到鼓浪嶼；來到鼓浪嶼，亦不可不到最繁華的龍頭路商業街。這裡於 1924 年由多位華僑富商集資興建，包括龍頭街、日興街、錦祥街等商業街。這一帶仍存有很多南洋西式建築，地鋪則改建為時下流行的食店、手信店和工藝店，新舊並存。這裡的三一堂、日光岩、鄭成功紀念館、風琴博物館（八卦樓）、鼓浪嶼海灘及菽莊花園都是值得一遊的地方。如果時間不夠，鼓浪嶼有很多特色民宿，不妨住下來再環島遊。<br /><br />旅遊小貼士：<br />1. 前往鼓浪嶼需實名登記購買船票，旺季必需提前於網上購票，售完即止。<br />2. 下午 6 時半前，外地遊客必需於廈門東渡郵輪碼頭登船往鼓浪嶼。下午 6 時半後，乘客可於廈門市輪渡碼頭登船前往鼓浪嶼。",
+              "howToGo": "建議交通：乘公車4/12/25/29/30/51/71/97/107/116/127/139/853/D21路，於輪渡郵局站下車，步行約3分鐘至廈門輪渡碼頭2號廳，乘坐渡輪至鼓浪嶼三丘田碼頭下船。<br /><br />高鐵站出發：由廈門站步行至梧村車站，乘公車116/127路前往；若由廈門北站出發，乘地鐵1號綫，於鎮海路站下車，步行約3分鐘至婦幼保健院，轉乘公車29/139路前往。",
+              "location": "廈門市思明區鼓浪嶼",
+              "link": "/hotspot.html?region=2&city=16&hotspot=599",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "4",
+                "way": {
+                  "from": "公車4/12/25/29/30路",
+                  "to": "輪渡郵局站"
+                }
+              },
+              {
+                "type": "6",
+                "way": {
+                  "from": "廈門輪渡碼頭",
+                  "to": "鼓浪嶼三丘田碼頭 "
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約10分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "3",
+        "path": [
+          {
+            "location": "老院子民俗文化風情園",
+            "hotspot": {
+              "id": "600",
+              "tit": "認識地道文化  ",
+              "img_d": "./images/hotspot/3274725a4aa94f148420d6532c7fe8.jpg",
+              "img_d_tag": "老院子民俗文化風情園",
+              "img_m": "./images/hotspot/77af10c978684633a1231269cbff72.jpg",
+              "img_m_tag": "老院子民俗文化風情園",
+              "img_article_d": "./images/hotspot/2d53dc160f0c4e27b49bd07929fb7d.jpg",
+              "img_article_d_tag": "老院子民俗文化風情園",
+              "img_article_m": "./images/hotspot/e9ef86d116794e43810484bcbd8256.jpg",
+              "img_article_m_tag": "老院子民俗文化風情園",
+              "img_detail_d": "./images/hotspot/301fabfee7f84df4b811260ee73f64.jpg",
+              "img_detail_d_tag": "老院子民俗文化風情園",
+              "img_detail_m": "./images/hotspot/aff51aa3367a4aedb97649282dd7ac.jpg",
+              "img_detail_m_tag": "老院子民俗文化風情園",
+              "name": "老院子民俗文化風情園",
+              "city": "廈門",
+              "hotspotDescription": "想更深入瞭解福建閩南文化？老院子民俗文化風情園便十分合適您！這裡介紹了閩南人的風俗民情，以多角度展示當地的漁村、民俗、媽祖、南洋以及尋根溯源的始祖文化，更帶您時光倒流，一看閩南人於南洋打拼的艱辛歷史。整個園區有多達22個景點，當中最搶眼的一定是媽祖文化村的巨型媽祖像。巨型媽祖像以音樂噴泉形式於水中冒起，氣派非凡。<br /><br />營業時間：早上 8:00 至傍晚 6:00",
+              "howToGo": "建議交通：乘地鐵1號綫，於天水路站下車，步行約20分鐘。<br /><br />高鐵站出發：由廈門站乘地鐵1號綫前往；若由廈門北站出發，乘地鐵1號綫前往。",
+              "location": "廈門市集美區華夏路 9 號",
+              "link": "/hotspot.html?region=2&city=16&hotspot=600",
+              "site": "微信公眾號：廈門老院子景區"
+            },
+            "route": [
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵1號綫",
+                  "to": "天水路站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約20分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "集美學村",
+            "hotspot": {
+              "id": "601",
+              "tit": "感受南洋風情",
+              "img_d": "./images/hotspot/33ff0f5c237547ca92d2ded12fe02d.jpg",
+              "img_d_tag": "集美學村",
+              "img_m": "./images/hotspot/d1c8b649538b444abd7a5ad40df306.jpg",
+              "img_m_tag": "集美學村",
+              "img_article_d": "./images/hotspot/633b5f1938924636b8fe3005bccab1.jpg",
+              "img_article_d_tag": "集美學村",
+              "img_article_m": "./images/hotspot/87652e3c64be4233823739f1405a21.jpg",
+              "img_article_m_tag": "集美學村",
+              "img_detail_d": "./images/hotspot/e4ad74ee61b84c989083c52ec5a828.jpg",
+              "img_detail_d_tag": "集美學村",
+              "img_detail_m": "./images/hotspot/e1e8aa2be92f4151a7188adeb04adb.jpg",
+              "img_detail_m_tag": "集美學村",
+              "name": "集美學村",
+              "city": "廈門",
+              "hotspotDescription": "集美學村環境優美寧靜，是由華僑富商陳嘉庚先生於 1913 年一手創辦的教育園區，設有中小學及大學。集美學村佔地甚廣，景點沿著龍舟湖一帶伸延，建築物融匯中西設計特色，是典型閩南僑鄉的建築風格。主要景點包括：陳嘉庚故居、嘉庚文化廣場、陳嘉庚紀念館、歸來堂與歸來園、嘉庚公園及鼇園，十分值得花上半天時間，在這裡認識華僑時代的歷史和感受難得的寧靜。",
+              "howToGo": "建議交通：乘地鐵1號綫，於集美學村站下車，步行約6分鐘。<br /><br />高鐵站出發：由廈門站乘地鐵1號綫前往；若由廈門北站出發，乘地鐵1號綫前往。",
+              "location": "福建廈門市集美區集美學村",
+              "link": "/hotspot.html?region=2&city=16&hotspot=601",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵1號綫",
+                  "to": "集美學村站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約6分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "4",
+        "path": [
+          {
+            "location": "南普陀寺普照樓",
+            "hotspot": {
+              "id": "602",
+              "tit": "千年古剎　品嘗「天下第一素宴」",
+              "img_d": "./images/hotspot/b202d53e6d1a4af19ff5801cb29df6.jpg",
+              "img_d_tag": "南普陀寺普照樓",
+              "img_m": "./images/hotspot/7517c9564bf44f608580fd358768ac.jpg",
+              "img_m_tag": "南普陀寺普照樓",
+              "img_article_d": "./images/hotspot/445351d805f24699b55ea49d7d3499.jpg",
+              "img_article_d_tag": "南普陀寺普照樓",
+              "img_article_m": "./images/hotspot/da5c96fdf28143538b6aced9724ddb.jpg",
+              "img_article_m_tag": "南普陀寺普照樓",
+              "img_detail_d": "./images/hotspot/0360c550a9d142668f872b15990fa6.jpg",
+              "img_detail_d_tag": "南普陀寺普照樓",
+              "img_detail_m": "./images/hotspot/5ce0d9a5a2d5463082b47d042ddffd.jpg",
+              "img_detail_m_tag": "南普陀寺普照樓",
+              "name": "南普陀寺普照樓",
+              "city": "廈門",
+              "hotspotDescription": "南普陀寺始建於唐末，是著名的千年古剎，佔地三萬平方米，寺前的水池依五老峰山而建，環境秀麗，香火鼎盛，人潮如鯽。從山下的天王殿開始參觀，拾級而上，一直走到五老峰山頂，可飽覽思明區風景，如遇上好天氣更可遠眺鼓浪嶼。另外，南普陀的素食在當地亦十分馳名，順道也可購買寺院所出產的素餅作手信，有多種口味，包括南瓜、紅豆、芋頭、綠豆等。 <br /><br />開放時間：早上 8:00 至傍晚6:00<br /><br />參考食店：普照樓<br />午餐：早上 11:00 至下午 2:00／晚餐：下午 5:00 至晚上 9:00",
+              "howToGo": "建議交通：乘公車1/21/45/751/841/B1/B8/J103路，於廈大站下車，步行約3分鐘。<br /><br />高鐵站出發：由廈門站乘公車1路前往；若由廈門北站出發，乘地鐵1號綫，於鎮海路站下車，步行約5分鐘至鎮海路口，轉乘公車21路前往。",
+              "location": "廈門市思明區思明南路515 號",
+              "link": "/hotspot.html?region=2&city=16&hotspot=602",
+              "site": "微信公眾號：南普陀寺"
+            },
+            "route": [
+              {
+                "type": "4",
+                "way": {
+                  "from": "公車1/21/45路",
+                  "to": "廈大站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約3分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "頂澳仔貓街",
+            "hotspot": {
+              "id": "596",
+              "tit": "貓奴朝聖地",
+              "img_d": "./images/hotspot/2f05fce0e9074f1c8fe9ec00a98249.jpg",
+              "img_d_tag": "頂澳仔貓街",
+              "img_m": "./images/hotspot/498bd3c852134e3e90b865e7e34f3e.jpg",
+              "img_m_tag": "頂澳仔貓街",
+              "img_article_d": "./images/hotspot/05e360c38eda41238ff42f036ab2cc.jpg",
+              "img_article_d_tag": "頂澳仔貓街",
+              "img_article_m": "./images/hotspot/d4bfbd524a1e49af9e99cda2e5af83.jpg",
+              "img_article_m_tag": "頂澳仔貓街",
+              "img_detail_d": "./images/hotspot/bf368f2f98f849eab36d0c870ffa37.jpg",
+              "img_detail_d_tag": "頂澳仔貓街",
+              "img_detail_m": "./images/hotspot/509fe355296a415382461a4555acfe.jpg",
+              "img_detail_m_tag": "頂澳仔貓街",
+              "name": "頂澳仔貓街",
+              "city": "廈門",
+              "hotspotDescription": "這裡以前是漁港，因養滿了貓，所以有「貓街」之稱。今天的貓街，滿街的牆壁都畫上了不同風格的貓貓插畫，加上街頭擺放的巨型貓咪瓷像，周圍都是色彩奪目的貓，是拍照打卡、貓迷必訪勝地。此外，廈門貓咪博物館更是當中亮點，不但可以和真貓零距離接觸，也可喝杯咖啡，或購買貓貓精品。",
+              "howToGo": "建議交通：乘公車1/2/20/21/22/29/45/48/71/86/659/841/B8/B9路，於理工學院思明校區站下車，步行約2分鐘。<br /><br />高鐵站出發：由廈門站步行至梧村車站，乘公車21/96/659路前往；若由廈門北站出發，乘地鐵1號綫，於鎮海路站下車，步行約5分鐘至镇海路口，轉乘公車1/21/45路前往。",
+              "location": "廈門市思明區思明南路398號",
+              "link": "/hotspot.html?region=2&city=16&hotspot=596",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "3",
+                "way": {
+                  "from": "由南普陀寺步行約8分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "廈門站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": [
+              {
+                "type": "5",
+                "way": {
+                  "from": "乘的士前往",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "香港西九龍站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": [
+              {
+                "type": "1",
+                "way": {
+                  "from": "內地高鐵列車，下午回港",
+                  "to": ""
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "tnc": "",
+    "banner": {
+      "type": "3",
+      "tit": "",
+      "desc": "",
+      "img_d": "",
+      "img_d_tag": "",
+      "img_m": "",
+      "img_m_tag": "",
+      "link": null,
+      "btnTxt": null,
+      "agency": []
+    }
+  },
+  {
+    "id": "9",
+    "tit": "深圳：親子1天遊",
+    "plan": [
+      {
+        "day": "1",
+        "path": [
+          {
+            "location": "香港西九龍站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": []
+          },
+          {
+            "location": "福田站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": [
+              {
+                "type": "1",
+                "way": {
+                  "from": "港鐵 「動感號」或內地高鐵列車，上午抵達",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "SKYLAND未來科技館",
+            "hotspot": {
+              "id": "684",
+              "tit": "Skyland未來科技館超好玩",
+              "img_d": "./images/hotspot/5465367a501149d2b9645e3c65dc31.jpg",
+              "img_d_tag": null,
+              "img_m": "./images/hotspot/f62dad266a8440f28fb0f5eff77012.jpg",
+              "img_m_tag": null,
+              "img_article_d": "./images/hotspot/4c7dfc6f21984b5fbc9f7ac4e94861.jpg",
+              "img_article_d_tag": null,
+              "img_article_m": "./images/hotspot/bb8e4f0044334a24a81467365a3725.jpg",
+              "img_article_m_tag": null,
+              "img_detail_d": "./images/hotspot/c61a21951366436e9182a8ea58c3f8.jpg",
+              "img_detail_d_tag": null,
+              "img_detail_m": "./images/hotspot/8c5b8b5debc04840bbc21fe5c84db3.jpg",
+              "img_detail_m_tag": null,
+              "name": "SKYLAND未來科技館",
+              "city": "深圳",
+              "hotspotDescription": "2018年開業的科技館，除展示科學實驗外，更讓你動手又動腦地參與遊戲，製作自己的小玩具，是實踐STEM跨學科邊玩邊學的好地方。以VR/MR互動體驗作為賣點，SKYLAND是當地人的熱門親子好去處。科技館佔地2,000呎，主要分為「HELLO UNIVERSE」及「智趣LAB」兩大區域﹔前者結合人工智能與聲光特技效果，讓你窺探宇宙的神秘奧妙；後者是一個工作坊，讓小朋友可以動動腦筋，運用創意與想像進行手作體驗，更設有展板解釋當中科學原理，小朋友可以盡情地寓娛樂於學習。館內設有不同的項目，包括感受重力和速度的「宇宙飛車」、製作玩具的「木工工作坊」等，更可在「CS 互動影像創意」中跟動漫人物互動，小朋友必定樂而忘返。",
+              "howToGo": "建議交通：乘地鐵3號綫，於蓮花村站下車，步行17分鐘；或乘地鐵10號綫，於冬瓜嶺站下車，步行約12分鐘。<br /><br />高鐵站出發：由福田站乘地鐵3號綫前往；若由深圳北站出發，經地鐵5號綫，於五和站轉乘地鐵10號綫前往。",
+              "location": "深圳市福田區筍崗西路4001號深業上城CEEC 7樓",
+              "link": "/hotspot.html?region=1&city=1&hotspot=684",
+              "site": "微信公眾號：Skyland未來科技館"
+            },
+            "route": [
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵3號綫 ",
+                  "to": "蓮花村站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約17分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "地王大廈觀景台",
+            "hotspot": {
+              "id": "685",
+              "tit": "觀景台好睇又好玩",
+              "img_d": "./images/hotspot/165e382610a846cc981c14b4c1f9e8.jpg",
+              "img_d_tag": null,
+              "img_m": "./images/hotspot/fe24bff5f0c04226881b1ca08df207.jpg",
+              "img_m_tag": null,
+              "img_article_d": "./images/hotspot/9be683ca6c9e415abca26f10773018.jpg",
+              "img_article_d_tag": null,
+              "img_article_m": "./images/hotspot/abe951c7e73048c280c326eaf38de9.jpg",
+              "img_article_m_tag": null,
+              "img_detail_d": "./images/hotspot/f9630857512749c5bce9aebaad0d6f.jpg",
+              "img_detail_d_tag": null,
+              "img_detail_m": "./images/hotspot/5f77518854f9498c907807fea30503.jpg",
+              "img_detail_m_tag": null,
+              "name": "地王大廈觀景台",
+              "city": "深圳",
+              "hotspotDescription": "地王大廈雖然是一座平凡的商業大廈，但可登上頂層，在383米的高空以360度俯瞰整個深圳市，還可眺望香港與深港澳大橋的迷人景致，因此成為人氣旅遊景點。欣賞完美景別急著走，地王觀景區還有新奇刺激的多維動感觀賞區，以電影、幻燈紀錄片等數碼疊化形式呈現，既享娛樂又長知識。地王大廈鄰近KK MALL、深圳大戲院、萬象城、東門老街等熱門旅遊景點，逛街購物都相當方便。",
+              "howToGo": "建議交通：乘地鐵1/2號綫，於大劇院站下車，步行約5分鐘。<br /><br />高鐵站出發：由福田站乘地鐵2號綫前往；若由深圳北站出發，經地鐵6號綫，於科學館站轉乘地鐵1號綫前往。",
+              "location": "深圳市羅湖區深南中路地王大廈69樓",
+              "link": "/hotspot.html?region=1&city=1&hotspot=685",
+              "site": "微信公眾號：地王深港之窗 "
+            },
+            "route": [
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵3號綫 ",
+                  "to": "老街站"
+                }
+              },
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵1號綫",
+                  "to": "大劇院站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約5分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "深圳歡樂海岸",
+            "hotspot": {
+              "id": "537",
+              "tit": "讓你樂而忘返",
+              "img_d": "./images/hotspot/b863fc4647cf4e8ba8ee3d1d794307.jpg",
+              "img_d_tag": "深圳歡樂海岸",
+              "img_m": "./images/hotspot/8fa75865fee14e4390acf4ec927afb.jpg",
+              "img_m_tag": "深圳歡樂海岸",
+              "img_article_d": "./images/hotspot/2e833c29c7a14ec9a9cdcbd5eb865b.jpg",
+              "img_article_d_tag": "深圳歡樂海岸",
+              "img_article_m": "./images/hotspot/7a2ee975ee01431ba7d08d7b79bd70.jpg",
+              "img_article_m_tag": "深圳歡樂海岸",
+              "img_detail_d": "./images/hotspot/0132327b11f64e649281f75851360d.jpg",
+              "img_detail_d_tag": "深圳歡樂海岸",
+              "img_detail_m": "./images/hotspot/418e5bef276a4386b604c0b88f5140.jpg",
+              "img_detail_m_tag": "深圳歡樂海岸",
+              "name": "深圳歡樂海岸",
+              "city": "深圳",
+              "hotspotDescription": "坐落在濱海大道旁的深圳歡樂海岸是以海洋文化及生態環保為主題的綜合消閒區，主要分為購物、美食、娛樂與休閒四大區域，並將水概念融入其中。最大特色是以開放式組合概念建造的「曲水灣」，彎彎曲曲的河道貫穿整個區域，將深圳灣深海的海水引入，途經多間餐廳、不同設計特式的建築物，包括明清時期的兩幢老房子，以及地標建築OCT 創意展示中心。室外設有大型間歇性噴水池供訪客耍樂，甫一抵達已有種清涼快感。除了彙集多間國際品牌商店的購物中心，歡樂海岸更設有水秀劇場、海洋館、各式展覽，小朋友們可以盡情玩樂放電，家長們可以隨意挑選精美的餐廳享受一下。 <br /><br />水秀劇場<br />規模大而壯觀的多媒體現代化水秀劇場，佔地面積近1萬平方米，運用水幕、噴泉、鐳射、投影、火焰、音樂、煙火等多媒體技術，呈現一場精彩的光影水上表演，令人嘆為觀止。<br /><br />紅樹林<br />前往歡樂海岸北區的紅樹林濕地，可觀鳥並欣賞醉人日落景色。",
+              "howToGo": "建議交通：乘地鐵9號綫，於深圳灣公園站下車，步行約5分鐘。<br /><br />高鐵站出發：由福田站經地鐵11號綫，於車公廟站轉乘地鐵9號綫前往；若由深圳北站出發，經地鐵4號綫，於上梅林站轉乘地鐵9號綫前往。",
+              "location": "深圳市南山區白石路東8號",
+              "link": "/hotspot.html?region=1&city=1&hotspot=537",
+              "site": "微信公眾號：歡樂海岸"
+            },
+            "route": [
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵1號綫",
+                  "to": "車公廟站"
+                }
+              },
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵9號綫 ",
+                  "to": "深圳灣公園站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約 5 分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "深圳海洋奇夢館",
+            "hotspot": {
+              "id": "686",
+              "tit": "深入認識海洋世界",
+              "img_d": "./images/hotspot/c9374b869d874c048ebef2d7050abf.jpg",
+              "img_d_tag": null,
+              "img_m": "./images/hotspot/3958d7b46cab4752baae256e394d26.jpg",
+              "img_m_tag": null,
+              "img_article_d": "./images/hotspot/b53f3f81fd3743c2accbf58992ac9b.jpg",
+              "img_article_d_tag": null,
+              "img_article_m": "./images/hotspot/d9f223b0db884636b9c74f76c8dbe6.jpg",
+              "img_article_m_tag": null,
+              "img_detail_d": "./images/hotspot/826386cc4f7a416ba6793ef96a8812.jpg",
+              "img_detail_d_tag": null,
+              "img_detail_m": "./images/hotspot/ce9189dbd2bf4879a746e7ca320cbb.jpg",
+              "img_detail_m_tag": null,
+              "name": "深圳海洋奇夢館",
+              "city": "深圳",
+              "hotspotDescription": "位於歡樂海岸的深圳海洋奇夢館是一個佔地超過3,000呎的城市水族館，讓你零距離探索海洋生物的生活模式，透過互動區與表演，讓你深入認識海洋世界。水族館內設有多個主題區，當中包括水母、珊瑚、深海、海獅等具特色區域，以及大人、小朋友都喜歡的海獅表演。特別推薦大家參觀開放式的海獅休息區，在那裡可以與海獅互動兼拍照留念。另外，也推薦大家遊覽一下仿照深海環境打造的珊瑚區域，了解珊瑚於深海下的棲息地。",
+              "howToGo": "建議交通：乘地鐵9號綫，於深圳灣公園站下車，步行約17分鐘。<br /><br />高鐵站出發：由福田站經地鐵11號綫，於車公廟站轉乘地鐵9號綫前往；若由深圳北站出發，經地鐵4號綫，於上梅林站轉乘9號綫前往。",
+              "location": "深圳市南山區白石路東8號（歡樂海岸購物中心西側）",
+              "link": "/hotspot.html?region=1&city=1&hotspot=686",
+              "site": "微信公眾號：歡樂海岸海洋奇夢館"
+            },
+            "route": [
+              {
+                "type": "3",
+                "way": {
+                  "from": "由深圳歡樂海岸步行約12分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "福田站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": [
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵9號綫",
+                  "to": "紅樹灣南站"
+                }
+              },
+              {
+                "type": "2",
+                "way": {
+                  "from": "地鐵11號綫",
+                  "to": "福田站"
+                }
+              }
+            ]
+          },
+          {
+            "location": "香港西九龍站 ",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": [
+              {
+                "type": "1",
+                "way": {
+                  "from": "港鐵 「動感號」或內地高鐵列車，晚上回港",
+                  "to": ""
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "tnc": "",
+    "banner": {
+      "type": "2",
+      "tit": "",
+      "desc": "圖文提供：永安旅遊<br /><br />行程及預訂查詢（電話）：2928 8882",
+      "img_d": "./images/plan/f918954aef4c47a98a35a0201472cf.jpg",
+      "img_d_tag": "",
+      "img_m": "./images/plan/45c1d7d65e9a4fc497d104212581d4.jpg",
+      "img_m_tag": "",
+      "link": null,
+      "btnTxt": null,
+      "agency": []
+    }
+  },
+  {
+    "id": "10",
+    "tit": "桂林：經典靚景4天遊",
+    "plan": [
+      {
+        "day": "1",
+        "path": [
+          {
+            "location": "香港西九龍站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": []
+          },
+          {
+            "location": "桂林西站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": [
+              {
+                "type": "1",
+                "way": {
+                  "from": "內地高鐵列車，下午抵達",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "入住桂林市內酒店",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": []
+          },
+          {
+            "location": "兩江四湖",
+            "hotspot": {
+              "id": "580",
+              "tit": "遊船賞山水",
+              "img_d": "./images/hotspot/6ddbbf38096c470eb1495592db9234.jpg",
+              "img_d_tag": "兩江四湖",
+              "img_m": "./images/hotspot/6308f15ddbad4553b1ae86f4f24580.jpg",
+              "img_m_tag": "兩江四湖",
+              "img_article_d": "./images/hotspot/4186d23ed16143bebe56e2878a4831.jpg",
+              "img_article_d_tag": "兩江四湖",
+              "img_article_m": "./images/hotspot/5c049e26f77146e78deb57c878446d.jpg",
+              "img_article_m_tag": "兩江四湖",
+              "img_detail_d": "./images/hotspot/1a30e0ac02a84752ac98872dc1fc81.jpg",
+              "img_detail_d_tag": "兩江四湖",
+              "img_detail_m": "./images/hotspot/AQXCKSELSNIKECBDTCOERPXAYHBBWO.jpg",
+              "img_detail_m_tag": "兩江四湖",
+              "name": "兩江四湖",
+              "city": "桂林",
+              "hotspotDescription": "5A級旅遊景區，由灕江、桃花江，木龍湖、桂湖、榕湖和杉湖組成，全長7.33公里，形成環城遊覽水系，美景吸引了遊人的目光。白天乘遊船遊覽可欣賞到象鼻山、伏波山等十多座傳統名山、桃花江旁的名勝古蹟舍利塔、多個圓林景區盡收眼底，包括榕、杉湖景區、—桂湖景區及木龍湖景區。遊客可於日月灣碼頭上船，漁人碼頭下船或反向遊覽。晚上可欣賞日月雙塔金銀兩色光芒的艷麗。日塔高41米共九層，為純銅裝飾，耗用銅材350噸，是世界最高的銅塔及水中塔；月塔高35米共七層，為琉璃塔，各有特色。",
+              "howToGo": "建議交通：乘公車3/10/11/91/K99/100路，於陽橋站下車，步行約7分鐘。<br /><br />高鐵站出發：由桂林西站乘公車22路，於觀音閣站轉乘公車100路前往。",
+              "location": "桂林市秀峰區杉湖北路日月灣碼頭",
+              "link": "/hotspot.html?region=1&city=15&hotspot=580",
+              "site": "微信公眾號：桂林兩江四湖景區"
+            },
+            "route": [
+              {
+                "type": "4",
+                "way": {
+                  "from": "公車3/10/11/91/K99/100路 ",
+                  "to": "陽橋站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約7分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "正陽步行街",
+            "hotspot": {
+              "id": "581",
+              "tit": "遊山玩水後的歇腳站",
+              "img_d": "./images/hotspot/33235a9dcf1b4f4aab187da034d745.jpg",
+              "img_d_tag": "正陽步行街",
+              "img_m": "./images/hotspot/31dfeaceef0c4491b5028f42b076fb.jpg",
+              "img_m_tag": "正陽步行街",
+              "img_article_d": "./images/hotspot/9ae4261ed41240549debe6cfe1b2ab.jpg",
+              "img_article_d_tag": "正陽步行街",
+              "img_article_m": "./images/hotspot/f8ad474ab9274f379201057abf07a8.jpg",
+              "img_article_m_tag": "正陽步行街",
+              "img_detail_d": "./images/hotspot/ff4186df45584b73937e4c289a8a2c.jpg",
+              "img_detail_d_tag": "正陽步行街",
+              "img_detail_m": "./images/hotspot/4faf9c087bf443a78eafcc44a4827a.jpg",
+              "img_detail_m_tag": "正陽步行街",
+              "name": "正陽步行街",
+              "city": "桂林",
+              "hotspotDescription": "正陽步行街位於灕江旁，全長666米，有眾多的餐廳、桂林的經典小吃與購物商店，毗鄰王城、象鼻山及獨秀峰等重要景點，步行5-10分鐘即可到達，是遊山玩水後的最佳歇腳站。正陽步行街本身有上千年的歷史，建築物都以中式仿古建築為主，步行街中心有標誌性建築紅色鐘塔，掛著一個大古鐘，適合遊客們打打卡。而且路面相當寬闊，可以舒適地閒逛。道路中間有一條尚水美食街，小吃攤檔應有盡有，你可以盡情體驗當地美食，捧著肚子而回。",
+              "howToGo": "建議交通：乘公車14/21/22/30路，於十字街(解放西路)站下車，步行約14分鐘；或乘公車2/10/11/91/100/205/K99路，於十字街站下車，步行約8分鐘。<br /><br />高鐵站出發：由桂林西站乘公車22路前往。",
+              "location": "桂林市秀峰區正陽步行街",
+              "link": "/hotspot.html?region=1&city=15&hotspot=581",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "3",
+                "way": {
+                  "from": "由灕江周邊步行約10分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "2",
+        "path": [
+          {
+            "location": "興坪古鎮",
+            "hotspot": {
+              "id": "729",
+              "tit": "乘竹筏遊灕江最美古鎮",
+              "img_d": "./images/hotspot/4b1f7c8dcf8348c8be49e752bc8b7f.jpg",
+              "img_d_tag": null,
+              "img_m": "./images/hotspot/9aee018709ee42b6b452881a1e0dc0.jpg",
+              "img_m_tag": null,
+              "img_article_d": "./images/hotspot/fbc492132cc3452198763dfd15b818.jpg",
+              "img_article_d_tag": null,
+              "img_article_m": "./images/hotspot/0cfa9d090ae5480897914c37a88f10.jpg",
+              "img_article_m_tag": null,
+              "img_detail_d": "./images/hotspot/f42cbafc3fa742b5ad73f32812f4bc.jpg",
+              "img_detail_d_tag": null,
+              "img_detail_m": "./images/hotspot/2daae0e4707642d884279e121c9ad1.jpg",
+              "img_detail_m_tag": null,
+              "name": "興坪古鎮",
+              "city": "桂林",
+              "hotspotDescription": "興坪古鎮素以山水秀麗、景甲天下而著稱，是中國旅遊名縣陽朔縣的旅遊重鎮。20元人民幣的背面圖景就是興坪。興坪古鎮已有一千七百三十多年歷史，規模雖然不大，但各類磚瓦結構的古建築至今大部分保存完好，保留其原始古樸風貌，是漓江上最美的古鎮。古鎮中除了有古街、古橋、古戲台、古廟等，亦有各式餐廳、小吃店、手信店及咖啡店。古街的東南側獅子旦為熙平縣城遺址。你亦可選擇由興坪碼頭出發，坐竹筏遊這一段的灕江。這段灕江竹筏漂流遊覽被分為 「興坪- 九馬畫山」 和「興坪-楊堤」段，船程分別約為1小時及1小時30分鐘。",
+              "howToGo": "建議交通：由桂林市內乘的士前往，約2小時。<br /><br />高鐵站出發：由桂林西站乘的士前往，約2小時。",
+              "location": "桂林市陽朔縣興坪鎮新街",
+              "link": "/hotspot.html?region=1&city=15&hotspot=729",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "5",
+                "way": {
+                  "from": "乘的士前往",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "陽朔西街 ",
+            "hotspot": {
+              "id": "591",
+              "tit": "感受復古商店街之熱鬧",
+              "img_d": "./images/hotspot/643ce99c2a2f474bb10fcbfac89a71.jpg",
+              "img_d_tag": "陽朔西街 ",
+              "img_m": "./images/hotspot/18fe9659c24c4d62ac78f91d0461a4.jpg",
+              "img_m_tag": "陽朔西街 ",
+              "img_article_d": "./images/hotspot/20d48d7668df43cea28c6d0f9ff89d.jpg",
+              "img_article_d_tag": "陽朔西街 ",
+              "img_article_m": "./images/hotspot/8403c52d71f34e358278f4f9d39939.jpg",
+              "img_article_m_tag": "陽朔西街 ",
+              "img_detail_d": "./images/hotspot/5bebc4bca7054e1baf8d1fa30e8f76.jpg",
+              "img_detail_d_tag": "陽朔西街 ",
+              "img_detail_m": "./images/hotspot/96f46768c20147b8b3f5689daf47b6.jpg",
+              "img_detail_m_tag": "陽朔西街 ",
+              "name": "陽朔西街 ",
+              "city": "桂林",
+              "hotspotDescription": "陽朔最有名、最古老的石板街「西街」，據說已經有 1,400 多年歷史，保存明城牆、碑刻、古亭、名人故居、紀念館等古老建築。全長超過1公里的陽朔西街近年發展迅速，有新穎的商場，還有各式各樣的酒吧、國際連鎖咖啡店、餐廳、旅館及民間藝術商店等等，已成為外國人聚集的地方，被稱為洋人街。可以嚐嚐當地有名的啤酒魚，亦有大量手信店，可以買各式各樣的特產回家自用或送禮。白天的西街比較冷清，入夜後燈火通明，人潮湧現，像是換了另一番景象。",
+              "howToGo": "建議交通：由桂林市內乘的士前往，約1小時40分鐘。<br /><br />高鐵站出發：由桂林西站乘的士前往，約1小時35分鐘。",
+              "location": "桂林市陽朔縣西街步行街",
+              "link": "/hotspot.html?region=1&city=15&hotspot=591",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "5",
+                "way": {
+                  "from": "乘的士前往",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "印象劉三姐 ",
+            "hotspot": {
+              "id": "585",
+              "tit": "載歌載舞的精彩表演",
+              "img_d": "./images/hotspot/2cadb0d502424081ab939d44344df3.jpg",
+              "img_d_tag": "印象劉三姐 ",
+              "img_m": "./images/hotspot/bdddbf930a334cb8b82563b125bd74.jpg",
+              "img_m_tag": "印象劉三姐 ",
+              "img_article_d": "./images/hotspot/a57ba507fdff43efb4019ca7ced8ae.jpg",
+              "img_article_d_tag": "印象劉三姐 ",
+              "img_article_m": "./images/hotspot/68fa8eb71ba1496aaee2407a132489.jpg",
+              "img_article_m_tag": "印象劉三姐 ",
+              "img_detail_d": "./images/hotspot/16387849d32946fe80bb29a4011cc2.jpg",
+              "img_detail_d_tag": "印象劉三姐 ",
+              "img_detail_m": "./images/hotspot/bca037c4d9b24258b17577eeae03d3.jpg",
+              "img_detail_m_tag": "印象劉三姐 ",
+              "name": "印象劉三姐 ",
+              "city": "桂林",
+              "hotspotDescription": "印象劉三姐由國際著名導演張藝謀炮製，以民間傳說人物劉三姐作為歌舞劇故事骨幹，將經典山歌、民族風情、灕江漁火等元素重新創作，是全國第一部「山水實景演出」的話劇，在號稱是世界上最大的鼓樓群及山水實景劇場演出。整個表演是將方圓兩公里的陽朔書童山段灕江水域，十二座背景山峰，利用環境藝術燈光及獨特的煙霧效果工程，製作出震撼舞台臺效果。參加演員多達 600 人，是由久經訓練的當地村民負責演出。紅色印象內對歌一幕，演員手拉長紅布，配合燈光效果，令人目炫。演員穿上LED特製燈光衫，隨著音樂節奏擺動，產生奇幻視覺效果。<br /><br />演出時間：<br />夏季：第一場 20:00；第二場 21:30<br />冬季：第一場 19:30；第二場 21:00<br />（場次因旺淡季地加或減少，請留意景區資訊）",
+              "howToGo": "建議交通：由桂林市內乘的士前往，約1小時35分鐘。<br /><br />高鐵站出發：由桂林西站乘的士前往，約1小時35分鐘。",
+              "location": "桂林市陽朔縣東街田園路一號灕江山水劇場",
+              "link": "/hotspot.html?region=1&city=15&hotspot=585",
+              "site": "微信公眾號：印象劉三姐官方訊息 "
+            },
+            "route": [
+              {
+                "type": "5",
+                "way": {
+                  "from": "乘電瓶車",
+                  "to": "灕江山水劇場"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "3",
+        "path": [
+          {
+            "location": "龍脊梯田",
+            "hotspot": {
+              "id": "730",
+              "tit": "四季如畫",
+              "img_d": "./images/hotspot/19cc3a4c2fd34ba28ae0d837857bfc.jpg",
+              "img_d_tag": null,
+              "img_m": "./images/hotspot/10d0847980c24569b4358f36e26d6c.jpg",
+              "img_m_tag": null,
+              "img_article_d": "./images/hotspot/0251a6c4af3a4b4da7f81cf7daed78.jpg",
+              "img_article_d_tag": null,
+              "img_article_m": "./images/hotspot/b85abf06f5294d408faab83df8f176.jpg",
+              "img_article_m_tag": null,
+              "img_detail_d": "./images/hotspot/ecbfce39522e4535acaeef05fa5f74.jpg",
+              "img_detail_d_tag": null,
+              "img_detail_m": "./images/hotspot/58dd009438f14ee48875485a95e342.jpg",
+              "img_detail_m_tag": null,
+              "name": "龍脊梯田",
+              "city": "桂林",
+              "hotspotDescription": "龍脊梯田有「世界梯田之冠」的美譽，向來以層層疊疊、蜿蜒曲線的美感而著名。梯田座落於廣西龍勝各族自治縣龍脊鎮平安村龍脊山，距縣城22公里，分佈在海拔300米至1100米之間，最大坡度可達50度。龍脊梯田分為三個景觀區，面積巨大，分別是平安壯族梯田觀景區、大瑤寨梯田觀景區（又稱 金坑梯田），以及龍脊古壯寨梯田。桂林梯田最吸引之處是其四季分明的景致，春天梯田放水倒影出山巒和雲彩，夏天綠油油一片，秋天見到大片金黃稻田，冬天就層層有白雪，白茫茫一片，實在令人一見難忘。而且有壯族、瑤族等幾個少數民族坐落於此，除了健行拍照外，還可以品嚐當地農家菜。",
+              "howToGo": "建議交通：由於龍脊梯田地點較為偏遠，建議參加當地一天團或包車前往，約1小時30分鐘。<br /><br />高鐵站出發：由桂林西站乘的士或包車前往，約1小時30分鐘。",
+              "location": "桂林市龍勝各族自治縣和平鄉平安村",
+              "link": "/hotspot.html?region=1&city=15&hotspot=730",
+              "site": ""
+            },
+            "route": [
+              {
+                "type": "5",
+                "way": {
+                  "from": "建議包車前往",
+                  "to": ""
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day": "4",
+        "path": [
+          {
+            "location": "靖江王府",
+            "hotspot": {
+              "id": "731",
+              "tit": "尋找桂林書卷氣息",
+              "img_d": "./images/hotspot/60bf8d55668b476aaa53d7437e2ecd.jpg",
+              "img_d_tag": null,
+              "img_m": "./images/hotspot/8a621d34c9ed41ff9dcf415eeef0d6.jpg",
+              "img_m_tag": null,
+              "img_article_d": "./images/hotspot/15b57d6c10324645a590138913b430.jpg",
+              "img_article_d_tag": null,
+              "img_article_m": "./images/hotspot/6e7b5c9ce4984d9eb6e5f79fb39cca.jpg",
+              "img_article_m_tag": null,
+              "img_detail_d": "./images/hotspot/27bc14e46ef94fc3b1d6c0550977bb.jpg",
+              "img_detail_d_tag": null,
+              "img_detail_m": "./images/hotspot/ffb84ced5b734f02ac0f4d745a0dd8.jpg",
+              "img_detail_m_tag": null,
+              "name": "靖江王府",
+              "city": "桂林",
+              "hotspotDescription": "靖江王城位於桂林市中心，是明太祖朱元璋的侄孫朱守謙被封為靖江王時修造的王城，享有「北有北京故宮，南有桂林王城」美譽。於1996年被列為第四批全國重點文物保護單位，2012年「獨秀峰·王城景區」更被評為國家5A級旅遊景區，現為廣西師範大學王城校區。於城內更設有古時的貢院，大家可以參與模擬科舉，若果中舉可以扮演狀元到孔廟裡參拜，體驗成為高中狀元的喜悦。",
+              "howToGo": "建議交通：乘公車14/21/22/30路，於十字街(解放西路) 站下車，步行約10分鐘。<br /><br />高鐵站出發：由桂林西站乘公車22路前往。",
+              "location": "桂林市秀峰區王城路1號",
+              "link": "/hotspot.html?region=1&city=15&hotspot=731",
+              "site": "http://www.glwangcheng.com/"
+            },
+            "route": [
+              {
+                "type": "4",
+                "way": {
+                  "from": "公車14/21/22/30路 ",
+                  "to": "十字街(解放西路)站"
+                }
+              },
+              {
+                "type": "3",
+                "way": {
+                  "from": "步行約10分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "獨秀峰",
+            "hotspot": {
+              "id": "578",
+              "tit": "鳥瞰桂林城全景",
+              "img_d": "./images/hotspot/03bd1956a1e54d92bb3d6cd6e1f037.JPG",
+              "img_d_tag": "獨秀峰",
+              "img_m": "./images/hotspot/64f5be4f0ae04566ad6780ef533ffb.JPG",
+              "img_m_tag": "獨秀峰",
+              "img_article_d": "./images/hotspot/5ed295e977224ab28a17f3e398a1f3.JPG",
+              "img_article_d_tag": "獨秀峰",
+              "img_article_m": "./images/hotspot/871310fcfef34913880cb05c44d268.JPG",
+              "img_article_m_tag": "獨秀峰",
+              "img_detail_d": "./images/hotspot/cc9dea927aec410daf9a2a7b99a78d.JPG",
+              "img_detail_d_tag": "獨秀峰",
+              "img_detail_m": "./images/hotspot/be10d1f0019348a993234268838bc3.JPG",
+              "img_detail_m_tag": "獨秀峰",
+              "name": "獨秀峰",
+              "city": "桂林",
+              "hotspotDescription": "獨秀峰位於5A級旅遊景區的靖江王城之中，是桂林最歷史悠久的名勝。峰如其名，於群峰環列之中，孤峰突起，陡峭高峻，氣勢雄偉，有「南天一柱」的稱譽，史稱桂林第一峰。踏過306級石階即可到達頂峰，峰頂有一個獨秀亭，是鳥瞰桂林城全景的最佳觀景台，景色一流，絕對值得為此美景爬上頂峰，而摩崖石刻上題了「桂林山水甲天下」這千古名句。",
+              "howToGo": "建議交通：乘公車14/21/22/30路，於十字街(解放西路) 站下車，步行約10分鐘。<br /><br />高鐵站出發：由桂林西站乘公車22路前往。",
+              "location": "桂林市秀峰區王城路1號",
+              "link": "/hotspot.html?region=1&city=15&hotspot=578",
+              "site": "微信公眾號：桂林獨秀峰王城景區"
+            },
+            "route": [
+              {
+                "type": "3",
+                "way": {
+                  "from": "由靖江王府步行約10分鐘",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "桂林西站",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": [
+              {
+                "type": "5",
+                "way": {
+                  "from": "乘的士前往",
+                  "to": ""
+                }
+              }
+            ]
+          },
+          {
+            "location": "香港西九龍站 ",
+            "hotspot": {
+              "id": "",
+              "tit": "",
+              "img_d": "",
+              "img_d_tag": "",
+              "img_m": "",
+              "img_m_tag": "",
+              "img_article_d": "",
+              "img_article_d_tag": "",
+              "img_article_m": "",
+              "img_article_m_tag": "",
+              "img_detail_d": "",
+              "img_detail_d_tag": "",
+              "img_detail_m": "",
+              "img_detail_m_tag": "",
+              "name": "",
+              "city": "",
+              "hotspotDescription": "",
+              "howToGo": "",
+              "location": "",
+              "link": "",
+              "site": null
+            },
+            "route": [
+              {
+                "type": "1",
+                "way": {
+                  "from": "內地高鐵列車，下午回港",
+                  "to": ""
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "tnc": "",
+    "banner": {
+      "type": "2",
+      "tit": "",
+      "desc": "圖文提供：東瀛遊 EGL Tours<br /><br />行程及預訂查詢（電話）：3692 0888",
+      "img_d": "./images/plan/d212de7bed294686980cd2421461dc.jpg",
+      "img_d_tag": "",
+      "img_m": "./images/plan/c8cf1120232b42ee987534c92efbf9.jpg",
+      "img_m_tag": "",
+      "link": "https://bit.ly/330fRFe",
+      "btnTxt": "產品詳情",
+      "agency": []
+    }
+  }
+]

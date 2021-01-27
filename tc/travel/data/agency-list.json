@@ -1,0 +1,103 @@
+{
+  "desc": "七大旅行社為你提供全面的高鐵旅遊服務及定期優惠，立即預訂或查詢！",
+  "shop": [
+    {
+      "id": "12",
+      "name": "永安旅遊",
+      "link": "www.wingontravel.com ",
+      "phone": "+852 2928 8882",
+      "img_highlight_d": "./images/agency/5efb80ee10a14e259d1da5cf8fc027.jpg",
+      "img_highlight_d_tag": "????",
+      "img_highlight_m": "./images/agency/909599553323424a8da7319790a633.jpg",
+      "img_highlight_m_tag": "????",
+      "img_article_d": "./images/agency/3c70dad9b1f64227868705fe0e2fa5.jpg",
+      "img_article_d_tag": "????",
+      "img_article_m": "./images/agency/4faa0f5a7cd44a4892bb43634221af.jpg",
+      "img_article_m_tag": "????"
+    },
+    {
+      "id": "14",
+      "name": "康泰旅行社",
+      "link": "www.hongthai.com",
+      "phone": "+852 2108 8111 ",
+      "img_highlight_d": "./images/agency/c56bd8429b714519adb32314c9fca9.jpg",
+      "img_highlight_d_tag": "康泰旅行社",
+      "img_highlight_m": "./images/agency/9a2da3364ccd4b95b5083950229926.jpg",
+      "img_highlight_m_tag": "?????",
+      "img_article_d": "./images/agency/a175ce3fe2b34afab9b815b9d151de.jpg",
+      "img_article_d_tag": "?????",
+      "img_article_m": "./images/agency/f2d6a104408743ccbffa72c25ce18c.jpg",
+      "img_article_m_tag": "?????"
+    },
+    {
+      "id": "19",
+      "name": "中國旅行社",
+      "link": "ww1.ctshk.com/zh/express-rail/",
+      "phone": "+852 2998 7666",
+      "img_highlight_d": "./images/agency/6993f6ed18e34ea99541fb2d862066.jpg",
+      "img_highlight_d_tag": "中國旅行社",
+      "img_highlight_m": "./images/agency/bba2655b83c848ec8997c32045e66f.jpg",
+      "img_highlight_m_tag": "中國旅行社",
+      "img_article_d": "./images/agency/90d339e1f873478eae3c206c89b983.jpg",
+      "img_article_d_tag": "中國旅行社",
+      "img_article_m": "./images/agency/3e935cda8b2748cda4b586cc32b404.jpg",
+      "img_article_m_tag": "中國旅行社"
+    },
+    {
+      "id": "20",
+      "name": "東瀛遊",
+      "link": "www.egltours.com ",
+      "phone": "+852 3692 0888",
+      "img_highlight_d": "./images/agency/e718f521f39647efadd3653d9ac604.jpg",
+      "img_highlight_d_tag": "東瀛遊",
+      "img_highlight_m": "./images/agency/4d6254f14514415d8220d8cf2a8699.jpg",
+      "img_highlight_m_tag": "東瀛遊",
+      "img_article_d": "./images/agency/8f95253e260e4415b9bba889dfae32.jpg",
+      "img_article_d_tag": "東瀛遊",
+      "img_article_m": "./images/agency/f950c827f1044e639c14e8a134c017.jpg",
+      "img_article_m_tag": "東瀛遊"
+    },
+    {
+      "id": "21",
+      "name": "美麗華旅遊",
+      "link": "www.hkmiramartravel.com",
+      "phone": "+852 8200 2299",
+      "img_highlight_d": "./images/agency/5c720c2223fb4e1b87326c6424d056.jpg",
+      "img_highlight_d_tag": "美麗華旅遊",
+      "img_highlight_m": "./images/agency/882d64d2a70d4688a3daee8b0d4367.jpg",
+      "img_highlight_m_tag": "美麗華旅遊",
+      "img_article_d": "./images/agency/21f93020ae1045da8b405b175d6fc4.jpg",
+      "img_article_d_tag": "美麗華旅遊",
+      "img_article_m": "./images/agency/68423d4bd27f4cd5a77d08ecad425d.jpg",
+      "img_article_m_tag": "美麗華旅遊"
+    },
+    {
+      "id": "22",
+      "name": "星晨旅遊",
+      "link": "www.mst.com.hk ",
+      "phone": "+852 2519 8088",
+      "img_highlight_d": "./images/agency/500ebdc3db204466a648558aaf1950.jpg",
+      "img_highlight_d_tag": "星晨旅遊",
+      "img_highlight_m": "./images/agency/f625727976974063aebc93e7438e8a.jpg",
+      "img_highlight_m_tag": "星晨旅遊",
+      "img_article_d": "./images/agency/93d6a772b9c4477daffd8ac6df80ef.jpg",
+      "img_article_d_tag": "星晨旅遊",
+      "img_article_m": "./images/agency/29725f3698a248d589f7cfb0ab7365.jpg",
+      "img_article_m_tag": "星晨旅遊"
+    },
+    {
+      "id": "23",
+      "name": "專業旅運",
+      "link": "www.texpert.com/",
+      "phone": "+852 3700 2662",
+      "img_highlight_d": "./images/agency/c4d13a3f68664a198cca06f1a5f69c.jpg",
+      "img_highlight_d_tag": "專業旅運",
+      "img_highlight_m": "./images/agency/13818ef2d7e447838723635d33af5f.jpg",
+      "img_highlight_m_tag": "專業旅運",
+      "img_article_d": "./images/agency/97992bbf2b3d43679fd0770828fbbe.jpg",
+      "img_article_d_tag": "專業旅運",
+      "img_article_m": "./images/agency/6200254d4fba4c26a2d12344d1cc24.jpg",
+      "img_article_m_tag": "專業旅運"
+    }
+  ]
+}

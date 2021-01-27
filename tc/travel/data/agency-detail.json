@@ -1,0 +1,289 @@
+[
+  {
+    "id": "12",
+    "name": "永安旅遊",
+    "mini_desc": "永安旅遊於1964年成立，於旅遊界佔領導地位，會員人數逾150萬。2014年強勢推出手機APP供實時預訂，逾200萬次下載。<br /><a href=https://bit.ly/3epTQ6p >自遊行</a> <br /><a href=https://bit.ly/2Zt8SUG >旅行團</a>",
+    "main_desc": "-",
+    "link": "www.wingontravel.com ",
+    "phone": "+852 2928 8882",
+    "img_detail_d": "./images/agency/d3129ac79e094db28e00785354d35f.jpg",
+    "img_detail_d_tag": "????",
+    "img_detail_m": "./images/agency/321c3d96b14c4e158529fb7f61b60c.jpg",
+    "img_detail_m_tag": "????",
+    "custom_trip_name": "自由行套票",
+    "custom_trip": [
+      {
+        "id": "374",
+        "name": "即將推出",
+        "link": ""
+      },
+      {
+        "id": "0",
+        "name": "",
+        "link": ""
+      }
+    ],
+    "custom_trip_tnc": "-",
+    "group_trip_name": "旅行團",
+    "group_trip": [
+      {
+        "id": "375",
+        "name": "即將推出",
+        "link": ""
+      },
+      {
+        "id": "0",
+        "name": "",
+        "link": ""
+      }
+    ],
+    "group_trip_tnc": "-",
+    "tnc": "產品由旅行社提供，價格及優惠視乎出發日期、行程安排和供應情況而有所不同，並以旅行社之最終公佈為準。"
+  },
+  {
+    "id": "14",
+    "name": "康泰旅行社",
+    "mini_desc": "康泰旅行社於1966年在香港成立，分社遍佈香港、澳門及中國內地。多年來穩佔市場領導地位，連續14年成為參加人數全港最多的旅行社。",
+    "main_desc": "-",
+    "link": "www.hongthai.com",
+    "phone": "+852 2108 8111 ",
+    "img_detail_d": "./images/agency/d5d8d55aac2b4f1da50a0f7bb8876b.jpg",
+    "img_detail_d_tag": "?????",
+    "img_detail_m": "./images/agency/02de636e2a724f68b08bb86267f850.jpg",
+    "img_detail_m_tag": "?????",
+    "custom_trip_name": "自由行套票",
+    "custom_trip": [
+      {
+        "id": "370",
+        "name": "即將推出",
+        "link": ""
+      },
+      {
+        "id": "0",
+        "name": "",
+        "link": ""
+      }
+    ],
+    "custom_trip_tnc": "-",
+    "group_trip_name": "旅行團",
+    "group_trip": [
+      {
+        "id": "371",
+        "name": "即將推出",
+        "link": "vvv"
+      },
+      {
+        "id": "0",
+        "name": "",
+        "link": ""
+      }
+    ],
+    "group_trip_tnc": "-",
+    "tnc": "產品由旅行社提供，價格及優惠視乎出發日期、行程安排和供應情況而有所不同，並以旅行社之最終公佈為準。"
+  },
+  {
+    "id": "19",
+    "name": "中國旅行社",
+    "mini_desc": "香港中旅社成立於1928年，是香港第一家由中國人開辦的旅行社和規模最大的綜合旅遊運營商之一。品牌優良、信譽卓越，素有「中國旅遊專家」美譽，以豐富的經驗和便利的網絡渠道，為旅客提供多元化、專業、優質的產品和服務。",
+    "main_desc": "-",
+    "link": "ww1.ctshk.com/zh/express-rail/",
+    "phone": "+852 2998 7666",
+    "img_detail_d": "./images/agency/2346bd590ac7476dae123ffbef43bd.jpg",
+    "img_detail_d_tag": "中國旅行社",
+    "img_detail_m": "./images/agency/ef7f437bcfc04762aa21400d1057e9.jpg",
+    "img_detail_m_tag": "中國旅行社",
+    "custom_trip_name": "自由行套票",
+    "custom_trip": [
+      {
+        "id": "376",
+        "name": "即將推出",
+        "link": ""
+      },
+      {
+        "id": "0",
+        "name": "",
+        "link": ""
+      }
+    ],
+    "custom_trip_tnc": "-",
+    "group_trip_name": "旅行團",
+    "group_trip": [
+      {
+        "id": "377",
+        "name": "即將推出",
+        "link": ""
+      },
+      {
+        "id": "0",
+        "name": "",
+        "link": ""
+      }
+    ],
+    "group_trip_tnc": "-",
+    "tnc": "產品由旅行社提供，價格及優惠視乎出發日期、行程安排和供應情況而有所不同，並以旅行社之最終公佈為準。"
+  },
+  {
+    "id": "20",
+    "name": "東瀛遊",
+    "mini_desc": "東瀛遊致力提供一系列優質的旅遊產品，旅行團、自由行套票、包團、代訂機票及酒店等服務，並於2014年於香港聯交所主板上市。<br /><a href=https://www.egltours.com/ntour/product/?express=true&scope=short>高鐵產品</a><br />自遊行Whatsapp : 6688 6609 <br />旅行團Whatsapp : 6688 0086",
+    "main_desc": "-",
+    "link": "www.egltours.com ",
+    "phone": "+852 3692 0888",
+    "img_detail_d": "./images/agency/34484dab658a46a28d0a5726bb0826.jpg",
+    "img_detail_d_tag": "東瀛遊",
+    "img_detail_m": "./images/agency/711e2bc950bc49c687d1fa7568b53e.jpg",
+    "img_detail_m_tag": "東瀛遊",
+    "custom_trip_name": "自由行套票",
+    "custom_trip": [
+      {
+        "id": "378",
+        "name": "即將推出",
+        "link": "v"
+      },
+      {
+        "id": "0",
+        "name": "",
+        "link": ""
+      }
+    ],
+    "custom_trip_tnc": "-",
+    "group_trip_name": "旅行團",
+    "group_trip": [
+      {
+        "id": "379",
+        "name": "即將推出",
+        "link": "v"
+      },
+      {
+        "id": "0",
+        "name": "",
+        "link": ""
+      }
+    ],
+    "group_trip_tnc": "-",
+    "tnc": "產品由旅行社提供，價格及優惠視乎出發日期、行程安排和供應情況而有所不同，並以旅行社之最終公佈為準。"
+  },
+  {
+    "id": "21",
+    "name": "美麗華旅遊",
+    "mini_desc": "美麗華旅遊是香港具規模的大型旅行社，為港人熟悉的華資企業 - 恆基兆業地產集團成員，實力雄厚，擁有卓越的信譽，是顧客信心的旅行社。管理層具有發展旅行社經驗，由眾多經驗豐富的旅遊界精英，因應市場需要，用心打造超過400個目的地、遍及50個國家的旅行團及自遊行等路線。",
+    "main_desc": "-",
+    "link": "www.hkmiramartravel.com",
+    "phone": "+852 8200 2299",
+    "img_detail_d": "./images/agency/908a011aefef451bbcdcd9fede1c16.jpg",
+    "img_detail_d_tag": "美麗華旅遊",
+    "img_detail_m": "./images/agency/67a3f0d82ba248ea96335aa8c21374.jpg",
+    "img_detail_m_tag": "美麗華旅遊",
+    "custom_trip_name": "自由行套票",
+    "custom_trip": [
+      {
+        "id": "380",
+        "name": "即將推出",
+        "link": ""
+      },
+      {
+        "id": "0",
+        "name": "",
+        "link": ""
+      }
+    ],
+    "custom_trip_tnc": "-",
+    "group_trip_name": "旅行團",
+    "group_trip": [
+      {
+        "id": "381",
+        "name": "即將推出",
+        "link": ""
+      },
+      {
+        "id": "0",
+        "name": "",
+        "link": ""
+      }
+    ],
+    "group_trip_tnc": "-",
+    "tnc": "產品由旅行社提供，價格及優惠視乎出發日期、行程安排和供應情況而有所不同，並以旅行社之最終公佈為準。"
+  },
+  {
+    "id": "22",
+    "name": "星晨旅遊",
+    "mini_desc": "星晨旅遊一直致力提供多元化的優質旅遊產品，包括旅行團、自遊行、獨立包團、主題小包團及郵輪等業務。<br /><a href=http://app.mst.com.hk/mstw/app/s5/pl?searchType=2&search=%E9%AB%98%E9%90%B5%E7%B3%BB%E5%88%9>高鐵自由行</a><br /><a href=http://app.mst.com.hk/mstw/app/s7/pl?region=2&nation=23&city=0&theme=null&currName=%E5%BE%97%E9%96%92%E9%AC%86%E4%B8%80%E9%AC%86~%E9%AB%98%E9%90%B5%E6%98%A5%E6%97%A5%E5%A4%A7%E6%BF%80%E6%B8%9B&type=1>高鐵旅行團</a>",
+    "main_desc": "-",
+    "link": "www.mst.com.hk ",
+    "phone": "+852 2519 8088",
+    "img_detail_d": "./images/agency/9352c72daae74345b55c9f74a30a17.jpg",
+    "img_detail_d_tag": "星晨旅遊",
+    "img_detail_m": "./images/agency/6685bcec284848949d61a5e0871516.jpg",
+    "img_detail_m_tag": "星晨旅遊",
+    "custom_trip_name": "自由行套票",
+    "custom_trip": [
+      {
+        "id": "382",
+        "name": "即將推出",
+        "link": ""
+      },
+      {
+        "id": "0",
+        "name": "",
+        "link": ""
+      }
+    ],
+    "custom_trip_tnc": "",
+    "group_trip_name": "旅行團",
+    "group_trip": [
+      {
+        "id": "383",
+        "name": "即將推出",
+        "link": ""
+      },
+      {
+        "id": "0",
+        "name": "",
+        "link": ""
+      }
+    ],
+    "group_trip_tnc": "-",
+    "tnc": "產品由旅行社提供，價格及優惠視乎出發日期、行程安排和供應情況而有所不同，並以旅行社之最終公佈為準。"
+  },
+  {
+    "id": "23",
+    "name": "專業旅運",
+    "mini_desc": "專業旅運自由行(Travel Expert)是集團推動「自由行」旅程的先驅，也是走在業界最前的「真正自由行專家」。其主要客源為一眾對旅遊質素有高要求及喜歡自主選擇行程的旅客。富靈活性的旅遊套票可讓顧客彈性選擇航班、住宿、交通、景點、時間及花費等事宜，更無需支付小費，盡享消費自主的樂趣。憑著貼心的人性化服務及全港最大的旅行實體店網路，專業旅運自由行為港人提供一站式多元服務。",
+    "main_desc": "-",
+    "link": "www.texpert.com/",
+    "phone": "+852 3700 2662",
+    "img_detail_d": "./images/agency/aa2c278d83cb489c949ad4d1195531.jpg",
+    "img_detail_d_tag": "專業旅運",
+    "img_detail_m": "./images/agency/7c7b9599ae024435ab73c6cdf250f6.jpg",
+    "img_detail_m_tag": "專業旅運",
+    "custom_trip_name": "自由行套票",
+    "custom_trip": [
+      {
+        "id": "384",
+        "name": "即將推出",
+        "link": ""
+      },
+      {
+        "id": "0",
+        "name": "",
+        "link": ""
+      }
+    ],
+    "custom_trip_tnc": "-",
+    "group_trip_name": "旅行團",
+    "group_trip": [
+      {
+        "id": "385",
+        "name": "即將推出",
+        "link": ""
+      },
+      {
+        "id": "0",
+        "name": "",
+        "link": ""
+      }
+    ],
+    "group_trip_tnc": "-",
+    "tnc": "產品由旅行社提供，價格及優惠視乎出發日期、行程安排和供應情況而有所不同，並以旅行社之最終公佈為準。"
+  }
+]

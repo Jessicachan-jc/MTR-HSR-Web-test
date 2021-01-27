@@ -1,0 +1,547 @@
+{
+   "section": "ticket",
+   "current_ver": "202006170001",
+   "last_update_date": "yyyy-MM-DD",
+    "type": [
+      {
+         "type_id": "DES",
+         "type_en": "Cross Boundary Ticket",
+         "type_tc": "跨境票",
+         "type_sc": "跨境票",
+         "ticket_content": [
+            {
+               "id": 1,
+               "title_en": "Introduction",
+               "title_tc": "簡介",
+               "title_sc": "简介",
+               "image_en": "/res/media/app/ticket/train.jpg",
+               "image_tc": "/res/media/app/ticket/train.jpg",
+               "image_sc": "/res/media/app/ticket/train.jpg",
+               "content_en": "<p>High Speed Rail connects Hong Kong West Kowloon Station with 58 Mainland stations without interchange. Apart from the “Guangzhou-Shenzhen-Hong Kong” High Speed Rail for short-haul destinations, long-haul destinations such as Shanghai, Chongqing, Tianjin and Beijing are also covered. You can explore more destinations by interchanging to other trains along the national high speed rail network.</p>",
+               "content_tc": "<p>乘搭高速鐵路，毋須轉車連接香港西九龍站與58個內地站點，可輕鬆往來更多地方；如前往短途目的地，可乘搭「廣州-深圳-香港」高速鐵路；乘搭長途列車，可前往更遠的地方，如上海、重慶、天津、北京等，亦可中途轉乘其他高鐵列車，沿國家高鐵網絡前往更多目的地。</p>",
+               "content_sc": "<p>乘搭高速铁路，毋须转车连接香港西九龙站与58个内地站点，可轻松往来更多地方；如前往短途目的地，可乘搭「广州-深圳-香港」高速铁路；乘坐长途列车，可前往更远的地方，如上海、重庆、天津、北京等，亦可中途转乘其他高铁列车，沿国家高铁网络前往更多目的地。</p>"
+            },
+			{
+               "id": 2,
+               "title_en": "Destinations",
+               "title_tc": "目的地",
+               "title_sc": "目的地",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>Stopping at 58 stations: </p><p>&quot;Guangzhou-Shenzhen-Hong Kong&quot; High Speed Rail:<br>Futian, Shenzhenbei, Guangmingchen, Humen, Qingsheng, Guangzhounan </p><p>Other stations:<br> Baiyangdian, Beijingxi, Changshanan, Chaoshan, Chaoyang, Chenzhouxi, Chongqingxi, Foshanxi, Fuzhou, Guilinxi, Guiyangbei, Guiyangdong, Handandong, Hangzhoudong, Hengshanxi, Hengyangdong, Houmen, Huidong, Huizhounan, Jiaomei, Jinhua, Kuitan, Kunmingnan, Lufeng, Nanchangxi, Nanningdong, Puning, Putian, Quanzhou, Raoping, Sanshuinan, Shanghai Hongqiao, Shangrao, Shantou, Shanwei, Shaoguan, Shenzhen Pingshan, Shijiazhuang, Tianjinxi, Wuhan, Wuzhounan, Xiamen, Xiamenbei, Yueyangdong, Yunxiao, Zhangpu, Zhangzhou, Zhao'an, Zhaoqingdong, Zhengzhoudong, Zhuzhouxi, Zunyi</p><p>The first and last trains depart from Hong Kong West Kowloon Station at around 7 a.m. and 11 p.m. respectively every day. There are 17 pairs<sup>#</sup> of long-haul trains per day going to different destinations. More frequent services are operating for Guangzhou-Shenzhen-Hong Kong High Speed Rail. Some train trips will stop at intermediate stations, so <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html\")'><font color=\"red\">journey time</font></a> for the same destination may vary according to the number of intermediate stations of the selected train trip.</p><p>Vibrant Express trains operated by MTR Corporation and Mainland trains serve the &quot;Guangzhou – Shenzhen – Hong Kong&quot; High Speed Rail, while the long-haul trains are provided by Mainland railway operators. With a spacious design, first class and second class seat options, thoughtful on-board facilities and amenities such as adjustable backrest and power socket, Vibrant Express will give a comfortable travel experience. Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/en/services-facilities/train-facilities.html\")'><font color=\"red\">here</font></a> to learn more about the on-board facilities and amenities available on the Vibrant Express.</p><p>Remark: Actual number of trains will be adjusted according to operational needs</p><p><sup>#</sup>Each pair of train refers to a round trip.</p>",
+               "content_tc": "<p>香港接通58個內地站點：</p><p>「廣深港」高鐵車站：<br>福田、深圳北、光明城、虎門、慶盛、廣州南</p><p>其他車站：<br>白洋淀、北京西、長沙南、潮汕、潮陽、郴州西、重慶西、佛山西、福州、桂林西、貴陽北、貴陽東、邯鄲東、杭州東、衡山西、衡陽東、鮜門、惠東、惠州南、角美、金華、葵潭、昆明南、陸豐、南昌西、南寧東、普寧、莆田、泉州、饒平、三水南、上海虹橋、上饒、汕頭、汕尾、韶關、深圳坪山、石家莊、天津西、武漢、梧州南、廈門、廈門北、岳陽東、雲霄、漳浦、漳州、詔安、肇慶東、鄭州東、株洲西、遵義</p><p>香港西九龍站每天首班車約為早上7時，尾班車約為晚上11時。每日共有17對<sup>#</sup>長途列車前往多個目的地，方便不同旅客需要。而「廣深港」高鐵短途列車班次則比較頻密，當中個別班次會不停站直達目的地，其他班次則設中途停站，因此前往同一目的地的車程時間會有所不同，視乎<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html\")'><font color=\"red\">所選班次</font></a>而定。</p><p>港鐵「動感號」和內地列車提供「廣深港」高鐵服務，而長途列車服務則全由內地鐵路單位提供。港鐵「動感號」列車設計舒適，設有一等和二等車廂，車上還提供貼心設施，例如可調校椅背、免費充電等，令你旅程更舒適。請<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/services-facilities/train-facilities.html\")'><font color=\"red\">按此</font></a>認識更多關於港鐵「動感號」的設施。</p><p>註：實際開行班次會按營運需要作出調整</p><p><sup>#</sup>毎對列車班次包括去程及回程</p>",
+               "content_sc": "<p>香港接通58个内地站点：</p><p>「广深港」高铁车站：<br>福田、深圳北、光明城、虎门、庆盛、广州南</p><p>其他车站：<br>白洋淀、北京西、长沙南、潮汕、潮阳、郴州西、重庆西、佛山西、福州、桂林西、贵阳北、贵阳东、邯郸东、杭州东、衡山西、衡阳东、鲘门、惠东、惠州南、角美、金华、葵潭、昆明南、陆丰、南昌西、南宁东、普宁、莆田、泉州、饶平、三水南、上海虹桥、上饶、汕头、汕尾、韶关、深圳坪山、石家庄、天津西、武汉、梧州南、厦门、厦门北、岳阳东、云霄、漳浦、漳州、诏安、肇庆东、郑州东、株洲西、遵义</p><p>香港西九龙站每天首班车约为早上7时，尾班车约为晚上11时。每日共有17对<sup>#</sup>长途列车前往多个目的地，方便不同旅客需要。而「广深港」高铁短途列车班次则比较频密，当中个别班次会不停站直达目的地，其他班次则设中途停站，因此前往同一目的地的车程时间会有所不同，视乎<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html\")'><font color=\"red\">所选班次</font></a>而定。</p><p>港铁「动感号」和内地列车提供「广深港」高铁服务，而长途列车服务则全由内地铁路单位提供。港铁「动感号」列车设计舒适，设有一等和二等车厢，车上还提供贴心设施，例如可调校椅背、免费充电等，令你旅程更舒适。请<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/sc/services-facilities/train-facilities.html\")'><font color=\"red\">按此</font></a>认识更多关于港铁「动感号」的设施。</p><p>注：实际开行班次会按营运需要作出调整</p><p><sup>#</sup>毎对列车班次包括去程及回程</p>"
+            }
+         ]
+      },
+      {
+         "type_id": "TYP",
+         "type_en": "Ticket Type",
+         "type_tc": "車票類別",
+         "type_sc": "车票类别",
+         "ticket_content": [
+            {
+               "id": 1,
+               "title_en": "Introduction",
+               "title_tc": "簡介",
+               "title_sc": "简介",
+               "image_en": "/res/media/app/ticket/tim.jpg",
+               "image_tc": "/res/media/app/ticket/tim.jpg",
+               "image_sc": "/res/media/app/ticket/tim.jpg",
+               "content_en": "<p>Adult and Child Tickets are available. Child Ticket must be bought together with Adult Ticket.</p><p>Adult ticket applicable to travellers aged 18 or above or of a height over 1.5 metres.</p><p>Child ticket applicable to travellers aged below 18 and of a height between 1.2 and 1.5 metres.</p>",
+               "content_tc": "<p>車票有成人票及小童票，小童票必須與同行成人的車票一同購買。</p><p>成人票適用於年滿18歲或身高1.5米以上的旅客。</p><p>小童票適用於未滿18歲及身高1.2-1.5米的旅客。</p>",
+               "content_sc": "<p>車票有成人票及儿童票，儿童票必須與同行成人的车票一同購買。</p><p>成人票适用于年满18岁或身高1.5米以上的旅客。</p><p>小童票适用于未满18岁及身高1.2-1.5米的旅客。</p>"
+            }
+         ]
+      },
+      {
+         "type_id": "FAR",
+         "type_en": "Fares",
+         "type_tc": "票價",
+         "type_sc": "票价",
+         "ticket_content": [
+            {
+               "id": 1,
+               "title_en": "Introduction",
+               "title_tc": "簡介",
+               "title_sc": "简介",
+               "image_en": "/res/media/app/ticket/tim.jpg",
+               "image_tc": "/res/media/app/ticket/tim.jpg",
+               "image_sc": "/res/media/app/ticket/tim.jpg",
+               "content_en": "<ul><li>Two sets of fare are available, namely Published Fare and Implemented Fare. Published Fare is the original price while Implemented Fare is the selling price.  Implemented Fare will not be higher than Published Fare.  Child Ticket fare is about half of Adult Ticket Implemented Fare.</li><li>Fares are set in Renminbi (RMB) with the Hong Kong Dollar (HKD) fare being adjusted monthly subject to the prevailing exchange rate. Adjusted HKD fares will be announced on the first day of every month.  For tickets sold in HKDs, the fare is the valid Implemented Fare for the current month which may not be the same as the fare on the date of travel.</li><li>Example: A ticket for departure from Hong Kong to Guangzhounan on 5 February is sold at HKD260 on 15 January.&nbsp; Due to subsequent appreciation of RMB, the HKD fare is adjusted upward to $265 on 1 February.&nbsp; That means you have to pay an extra $5 if you buy ticket on 1 February for the same journey.</li><li>Fares are different for different classes of travel. Second class, first class, premium class and business class are available with premium class and business class only available on some Mainland trains.</li><li>The Implemented Fare for First, Premium and Business Class tickets for travel between Hong Kong West Kowloon and Guangzhounan or Humen on the Long Haul trains will be higher than fares of the Short-haul trains.</li><li>All fares are subject to confirmation by China Railway Corporation.</li></ul>",
+               "content_tc": "<ul><li>分為公布票價和執行票價，公布票價即是原價，而執行票價是發售價，執行票價不會高於公布票價。小童票執行票價約為成人票公布票價的一半。</li><li>車票以人民幣定價，港元票價會按匯率變動而每月調整，並於每月首日公布。以港元發售的車票，票價將為購票當月的有效執行票價，可能與乘車當日的票價不同。</li><li>例子：於1月15日購買2月5日由香港往廣州南車票，1月15日當天的港元票價為260元，因人民幣匯率隨後上升，2月1日港元票價調高至265元，如於2月1日才買同一張車票便需要多付5元。</li><li>票價因應車廂等級而調整，分為二等、一等、特等和商務，特等和商務只設於部分内地提供的列車。</li><li>來往香港西九龍站至廣州南或虎門的長途列車的一等﹑特等及商務座的執行票價，均較短途列車的執行票價為高。</li><li>所有票價以中國鐵路總公司（鐵總）公佈為準。</li></ul>",
+               "content_sc": "<ul><li>分为公布票价和执行票价，公布票价即是原价，而执行票价是发售价，执行票价不会高于公布票价。儿童票执行票价约为成人票公布票价的一半。</li><li>车票以人民币定价，港元票价会按汇率变动而每月调整，并于每月首日公布。以港元发售的车票，票价将为购票当月的有效执行票价，可能与乘车当日的票价不同。</li><li>例子：于1月15日购买2月5日由香港往广州南车票，1月15日当天的港元票价为260元，因人民币汇率随后上升，2月1日港元票价调高至265元，如于2月1日才买同一张车票便需要多付5元。</li><li>票价因应车厢席別而调整，分为二等、一等、特等和商务，特等和商务只设于部分内地提供的列车。</li><li>来往香港西九龙站至广州南或虎门的长途列车的一等﹑特等及商务座的执行票价，均较短途列车的执行票价为高。</li><li>所有票价以中国铁路总公司（铁总）公布为准。</li></ul>"
+            },
+            {
+               "id": 2,
+               "title_en": "Published Fare Charts in RMB",
+               "title_tc": "人民幣公布票價表",
+               "title_sc": "人民币公布票价表",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/rmb-published-fare-chart-sc.pdf\")'><font color=\"red\">here</font></a> to download Published Fare Charts in RMB</p>",
+               "content_tc": "<p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/rmb-published-fare-chart-sc.pdf\")'><font color=\"red\">按此</font></a>下載人民幣公布票價表</p>",
+               "content_sc": "<p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/rmb-published-fare-chart-sc.pdf\")'><font color=\"red\">按此</font></a>下载人民币公布票价表</p>"
+            },
+			{
+               "id": 3,
+               "title_en": "Implemented Fare Charts in RMB",
+               "title_tc": "人民幣執行票價表",
+               "title_sc": "人民币执行票价表",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/rmb-implemented-fare-chart-sc.pdf\")'><font color=\"red\">here</font></a> to download Implemented Fare Charts in RMB</p>",
+               "content_tc": "<p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/rmb-implemented-fare-chart-sc.pdf\")'><font color=\"red\">按此</font></a>下載人民幣執行票價表</p>",
+               "content_sc": "<p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/rmb-implemented-fare-chart-sc.pdf\")'><font color=\"red\">按此</font></a>下载人民币执行票价表</p>"
+            },
+            {
+               "id": 4,
+               "title_en": "Implemented Fare Charts in HKD",
+               "title_tc": "港元執行票價表",
+               "title_sc": "港元执行票价表",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/hkd-implemented-fare-chart-tc.pdf\")'><font color=\"red\">here</font></a> to download Implemented Fare Charts in HKD</p>",
+               "content_tc": "<p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/hkd-implemented-fare-chart-tc.pdf\")'><font color=\"red\">按此</font></a>下載港元執行票價表</p>",
+               "content_sc": "<p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/hkd-implemented-fare-chart-sc.pdf\")'><font color=\"red\">按此</font></a>下载港元执行票价表</p>"
+            }
+         ]
+      },
+      {
+         "type_id": "TIM",
+         "type_en": "Timetable",
+         "type_tc": "時間表",
+         "type_sc": "时间表",
+         "ticket_content": [
+            {
+               "id": 1,
+               "title_en": "Train Schedule",
+               "title_tc": "列車行車時間表",
+               "title_sc": "列车行车时间表",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/short-haul-train-timetable-tc.pdf\")'><font color=\"red\">here</font></a> to download Short-haul Train Schedule</p><p>Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/long-haul-train-timetable-tc.pdf\")'><font color=\"red\">here</font></a> to download Long-haul Train Schedule</p>",
+               "content_tc": "<p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/short-haul-train-timetable-tc.pdf\")'><font color=\"red\">按此</font></a>下載短途列車行車時間表</p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/long-haul-train-timetable-tc.pdf\")'><font color=\"red\">按此</font></a>下載長途列車行車時間表</p>",
+               "content_sc": "<p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/short-haul-train-timetable-sc.pdf\")'><font color=\"red\">按此</font></a>下载短途列车行车時間表</p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/long-haul-train-timetable-sc.pdf\")'><font color=\"red\">按此</font></a>下载长途列车行车時間表</p>"
+            }
+         ]
+      },
+	  {
+         "type_id": "CHA",
+         "type_en": "Hong Kong Ticketing Channels",
+         "type_tc": "香港購票途徑",
+         "type_sc": "香港购票途径",
+         "ticket_content": [
+            {
+               "id": 1,
+               "title_en": "Service Overview",
+               "title_tc": "服務概覽",
+               "title_sc": "服务概览",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>Cross Boundary Tickets arriving at or departing from Hong Kong West Kowloon Station can be purchased from MTR ticketing channels, including short-haul journeys between Hong Kong and other cities, such as Shenzhen, and long-haul journeys between Hong Kong and Shanghai, Beijing and other cities. Travellers can choose any channel which meets their needs. If you have provided your Hong Kong mobile phone number upon ticket booking, you will be able to receive latest information through SMS in case of service disruption.</p><p><strong>Ticketing Channels</strong></p><ul><li>Hong Kong West Kowloon Station Ticketing Counters<ul><li>Service Hours: 6:00 am – 11:00 pm</li><li>Service Scope: Ticketing、Ticket Collection, Booking Enquiry, Alteration, Refund</li></ul></li><li>Hong Kong West Kowloon Station Ticket Machines<ul><li>Service Hours: 6:00 am – 11:00 pm</li><li>Service Scope: Ticketing, Ticket Collection</li></ul></li><li>Online Ticketing<sup>1</sup><br>www.mtr.com.hk/highspeed<ul><li>Service Hours: 6:00 am – 11:30 pm</li><li>Service Scope: Ticketing, Booking Enquiry, Alteration</li></ul></li><li>Ticket Agent<sup>1</sup><ul><li>Service Hours: Subject to individual agent's arrangement</li><li>Service Scope: Ticketing, Booking Enquiry, Alteration, Refund</li></ul></li><li>Tele-ticketing<sup>1</sup><ul><li>Service Hours: 7:00 am – 9:00 pm</li><li>Service Scope: Ticketing, Booking Enquiry, Alteration</li></ul></li></ul><p><sup>1</sup>Tickets purchased via these channels must be collected at the Hong Kong West Kowloon Station before journey</p><p>Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/ticket-machine-tutorial-en.pdf\")'><font color=\"red\">here</font></a> for ticket machine tutorial.</p><p>Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/list-of-ticket-agents.pdf\")'><font color=\"red\">here</font></a> for list of ticket agents.</p>",
+               "content_tc": "<p>透過港鐵提供的購票途徑可以購買以香港西九龍為出發或到達站的跨境票，當中包括香港往來短途城市，例如深圳，以及香港往來上海、北京等長途城市。旅客可因應需要選擇合適的購票途徑辦理有關服務。於購票時可選擇提供香港流動電話號碼，遇上服務受阻時，便可透過手機短訊接收最新消息。</p><p><strong>購票途徑</strong></p><ul><li>香港西九龍站票務處<ul><li>服務時間: 上午6時至晩上11時</li><li>服務範圍: 售票、取票、訂單查詢、改票、退票</li></ul></li><li>香港西九龍站售票機<ul><li>服務時間: 上午6時至晩上11時</li><li>服務範圍: 售票、取票</li></ul></li><li>網上購票<sup>1</sup><br>www.mtr.com.hk/highspeed<ul><li>服務時間: 上午6時至晩上11時30分</li><li>服務範圍: 售票、訂單查詢、改票</li></ul></li><li>指定代理<sup>1</sup><ul><li>服務時間: 視乎個別代理安排</li><li>服務範圍: 售票、訂單查詢、改票、退票</li></ul></li><li>熱綫電話購票<sup>1</sup><ul><li>服務時間: 上午7時至晩上9時</li><li>服務範圍: 售票、訂單查詢、改票</li></ul></li></ul><p><sup>1</sup>如在這些途徑購票，必須於乘車前在香港西九龍站取票</p><p>有關如何使用售票機教學，請<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/ticket-machine-tutorial-tc.pdf\")'><font color=\"red\">按此</font></a>。</p>",
+               "content_sc": "<p>通过港铁提供的购票途径可以购买以香港西九龙为出发或到达站的跨境票，当中包括香港往来短途城市，例如深圳，以及香港往来上海、北京等长途城市。旅客可因应需要选择合适的购票途径办理有关服务。购票时可选择提供香港移动电话号码，如遇服务受阻，便可通过手机短信接收最新信息。</p><p><strong>购票途径</strong></p><ul><li>香港西九龙站票务处<ul><li>服务时间: 上午6时至晩上11时</li><li>服务范围: 售票、取票、订单查询、改签、退票</li></ul></li><li>香港西九龙售票机<ul><li>服務時間: 上午6時至晩上11時</li><li>服务范围: 售票、取票</li></ul></li><li>网上购票<sup>1</sup><br>www.mtr.com.hk/highspeed<ul><li>服务时间: 上午6时至晩上11时30分</li><li>服务范围: 售票、订单查询、改票</li></ul></li><li>指定代理<sup>1</sup><ul><li>服务时间: 视乎个别代理安排</li><li>服务范围: 售票、订单查询、改签、退票</li></ul></li><li>热线电话购票<sup>1</sup><ul><li>服务时间: 上午7时至晩上9时</li><li>服务范围: 售票、订单查询、改签</li></ul></li></ul><p><sup>1</sup>如通过些途径购票，必须于乘车前在香港西九龙站取票。</p><p>有關如何使用售票机 (仅提供繁体中文版本)，请<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/ticket-machine-tutorial-tc.pdf\")'><font color=\"red\">按此</font></a>。</p>"
+            },
+            {
+               "id": 2,
+               "title_en": "Buy Tickets",
+               "title_tc": "購票",
+               "title_sc": "购票",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>After selecting the date, train number and class of travel, a seat number will automatically be assigned by the ticketing system. Tickets that are not purchased at Hong Kong West Kowloon Station must be collected before the journey. \"No Seat Ticket\" is not available on cross boundary service. Travellers should sit according to their seat number. </p><p>An adult aged 18 or above with a valid ticket is allowed to bring a child aged below 18 and of a height below 1.2 metres travelling for free provided that the child does not occupy a seat. A ticket is required when more than one child is travelling with an adult.</p><p>Wheelchair spaces are available for the convenience of wheelchair users. Travellers in need of such spaces should make a request with our staff at the ticketing counters of the Hong Kong West Kowloon Station or on the tele-ticketing hotline.</p><p>For more details, please click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/en/ticket/cross-purchase-way-hk.html\")'><font color=\"red\">here</font></a>.</p>",
+               "content_tc": "<p>於購票時選定乘車日期、車次及車廂等級後，售票系統會自動分配座位；如車票並非在香港西九龍站購買，請於出發乘車前取票。跨境高鐵不設無座票，旅客應對號入座。</p><p>每名年滿18歲持有效車票的旅客，只限免費攜同一名未滿18歲及身高1.2米以下且不單獨佔用座位的小童乘車，若同行的小童超過一名，超過限額的小童必須購票。</p><p>為方便使用輪椅的旅客，列車設有輪椅空間。有需要的旅客，請向香港西九龍站票務處或熱綫電話購票的職員查詢及購票，以便安排合適的座位。</p><p>有關購票詳情，請<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/ticket/cross-purchase-way-hk.html\")'><font color=\"red\">按此</font></a>。</p>",
+               "content_sc": "<p>于购票时选定乘车日期、车次及车厢席別后，售票系统会自动分配座位；如车票不是在香港西九龙站购买，请于出发乘车前取票。跨境高铁不设无座票，旅客应对号入座。</p><p>每名年满18岁持有效车票的旅客，只限免费携同一名未满18岁及身高1.2米以下且不单独占用座位的儿童乘车，若同行的儿童超过一名，超过限额的儿童必须购票。</p><p>为方便使用轮椅的旅客，列车设有轮椅空间，有需要的旅客，请向香港西九龙站票务处或热线电话购票的职员查询及购票，以便安排合适的座位。</p><p>有关购票详情，请<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/sc/ticket/cross-purchase-way-hk.html\")'><font color=\"red\">按此</font></a>。</p>"
+            },
+            {
+               "id": 3,
+               "title_en": "Ticket Collection",
+               "title_tc": "取票",
+               "title_sc": "取票",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>Tickets purchased via online ticketing, ticket agents or tele-ticketing hotline must be collected at the ticketing counters or ticket machines at the Hong Kong West Kowloon Station before journey. The identification and other documents (if any) used for booking must be produced when collecting the tickets. If a booking contains multiple tickets, the tickets can be collected in batches. <strong>Please allow enough time for ticket collection.</strong></p><p>For more details, please click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/en/ticket/cross-purchase-way-hk.html\")'><font color=\"red\">here</font></a>.</p>",
+               "content_tc": "<p>透過香港的網上購票、指定代理或熱綫電話購票，須於出發乘車前到香港西九龍站票務處或售票機，使用於購票時使用之身份證明文件及其他憑證（如適用）取票。如同一張訂單有多張車票，可選擇分批取票。<strong>請預留足夠時間取票。</strong></p><p>有關取票詳情，請<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/ticket/cross-purchase-way-hk.html\")'><font color=\"red\">按此</font></a>。</p>",
+               "content_sc": "<p>通过香港的网上购票、指定代理或热线电话购票，须于出发乘车前到香港西九龙站票务处或售票机，使用于购票时使用之身份证明文件及其他凭证（如适用）取票。如同一张订单有多张车票，可选择分批取票。<strong>请预留足够时间取票。</strong></p><p>有关取票详情，请<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/sc/ticket/cross-purchase-way-hk.html\")'><font color=\"red\">按此</font></a>。</p>"
+            }
+         ]
+      },
+      {
+         "type_id": "MAL",
+         "type_en": "Mainland Ticketing Channels",
+         "type_tc": "內地購票途徑",
+         "type_sc": "内地购票途径",
+         "ticket_content": [
+            {
+               "id": 1,
+               "title_en": "12306 CHINA RAILWAY",
+               "title_tc": "中國鐵路12306",
+               "title_sc": "中国铁路12306",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>Apart from Hong Kong ticketing website (desktop version), you can purchase High Speed Rail tickets through the 12306 CHINA RAILWAY.</p><p><center><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/en/main/buy-ticket-mobile-notice.html\")'><font color=\"red\">Buy Tickets</font></a></center></p><p>If you have already installed with the 12306 App, please open your app to continue ticket booking. If you haven’t installed yet, please download now.</p><p><center><a href='javascript:link(\"https://bit.ly/2V7qscp\")'><font color=\"red\">Download 12306 App</font></a></center></p><p>Account set up is required. 12306 CHINA RAILWAY supports Simplified Chinese interface only.</p><p><strong>Payment Method</strong></p><p>Union Pay Online Payment, Wechat Pay HK or other Mainland designated payment means</p><p><strong><u>5 Benefits of 12306 CHINA RAILWAY Ticketing Services:</u></strong></p><ol><li>Both cross-boundary high speed rail tickets and Mainland domestic tickets are available</li><li>Ticket collection is available at Hong Kong West Kowloon Station as well as any Mainland stations</li><li>Mobile app ticketing in addition to ticketing website</li><li>Ticket alteration and refund can be processed online</li><li>Information of travellers is stored in the user account and will be auto-filled during ticket purchase</li></ol><p>Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/en/ticket/buy-ticket-12306.html\")'><font color=\"red\">here</font></a> to learn more.</p>",
+               "content_tc": "<p>除香港購票網站(桌面版)，亦可於中國鐵路12306購買高鐵車票。</p><p><center><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/main/buy-ticket-mobile-notice.html\")'><font color=\"red\">立即購票</font></a></center></p><p>若已安裝12306手機應用程式，請開啟以進行購票程序。若尚未安裝，請立即下載。</p><p><center><a href='javascript:link(\"https://bit.ly/2V7qscp\")'><font color=\"red\">下載12306 手機應用程式</font></a></center></p><p>12306需要登記賬戶及只支援簡體中文界面</p><p><strong>支付方式</strong></p><p>銀聯在綫支付，Wechat Pay HK或其他內地指定支付方式</p><p><strong><u>中國鐵路12306購票系統5大優點:</u></strong></p><ol><li>發售往來香港跨境高鐵車票及內地段車票</li><li>車票可於香港西九龍站及任何內地車站領取</li><li>除網站外，亦配備12306手機應用程式，方便購票</li><li>可於網上辦理改票或退票</li><li>旅客資料儲存於12306賬戶內，購票時毋須每次填寫</li></ol><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/ticket/buy-ticket-12306.html\")'><font color=\"red\">按此</font></a>了解更多。</p>",
+               "content_sc": "<p>除香港购票网站(桌面版)，亦可于中国铁路12306购买高铁车票。</p><p><center><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/sc/main/buy-ticket-mobile-notice.html\")'><font color=\"red\">立即购票</font></a></center></p><p>若已安装12306手机APP，请开启以进行购票程序。 若尚未安装 ，请立即下載。</p><p><center><a href='javascript:link(\"https://bit.ly/2V7qscp\")'><font color=\"red\">下载12306 手机APP</font></a></center></p><p>12306需要登记账号及只支持简体中文界面</p><p><strong>支付方式</strong></p><p>银联在线支付，Wechat Pay HK或其他内地指定支付方式</p><p><strong><u>中国铁路12306购票系统5大优点:</u></strong></p><ol><li>发售往来香港跨境高铁车票及内地段车票</li><li>车票可于香港西九龙站及任何内地车站领取</li><li>除网站外，亦配备12306手机APP，方便购票</li><li>可于网上办理改票或退票</li><li>旅客资料储存于12306账号内，购票时毋须每次填写</li></ol><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/sc/ticket/buy-ticket-12306.html\")'><font color=\"red\">按此</font></a>了解更多。</p>"
+            },
+			{
+               "id": 2,
+               "title_en": "Ticket Collection",
+               "title_tc": "取票方式",
+               "title_sc": "取票方式",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>Collection of tickets purchased  via 12306 website and mobile app:</p><ul><li>Ticket must be collected at Mainland train stations or other designated locations before journey.</li><li>If you wish to collect tickets at Hong Kong West Kowloon Station, you can collect them from the 12306 Ticket Collection Machines or from the designated ticketing counters operated by China Railway (Hong Kong) Holdings Ltd. Only Simplified Chinese interface is available on the 12306 Ticket Collection Machines. These machines accept 2<sup>nd</sup> generation Home Return Permit, PRC Resident Identity Card and 2<sup>nd</sup> generation Mainland Travel Permit for Taiwan Residents. For PRC Resident Identity Card holders, real-name verification can be processed at ticketing counters in Mainland stations or at designated ticketing counters at Hong Kong West Kowloon Station.</li></ul><p><strong>Ticket Collection Handling Fee at Hong Kong West Kowloon Station through the designated counters operated by China Railway (Hong Kong) Holdings Ltd.</strong></p><ul><li>Fares below RMB200:<br>HKD10 each</li><li>Fares RMB200 to below RMB300:<br>HKD20 each</li><li>Fares RMB300 and above:<br>HKD30 each</li></ul>",
+               "content_tc": "<p>於12306網站及手機應用程式購票後的取票方式：</p><ul><li>出發乘車前到内地車站或其他指定地點取票。</li><li>如需要在香港取票，可使用香港西九龍站的12306自助取票機或於站内中國鐵路（香港）控股有限公司的櫃位。12306自助取票機只以簡體中文作業，並只接受三種證件，包括第二代回鄉證，中華人民共和國居民身份證及第二代台灣居民來往大陸通行證。持中華人民共和國居民身份證的旅客請於内地車站票務處或香港西九龍站票務處指定櫃位預先進行身份核驗，才可使用自助取票機取票。</li></ul><p><strong>於香港西九龍站的中國鐵路（香港）控股有限公司的櫃位取票手續費</strong></p><ul><li>票價人民幣200元以下:<br>毎張港幣10元手續費</li><li>票價人民幣200元至300元以下:<br>毎張港幣20元手續費</li><li>票價人民幣300元及以上:<br>毎張港幣30元手續費</li></ul>",
+               "content_sc": "<p>于12306网站和手机APP购票后的取票方式：</p><ul><li>出发乘车前到内地车站或其他指定地点取票。</li><li>如需要在香港取票，可使用香港西九龙站的12306自助取票机或于站内中国铁路（香港）控股有限公司的柜位。12306自助取票机只以简体中文作业，并只接受三种证件，包括第二代回乡证，中华人民共和国居民身份证及第二代台湾居民来往大陆通行证。持中华人民共和国居民身份证的旅客请于内地车站票务处或香港西九龙站票务处指定柜位预先进行身份核验，才可使用自助取票机取票。</li></ul><p><strong>于香港西九龙站的中国铁路（香港）控股有限公司的窗口取票手续费</strong></p><ul><li>票价人民币200元以下:<br>毎张港币10元手续费</li><li>票价人民币200元至300元以下:<br>毎张港币20元手续费</li><li>票价人民币300元及以上:<br>毎张港币30元手续费</li></ul>"
+            },
+			{
+               "id": 3,
+               "title_en": "Other Mainland Ticketing Channels",
+               "title_tc": "內地其他購票途徑",
+               "title_sc": "內地其他购票途徑",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<ul><li>Telephone booking</li><li>Ticketing counters at the train stations</li><li>Ticket agents</li><li>Ticket machines at the train stations or designated locations</li></ul>",
+               "content_tc": "<ul><li>電話訂票</li><li>車站售票櫃位</li><li>指定代理</li><li>車站或指定地點售票機</li></ul>",
+               "content_sc": "<ul><li>电话订票</li><li>车站售票窗口</li><li>车站或指定地点售票机</li><li>代售点</li></ul>"
+            }
+         ]
+      },
+	  {
+         "type_id": "PUR",
+         "type_en": "Real-name Policy",
+         "type_tc": "車票實名制",
+         "type_sc": "车票实名制",
+         "ticket_content": [
+            {
+               "id": 1,
+               "title_en": "Introduction",
+               "title_tc": "簡介",
+               "title_sc": "简介",
+               "image_en": "/res/media/app/ticket/ticket.jpg",
+               "image_tc": "/res/media/app/ticket/ticket.jpg",
+               "image_sc": "/res/media/app/ticket/ticket.jpg",
+               "content_en": "<p>Travellers' personal identity documents should be presented and verified for ticket purchase, ticket collection and other after-sales service. There is an option for children to use their own personal identity documents or those of an accompanying adult for ticketing services. Except adults who use their personal identity documents to buy tickets for the accompanied children, one valid personal identity document can only buy one ticket for a particular train on a particular day.  </p><p>When buying a ticket, you must accept and agree to the Personal Information Collection Statement, the Rules for Guangzhou-Shenzhen-Hong Kong High Speed Rail Cross-Boundary Passenger Transport and Conditions of Issue of Tickets. Passenger's name (in whole or in part) and partial identification document number will be printed on the ticket. For a Child Ticket bought using the identification document of an adult, the personal information of the adult will be printed on the ticket. At the gates, before boarding and during the journey, railway staff may request travellers to produce their original personal identification documents to verify the information printed on their tickets. Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/en/main/privacy-policy.html\")'><font color=\"red\">here</font></a> for the Privacy Policy Statement.</p><p>Ticket loss reporting and re-issue can be processed using the original identification document used for the booking. For more information, please refer to the Rules for <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/rules-for-hsr-cross-boundary-en.pdf\")'><font color=\"red\">Guangzhou-Shenzhen-Hong Kong High Speed Rail Cross-Boundary Passenger Transport</font></a>.</p>",
+               "content_tc": "<p>旅客購買車票、取票或辦理其他售後服務手續時，均須提供指定的有效身份證明文件，並通過身份驗證。使用小童票的旅客，可選擇使用個人身份證明文件或同行成人的身份證明文件購票。每一張有效身份證明文件只能購買一張同一天同一車次的車票，成人旅客使用本身證件為同行小童購買車票除外。</p><p>購票時必須接受並同意有關《個人資料收集聲明》、《廣深港高速鐵路跨境旅客運輸組織規則》及《車票發出條件》。車票上會印有旅客的姓名（部分或全部）和身份證明文件的部分號碼，如小童使用成人的身份證明文件購票，車票上會印有該成人的個人資料。入閘前、登車前及在旅途中，有關鐵路單位的工作人員會要求旅客出示身份證明文件正本，以核對是否與車票所列印資料相符。有關聲明可<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/main/privacy-policy.html\")'><font color=\"red\">按此</font></a>。</p><p>如遺失實名購買的車票，可憑購票時使用的身份證明文件正本報失及補辦車票，詳情請參閱<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/rules-for-hsr-cross-boundary-tc.pdf\")'><font color=\"red\">《廣深港高速鐵路跨境旅客運輸組織規則》</font></a>。</p>",
+               "content_sc": "<p>旅客购买车票、取票或办理其他售后服务手续时，均须提供指定的有效身份证明文件，并通过身份验证；购买儿童票可选择使用个人身份证明文件或同行成人的身份证明文件。每一张有效身份证明文件只能购买一张同一天同一车次的车票，成人旅客使用本身证件为同行小童购买车票除外。</p><p>购票时必须接受并同意有关《个人资料收集声明》、《广深港高速铁路跨境旅客运输组织规则》及《车票发出条件》。车票上会印有旅客的姓名（部分或全部）和身份证明文件的部分号码，如小童使用成人的身份证明文件购票，车票上会印有该成人的个人资料。入闸前、登车前及在旅途中，有关铁路单位的工作人员会要求旅客出示身份证明文件原件，以核对是否与面信息相符。有关声明可<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/sc/main/privacy-policy.html\")'><font color=\"red\">按此</font></a>。</p><p>如遗失实名购买的车票，可凭购票时使用的身份证明文件报失及补领车票，详情请参阅<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/rules-for-hsr-cross-boundary-sc.pdf\")'><font color=\"red\">《广深港高速铁路跨境旅客运输组织规则》</font></a>。</p>"
+            },
+            {
+               "id": 2,
+               "title_en": "Acceptable personal identity documents",
+               "title_tc": "可使用的身份證明文件",
+               "title_sc": "可使用的身份证明文件",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<ul><li>Mainland Travel Permit for Hong Kong and Macao Residents (Home Return Permit)</li><li>PRC Resident Identity Card</li><li>PRC Exit/Entry Permit for Travelling to and from Hong Kong and Macao</li><li>Mainland Travel Permit for Taiwan Residents</li><li>Foreign Passports recognized by the PRC Government</li></ul>",
+               "content_tc": "<ul><li>港澳居民來往內地通行證(回鄉證)</li><li>中華人民共和國居民身份證</li><li>中華人民共和國往來港澳通行證</li><li>台灣居民來往大陸通行證</li><li>符合中華人民共和國規定可使用的有效護照</li></ul>",
+               "content_sc": "<ul><li>港澳居民来往内地通行证(回乡证)</li><li>中华人民共和国居民身份证</li><li>中华人民共和国往来港澳通行证</li><li>台湾居民来往大陆通行证</li><li>符合中华人民共和国规定可使用的有效护照</li></ul>"
+            }
+         ]
+      },
+      {
+         "type_id": "ASA",
+         "type_en": "After-sales Services",
+         "type_tc": "售後服務",
+         "type_sc": "售后服务",
+         "ticket_content": [
+            {
+               "id": 1,
+               "title_en": "Booking Enquiry",
+               "title_tc": "訂單查詢",
+               "title_sc": "订单查询",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>Travellers can check the booking status of their ticket purchase via the original ticketing channel, at ticketing counters at the Hong Kong West Kowloon Station or by calling the hotline on 2120 0888.</p>",
+               "content_tc": "<p>已訂購的車票可經原購票途徑檢查訂單的狀態，旅客亦可透過香港西九龍站票務處或致電熱綫2120 0888查詢。</p>",
+               "content_sc": "<p>已订购的车票可于原购票途径检查订单的状态，旅客亦可通过香港西九龙站票务处或致电热线2120 0888查询。</p>"
+            },
+            {
+               "id": 2,
+               "title_en": "Alteration",
+               "title_tc": "改票",
+               "title_sc": "改票",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>For the convenience of travellers, tickets can be altered once before train departure. No service charge is required.</p><ul><li>Only departure date, train number and class of travel can be altered</li><li>If a booking contains multiple tickets, alteration can be made for selected tickets</li><li>&nbsp;If the fare after alteration is higher than the original one, travellers will be required to top up the difference; if the fare after alteration is lower than the original one, the difference will be refunded</li><li>For alteration at stations or ticket agents, travellers must produce the original or a photocopy of the personal identity document used for the booking for verification</li><li>Tickets cannot be refunded after alteration </li></ul>",
+               "content_tc": "<p>為便利旅客，旅客可於列車開出前更改車票一次，改票不另收手續費。</p><ul><li>只可以更改日期、車次及車廂等級 </li><li>如同一張訂單有多張車票，可選擇更改部分車票 </li><li>改票以多退少補為原則，即改票後的票價高於原來購票價，旅客須補回差價；若低於原來購票價，差價將會退回 </li><li>於車站或代理改票時，須提供乘車人的身份證明文件正本或影印本，核對資料無誤後方可辦理 </li><li>車票一經更改後不可退票</li></ul>",
+               "content_sc": "<p>为便利旅客，旅客可于开车前更改车票一次，改签不另收手续费。</p><ul><li>只可以更改日期、车次及车厢席別</li><li>如同一张订单有多张车票，可选择改签部分车票</li><li>改签以多退少补为原则，即改签后的票价高于原来购票价，旅客须补回差价；若低于原来购票价，差价将会退回</li><li>于车站或代理改签时，改签时须提供乘车人的身份证明文件原件或复印件，核对信息无误后方可办理</li><li>车票一经改签，不可退票</li></ul>"
+            },
+            {
+               "id": 3,
+               "title_en": "Alteration of Tickets Purchased via Hong Kong Ticketing Channels",
+               "title_tc": "更改透過香港購票途徑購買的車票",
+               "title_sc": "更改透过香港购票途径购买的车票",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>Alteration of tickets via Hong Kong ticketing channels will be based on the original currency of the booking. For alteration of tickets which are sold based on the HKD fare, the fare for the new ticket will be the valid HKD Implemented Fare for the current month. Therefore, the new ticket fare may not be the same as the original one even if it is only another train of the same class of travel on the same day. For tickets purchased using a credit card, UnionPay or mobile payment tied to a credit card, alteration must be made using the original credit card.</p><p>For more details, please click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/en/ticket/after-sales-service.html\")'><font color=\"red\">here</font></a>.</p>",
+               "content_tc": "<p>透過香港購票途徑改票會以原購票貨幣處理。以港元發售的車票，新車票將按改票當月的有效港元執行票價辦理，即使只是更改為同一天相同車廂等級的另一班列車，也可能因匯率變動而與原來購票價不同。如購票時使用信用卡、銀聯卡或與信用卡掛鈎的流動支付方式，請使用該卡辦理改票。</p><p>有關改票詳情，請<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/ticket/after-sales-service.html\")'><font color=\"red\">按此</font></a></a>。</p>",
+               "content_sc": "<p>通过香港购票途径改签会以原购票货币处理。以港元发售的车票，新车票将按改签当月的有效港元执行票价办理，即使只是更改为同一天相同车厢席別的另一班列车，也可能因汇率变动与原来购票价不同。如购票时使用信用卡、银联卡或与信用卡绑定的流动支付方式，请使用该卡办理改签。</p><p>有关改签详情，请<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/sc/ticket/after-sales-service.html\")'><font color=\"red\">按此</font></a></a>。</p>"
+            },
+            {
+               "id": 4,
+               "title_en": "Alteration of Tickets Purchased via Mainland Ticketing Channels",
+               "title_tc": "更改透過內地購票途徑購買的車票",
+               "title_sc": "更改透过内地购票途径购买的车票",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>Uncollected tickets can be altered through the 12306 website or mobile app, or at designated ticketing counters of Mainland stations. Please take note of the following:</p><ul><li>Ticket alteration should be processed no later than 30 minutes before train departure times</li><li>For tickets with Hong Kong West Kowloon as departure station, the alteration cut-off time is 60 minutes before train departure.</li></ul><p>Tickets that have already been collected can be altered at the Hong Kong West Kowloon Station. The relevant services will be provided based on the fare in RMB. Please take note of the following:</p><ul><li>Ticket alteration should be processed no later than 60 minutes before train departure</li><li>Tickets must be purchased in cash. Difference in fare will be topped up or refunded in in the form of cash in RMB.</li><li>For tickets purchased using any payment method other than cash, the fare after alteration must be the same as the original payment</li></ul>",
+               "content_tc": "<p>旅客可登入12306網站或手機應用程式，或到內地車站指定售票窗口更改未領取的車票，辦理時請注意以下事項:</p><ul><li>最遲須於列車開出前30分鐘辦理</li><li>若票面所列明的出發站為香港西九龍，相關改票服務的截止時間為列車開出前60分鐘</li></ul><p>已取的車票亦可於香港西九龍站改票，並以人民幣票價處理相關服務，辦理時請注意以下事項:</p><ul><li>最遲須於列車開出前60分鐘辦理</li><li>必須是使用現金購買的車票，補差價或退回差價會以人民幣現金處理</li><li>如使用非現金方式購票，改票後的票價必須與原來購票價相同</li></ul>",
+               "content_sc": "<p>旅客可登入12306网站或手机应用程式，或到内地车站指定售票窗口退票。退票最迟须于列车开出前30分钟办理，若票面所列明的出发站为香港西九龙，相关退票服务的截止时间为列车开出前60分钟。</p><p>已取的车票，如果是使用现金购买，也可以在香港西九龙站退票，并以人民币票价处理相关服务，退款将以人民币现金退回。</p>"
+            },
+            {
+               "id": 5,
+               "title_en": "Refund",
+               "title_tc": "退票",
+               "title_sc": "退票",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>You can refund any unutilised and unaltered tickets. Travellers will receive a proportion of the fare as a refund depending on the time before departure. Refunds are processed in dollars and any amount less than RMB1 or HKD1 will be rounded up to the nearest integer. For refunds, travellers must produce the original or a photocopy of the personal identity document used for the booking for verification.</p><p>For more details, please click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/en/ticket/after-sales-service.html\")'><font color=\"red\">here</font></a>.</p>",
+               "content_tc": "<p>未經使用和未更改的車票可辦理退票，視乎退票距離開車的時間，旅客可按比例取回部分票款。可取回金額以元為單位，不足一元將按一元計算。退票時須提供乘車人的身份證明文件正本或影印本，核對資料無誤後方可辦理。</p><p>有關退票詳情，請<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/ticket/after-sales-service.html\")'><font color=\"red\">按此</font></a>。</p>",
+               "content_sc": "<p>未经使用和未更改的车票可办理退票，视乎退票距离开车的时间，旅客可按比例取回部分票款。可取回金额以元为单位，不足一元将按一元计算。退票时须提供乘车人的身份证明文件原件或复印件，核对资料无误后方可办理。</p><p>有关退票详情，请<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/sc/ticket/after-sales-service.html\")'><font color=\"red\">按此</font></a>。</p>"
+            },
+            {
+               "id": 6,
+               "title_en": "Refund of Tickets Purchased via Hong Kong Ticketing Channels",
+               "title_tc": "退回透過香港購票途徑購買的車票",
+               "title_sc": "退回透过香港购票途径购买的车票",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>Refund of tickets purchased via Hong Kong ticketing channels will be processed in the original currency and based on the fare on the date of purchase. Refunds cannot be processed via ticket machines, online ticketing and tele-ticketing. Please collect your tickets at the ticketing counters at the Hong Kong West Kowloon Station before processing a refund.</p><p>For more details, please click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/en/ticket/after-sales-service.html\")'><font color=\"red\">here</font></a>.</p>",
+               "content_tc": "<p>透過香港購票途徑退票會以原購票貨幣及購票當天票價處理。售票機、網上購票和熱綫電話購票均不辦理退票手續,　請到香港西九龍站票務處先取票後辦理退票。</p><p>有關退票詳情，請<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/ticket/after-sales-service.html\")'><font color=\"red\">按此</font></a>。</p>",
+               "content_sc": "<p>通过香港购票途径退票会以原购票货币及购票当天票价处理。售票机、网上购票和热线电话购票均不办理退票手续,　请于香港西九龙站票务处先取票后办理退票。</p><p>有关退票详情，请<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/ticket/after-sales-service.html\")'><font color=\"red\">按此</font></a>。</p>"
+            },
+            {
+               "id": 7,
+               "title_en": "Refund of Tickets Purchased via Mainland Ticketing Channels",
+               "title_tc": "退回透過内地購票途徑購買的車票",
+               "title_sc": "退回透过内地购票途径购买的车票",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>Uncollected tickets can be refunded through the 12306 website or mobile app, or at designated ticketing counters of Mainland stations. Ticket alteration should be processed no later than 30 minutes before train departure times. For tickets with Hong Kong West Kowloon as departure station, the alteration cut-off time is 60 minutes before train departure.</p><p>Tickets purchased in cash that have already been collected can be refunded at the Hong Kong West Kowloon Station. The relevant services will be provided based on the fare in RMB and refunds will be made in the form of cash in RMB.</p>",
+               "content_tc": "<p>旅客可登入12306網站或手機應用程式，或到內地車站指定售票櫃位退票。退票最遲須於列車開出前30分鐘辦理，若票面所列明的出發站為香港西九龍，相關退票服務的截止時間為列車開出前60分鐘。</p><p>已取的車票，如果是使用現金購買，亦可於香港西九龍站退票，並以人民幣票價處理相關服務，退款將以人民幣現金退回。</p>",
+               "content_sc": "<p>旅客可登入12306网站或手机应用程式，或到内地车站指定售票窗口退票。退票最迟须于列车开出前30分钟办理，若票面所列明的出发站为香港西九龙，相关退票服务的截止时间为列车开出前60分钟。</p><p>已取的车票，如果是使用现金购买，也可以在香港西九龙站退票，并以人民币票价处理相关服务，退款将以人民币现金退回。</p>"
+            }
+         ]
+      },
+      {
+         "type_id": "SPE",
+         "type_en": "Special Tickets",
+         "type_tc": "特別票種",
+         "type_sc": "特别票种",
+         "ticket_content": [
+            {
+               "id": 1,
+               "title_en": "Student Tickets",
+               "title_tc": "學生票",
+               "title_sc": "学生票",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>Student Tickets are available for Hong Kong students studying in higher education institutions in the Mainland with no wages or income and who are holders of Train Ticket Student Discount Card attached to their valid student cards. Qualified students can buy Student Tickets for 4 single journeys each year for second class seats on trains travelling between their home and the place of their college (or the place where they are undertaking an internship) during summer break (from 1 June to 30 September) and winter break (from 1 December to 31 March) each year. Newly enrolled students can use their confirmation of enrolment while fresh graduates can use their college’s written proof to buy Student Tickets once. The Implemented Fare for Student Ticket will be approximately 25% discount of the Published Fare of Adult Ticket.</p><p>Student Tickets can be purchased at the ticketing counter operated by China Railway (HK) Holdings Ltd. at Hong Kong West Kowloon Station. For more information, please contact China Railway (HK) Holdings Ltd.</p>",
+               "content_tc": "<p>在內地大專院校就讀、沒有工資收入的香港學生，持有貼上《火車票學生優惠卡》的有效學生證，每年可購買四次來往居住地和學校所在地（或實習地點）的二等座單程學生票（新生憑錄取通知書，畢業生憑學校書面證明只可購票一次），乘車期限為每年暑假6月1日至9月30日、寒假12月1日至翌年3月31日。學生票執行票價約為成人票公布票價的七五折。</p><p>購買學生票，請前往中國鐵路（香港）控股有限公司設於香港西九龍站的櫃位，票務詳情請向中國鐵路（香港）控股有限公司查詢。</p>",
+               "content_sc": "<p>在内地大专院校就读、没有工资收入的香港学生，持有贴上《火车票学生优惠卡》的有效学生证，每年可购买四次来往居住地和学校所在地（或实习地点）的二等座单程学生票（新生凭录取通知书，毕业生凭学校书面证明只可购票一次），乘车期限为每年暑假6月1日至9月30日、寒假12月1日至次年3月31日。学生票执行票价约为成人票公布票价的七五折。</p><p>购买学生票，请前往中国铁路（香港）控股有限公司设于香港西九龙站的柜位，票务详情请向中国铁路（香港）控股有限公司查询。</p>"
+            },
+			{
+               "id": 2,
+               "title_en": "Disabled Military Tickets",
+               "title_tc": "殘疾軍人票",
+               "title_sc": "残疾军人票",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>Disabled Military Tickets (for all classes of travel) are available to holders of valid Certificate for Disabled Military of the People's Republic of China or Certificate of the People's Republic of China for Disabled Policemen. The Implemented Fare for Disabled Military Ticket will be approximately half of the Published Fare of Adult Fare. </p><p>Disabled Military Tickets can be purchased at the ticketing counter operated by China Railway (HK) Holdings Ltd. at Hong Kong West Kowloon Station. For more information, please contact China Railway (HK) Holdings Ltd.</p>",
+               "content_tc": "<p>持有有效的《中華人民共和國殘疾軍人證》或《中華人民共和國傷殘人民警察證》的旅客，可購買殘疾軍人票，不限車廂等級。殘疾軍人票執行票價約為成人票公布票價的一半。</p><p>購買殘疾軍人票，請前往中國鐵路（香港）控股有限公司設於香港西九龍站的櫃位，票務詳情請向中國鐵路（香港）控股有限公司查詢。</p>",
+               "content_sc": "<p>持有有效《中华人民共和国残疾军人证》或《中华人民共和国伤残人民警察证》的旅客，可购买残疾军人票，不限车厢等级。残疾军人票执行票价约为成人票公布票价的一半。</p><p>购买残疾军人票，请前往中国铁路（香港）控股有限公司设于香港西九龙站的柜位，票务详情请向中国铁路（香港）控股有限公司查询。</p>"
+            }
+         ]
+      },
+    {  
+      "type_id":"PMA",
+      "type_en":"Mainland Domestic Ticket",
+      "type_tc":"内地票",
+      "type_sc":"内地票",
+      "ticket_content":[  
+        {  
+          "id":1,
+          "title_en":"Hong Kong Ticketing Channels",
+          "title_tc":"香港購票途徑",
+          "title_sc":"香港购票途径",
+          "image_en": "/res/media/app/ticket/mainland_ticket.jpg",
+          "image_tc": "/res/media/app/ticket/mainland_ticket.jpg",
+          "image_sc": "/res/media/app/ticket/mainland_ticket.jpg",
+          "content_en":"<p>Mainland Domestic Tickets are for the journeys starting and ending at Mainland stations. For example, a journey from Hong Kong to Xi'an requires a &quot;Hong Kong –Zhengzhoudong&quot; Cross Boundary Ticket and a &quot;Zhengzhou – Xi'anbei&quot; Mainland Domestic Ticket. Mainland Domestic Ticket is available at ticketing counters operated by China Railway (Hong Kong) Holdings Ltd. at Hong Kong West Kowloon Station. Tickets will be issued upon purchase. Ticket alteration and refund services are also available. For alteration, handling fee applies at HKD20 per ticket.</p><p><strong>Ticket Purchase Handling Fee</strong></p><ul><li>Fares below RMB200:<br>HKD10 each</li><li>Fares RMB200 to below RMB300:<br>HKD20 each</li><li>Fares RMB300 and above:<br>HKD30 each</li></ul><p>Remark: Ticket alteration and refund arrangements of Mainland Domestic Ticket are different from the Cross Boundary Ticket. Please visit <a href='javascript:link(\"https://bit.ly/1OqWMQB\")'><font color=\"red\">http://www.12306.cn/</font></a> for details.</p><p>Passengers travelling on the High Speed Rail shall comply with the requirements under applicable laws and regulations (including Hong Kong laws or Mainland China laws) and the Conditions of Issue of Tickets. Cross-boundary passengers shall comply with the Rules for Guangzhou-Shenzhen-Hong Kong High Speed Rail Cross-Boundary Passenger Transport, and all notices posted at stations or MTR website. Non-cross-boundary passengers shall comply with the Mainland Regulations for Transportation of Railway Passengers and all relevant rules and regulations, and all notices posted at stations or Mainland China 12306 website (<a href='javascript:link(\"https://bit.ly/1OqWMQB\")'><font color=\"red\">http://www.12306.cn/</font></a>).</p>",
+          "content_tc":"<p>内地票即出發或到達站均是内地車站的車票，例如由香港往西安，需要購買「香港-鄭州東」的跨境票和「鄭州東-西安北」的内地票。香港西九龍站票務處設有中國鐵路（香港）控股有限公司的櫃位發售内地票，可立即出票，同時亦可辦理改票及退票，省時方便。注意改票要付手續費，毎張港幣20元。</p><p><strong>購票手續費</strong></p><ul><li>票價人民幣200元以下:<br>毎張港幣10元手續費</li><li>票價人民幣200元至300元以下:<br>毎張港幣20元手續費</li><li>票價人民幣300元及以上:<br>毎張港幣30元手續費</li></ul><p>註：內地票與跨境票的改票及退款安排略有不同， 詳情請瀏覽<a href='javascript:link(\"https://bit.ly/1OqWMQB\")'><font color=\"red\">http://www.12306.cn/</font></a>。</p><p>旅客在搭乘高速鐵路時應遵守適用法律法規的要求(包括香港法律或中國內地法律) 及《車票發出條件》。跨境旅客需遵守《廣深港高速鐵路跨境旅客運輸組織規則》及車站或港鐵網站的通告，非跨境旅客需遵守內地《鐵路旅客運輸規程》等有關規定和車站或內地12306網站(<a href='javascript:link(\"https://bit.ly/1OqWMQB\")'><font color=\"red\">http://www.12306.cn/</font></a>)的公告。</p>",
+          "content_sc":"<p>内地票即出发或到达站都是内地车站的车票，例如由香港往西安，需要购买「香港-郑州东」的跨境票和「郑州东-西安北」的内地票。香港西九龙站票务处设有中国铁路（香港）控股有限公司的窗口发售内地票，可立即出票，同时亦可办理改签及退票，省时方便。注意改签要付手续费，毎张港币20元。</p><p><strong>购票手续费</strong></p><ul><li>票价人民币200元以下:<br>毎张港币10元手续费</li><li>票价人民币200元至300元以下:<br>毎张港币20元手续费</li><li>票价人民币300元及以上:<br>毎张港币30元手续费</li></ul><p>注：内地票与跨境票的改票及退款安排略有不同， 详情请訪問<a href='javascript:link(\"https://bit.ly/1OqWMQB\")'><font color=\"red\">http://www.12306.cn/</font></a>。</p><p>旅客在搭乘高速铁路时应遵守适用法律法規的要求(包括香港法律或中国内地法律) 及《车票发出条件》。跨境旅客需遵守《广深港高速铁路跨境旅客运输组织规则》及车站或港铁网站的通告，非跨境旅客需遵守内地《铁路旅客运输规程》等有关规定和车站或内地12306网站(<a href='javascript:link(\"https://bit.ly/1OqWMQB\")'><font color=\"red\">http://www.12306.cn/</font></a>)的公告。</p>"
+        },
+        {  
+          "id":2,
+          "title_en":"Mainland Ticketing Channels",
+          "title_tc":"內地購票途徑",
+          "title_sc":"内地购票途径",
+          "image_en": "",
+          "image_tc": "",
+          "image_sc": "",
+          "content_en":"<p>Mainland Domestic Tickets can be purchased via the following the Mainland ticketing channels. Click <a href='javascript:link(\"https://bit.ly/1OqWMQB\")'><font color=\"red\">here</font></a> for more information.</p><ul><li>12306 website and mobile app<ul><li>Ticket must be collected at Mainland train stations or other designated locations before journey.</li><li>If you wish to collect tickets at Hong Kong West Kowloon Station, you can collect them from the 12306 Ticket Collection Machines or from the designated ticketing counters operated by China Railway (Hong Kong) Holdings Ltd. Only simplified Chinese is available on the 12306 Ticket Collection Machines. These machines accept 2<sup>nd</sup> generation Home Return Permit, PRC Resident Identity Card and 2<sup>nd</sup> generation Mainland Travel Permit for Taiwan Residents. For PRC Resident Identity Card holders, real-name verification can be processed at ticketing counters in Mainland stations or at ticketing counters 1 to 10 at Hong Kong West Kowloon Station.</li></ul></li><li>Telephone booking</li><li>Ticketing counters at the train stations </li><li>Ticket agents </li><li>Ticket machines at the train stations or designated locations</li></ul><p><strong>Ticket Collection Handling Fee at Hong Kong West Kowloon Station through the designated counters operated by China Railway (Hong Kong) Holdings Ltd.</strong></p><ul><li>Fares below RMB200:<br>HKD10 each</li><li>Fares RMB200 to below RMB300:<br>HKD20 each</li><li>Fares RMB300 and above:<br>HKD30 each</li></ul><p>Passengers travelling on the High Speed Rail shall comply with the requirements under applicable laws and regulations (including Hong Kong laws or Mainland China laws) and the Conditions of Issue of Tickets. Cross-boundary passengers shall comply with the Rules for Guangzhou-Shenzhen-Hong Kong High Speed Rail Cross-Boundary Passenger Transport, and all notices posted at stations or MTR website. Non-cross-boundary passengers shall comply with the Mainland Regulations for Transportation of Railway Passengers and all relevant rules and regulations, and all notices posted at stations or Mainland China 12306 website (<a href='javascript:link(\"https://bit.ly/1OqWMQB\")'><font color=\"red\">http://www.12306.cn/</font></a>).</p>",
+          "content_tc":"<p>透過以下的内地購票途徑亦可購買内地票，請<a href='javascript:link(\"https://bit.ly/1OqWMQB\")'><font color=\"red\">按此</font></a>查詢詳情。</p><ul><li>12306網站和手機應用程式<ul><li>出發乘車前到内地車站或其他指定地點取票。</li><li>如需要在香港取票，可使用香港西九龍站的12306自助取票機或於站内中國鐵路（香港）控股有限公司的櫃位。12306自助取票機只以簡體中文作業，並只接受三種證件，包括第二代回鄉證，中華人民共和國居民身份證及第二代台灣居民來往大陸通行證。持中華人民共和國居民身份證的旅客請於内地車站票務處或香港西九龍站票務處1-10號櫃位預先進行身份核驗，才可使用自助取票機取票。</li></ul></li><li>電話訂票</li><li>車站售票櫃位</li><li>指定代理</li><li>車站或指定地點售票機</li></ul><p><strong>於香港西九龍站的中國鐵路（香港）控股有限公司的櫃位取票手續費</strong></p><ul><li>票價人民幣200元以下:<br>毎張港幣10元手續費</li><li>票價人民幣200元至300元以下:<br>毎張港幣20元手續費</li><li>票價人民幣300元及以上:<br>毎張港幣30元手續費</li></ul><p>旅客在搭乘高速鐵路時應遵守適用法律法規的要求(包括香港法律或中國內地法律) 及《車票發出條件》。跨境旅客需遵守《廣深港高速鐵路跨境旅客運輸組織規則》及車站或港鐵網站的通告，非跨境旅客需遵守內地《鐵路旅客運輸規程》等有關規定和車站或內地12306網站(<a href='javascript:link(\"https://bit.ly/1OqWMQB\")'><font color=\"red\">http://www.12306.cn/</font></a>)的公告。</p>",
+          "content_sc":"<p>通过以下的内地购票途径亦可购买内地票，请<a href='javascript:link(\"https://bit.ly/1OqWMQB\")'><font color=\"red\">按此</font></a>查询详情。</p><ul><li>12306网站和手机客户端<ul><li>出发乘车前到内地车站或其他指定地点取票。</li><li>如需要在香港取票，可使用香港西九龙站的12306自助取票机或于站内中国铁路（香港）控股有限公司的窗口。12306自助取票机只以简体中文作业，并只接受三种证件，包括第二代回乡证，中华人民共和国居民身份证及第二代台湾居民来往大陆通行证。持中华人民共和国居民身份证的旅客请于内地车站票务处或香港西九龙站票务处1-10号柜位预先进行身份核验，才可使用自助取票机取票。</li></ul></li><li>电话订票</li><li>车站售票窗口</li><li>车站或指定地点售票机</li><li>代售点</li></ul><p><strong>于香港西九龙站的中国铁路（香港）控股有限公司的窗口取票手续费</strong></p><ul><li>票价人民币200元以下:<br>毎张港币10元手续费</li><li>票价人民币200元至300元以下:<br>毎张港币20元手续费</li><li>票价人民币300元及以上:<br>毎张港币30元手续费</li></ul><p>旅客在搭乘高速铁路时应遵守适用法律法規的要求(包括香港法律或中国内地法律) 及《车票发出条件》。跨境旅客需遵守《广深港高速铁路跨境旅客运输组织规则》及车站或港铁网站的通告，非跨境旅客需遵守内地《铁路旅客运输规程》等有关规定和车站或内地12306网站(<a href='javascript:link(\"https://bit.ly/1OqWMQB\")'><font color=\"red\">http://www.12306.cn/</font></a>)的公告。</p>"
+        }
+      ]
+    },
+    {  
+      "type_id":"FAQ",
+      "type_en":"Frequenty Asked Questions",
+      "type_tc":"常見問題",
+      "type_sc":"常见问题",
+      "ticket_content":[  
+        {  
+          "id":1,
+          "title_en":"Buy Cross Boundary Ticket",
+          "title_tc":"購買跨境票",
+          "title_sc":"购买跨境票",
+          "image_en": "",
+          "image_tc": "",
+          "image_sc": "",
+          "content_en":"<ol><li><strong>What is a Cross Boundary Ticket?</strong><br>A Cross Boundary Ticket is a train ticket for a journey with Hong Kong West Kowloon Station as the departure or arrival station, e.g. from Hong Kong West Kowloon Station to Guangzhounan Station, or from Chaoshan Station to Hong Kong West Kowloon Station.<br><br></li><li><strong>When buying a Child Ticket, are the age and height of the child as at the date of purchase?</strong><br>No. The age and height of the child are as at the date of the journey.<br><br></li><li><strong>Under what circumstances can a child ride for free?</strong><br>A child below the height of 1.2m and accompanied by an adult (aged 18 or above) with a valid ticket may travel for free provided that the child does not occupy a seat. A ticket is required when more than one child is travelling with an adult or when the child who is travelling for free is occupying a seat.<br><br></li><li><strong>Must a Child Ticket be bought using the child's identification document?</strong><br>A Child Ticket can be bought using the identification document of the child or the accompanying adult.<br><br></li><li><strong>Under the Real-name Policy, a valid identification document can only be used to purchase one ticket for a particular train on a particular day. If a Child Ticket is bought using the identification document of an accompanying adult, will the adult fail the real-name verification?</strong><br>No, it will not be affected by accompanying child.<br><br></li><li><strong>Can the traveller's name be altered after buying a ticket?</strong><br>The traveller's name on a ticket cannot be altered. All high speed rail tickets are sold on a real-name basis. When buying a ticket, travellers must ensure that the name, identification document number and other identification information entered are consistent with the identification document used for the ticket purchase.<br><br></li><li><strong>Can I choose my seat when buying a ticket?</strong><br>After selecting the departure date, train number and class of travel, the ticketing system will automatically assign a seat.<br><br></li><li><strong>When buying round trip tickets, can the name list of the outbound journey be different from the name list of the return journey?</strong><br>No, the departure date, train number and class of travel of tickets in a booking must be the same. In addition, for round trip tickets booking, the name list of the outbound journey and return journey must be the same.<br><br></li><li><strong>Are there standing tickets for high speed rail?</strong><br>Cross-boundary travellers on high speed rail must be seated according to their seat number. Standing tickets are not available. A child who is travelling for free must be seated with other ticket holders.<br><br></li><li><strong>How to reserve wheelchair space? Are there additional charges?</strong><br>For the convenience of wheelchair users, trains are equipped with wheelchair spaces. Travellers who require wheelchair spaces can buy their tickets at the ticketing counters at Hong Kong West Kowloon Station or via the tele-ticketing (tele-ticketing hotline 2120 0888). Fares for wheelchair users are the same. There are no additional charges.<br><br></li><li><strong>Why do the fare for tickets for the same train number and same departure date from Hong Kong ticketing channels change depending on the time of booking?</strong><br>Fares are set in Renminbi with the Hong Kong Dollar (HKD) fare being adjusted monthly subject to the prevailing exchange rate. Adjusted HKD fares will be announced on the first day of every month.  For tickets sold in HKDs, the fare is the valid Implemented Fare for the current month which may not be the same as the fare on the date of travel.<br>For example: Traveller A bought a ticket in the middle of January for the journey from Hong Kong to Guangzhounan on 5 February and the HKD fare for that month is HKD260. Traveller B is buying a ticket for the same journey after the HKD fares have been adjusted based on changes in exchange rates on 1 February, so Traveller B may have to pay HKD265 to buy a ticket for the same train number and same class of travel.<br><br></li><li><strong>Can payment be made using electronic wallets?</strong><br>Different Hong Kong ticketing channels accept different forms of payment. Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/en/ticket/cross-purchase-way-hk.html\")'><font color=\"red\">here</font></a> for more information.<br><br></li><li><strong>What are the things to note when buying a ticket using a ticket machine?</strong><br>Ticket machines only accept ticket purchase and collection using an original Mainland Travel Permit for Hong Kong and Macao Residents (i.e. Home Return Permit) or PRC Resident Identity Cards. Ticket machines only accept HKD10, HKD20, HKD100 and HKD500 notes, and HKD1, HKD2, HKD5 and HKD10 coins, and up to a maximum of 15 notes and 15 coins per transaction. Ticket machines also support electronic payments, including Octopus, Visa payWave and contactless Mastercard, up to HKD1,000 per transaction. <br><br></li><li><strong>Can I buy a ticket for someone else?</strong><br>Yes. For example, when buying a ticket at a ticketing counter at the Hong Kong West Kowloon Station, only the original or photocopy of a valid identification document of the traveller is required. When buying a ticket at a ticket machine, an original identification document is required (only accepts Mainland Travel Permit for Hong Kong and Macao Residents (i.e. Home Return Permit) or PRC Resident Identity Cards)<br><br></li><li> <strong>Are online ticketing and tele-ticketing available 24 hours a day?</strong><br>No, the service hours for online ticketing are from 6:00am to 11:30pm, while the service hours for tele-ticketing are from 7:00am to 9:00pm.<br><br></li><li><strong>Are the train numbers shown during ticket purchase real-time?</strong><br>Train departure and arrival times are based on the train schedule and may be changed under special circumstances such as service disruption. For more information, pay attention to announcements at the stations and on the website and high speed rail mobile app.<br><br></li><li><strong>Is the information for all tickets available on the ticketing website?</strong><br>Information on Cross Boundary Tickets for journeys during the pre-sale period (i.e. 30 days) is available through the online ticketing website. After the ticketing cut-off time or when a departure is sold out, the website will stop displaying information for that train.<br><br></li><li><strong>When I buy an Adult Ticket and a Child Ticket, why is only the Adult Ticket shown when entering my personal information?</strong><br>This is because a Child Ticket must be bought with an Adult Ticket. When buying a ticket, the adult traveller can press the &quot;+&quot; symbol to add the number of accompanying children and the system will then display the information fields for the Child Ticket.<br><br></li><li><strong>When buying a ticket online, via the tele-ticketing hotline or through a ticket agent, why do I need to set a ticket collection password?</strong><br>It depends. If a password is set, tickets can be collected at the ticket machines. The same password must be used for online ticket alteration and booking enquiry.<br>Travellers who bought their tickets via the tele-ticketing hotline can use their mobile phone number as the ticket collection password.<br>In addition, if travellers bought their tickets online or via the tele-ticketing hotline and did not set a password, they can collect their tickets using their credit card.<br><br></li><li><strong>Must an email address be provided when buying a ticket online or through a ticket agent?</strong><br>It depends. For travellers who provide an email address, the system can send the ticket booking confirmation to the email address. Travellers who do not wish to provide an email address can print the booking record after buying their tickets.<br><br></li><li><strong>Why must I provide my mobile number when buying a ticket?</strong><br>In the event of changes to train services, we will inform travellers via different channels. By providing their mobile number, travellers can receive the relevant information in the future (only for Hong Kong mobile numbers). Travellers can also download the high speed rail mobile app released by MTR or pay attention to the latest service announcements at train stations and on the website.<br><br></li><li><strong>Why does the system show an overtime error and that the ticket purchase cannot be completed?</strong><br>The ticket purchase process must be completed within 30 minutes after selecting a train.<br><br></li><li><strong>Can I buy physical train tickets through a MTR's appointed ticket agent?</strong><br>Tickets bought from a MTR's appointed ticket agent must be collected at the Hong Kong West Kowloon Station.<br><br></li><li><strong>Are there any baggage restrictions?</strong><br>The maximum weight of baggage (excluding folding wheelchairs for the disabled) that can be carried by travellers is: Adult 20 kg; Child 10 kg (including children travelling for free); Diplomat 35 kg. The sum of the length, width and height of hand-carried baggage must not exceed 130 cm.<br><br></li></ol>",
+          "content_tc":"<ol><li><strong>甚麼是跨境票?</strong><br>跨境票即以香港西九龍站為出發或到達站的車票,例如香港西九龍站往廣州南站,或潮汕站往香港西九龍站。<br><br></li><li><strong>購買小童票時是按乘客以購票當天的年齡及身高來判斷旅客是否符合資格規定?</strong><br>不是。是按該名小童於乘車當天的年齡及身高而定判斷。<br><br></li><li> <strong>在什麼情況下小童可免費乘車?</strong><br>每一名持票成年人旅客（即年滿18歲）可免費攜帶一名身高不足1.2米且不單獨佔用座位的未成年人乘車，如需單獨使用座位便應購買小童票。當超過一名合資格小童時，超過人數亦應購買小童票。<br><br></li><li><strong>購買小童票是否一定要使用小童的身份證明文件?</strong><br>購買小童票可選擇使用小童本人個人身份證明文件或同行成人的身份證明文件。<br><br></li><li><strong>於實名制下, 使用一張有效身份證明文件只能購買一張同一天同一車次的車票,　如小童選用了同行成人的身份證明文件購票，會否令該成人不能通過實名驗證?</strong><br>不會。<br><br></li><li><strong>購票後是否可以更改旅客姓名?</strong><br>購票後不能更改姓名。所有高鐵車票均實行實名制售票，購票時，乘客需請認真核對清楚所輸入的姓名、身份證明文件號碼等有關身份資料與用於購票的身份證明文件相同。<br><br></li><li> <strong>購買車票時可選擇座位嗎?</strong><br>選定乘車日期、車次及車廂等級後，售票系統會自動分配座位。<br><br></li><li><strong>購買往返車票時，去程的旅客名單可否與回程的旅客名單不同?</strong><br>不可以，同一張訂單內的旅客的乘車日期、車次及車廂等級必須相同。同時購買往返車票時，去程及回程旅客名單亦必須相同。<br><br></li><li><strong>跨境高鐵有企位嗎?</strong><br>跨境高鐵列車需要對號入座，不設企位車票。免費乘車的小童必須與同行的持票旅客同坐。<br><br></li><li><strong>如何預訂車上的輪椅空間?需要額外付費嗎?</strong><br>為方便使用輪椅的旅客，列車設有輪椅空間，有需要的旅客可，透過香港西九龍站票務處或熱綫電話購票的職員查詢及購票(熱綫電話購票號碼2120 0888)。票價與其他車票相同，並無額外費用。<br><br></li><li><strong>為何同一天同一班車在不同日子透過香港渠道購票票價會不同?</strong><br>車票以人民幣定價，港元票價會按匯率變動而每月調整，並於每月首日公佈。以港元發售的車票，票價將為購票當月的有效執行票價，可能與乘車當日的票價不同。<br>例子：旅客A 在1月中旬購買了2月5日由香港往廣州南車票，當月的港元票價為260元。而旅客B，在2月1日港幣票價按匯率變動調整後，有機會需要265元オ買到同一車次以及同類車廂等級的車票。<br><br></li><li><strong>可否以電子錢包付款方式嗎?</strong><br>不同的香港購票渠道接受不同付款方式購票,詳情請<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/ticket/cross-purchase-way-hk.html\")'><font color=\"red\">按此</font></a>。<br><br></li><li><strong>在售票機購票要注意什麼?</strong><br>售票機只可使用港澳居民來往內地通行證(即回鄉證)或中華人民共和國居民身份證之正本進行購票或取票。售票機只接受面額為10、20、100、500港元的鈔票，及1，2，5，10港元的硬幣,毎次最多可使用15張鈔票及15個硬幣。售票機亦支持電子支付,包括八達通、Visa payWave及感應式Mastercard，毎次交易額上限為每次1,000港元。<br><br></li><li><strong>可否交由他人代為購票?</strong><br>可以。如於香港西九龍站票務處購票，只需出示乘車人有效的身份證明文件正本或影印本，如於售票機購票，便需要使用身份證明文件正本（只接受港澳居民來往內地通行證(即回鄉證)或中華人民共和國居民身份證）。<br><br></li><li><strong>網上購票和熱綫電話購票是否24小時運作?</strong><br>不是，網上購票服務時間為上午6時至晚上11時30分，而熱綫電話購票的服務時間為上午7時至晚上9時。<br><br></li><li><strong>購票時查到的車次資料是實時的嗎?</strong><br>車次的出發及到達時間為預設行車時間表的資料，如因個別原因令鐵路服務受阻或需要調動，請留意車站、網站及高速鐵路手機應用程式公佈。<br><br></li><li><strong>是不是所有車票都可在購票網站查詢?</strong><br>網上購票可查詢預售期內（即30天）跨境車票的資料。當某車次車票過了網上購票截售時間或該車次車票已全部售罄，本網站不會顯示該車次的資料。<br><br></li><li> <strong>於網上同時購買成人和小童票，為何進入填寫個人資料頁面時只顯示成人票?</strong><br>因小童票必須與成人票一同購買。請於購票時在成人旅客選項位置按「＋」號以加入隨行小童的數量，其後系統便會顯示小童票資料輸入欄。<br><br></li><li><strong>於香港網上或熱綫電話購票，或透過指定代理購票，為何需要設定取票密碼?</strong><br>不一定。設定了密碼便可於售票機取票 , 如需使用網上改票或查詢訂單,亦需使用同一密碼。<br>電話熱綫購票的旅客可選擇以流動電話號碼作為取票密碼。<br>此外，網上或熱綫電話購票的旅客，如沒設密碼，亦可用信用卡取票。<br><br></li><li><strong>於香港網上購票或透過指定代理購票，是否一定要提供電郵地址?</strong><br>不一定。如旅客提供了電郵地址, 系統可將購票確認通知傳送至該電郵地址。旅客如不欲提供電郵地址，亦可於成功訂票後即時列印訂單記錄作為確認。<br><br></li><li><strong>於購票時為何需要提供流動電話號碼?</strong><br>當有車務調動消息有需要通知旅客時，我們將透過不同途徑通知旅客，旅客若提供了流動電話號碼，日後將可接收有關資訊 (只限香港流動電話號碼)。然而，乘客亦可下載港鐵推出的高鐵應用程式，或留意車站或網上公佈的最新車務消息。<br><br></li><li><strong>為什麼在購票過程中系統信息提示已逾時，未能完成購票?</strong><br>整個購票過程由選定了車次起計30分鐘內須完成。<br><br></li><li><strong>透過指定代理可購買實體車票嗎?</strong><br>透過港鐵指定代理購買車票，必須於香港西九龍站取票。<br><br></li><li><strong>旅客有沒有攜帶行李的限制?</strong><br>毎位旅客可攜帶物品（殘疾人士自用的輪椅除外）上限為：成人20公斤；小童（包括免費乘車小童）10公斤；外交人員35公斤；每件行李外部尺寸長、闊、高之總和，不得超逾130厘米。<br><br></li></ol>",
+          "content_sc":"<ol><li><strong>甚么是跨境票?</strong><br>跨境票即以香港西九龙站为出发或到达站的车票,例如香港西九龙站往广州南站,或潮汕站往香港西九龙站。<br><br></li><li><strong>购买儿童票时是按乘客以购票当天的年龄及身高来判断旅客是否符合资格规定?</strong><br>不是。是按该名儿童于乘车当天的年龄及身高而定判断。<br><br></li><li><strong>在什么情况下儿童可免费乘车?</strong><br>每一名持票成年人旅客（即年满18岁）可免费携带一名身高不足1.2米且不单独占用座位的未成年人乘车，如需单独使用座位便应购买儿童票。当超过一名合资格儿童时，超过人数亦应购买儿童票。<br><br></li><li><strong>购买儿童票是否一定要使用儿童的身份证明文件?</strong><br>购买儿童票可选择使用儿童本人个人身份证明文件或同行成人的身份证明文件。<br><br></li><li><strong>于实名制下, 使用一张有效身份证明文件只能购买一张同一天同一车次的车票,　如儿童选用了同行成人的身份证明文件购票，会否该成人不能通过实名验证?</strong><br>不会。<br><br></li><li><strong>购票后是否可以更改旅客姓名?</strong><br>购票后不能更改姓名。所有高铁车票均实行实名制售票，购票时，乘客需请认真核对清楚所输入的姓名、身份证明文件号码等有关身份资料与用于购票的身份证明文件相同。<br><br></li><li><strong>购买车票时可选择座位吗?</strong><br>选定乘车日期、车次及车厢等级后，售票系统会自动分配座位。<br><br></li><li><strong>购买往返车票时，去程的旅客名单可否与返程的旅客名单不同?</strong><br>不可以，同一张订单内的旅客的乘车日期、车次及车厢等级必须相同。同时购买往返车票时，去程及返程旅客名单亦必须相同。<br><br></li><li><strong>跨境高铁有企位吗?</strong><br>跨境高铁列车需要对号入座，不设企位车票。免费乘车的儿童必须与同行的持票旅客同坐。<br><br></li><li><strong>如何预订车上的轮椅空间?需要额外付费吗?</strong><br>为方便使用轮椅的旅客，列车设有轮椅空间，有需要的旅客可，透过香港西九龙站票务处或热线电话购票的职员查询及购票(热线电话购票号码2120 0888)。票价与其他车票相同，并无额外费用。<br><br></li><li><strong>为何同一天同一班车在不同日子透过香港渠道购票票价会不同?</strong><br>车票以人民币定价，港元票价会按汇率变动而每月调整，并于每月首日公布。以港元发售的车票，票价将为购票当月的有效执行票价，可能与乘车当日的票价不同。<br>例子：旅客A 在1月中旬购买了2月5日由香港往广州南车票，当月的港元票价为260元。而旅客B，在2月1日港幣票價按匯率變動調整後，有機會需要265元オ買到同一車次以及同類車廂席別的車票。<br><br></li><li><strong>可否以电子货币包付款方式吗?</strong><br>不同的香港购票途径接受不同付款方式购票,详情请<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/sc/ticket/cross-purchase-way-hk.html\")'><font color=\"red\">按此</font></a>。<br><br></li><li><strong>在售票机购票要注意什么?</strong><br>售票机只可使用港澳居民来往内地通行证(即回乡证)或中华人民共和国居民身份证之正本进行购票或取票。售票机只接受面额为10、20、100、500港元的钞票，及1，2，5，10港元的硬币,毎次最多可使用15张钞票及15个硬币。售票机亦支持电子支付,包括八达通、Visa payWave及感应式Mastercard，毎次交易额上限为每次1,000港元。<br><br></li><li><strong>可否交由他人代为购票?</strong><br>可以。如于香港西九龙站票务处购票，只需出示乘车人有效的身份证明文件原件或复印件，如于售票机购票，便需要使用身份证明文件原件（只接受港澳居民来往内地通行证(即回乡证)或中华人民共和国居民身份证）。<br><br></li><li><strong>网上购票和热线电话购票是否24小时运作?</strong><br>不是，网上购票服务时间为上午6时至晚上11时30分，而热线电话购票的服务时间为上午7时至晚上9时。<br><br></li><li><strong>购票时查到的车次资料是实时的吗?</strong><br>车次的出发及到达时间为默认行车时间表的资料，如因个别原因令铁路服务受阻或需要调动，请留意车站、网站及高速铁路手机应用程式公布。<br><br></li><li><strong>是不是所有车票都可在购票网站查询?</strong><br>网上购票可查询预售期内（即30天）跨境车票的资料。 当某车次车票过了网上购票截售时间或该车次车票已全部售罄，本网站不会显示该车次的资料。<br><br></li><li><strong>于网上同时购买成人和儿童票，为何进入填写个人资料页面时只显示成人票?</strong><br>因儿童票必须与成人票一同购买。请于购票时在成人旅客选项位置按「＋」号以加入随行儿童的数量，其后系统便会显示儿童票资料输入栏。<br><br></li><li><strong>于香港网上或热线电话购票，或透过指定代理购票，为何需要设定取票密码?</strong><br>不一定。设定了密码便可于售票机取票 , 如需使用网上改签或查询订单,亦需使用同一密码。<br>电话热线购票的旅客可选择以流动电话号码作为取票密码。<br>此外，网上或热线电话购票的旅客，如没设密码，亦可用信用卡取票。<br><br></li><li><strong>于香港网上购票或透过指定代理购票，是否一定要提供电邮地址?</strong><br>不一定。如旅客提供了电邮地址, 系统可将购票确认通知传送至该电邮地址。旅客如不欲提供电邮地址，亦可于成功订票后实时打印订单记录作为确认。<br><br></li><li><strong>购票时为何需要提供流动电话号码?<br></strong>当有车务调动消息有需要通知旅客时，我们将透过不同途径通知旅客，旅客若提供了流动电话号码，日后将可接收有关信息 (只限香港流动电话号码)。然而，旅客亦可下载港铁推出的高铁应用程序，或留意车站或网上公布的最新车务消息。<br><br></li><li><strong>为什么在购票过程中系统信息提示已逾时，未能完成购票?</strong><br>整个购票过程由选定了车次起计30分钟内须完成。<br><br></li><li><strong>透过指定代理可购买实体车票吗?</strong><br>透过港铁指定代理购买车票，必须于香港西九龙站取票。<br><br></li><li><strong> 旅客有没有携带行李的限制?</strong><br>毎位旅客可携带物品（残疾人士自用的轮椅除外）上限为：成人20千克；儿童（包括免费乘车儿童）10千克；外交人员35千克；每件行李外部尺寸长、阔、高之总和，不得超逾130厘米。</li></ol>"
+        },
+        {  
+          "id":2,
+          "title_en":"Collect Cross Boundary Tickets",
+          "title_tc":"領取跨境票",
+          "title_sc":"领取跨境票",
+          "image_en": "",
+          "image_tc": "",
+          "image_sc": "",
+          "content_en":"<ol><li><strong>Under what circumstances must a ticket be collected? Can I collect a return ticket in the Mainland if I booked through MTR ticketing channels?</strong><br>Tickets purchased through MTR ticketing channels including online, tele-ticketing or ticket agent must be collected at the Hong Kong West Kowloon Station regardless of whether the ticket is an outbound or return ticket.<br><br></li><li><strong>Can someone collect my ticket for me?</strong><br>Yes, but the original identification document of the traveller must be produced.<br><br></li><li><strong>Why can't I collect the ticket from a ticket machine at the Hong Kong West Kowloon Station using my credit card if I have bought that ticket via a ticket agent using a credit card?</strong><br>The high speed rail ticketing system does not record payment information for tickets purchased through an agent. Travellers collecting such tickets at a ticket machine must provide the booking number, ticket collection password and the original identification document. Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/en/ticket/cross-purchase-way-hk.html\")'><font color=\"red\">here</font></a> for details.<br><br></li><li><strong>Must all the tickets under the same booking be collected at the same time?</strong><br>They can be collected in batches.<br><br></li><li><strong>If I failed to collect the ticket that I booked, can I still collect it after the train has departed?</strong><br>For tickets purchased via the online, tele-ticketing services or through a ticket agent provided by MTR, travellers can still collect their tickets within 20 days after the train has departed.<br><br></li><li><strong>Can I collect the ticket that I booked using the Mainland website 12306.cn in Hong Kong?</strong><br>Tickets purchased via Mainland's 12306 website or mobile app can be collected at any stations or other designated locations in Mainland as well as at Hong Kong West Kowloon Station. Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/en/ticket/cross-purchase-way-mainland.html\")'><font color=\"red\">here</font></a> for details.</li></ol>",
+          "content_tc":"<ol><li><strong>甚麼情況下需要取票? 在香港訂了回程車票可以在内地取票嗎?</strong><br>於港鐵提供的網上或熱綫電話購票，或透過指定代理購票的旅客，不論是去程或回程車票，必須於香港西九龍站取票。<br><br></li><li><strong>可否交由他人代為取票嗎?</strong><br>可以，但必須出示持乘車人身份證明文件正本。<br><br></li><li><strong>為何透過指定代理使用信用卡購票，不能用信用卡於香港西九龍站售票機取票?</strong><br>因高鐵票務系統不會記錄顧客於代理購票時的付款資料，因此客人如需要在售票機取票，必須提供訂單編號、取票密碼及連同身份證明文件正本取票，詳情<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/ticket/cross-purchase-way-hk.html\")'><font color=\"red\">按此</font></a>。<br><br></li><li><strong>如訂單内有多張車票，需要一次過領取嗎?</strong><br>可以分批領取。<br><br></li><li><strong>如訂了車票沒有領取，列車開出後仍可領回嗎?</strong><br>於港鐵提供的網上或熱綫電話購票，或透過指定代理購票的旅客, 列車開出後如仍想領回車票，請於列車開出後的20天内辦理。<br><br></li><li><strong>在内地網站12306.cn訂了車票可以在香港取票嗎?</strong><br>於内地12306官網或手機應用程式購了車票，除了在内地車站或其他指定地點取票，亦可在香港西九龍站取票，詳情<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/ticket/cross-purchase-way-mainland.html\")'><font color=\"red\">按此</font></a>。</li></ol>",
+          "content_sc":"<ol><li><strong>甚么情况下需要取票? 在香港订了返程车票可以在内地取票吗?</strong><br>于港铁提供的网上或热线电话购票，或透过指定代理购票的旅客，不论是去程或返程车票，必须于香港西九龙站取票。<br><br></li><li><strong>可否交由他人代为取票吗?</strong><br>可以，但必须出示持乘车人身份证明文件原件。<br><br></li><li><strong>为何透过指定代理使用信用卡购票，不能用信用卡于香港西九龙站售票机取票?</strong><br>因高铁票务系统不会记录顾客于代理购票时的付款资料，因此客人如需要在售票机取票，必须提供订单编号、取票密码及连同身份证明文件正本取票，详情<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/sc/ticket/cross-purchase-way-hk.html\")'><font color=\"red\">按此</font></a>。<br><br></li><li><strong>如订单内有多张车票，需要一次过领取吗?</strong><br>可以分批领取。<br><br></li><li><strong>如订了车票没有领取，列车开出后仍可领回吗?</strong><br>于港铁提供的网上或热线电话购票，或透过指定代理购票的旅客, 列车开出后如仍想领回车票，请于列车开出后的20天内办理。<br><br></li><li><strong>在内地网站12306.cn订了车票可以在香港取票吗?</strong><br>于内地12306官网或手机APP购了车票，除了在内地车站或其他指定地点取票，亦可在香港西九龙站取票，详情<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/sc/ticket/cross-purchase-way-mainland.html\")'><font color=\"red\">按此</font></a>。</li></ol>"
+        },
+        {  
+          "id":3,
+          "title_en":"Alter Cross Boundary Tickets",
+          "title_tc":"更改跨境票",
+          "title_sc":"改签跨境票",
+          "image_en": "",
+          "image_tc": "",
+          "image_sc": "",
+          "content_en":"<ol><li><strong>What can and cannot be altered?</strong><br>The date of departure, train number and class of travel can be altered, while the name of traveller and train station cannot be altered.<br><br></li><li><strong>Is there any service fee for ticket alteration?</strong><br>MTR does not charge a service fee for ticket alteration.<br><br></li><li><strong>Can an altered ticket be altered again by paying a service fee?</strong><br>No. Each ticket can only be altered once.<br><br></li><li><strong>Why is the fare different from the original fare when changing to another train number on the same day of departure?</strong><br>Alteration of tickets via Hong Kong ticketing channels will be based on the original currency of the booking. For alteration of tickets which are sold based on the HKD fare, the fare for the new ticket will be the valid HKD Implemented Fare for the current month. Therefore, the new ticket fare may not be the same as the original one even if it is only another train of the same class of travel on the same day. Alteration made via Mainland channels is based on the RMB fare on the day of departure. Normally, the RMB fare for a different train number on the same day should be the same.<br><br></li><li><strong>What happens when the fare after alteration is different from the original fare?</strong><br> Additional payment would be required, or excess payment would be returned. If the fare after alteration is higher than the original fare, travellers will have to pay for the new ticket in full and the original fare will be fully refunded; if the fare after alteration is lower than the original fare, the difference will be returned to travellers.<br><br></li><li><strong>Can all tickets be altered online or via the tele-ticketing hotline?</strong><br>No. Only tickets purchased online that have not been collected can be altered online. Similarly, only tickets purchased via the tele-ticketing hotline that have not been collected can be altered via the tele-ticketing hotline. Tickets purchased through the ticket agent that have not been collected can be altered at the respective ticket agent. Tickets that have been collected can only be altered at the station. Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/en/ticket/after-sales-service.html\")'><font color=\"red\">here</font></a> for more information.<br><br></li><li><strong>Can a ticket purchased via a Hong Kong channel be altered in the Mainland?</strong><br>Tickets purchased via a Hong Kong channel that have been collected can be altered at a Mainland station, subject to terms and conditions. Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/en/ticket/after-sales-service.html\")'><font color=\"red\">here</font></a> for more information.<br><br></li><li><strong>Can a ticket purchased via a Mainland channel be altered in Hong Kong?</strong><br>Tickets purchased via a Mainland channel that have been collected can be altered at the Hong Kong West Kowloon Station, subject to terms and conditions. Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/en/ticket/after-sales-service.html\")'><font color=\"red\">here</font></a> for more information.<br><br></li><li><strong>Can tickets under a booking be altered separately? Can different alterations be made to different tickets under the same booking?</strong><br>Yes, but the name of traveller and station cannot be altered.<br><br></li><li><strong>Can travellers alter the class of travel while onboard a train?</strong><br>If seats are available, travellers can alter their class of travel while onboard a train. If the fare after alteration is higher than the original fare, the difference in fare will be collected; if the fare after alteration is lower than the original fare, the difference in fare will not be returned. An administrative fee will be collected in both cases.<br><br></li><li><strong>If a booking comprises Adult Ticket and Child Ticket, can the Adult Ticket be altered, while the Child Ticket remains unchanged?</strong><br>Yes. If the Child Ticket is purchased using the identification document of the accompanying adult, the child will no longer travel with the original accompanying adult after the alteration. When collecting the Child Ticket, the identification document of the original accompanying adult must be produced. Please note that there should have at least one Adult Ticket remained with the Child Tickets for the same journey after alteration of the booking.<br><br></li><li><strong>If a booking comprises both outbound and return tickets, can they be altered in one transaction?</strong><br>No. Tickets for the outbound and return journeys must be altered separately.<br><br></li><li><strong>For a booking that contains multiple tickets of the same train number, can I ask to be seated together while processing the alteration?</strong><br>Under normal circumstances, the system will automatically assign seats that are close to each other, except when making alteration via the tele-ticketing hotline. Tickets purchased via the tele-ticketing hotline that have not been collected can be altered via the tele-ticketing hotline. However, as the tickets must be altered individually, the seats maybe not be close to each other. Travellers who want to be seated together should consider making the alteration at Hong Kong West Kowloon Station.<br><br></li></ol>",
+          "content_tc":"<ol><li><strong>甚麼車票項目內容可以和不可以改?</strong><br>可以改乘車日期、車次及或車廂等級，但不可以改旅客名單及車站。<br><br></li><li><strong>更改車票需要付手續費?</strong><br>港鐵不會為改票收手續費。<br><br></li><li><strong>已更改的車票可以付手續費再改嗎?</strong><br>不可以，毎張車票只可改一次。<br><br></li><li><strong>只更改同一天另一班車,票價為何跟原本車票不同?</strong><br>車票以人民幣定價，港元票價會按匯率變動而每月調整，並於每月首日公佈。以港元發售的車票，如透過港鐵公司的購票途徑改票，新車票將按改票當月的有效港元執行票價辦理，即使只是更改為同一天相同車廂等級的另一班列車，也可能與原來購車票票價不同。<br>如於内地渠道辦理，會以人民幣票價為基礎，人民幣票價以乘車日計算，一般情況下更改同一天另一班車，人民幣票價不會變動。<br><br></li><li><strong>改票後新票價與原購票價如有差額會怎樣處理?</strong><br>改票以多退少補為原則。改票後的票價高於原購車票票價時，旅客須先繳付新票全額票款，而原票款則會全數退回；若低於原購車票票價，差額將退還予旅客。<br><br></li><li><strong>是否任何車票都可在購票網站或熱綫電話辦理改票?</strong><br>不是。網上只為經網站購買而未領取的車票辦理改票；同樣地，經熱綫電話購買而未領取的車票只可於熱綫電話辦理改票；透過指定代理商購買而未取票，可於該代理商發售點辦理改票。已取的車票，只可前往車站辦理改票。詳情<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/ticket/after-sales-service.html\")'><font color=\"red\">按此</font></a>。<br><br></li><li><strong>於香港渠道購買車票可以在内地改票嗎?</strong><br>透過香港渠道購票，已取的車票在有其他條款下，可於内地車站辦理改票，詳情<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/ticket/after-sales-service.html\")'><font color=\"red\">按此</font></a>。<br><br></li><li><strong>於内地渠道購買車票可以在香港改票嗎?</strong><br>透過内地渠道購票，已取的車票在受其他條款限制下，可於香港西九龍站辦理改票，詳情<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/ticket/after-sales-service.html\")'><font color=\"red\">按此</font></a>。<br><br></li><li><strong>同一張訂單有多張車票,可以分開改及改不同内容嗎?</strong><br>可以，但不可以改旅客名單及車站。<br><br></li><li><strong>旅客在列車上可否要求更改車廂等級?</strong><br>在有餘位下，可在列車上為旅客更改車廂等級，更改後的票價高於原購票價時，核收票價差額；低於原購票價時，票價差額不予退還，均收取手續費。<br><br></li><li><strong>訂單內有成人及小童票，可以只更改有掛鈎小童的成人票而保留小童票不改嗎?</strong><br>可以的，惟小童票若使用隨行的成人身份證明文件購票，而改票後該小童不再與原登記的成人同行，於領取該小童票時，仍需出示原登記的成人身份證明文件。注意:更改後的訂單最少要有一張成人票與小童票於同一班車。<br><br></li><li><strong>訂單內有去程及回程票可以在同一個交易更改嗎?</strong><br>不可以，往返車程的去程及回程車票要分開兩個交易更改。<br><br></li><li><strong>於同一張訂單購買了同一班次的多張車票，辦理改票時能否安排相連座位?</strong><br>一般情況下系統會自動分派位置相近座位，但使用電話熱綫改票除外。使用電話熱綫購票而未取票，可於電話熱綫辦理改票，但由於電話改票需要逐張車票辦理，因此改票後的座位不一定相近。如旅客希望確保改票後仍能安排相連座位，可考慮往香港西九龍站辦理。</li></ol>",
+          "content_sc":"<ol><li><strong>甚么车票项目内容可以和不可以改?</strong><br>可以改乘车日期、车次及或车厢席別，但不可以改旅客名单及车站。<br><br></li><li><strong>改签车票需要付手续费?</strong><br>港铁不会为改签收手续费。<br><br></li><li><strong>已改签的车票可以付手续费再改吗?</strong><br>不可以，毎张车票只可改一次。<br><br></li><li><strong>只更改同一天另一班车,票价为何跟原本车票不同?</strong><br>车票以人民币定价，港元票价会按汇率变动而每月调整，并于每月首日公布。以港元发售的车票，如透过港铁公司的购票途径改签，新车票将按改签当月的有效港元执行票价办理，即使只是更改为同一天相同车厢席别的另一班列车，也可能与原来购车票票价不同。<br>如于内地途径办理，会以人民币票价为基础，人民币票价以乘车日计算，一般情况下更改同一天另一班车，人民币票价不会变动。<br><br></li><li><strong>改签后新票价与原购票价如有差额会怎样处理?</strong><br>改签以多退少补为原则。改签后的票价高于原购车票票价时，旅客须先缴付新票全额票款，而原票款则会全数退回；若低于原购车票票价，差额将退还予旅客。<br><br></li><li><strong>是否任何车票都可在购票网站或热线电话办理改签?</strong><br>不是。网上只为经网站购买而未领取的车票办理改签；同样地，经热线电话购买而未领取的车票只可于热线电话办理改签；透过指定代理商购买而未取票，可于该代理商发售点办理改签。已取的车票，只可前往车站办理改签。详情<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/sc/ticket/after-sales-service.html\")'><font color=\"red\">按此</font></a>。<br><br></li><li><strong>于香港途径购买车票可以在内地改签吗?</strong><br>透过香港渠道购票，已取的车票在有其他条款下，可于内地车站办理改签，详情<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/sc/ticket/after-sales-service.html\")'><font color=\"red\">按此</font></a>。<br><br></li><li><strong>于内地途径购买车票可以在香港改签吗?</strong><br>透过内地途径购票，已取的车票在受其他条款限制下，可于香港西九龙站办理改签，详情<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/sc/ticket/after-sales-service.html\")'><font color=\"red\">按此</font></a>。<br><br></li><li><strong>同一张订单有多张车票,可以分开改及改不同内容吗?</strong><br>可以，但不可以改旅客名单及车站。<br><br></li><li><strong>旅客在列车上可否要求更改车厢席別?</strong><br>在有余位下，可在列车上为旅客更改车厢席別，更改后的票价高于原购票价时，核收票价差额；低于原购票价时，票价差额不予退还，均收取手续费。<br><br></li><li><strong>订单内有成人及儿童票，可以只改签有挂钩儿童的成人票而保留儿童票不改吗?</strong><br>可以的，惟儿童票若使用随行的成人身份证明文件购票，而改签后该儿童不再与原登记的成人同行，于领取该儿童票时，仍需出示原登记的成人身份证明文件。注意:更改后的订单最少要有一张成人票与儿童票于同一班车。<br><br></li><li><strong>订单内有去程及返程票可以在同一个交易更改吗?</strong><br>不可以，往返车程的去程及返程车票要分开两个交易更改。<br><br></li><li><strong>于同一张订单购买了同一班次的多张车票，办理改签时能否安排相连座位?</strong><br>一般情况下系统会自动分派位置相近座位，但使用电话热线改签除外。使用电话热线购票而未取票，可于电话热线办理改签，但由于电话改签需要逐张车票办理，因此改签后的座位不一定相近。如旅客希望确保改签后仍能安排相连座位，可考虑往香港西九龙站办理。</li></ol>"
+        },
+        {  
+          "id":4,
+          "title_en":"Refund Cross Boundary Tickets",
+          "title_tc":"退回跨境票",
+          "title_sc":"退回跨境票",
+          "image_en": "",
+          "image_tc": "",
+          "image_sc": "",
+          "content_en":"<ol><li><strong>Can an altered ticket be refunded?</strong><br>Tickets cannot be refunded after alteration.<br><br></li><li><strong>Is there any service fee for refunds?</strong><br>MTR does not collect a service fee for ticket refunds. However, only a proportion of the fare will be refunded depending on the time before departure. Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/en/ticket/after-sales-service.html\")'><font color=\"red\">here</font></a> for more information.<br><br></li><li><strong>For a ticket purchased in HKD, will the refund value be affected if the fare for the same train number is different at the time of refund due to adjustments made based on changes in exchange rates?</strong><br>Refunds are based on the fare at the day of purchase and are not affected by changes in exchange rates.<br><br></li><li><strong>For a booking containing multiple tickets, can the tickets be refunded separately?</strong><br>Yes, they can be refunded in batches.<br><br></li><li><strong>Can I get a refund on a ticket for someone else?</strong><br>Yes. The person processing the refund must provide the original or photocopy of the identification document of the traveller and an original, valid identification document of the person processing the refund.<br><br></li><li><strong>For a ticket purchased using a credit card, must I show the credit card when the ticket is refunded at a ticketing counter at the Hong Kong West Kowloon Station?</strong><br>For tickets purchased using a credit card, the fare will be refunded to the credit card. For tickets purchased online or via the tele-ticketing hotline, you are not required to produce the credit card for the refund. For tickets purchased at a ticketing counter at Hong Kong West Kowloon Station using a credit card or mobile payment or at a ticket machine using contactless credit card payment, travellers must produce the credit card or UnionPay card used to make payment for the refund. For tickets purchased through the ticket agent, refunds will be made in cash regardless of whether the purchase was made with a credit card, so travellers are not required to produce the credit card used for payment in such cases.<br><br></li><li><strong>Can a refund be processed online?</strong><br>Refunds cannot be processed online. Please go to ticketing counter at the Hong Kong West Kowloon Station for the service.<br><br></li><li><strong>Can a refund be processed via the tele-ticketing hotline?</strong><br>Refunds cannot be processed via the tele-ticketing hotline. If necessary, visit a ticketing counter at the Hong Kong West Kowloon Station.<br><br></li><li><strong>Can a refund be processed at a ticket agent?</strong><br>Refunds can be processed based on the operating and sales regulations of the individual ticket agent. Under normal circumstances, tickets purchased with a ticket agent that have not been altered, refunded and collected can be refunded at the respecitve agent before the refund cut-off time. Tickets that have been collected must be refunded at the Hong Kong West Kowloon Station.<br><br></li><li><strong>Can tickets purchased via a Hong Kong channel be refunded in the Mainland?</strong><br>Tickets purchased via a Hong Kong channel that have been collected can be refunded at a Mainland station, subject to terms and conditions. Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/en/ticket/after-sales-service.html\")'><font color=\"red\">here</font></a> for more information.<br><br></li><li><strong>Can tickets purchased via a Mainland channel be refunded in Hong Kong?</strong><br>Tickets purchased via a Mainland channel that have been collected can be refunded at the Hong Kong West Kowloon Station, subject to terms and conditions. Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/en/ticket/after-sales-service.html\")'><font color=\"red\">here</font></a> for more information.<br><br></li><li><strong>Can an unused ticket for a train that has already departed be refunded?</strong><br>Regardless of whether a ticket is used, travellers must process the refund before the train departs. Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/en/ticket/after-sales-service.html\")'><font color=\"red\">here</font></a> for more information.<br><br></li><li><strong>Can a train ticket be refunded after it is used?</strong><br>Normally, a ticket cannot be refunded after it is used. However, if a traveller alights mid-journey due to injury or illness, the train captain will issue a passenger record to the traveller and any difference between the fare collected and the fare of journey travelled will be refunded accordingly. The same applies to accompanying travellers.<br><br></li><li><strong>Will the fare be returned in full when a ticket is refunded due to a fault of the railway operator?</strong><br>In the event of suspensions or disruption of train services, the fare will be refunded in full for any unused tickets or when the train returned to the departure station mid-journey; for trains that stop at a station mid-journey, the difference between the fare collected and the used portion of the journey will be refunded. However, no refund will be provided for any additional payment collected due to violation or if the train arrives at the destination station.<br>In the event that the class of travel is downgraded due to a fault of the railway operator or natural disasters, the difference in fare will be refunded.<br></li></ol>",
+          "content_tc":"<ol><li><strong>改票後的車票可辦理退票嗎?</strong><br>改票後的車票不能辦理退票。<br><br></li><li><strong>退票要收手續費嗎?</strong><br>港鐵不會因退票而收手續費，但會按退票距離開車的時間,只退回部分車費,詳情<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/ticket/after-sales-service.html\")'><font color=\"red\">按此</font></a>。<br><br></li><li><strong>以港元購票，如退票時同一班車因匯率變動而票價有所調整時，會影響退票金額嗎?</strong><br>退款按購票當日的票價計算，所以不受匯率變動影響。<br><br></li><li><strong>同一張訂單有多張車票,可以分開退嗎?</strong><br>可以分批退。<br><br></li><li><strong>可以代他人退票嗎?</strong><br>可以，代辦人須提供乘車人的身份證明文件正本或影印本、以及代辦人的有效身份證明文件正本。<br><br></li><li><strong>如用了信用卡購票，在香港西九龍站票務處退票時,需要出示信用卡嗎?</strong><br>使用信用卡購票，票款會退回該信用卡。如透過網上購票或熱綫電話購票，毋須出示信用卡辦理退票，若是於香港西九龍站票務處刷卡或手機支付方式購買，或於售票機用感應式信用卡購票，退票時旅客須帶同付款時使用的信用卡或銀聯卡辦理退款。如透過代理購票，不論有否使用信用卡，亦會以現金退款，所以亦毋須帯同信用卡。<br><br></li><li><strong>可否於網上辦理退票手續?</strong><br>網上恕不辦理退票手續，如有需要，可前往香港西九龍站票務處辦理。<br><br></li><li><strong>可否透過熱綫電話辦理退票?</strong><br>熱綫電話恕不辦理退票手續，如有需要，可前往香港西九龍站票務處辦理。<br><br></li><li><strong>可否透過代理辦理退票?</strong><br>按個別代理商的營運及銷售細則辦理。一般情況下，於指定代理商購買而未經改票、退票及取票的車票，可於截止退票時間前與相關代理辦理退票。而已領取的車票，則需到香港西九龍站辦理退票。<br><br></li><li><strong>於香港渠道購買車票可以在内地退票嗎?</strong><br>透過香港渠道購票，已取的車票在受其他條款限制下，可於内地車站辦理退票，詳情<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/ticket/after-sales-service.html\")'><font color=\"red\">按此</font></a>。<br><br></li><li><strong>於内地渠道購買車票可以在香港改票嗎?</strong><br>透過内地渠道購票，已取的車票在受其他條款限制下，可於香港西九龍站辦理退票，詳情<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/ticket/after-sales-service.html\")'><font color=\"red\">按此</font></a>。<br><br></li><li><strong>未使用但列車已開出的車票可以退嗎?</strong><br>無論旅客有否使用過的車票，必須於列車開出前辦理退票，詳情<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/ticket/after-sales-service.html\")'><font color=\"red\">按此</font></a>。<br><br></li><li><strong>乘車後可否退票?</strong><br>乘車後一般不能退票,但旅客因傷、病要求中途下車時，由列車長編制客運記錄交給旅客下車，退還已收票價與已乘路程票價差額，並按規定核收退票費。同行旅客同樣辦理。<br><br></li><li><strong>因鐵路責任導致旅客退票是否退還全部車費?</strong><br>如遇到列車停運、中斷運輸等情況，還未乘車或中途返回發站的將退還全部票價；而已經抵達中途站的，將退還已收票價與已乘車區間的票價差額；但因違規加收的部分和已使用至到站的車票不退。<br>因鐵路責任或自然災害導致旅客持高車廂等級座位乘坐低等級座位時，退還票價差額。</li></ol>",
+          "content_sc":"<ol><li><strong>改签后的车票可办理退票吗?</strong><br>改签后的车票不能办理退票。<br><br></li><li><strong>退票要收手續費嗎?</strong><br>港铁不会因退票而收手续费，但会按退票距离开车的时间,只退回部分车费,详情<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/sc/ticket/after-sales-service.html\")'><font color=\"red\">按此</font></a>。<br><br></li><li><strong>以港元购票，如退票时同一班车因汇率变动而票价有所调整时，会影响退票金额吗?</strong><br>退款按购票当日的票价计算，所以不受汇率变动影响。<br><br></li><li><strong>同一张订单有多张车票,可以分开退吗?</strong><br>可以分批退。<br><br></li><li><strong>可以代他人退票嗎?</strong><br>可以，代办人须提供乘车人的身份证明文件原件或复印件、以及代办人的有效身份证明文件原件。<br><br></li><li><strong>如用了信用卡购票，在香港西九龙站票务处退票时,需要出示信用卡吗?</strong><br>使用信用卡购票，票款会退回该信用卡。如透过网上购票或热线电话购票，毋须出示信用卡办理退票，若是于香港西九龙站票务处刷卡或手机支付方式购买，或于售票机用感应式信用卡购票，退票时旅客须带同付款时使用的信用卡或银联卡办理退款。如透过代理购票，不论有否使用信用卡，亦会以现金退款，所以亦毋须帯同信用卡。<br><br></li><li><strong>可否于网上办理退票手续?</strong><br>网上恕不办理退票手续，如有需要，可前往香港西九龙站票务处办理。<br><br></li><li><strong>可否透过热线电话办理退票?</strong><br>热线电话恕不办理退票手续，如有需要，可前往香港西九龙站票务处办理。<br><br></li><li><strong>可否透过代理办理退票?</strong><br>按个别代理商的营运及销售细则办理。一般情况下，于指定代理商购买而未经改签、退票及取票的车票，可于截止退票时间前与相关代理办理退票。而已领取的车票，则需到香港西九龙站办理退票。<br><br></li><li><strong>于香港渠道购买车票可以在内地退票吗?</strong><br>透过香港渠道购票，已取的车票在受其他条款限制下，可于内地车站办理退票，详情<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/ticket/after-sales-service.html\")'><font color=\"red\">按此</font></a>。<br><br></li><li><strong>于内地渠道购买车票可以在香港改签吗?</strong><br>透过内地渠道购票，已取的车票在受其他条款限制下，可于香港西九龙站办理退票，详情<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/sc/ticket/after-sales-service.html\")'><font color=\"red\">按此</font></a>。<br><br></li><li><strong>未使用但列车已开出的车票可以退吗?</strong><br>无论旅客有否使用过的车票，必须于列车开出前办理退票，详情<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/ticket/after-sales-service.html\")'><font color=\"red\">按此</font></a>。<br><br></li><li><strong>乘车后可否退票?</strong><br>乘车后一般不能退票,但旅客因伤、病要求中途下车时，由列车长编制客运记录交给旅客下车，退还已收票价与已乘路程票价差额，并按规定核收退票费。同行旅客同样办理。<br><br></li><li><strong>因铁路责任导致旅客退票是否退还全部车费?</strong><br>如遇到列车停运、中断运输等情况，还未乘车或中途返回发站的将退还全部票价；而已经抵达中途站的，将退还已收票价与已乘车区间的票价差额；但因违规加收的部分和已使用至到站的车票不退。<br>因铁路责任或自然灾害导致旅客持高车厢席別座位乘坐低席別座位时，退还票价差额。</li></ol>"
+        },
+        {  
+          "id":5,
+          "title_en":"Buy Mainland Domestic Tickets",
+          "title_tc":"購買内地票",
+          "title_sc":"购买内地票",
+          "image_en": "",
+          "image_tc": "",
+          "image_sc": "",
+          "content_en":"<ol><li><strong>What is a Mainland Domestic Ticket?</strong><br>A Mainland Domestic Ticket is a ticket for a journey with departure and destination stations being Mainland stations, for example, the ticket for a journey from Zhengzhoudong to Xianbei is a Mainland Domestic Ticket.<br><br></li><li><strong>Can I buy a Mainland Domestic Ticket in Hong Kong?</strong><br>Travellers who wish to buy Mainland Domestic ticket in Hong Kong can go to the designated ticketing counter at Hong Kong West Kowloon Station. The counter is operated by China Railway (Hong Kong) Holdings Ltd. and a service charge applies. Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/ticket/after-sales-service.html\")'><font color=\"red\">here</font></a> for more information。<br><br></li><li><strong>Is the definition of a child for a Mainland Domestic Ticket the same as a Cross Boundary Ticket? </strong><br>Yes. For both Mainland Domestic Ticket and Cross Boundary Ticket, a child refers to a traveller under the age of 18 and of height between 1.2-1.5m.<br><br></li><li><strong>Is the definition of an adult for a Mainland Domestic Ticket the same as a Cross Boundary Ticket?</strong><br>Yes. For both Mainland Domestic Ticket and Cross Boundary Ticket, an adult refers to a traveller at least the age of 18 or of height above 1.5m.</li></ol>",
+          "content_tc":"<ol><li><strong>甚麼是内地票?</strong><br>内地票即出發或到達站都是内地車站，例如「鄭州東-西安北」屬於内地票。<br><br></li><li><strong>在香港可以購票内地高鐵車票嗎?</strong><br> 香港西九龍站票務處設有特約代理櫃位，由中國鐵路（香港）控股有限公司營運，以方便旅客購買内地票，特約代理會收取服務費。詳情請<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/ticket/after-sales-service.html\")'><font color=\"red\">按此</font></a>。<br><br></li><li><strong>内地票的小童定義與跨境票相同嗎?</strong><br>相同。内地及跨境小童票都適用於未滿18歲，身高1.2至1.5米的旅客。<br><br></li><li><strong>内地票的成人定義與跨境票相同嗎?</strong><br>相同。内地及跨境成人票都適用於18歲或以上，或身高1.5米以上的旅客。</li></ol>",
+          "content_sc":"<ol><li><strong>甚么是内地票?</strong><br>内地票即出发或到达站都是内地车站，例如「郑州东-西安北」属于内地票。<br><br></li><li><strong>在香港可以购票内地高铁车票吗?</strong><br> 香港西九龙站票务处设有特约代理柜位，由中国铁路（香港）控股有限公司营运，以方便旅客购买内地票，特约代理会收取服务费。详情请<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/sc/ticket/after-sales-service.html\")'><font color=\"red\">按此</font></a>。<br><br></li><li><strong>内地票的儿童定义与跨境票相同吗?</strong><br>相同。内地及跨境儿童票都适用于未满18岁，身高1.2至1.5米的旅客。<br><br></li><li><strong>内地票的成人定义与跨境票相同吗?</strong><br>相同。内地及跨境成人票都适用于18岁或以上，或身高1.5米以上的旅客。</li></ol>"
+        }
+      ]
+    },
+	{
+         "type_id": "TNC",
+         "type_en": "Terms and Conditions",
+         "type_tc": "票務及乘車條款",
+         "type_sc": "票务及乘车条款",
+         "ticket_content": [
+			{
+               "id": 1,
+               "title_en": "The Rules for Guangzhou-Shenzhen-Hong Kong High Speed Rail Cross-Boundary Passenger Transport",
+               "title_tc": "廣深港高速鐵路跨境旅客運輸組織規則",
+               "title_sc": "广深港高速铁路跨境旅客运输组织规则",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/rules-for-hsr-cross-boundary-en.pdf\")'><font color=\"red\">here</font></a> for details.</p>",
+               "content_tc": "<p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/rules-for-hsr-cross-boundary-tc.pdf\")'><font color=\"red\">按此</font></a>了解更多。</p>",
+               "content_sc": "<p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/rules-for-hsr-cross-boundary-sc.pdf\")'><font color=\"red\">按此</font></a>了解更多。</p>"
+            },
+            {
+               "id": 2,
+               "title_en": "Conditions of Issue of Tickets",
+               "title_tc": "車票發出條件",
+               "title_sc": "车票发出条件（仅提供繁体中文版本）",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/conditions-of-issue-en.pdf\")'><font color=\"red\">here</font></a> for details.</p>",
+               "content_tc": "<p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/conditions-of-issue-tc.pdf\")'><font color=\"red\">按此</font></a>了解更多。</p>",
+               "content_sc": "<p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/conditions-of-issue-sc.pdf\")'><font color=\"red\">按此</font></a>了解更多。</p>"
+            },
+            {
+               "id": 3,
+               "title_en": "Terms and Conditions for Online Ticketing",
+               "title_tc": "網上購票及改票條款及條件",
+               "title_sc": "网上购票及改票条款及条件",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/online-ticketing-terms-en.pdf\")'><font color=\"red\">here</font></a> for details.</p>",
+               "content_tc": "<p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/online-ticketing-terms-tc.pdf\")'><font color=\"red\">按此</font></a>了解更多。</p>",
+               "content_sc": "<p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/online-ticketing-terms-sc.pdf\")'><font color=\"red\">按此</font></a>了解更多。</p>"
+            },
+            {
+               "id": 4,
+               "title_en": "Terms and Conditions for Ticketing & Service Hotline",
+               "title_tc": "購票及客務熱綫條款及條件",
+               "title_sc": "购票及客务热线条款及条件",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/ticket-service-hotline-terms-en.pdf\")'><font color=\"red\">here</font></a> for details.</p>",
+               "content_tc": "<p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/ticket-service-hotline-terms-tc.pdf\")'><font color=\"red\">按此</font></a>了解更多。</p>",
+               "content_sc": "<p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/ticket-service-hotline-terms-sc.pdf\")'><font color=\"red\">按此</font></a>了解更多。</p>"
+            },
+			{
+               "id": 5,
+               "title_en": "Personal Information Collection Statement",
+               "title_tc": "收集個人資料聲明及公告",
+               "title_sc": "收集个人资料声明及公告",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/personal-information-collection-statement-en.pdf\")'><font color=\"red\">here</font></a> for details.</p>",
+               "content_tc": "<p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/personal-information-collection-statement-tc.pdf\")'><font color=\"red\">按此</font></a>了解更多。</p>",
+               "content_sc": "<p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/personal-information-collection-statement-sc.pdf\")'><font color=\"red\">按此</font></a>了解更多。</p>"
+            }
+         ]
+      }
+   ]
+}

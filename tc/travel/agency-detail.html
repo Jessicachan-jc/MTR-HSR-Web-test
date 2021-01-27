@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="zh-HK" itemscope="" itemtype="https://schema.org/WebPage">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>高鐵遊攻略 > 高鐵旅遊專家</title>
+    <meta name="country" content="China">
+    <meta name="city" content="Hong Kong">
+    <meta name="robots" content="index,follow">
+    <meta name="copyright" content="香港鐵路有限公司">
+    <meta name="author" content="香港鐵路有限公司">
+
+    <link rel="icon" href="./images/common/favicon.ico" type="image/x-icon"/>
+    <link rel="shortcut icon" href="./images/common/favicon.ico" type="image/x-icon">
+
+    <meta name="keywords" content="高鐵遊攻略, 高速鐵路, High Speed Rail, MTR, 港鐵, 熱點推介, 主題旅遊, 行程推介, 高鐵旅遊專家">
+    <meta name="description" content="全長26公里的高速鐵路(香港段)以西九龍為起點，連接超過25,000公里的國家高鐵網絡。無論商務出行，抑或旅遊探親，高鐵帶給你一個舒適可靠的旅程，讓你以嶄新旅遊模式發掘更多更遠的地方！"></meta>
+
+    <meta property="og:url" content="https://www.highspeed.mtr.com.hk/tc/travel/">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="zh-HK">
+    <meta property="og:title" content="高速鐵路">
+    <meta property="og:description" content="全長26公里的高速鐵路(香港段)以西九龍為起點，連接超過25,000公里的國家高鐵網絡。無論商務出行，抑或旅遊探親，高鐵帶給你一個舒適可靠的旅程，讓你以嶄新旅遊模式發掘更多更遠的地方！">
+    <meta property="og:image" content="./images/common/share-img-l.jpg">
+
+    <meta name="twitter:card" content="Summary">
+    <meta name="twitter:site" content="https://www.highspeed.mtr.com.hk/">
+    <meta name="twitter:url" content="https://www.highspeed.mtr.com.hk/tc/travel/">
+    <meta name="twitter:title" content="高速鐵路">
+    <meta name="twitter:description" content="全長26公里的高速鐵路(香港段)以西九龍為起點，連接超過25,000公里的國家高鐵網絡。無論商務出行，抑或旅遊探親，高鐵帶給你一個舒適可靠的旅程，讓你以嶄新旅遊模式發掘更多更遠的地方！">
+    <meta name="twitter:image" content="./images/common/share-img.jpg"/>
+
+    <script src="./js/lib/jquery.min.js" type="text/javascript"></script>
+    <script src="./js/datalist.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="./css/style.min.css" type="text/css">
+    <link rel="stylesheet" href="./css/agency.min.css" type="text/css">
+
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WCCFW98');</script>
+</head>
+<body class="font-size-m">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WCCFW98" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div class="wrap sub-page sub-detail" id="hsr">
+        <hsr-top :page="pageid" :article="articleId"></hsr-top>
+        <main id="primary" class="contents" aria-label="content">
+            <div class="blind" id="a-primary-focus"></div>
+            <h1 class="blind" v-html="pagetitle"></h1>
+            <hsr-breadcrumb :depth1="depth1" :depth1link="depth1link" :depth2="depth2" :depth2link="depth2link" :current="articleTitle"></hsr-breadcrumb>
+            <hsr-breadcrumb-prev :goto="depth2link" :gototxt="text.btnGoPrev"></hsr-breadcrumb-prev>
+            <div class="sec-bg">
+                <section id="agency-detail">
+                    <div class="sec-inner">
+                        <section-tit :title="pagetitle" :img="pageid" class="hide-line"></section-tit>
+                        <article class="sec-contents">
+                            <div class="detail-item" v-for="(item, idx) in articleDetail" :key="idx">
+                                <div class="detail-item-heading">
+                                    <div class="agency-info">
+                                        <div class="agency-info-detail">
+                                            <div class="agency-info_thumb">
+                                                <figure>
+                                                    <img :src="item.img_detail_d" :alt="item.img_detail_d_tag?item.img_detail_d_tag:''" class="br767"/>
+                                                    <img :src="item.img_detail_m" :alt="item.img_detail_m_tag?item.img_detail_m_tag:''" class="view767"/>
+                                                    <figcaption class="blind" v-html="item.img_detail_d?item.img_detail_d:''"></figcaption>
+                                                </figure>
+                                            </div>
+                                            <div class="agency-info_text">
+                                                <div class="agency-info_text-in">
+                                                    <div class="agency_info__name" v-html="item.name"></div>
+                                                    <p class="agency_info__desc" v-html="item.mini_desc"></p>
+                                                    <div class="agency_info__other">
+                                                        <div class="info__oterh-item">
+                                                            <div class="agency_info__tel">
+                                                                <span class="ico-type-circle ico-tel"></span>
+                                                                <a v-html="item.phone" :href="'tel:'+item.phone" :title="item.name+'-打電話'"></a>
+                                                            </div>
+                                                        </div>
+                                                        <div class="info__oterh-item">
+                                                            <div class="agency_info__site">
+                                                                <span class="ico-type-circle ico-website"></span>
+                                                                <a v-html="item.link" :href="'https://'+item.link" :title="item.name+'官方網站-打開新窗口'"  target="_blank"></a>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="agency-info-bg"></div>
+                                    </div>
+                                    <p class="detail-heading_desc" v-html="item.main_desc"></p>
+                                </div>
+
+                                <div class="detail-item-cont" v-for="(item, idx) in articleDetail">
+
+                                    <div class="trip-table custom-trip">
+                                        <table>
+                                            <caption class="blind" v-html="item.name+item.custom_trip_name"></caption>
+                                            <colgroup>
+                                                <col width="50%">
+                                                <col width="50%">
+                                            </colgroup>
+                                            <thead>
+                                                <tr>
+                                                    <th v-html="item.custom_trip_name" colspan="2"></th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr v-for="(row, idx) in item.custom_trip" :key="idx" v-if="idx % 2 === 1">
+                                                   <td v-for="(td, order) in item.custom_trip" :key="order" v-if="tablerow(idx, order)">
+                                                       <p v-if="!td.link" v-html="td.name"></p>
+                                                       <a v-if="td.link" :href="td.link" target="_blank" v-html="td.name"></a>
+                                                   </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                        <div class="trip-tnc editor" v-html="item.custom_trip_tnc" v-if="item.custom_trip_tnc"></div>
+                                    </div>
+
+                                    <div class="trip-table group-trip">
+                                        <table>
+                                            <caption class="blind" v-html="item.name+item.group_trip_name"></caption>
+                                            <colgroup>
+                                                <col width="50%">
+                                                <col width="50%">
+                                            </colgroup>
+                                            <thead>
+                                                <tr>
+                                                    <th v-html="item.group_trip_name" colspan="2"></th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                <tr v-for="(row, idx) in item.group_trip" :key="idx" v-if="idx % 2 === 1">
+                                                   <td v-for="(td, order) in item.group_trip" :key="order" v-if="tablerow(idx, order)">
+                                                    <p v-if="!td.link" v-html="td.name"></p>
+                                                    <a v-if="td.link" :href="td.link" target="_blank" v-html="td.name"></a>
+                                                   </td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                        <div class="trip-tnc editor" v-html="item.group_trip_tnc" v-if="item.group_trip_tnc"></div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </article>
+
+                        <article class="sec-contents" v-for="(item, idx) in articleDetail" :key="idx">
+                            <div class="editor area-tnc">
+                                <p>條款及細則：</p>
+                                <div v-html="item.tnc" v-if="item.tnc"></div>
+                            </div>
+                        </article>
+                    </div>
+                </section>
+                <div class="sec-bg-group">
+                    <div class="sec-bg-group__inner">
+                        <div class="bg-item-top"></div>
+                        <div class="bg-item-circle5"></div>
+                        <div class="bg-item-circle6"></div>
+                        <div class="bg-item-circle7"></div>
+                        <div class="bg-item-circle8"></div>
+                        <div class="bg-item-btm">
+                            <div id="canvas-container"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main>
+        <hsr-foot :backtotop="text.btnBackTop" :copytxt="text.fcopy"></hsr-foot>
+    </div>
+
+    <script src="./js/lib/vue.min.js" defer type="text/javascript"></script>
+    <script src="./js/lib/plugins.min.js" defer type="text/javascript"></script>
+    <script type="text/javascript">
+    ;(function(win,doc,callback){'use strict';callback=callback||function(){};function detach(){if(doc.addEventListener){doc.removeEventListener('DOMContentLoaded',completed)}else{doc.detachEvent('onreadystatechange',completed)}}function completed(){if(doc.addEventListener||event.type==='load'||doc.readyState==='complete'){detach();callback(window,window.jQuery)}}function init(){if (doc.addEventListener){doc.addEventListener('DOMContentLoaded',completed)}else{doc.attachEvent('onreadystatechange',completed)}}init()})(window,document,function(win,$){
+        $.ajaxSetup({cache:true});
+        $.ajax('./js/components.min.js')
+        .then(function(){return $.ajax('./js/common.min.js')})
+        .then(function(){
+            //Page Set : Sub Page Only
+            var pageid = 'agency';
+            $.each(topmenu, function(index, item){
+                if(item.id == pageid) {
+                    MTR.pagetitle  = item.name;
+                    MTR.pageid     = item.id;
+                    MTR.depth1     = item.name;
+                    MTR.depth1link = item.link;
+                }
+            });
+
+            var getList = $.getJSON('./data/agency-detail.json', function(data){
+                return MTR.articleList = data;
+            }).done(function(){
+                var article = "";
+                if(QueryString.article){
+                    article = QueryString.article;
+                    var cnt = 0;
+                    MTR.articleList.filter(function(item){
+                        if(item.id == article){
+                            cnt++;
+                            return MTR.articleDetail = new Array(item);
+                        }
+                    });
+
+                    if(cnt == 0) { window.location.href = './agency.html';}
+
+                    MTR.articleId    = MTR.articleDetail[0].id;
+                    MTR.articleTitle = MTR.articleDetail[0].name;
+                    MTR.depth2       = MTR.articleDetail[0].label;
+                    MTR.depth2link   = './agency.html';
+                    MTR.dropSelected = "";
+
+                }else {
+                    window.location.href = MTR.depth1link;
+                }
+            });
+        })
+    });
+    var satellite=setInterval(startPage,1e3);function startPage(){if(("ready"===document.readyState||"complete"===document.readyState)&&"complete"==document.readyState){if("undefined"!=typeof MTR)return LOAD_STATUS=!0,MTR.pageLoad=!0,void clearInterval(satellite);startPage()}}
+    </script>
+
+</body>
+</html>

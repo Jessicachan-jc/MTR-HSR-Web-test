@@ -1,0 +1,123 @@
+<html lang="zh-Hant">
+    <head>
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-WCCFW98');</script>
+        <!-- End Google Tag Manager -->
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>高速鐵路 > 簡介</title>
+        <link rel="icon" href="/assets/img/logo/favicon.ico" type="image/x-icon"/>
+        <link rel="shortcut icon" href="/assets/img/logo/favicon.ico" type="image/x-icon">
+        <link rel="stylesheet" href="/assets/css/reset.css">
+        <link rel="stylesheet" href="/assets/vendor/css/bootstrap.min.css">
+        <link rel="stylesheet" href="/assets/vendor/css/bootstrap-theme.min.css">
+        <link rel="stylesheet" href="/assets/vendor/css/slick.css">
+        <link rel="stylesheet" href="/assets/vendor/css/slick-theme.css">	
+        <link rel="stylesheet" href="/assets/vendor/css/swiper.min.css" />
+        <link rel="stylesheet" href="/assets/css/style.css">
+        <script src='/assets/vendor/js/jquery-3.3.1.min.js'></script>
+        <script src='/assets/vendor/js/bootstrap.min.js'></script>
+        <script src='/assets/vendor/js/slick.min.js'></script>
+        <script src='/assets/vendor/js/isotope.pkgd.min.js' type="text/javascript"></script>
+        <script src='/assets/vendor/js/swiper.min.js'></script>
+        <script src='/assets/js/config.js'></script>
+        <script src='/assets/js/main.js'></script>
+        <script src='/assets/js/navigation.js'></script>    </head>
+    <body>
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WCCFW98"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+    <!--#include virtual="/tc/common/header.inc.html" -->
+                    <div class="content-container">
+                        <!--#include virtual="/tc/common/trip_planner_search_bar.inc.html" -->        <div class="shop-information container-fluid">
+                            <div class="row">
+                                <div class="container">
+                                    <div class="inner-content-container row">
+                                        <div class="clearfix">
+                							<ul id="breadcrumb" class="breadcrumb">
+                							</ul>							<div class="title-box"><h1 class="h2">簡介</h1></div>
+                						</div>
+                                        <div class="tab-wrapper">
+                                            <div class="second-level-tab">
+                                                <div class="sticky-content tab-container">
+                                                    <div class="container clearfix">
+                                                                    <div class="tab-item active">
+                                                                        <a href="javascript:void(0)" class="tab-title"><span class="content-wrapper">簡介</span></a>
+                                                                    </div>
+                                                                    <div class="tab-item">
+                                                                        <a href="/tc/shop/all.html" class="tab-title"><span class="content-wrapper">車站商店及服務列表</span></a>
+                                                                    </div>
+                                                                    <div class="tab-item">
+                                                                        <a href="/tc/shop/rent-related.html" class="tab-title"><span class="content-wrapper">租務查詢</span></a>
+                                                                    </div>
+                                                                    <div class="tab-item">
+                                                                        <a href="/tc/shop/gift-shop.html" class="tab-title"><span class="content-wrapper">高鐵精品</span></a>
+                                                                    </div>
+                                                    </div>
+                                                </div>
+                                            </div>                            <div class="tab-content-container styled-text-wrapper">
+                                                <div class="tab-content"><p class="title">車站商店及服務</p><p>香港西九龍站致力引入新品牌及有代表性的商戶，為旅客帶來嶄新的購物體驗。為提供更完善的服務及便利乘客，香港西九龍站提供多元化的商舖，如免稅店、飲食、手信及零售商舖、便利店、餅店、旅行社、銀行及理財服務等，以配合旅客所需。 </p></div>
+                                            </div>                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <!--#include virtual="/tc/common/footer.inc.html" -->
+    </div>    <script>
+            $(document).ready(function(){
+                //sticky tab
+                $(window).on('scroll scrollstart', function(){
+                    initStickyBar()
+                })
+    
+                initLangSwitch();
+                initBackToTop();
+    
+                function initStickyBar(){
+                    $.map($('.content-container .sticky-bar-container'), function(item, index){
+                        var offsetTop = $(item).offset().top
+                        if($(document).scrollTop() >= offsetTop && $(document).width() > 960){
+                            if(!$(item).hasClass('sticky')){
+                                $('.sticky').removeClass('sticky')
+                                $(item).height($(item).find('.sticky-content').outerHeight())
+                                $(item).addClass('sticky')
+                            } 
+                        } else {
+                            if($(item).hasClass('sticky')){
+                                $('.sticky').removeClass('sticky')
+                                $(item).removeClass('sticky').height('auto')
+                            }
+                        }
+                    })
+                }
+    
+                function initLangSwitch(){
+                    $.map($('.lang-switch'), function(item, id){
+                        $.map($(item).children(), function(item, id){
+                            var newLink = window.location.pathname.replace(/(\/tc|\/sc|\/en)/g, '') + (window.location.pathname == '/' ? 'main/index.html' : '') + window.location.search
+                            $(item).attr('href', '/' + $(item).attr('langKey') + newLink)
+                        })
+                    })
+                }
+    
+                function initBackToTop(){
+                    var scrolling = false
+                    $('.back-to-top-container').on('click', function(){
+                        if(!scrolling){
+                            scrolling = true
+                            $('body').animate({scrollTop: 0}, function(){
+                                scrolling = false
+                            })
+                        }
+                    })
+                }
+            })
+        </script>
+    </body></html>

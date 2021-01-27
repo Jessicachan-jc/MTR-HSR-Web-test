@@ -1,0 +1,28 @@
+{
+    "force_update": {
+        "ios_min_ver": "4",
+        "ios_max_ver": "4",
+        "android_min_ver": "4",
+        "android_max_ver": "4",
+        "ios_app_store": "https://itunes.apple.com/hk/app/high-speed-rail/id1425732021?mt=8",
+        "android_play_store": "https://play.google.com/store/apps/details?id=com.mtr.highspeedrail",
+        "soft_update_msg_en": "New version of High Speed Rail mobile app has launched. Please update to new version to stay connected with High Speed Rail information.",
+        "soft_update_msg_tc": "新版本高速鐵路應用程式已經推出，如要繼續查閱最新高鐵資訊，請更新至最新版本。",
+        "soft_update_msg_sc": "新版本高速铁路应用程序已经推出，如要继续查阅最新高铁信息，请更新至最新版本。",
+        "force_update_msg_en": "New version of High Speed Rail mobile app has launched. Please update to new version to stay connected with High Speed Rail information.",
+        "force_update_msg_tc": "新版本高速鐵路應用程式已經推出，如要繼續查閱最新高鐵資訊，請更新至最新版本。",
+        "force_update_msg_sc": "新版本高速铁路应用程序已经推出，如要继续查阅最新高铁信息，请更新至最新版本。"
+    },
+    "trip_planner_ver": "202008260001a",
+    "promotion_ver": "202006291830a",
+    "ticket_ver": "202006080001",
+	"connection_ver": "202006220002",
+	"steps_ver": "202006090004",
+	"entrance_exit_ver": "201810031400",
+	"accessible_ver": "201809051803",
+	"attraction_ver": "201910110001",
+    "facility_ver": "201908221100",
+	"shop_ver": "202008031000",
+    "buy_ticket_url": "",
+    "mtr_mobile_appicon": "/res/media/app/setting/mtrappicon.png"
+}

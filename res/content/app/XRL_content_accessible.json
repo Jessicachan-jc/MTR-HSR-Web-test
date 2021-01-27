@@ -1,0 +1,199 @@
+{
+    "section":"accessible",
+    "current_ver": "201809051803",
+	"last_update_date":"yyyy-MM-DD",
+	"type": [
+        {
+            "type_id": 1,
+            "type_en": "Mobility Impaired Passengers",
+            "type_tc": "行動不便乘客",
+            "type_sc": "行动不便乘客",
+            "type_list": [
+               {
+                    "id": 1,
+                    "title_en":"Wheelchair Seat Reservation",
+                    "title_tc":"預訂輪椅座位",
+                    "title_sc":"预订轮椅座位",
+                    "image_en":"/res/media/app/barrier-free/wheelchair-seat.jpg",
+                    "image_tc":"/res/media/app/barrier-free/wheelchair-seat.jpg",
+                    "image_sc":"/res/media/app/barrier-free/wheelchair-seat.jpg",
+                    "content_en":"<p>Passengers with special needs can reserve a wheelchair seat with our staff during ticket purchase.</p>",
+                    "content_tc":"<p>有需要的旅客可在購票時向職員預訂有關的輪椅座位</p>",
+                    "content_sc":"<p>有需要的旅客可在购票时向职员预订有关的轮椅座位</p>"
+                },
+				{
+                    "id": 2,
+                    "title_en":"Lifts",
+                    "title_tc":"升降機",
+                    "title_sc":"升降机",
+                    "image_en":"",
+                    "image_tc":"",
+                    "image_sc":"",
+                    "content_en":"<p>Currently, Hong Kong West Kowloon Station has 64 lifts that connect the different levels and ground floor of the station to make it easy for wheelchair users to enter and exit the station and use the facilities</p>",
+                    "content_tc":"<p>現時香港西九龍站已裝設64部升降機，連接車站各樓層和地面，方便輪椅使用者進出車站及使用各項設施</p>",
+                    "content_sc":"<p>现时香港西九龙站已装设64部升降机，连接车站各楼层和地面，方便轮椅使用者进出车站及使用各项设施</p>"
+                },
+				{
+                    "id": 3,
+                    "title_en":"Wide Gate",
+                    "title_tc":"闊閘機",
+                    "title_sc":"阔闸机",
+                    "image_en":"",
+                    "image_tc":"",
+                    "image_sc":"",
+                    "content_en":"<p>The width of the wide gate enables wheelchair users to go through the gate without needing to ask for assistance from station staff</p>",
+                    "content_tc":"<p>闊閘機有足夠的寬度，讓輪椅使用者可自行通過入閘機</p>",
+                    "content_sc":"<p>阔闸机有足够的宽度，让轮椅使用者可自行通过入闸机</p>"
+                },
+				{
+                    "id": 4,
+                    "title_en":"Accessible Toilets",
+                    "title_tc":"無障礙洗手間",
+                    "title_sc":"无障碍洗手间",
+                    "image_en":"",
+                    "image_tc":"",
+                    "image_sc":"",
+                    "content_en":"<p>Designated accessible toilets equipped with handrails and call buttons are provided at Hong Kong West Kowloon Station to meet the needs of passengers with disabilities</p>",
+                    "content_tc":"<p>香港西九龍站設有無障礙洗手間，並配備扶手及召援鐘以配合殘疾人士的需要</p>",
+                    "content_sc":"<p>香港西九龙站设有无障碍洗手间，并配备扶手及召援钟以配合残疾人士的需要</p>"
+                },
+				{
+                    "id": 3,
+                    "title_en":"Wheelchair Space inside Car",
+                    "title_tc":"車廂內的輪椅停泊處",
+                    "title_sc":"车厢内的轮椅停泊处",
+                    "image_en":"",
+                    "image_tc":"",
+                    "image_sc":"",
+                    "content_en":"<p>Wheelchair spaces are provided in High Speed Trains. There are 2 spaces in Vibrant Express Car 7. Passengers in need may visit the Ticketing Counters at Hong Kong West Kowloon Station or call our Ticketing and Service Hotline to make arrangements</p>",
+                    "content_tc":"<p>高速列車車廂內設有輪椅停泊處，而於港鐵動感號的兩個輪椅停泊處則設於第七卡車廂。使用輪椅的乘客，可親臨香港西九龍站票務處或致電購票熱綫，以便安排合適的座位</p>",
+                    "content_sc":"<p>高速列车车厢内设有轮椅停泊处，而于港铁动感号的两个轮椅停泊处则设于第七节车厢。使用轮椅的乘客，可亲临香港西九龙站票务处或致电购票热线，以便安排合适的座位</p>"
+                }
+            ]
+        },
+		{
+            "type_id": 2,
+            "type_en": "Visually Impaired Passengers",
+            "type_tc": "視障乘客",
+            "type_sc": "视障乘客",
+            "type_list": [
+               {
+                    "id": 1,
+                    "title_en":"Audible Lift Message",
+                    "title_tc":"升降機發聲器",
+                    "title_sc":"升降机发声器",
+                    "image_en":"",
+                    "image_tc":"",
+                    "image_sc":"",
+                    "content_en":"<p>Audible messages indicating direction and floor level are broadcast in all passenger lifts in Hong Kong West Kowloon Station</p>",
+                    "content_tc":"<p>香港西九龍站內所有客用升降機均裝有發聲器，播放信息提示乘客升降機的方向和樓層</p>",
+                    "content_sc":"<p>香港西九龙站内所有客用升降机均装有发声器，播放信息提示乘客升降机的方向和楼层</p>"
+                },
+				{
+                    "id": 2,
+                    "title_en":"Tactile Guide Path",
+                    "title_tc":"失明人士引導徑",
+                    "title_sc":"失明人士引导径",
+                    "image_en":"",
+                    "image_tc":"",
+                    "image_sc":"",
+                    "content_en":"<p>Tactile guide paths are installed at Hong Kong West Kowloon Station to guide passengers to different station facilities</p>",
+                    "content_tc":"<p>香港西九龍站設有失明人士引導徑，播放信息提示乘客前往不同的車站設施</p>",
+                    "content_sc":"<p>香港西九龙站设有失明人士引导径，播放信息提示乘客前往不同的车站设施</p>"
+                },
+				{
+                    "id": 3,
+                    "title_en":"Audible Device at Exit/Entry Gates",
+                    "title_tc":"出入閘機發聲器",
+                    "title_sc":"出入闸机发声器",
+                    "image_en":"",
+                    "image_tc":"",
+                    "image_sc":"",
+                    "content_en":"<p>In Hong Kong West Kowloon Station, an audible device is located at the gate reached from the tactile guide path. When using the gate with a valid ticket, the audio device will say \"please enter\"</p>",
+                    "content_tc":"<p>香港西九龍站連接失明人士引導徑的出/入閘機已裝設發聲器。使用有效車票入閘時，發聲器會發出「請入閘」語音訊息</p>",
+                    "content_sc":"<p>香港西九龙站连接失明人士引导径的出/入闸机已装设发声器。使用有效车票入闸时，发声器会发出「请入闸」语音讯息</p>"
+                },
+				{
+                    "id": 4,
+                    "title_en":"Escalator Audible Warning Signals",
+                    "title_tc":"扶手電梯發聲提示器",
+                    "title_sc":"扶手电梯发声提示器",
+                    "image_en":"",
+                    "image_tc":"",
+                    "image_sc":"",
+                    "content_en":"<p>Escalator audible warning signals are installed in Hong Kong West Kowloon Station to help passengers locate escalators and identify the running direction of the escalator at platforms and in the concourses</p>",
+                    "content_tc":"<p>香港西九龍站安裝了扶手電梯發聲提示器，協助月台上及／或大堂內的乘客確定扶手電梯的位置及運行方向/入閘機已裝設發聲器。使用有效車票入閘時，發聲器會發出「請入閘」語音訊息</p>",
+                    "content_sc":"<p>香港西九龙站安装了扶手电梯发声提示器，协助月台上及／或大堂内的乘客确定扶手电梯的位置及运行方向/入闸机已装设发声器。使用有效车票入闸时，发声器会发出「请入闸」语音讯息</p>"
+                },
+				{
+                    "id": 5,
+                    "title_en":"Tactile Station Layout Map",
+                    "title_tc":"觸覺車站佈置圖",
+                    "title_sc":"触觉车站佈置图",
+                    "image_en":"",
+                    "image_tc":"",
+                    "image_sc":"",
+                    "content_en":"<p>Hong Kong West Kowloon Station is equipped with Tactile Station Layout Maps in concourses and platforms so that visually impaired passengers can become familiar with the station layout, use the station facilities, and find barrier-free access to trains</p>",
+                    "content_tc":"<p>香港西九龍站的月台或大堂已安裝觸覺車站佈置圖，此裝置具備發聲功能及點字指引，藉此幫助視障乘客認識車站的佈置，以便使用車站的設施及無障礙的列車服務</p>",
+                    "content_sc":"<p>香港西九龙站的月台或大堂已安装触觉车站佈置图，此装置具备发声功能及点字指引，藉此帮助视障乘客认识车站的佈置，以便使用车站的设施及无障碍的列车服务</p>"
+                },
+				{
+                    "id": 6,
+                    "title_en":"Facilities with Braille Plates",
+                    "title_tc":"配備點字板的設施",
+                    "title_sc":"配备点字板的设施",
+                    "image_en":"",
+                    "image_tc":"",
+                    "image_sc":"",
+                    "content_en":"<p>Braille plates are installed on Ticket Issuing Machines, accessible toilets, lift buttons, lift level plates and staircase handrails in Hong Kong West Kowloon Station</p>",
+                    "content_tc":"<p>香港西九龍站內的售票機、無障礙洗手間、升降機按鈕、升降機樓層標誌牌及樓梯扶手桿，均設有點字牌</p>",
+                    "content_sc":"<p>香港西九龙站内的售票机、无障碍洗手间、升降机按钮、升降机楼层标志牌及楼梯扶手杆，均设有点字牌</p>"
+                },
+				{
+                    "id": 7,
+                    "title_en":"Broadcast at Platform Level and Door Closing Chimes",
+                    "title_tc":"月台廣播及開關門提示聲",
+                    "title_sc":"月台广播及开关门提示声 ",
+                    "image_en":"",
+                    "image_tc":"",
+                    "image_sc":"",
+                    "content_en":"<p>Automatic voice announcements will be broadcast when a train is approaching and arriving at the platform. A chime will also sound when the train doors/platform screen doors/automatic platform gates are opening/closing. Moreover, all trains are equipped with a digital broadcasting system which automatically states the next station name</p>",
+                    "content_tc":"<p>香港西九龍站的車站月台設置自動廣播系統，當列車駛入及抵達月台時會發出廣播。當車門／月台幕門／自動月台閘門打開／關閉時，開門／關門提示聲會自動響起。另外，列車亦設有數碼自動廣播系統，提供下一個車站名稱的資料</p>",
+                    "content_sc":"<p>香港西九龙站的车站月台设置自动广播系统，当列车驶入及抵达月台时会发出广播。当车门／月台幕门／自动月台闸门打开／关闭时，开门／关门提示声会自动响起。另外，列车亦设有数码自动广播系统，提供下一个车站名称的数据</p>"
+                }
+            ]
+        },
+		{
+            "type_id": 3,
+            "type_en": "Hearing Impaired Passengers",
+            "type_tc": "聽障乘客",
+            "type_sc": "听障乘客",
+            "type_list": [
+				{
+                    "id": 2,
+                    "title_en":"Information Cards",
+                    "title_tc":"諮詢卡",
+                    "title_sc":"咨询卡",
+                    "image_en":"",
+                    "image_tc":"",
+                    "image_sc":"",
+                    "content_en":"<p>Information Cards, which facilitate communication between hearing impaired passengers and station staff, are available at all information counters at Hong Kong West Kowloon Station</p>",
+                    "content_tc":"<p>香港西九龍站的詢問處已備有諮詢卡，方便聽障乘客與車站職員溝通</p>",
+                    "content_sc":"<p>香港西九龙站的询问处已备有谘询卡，方便听障乘客与车站职员沟通</p>"
+                },
+				{
+                    "id": 3,
+                    "title_en":"Passenger Information Display Systems",
+                    "title_tc":"乘客資訊顯示系統",
+                    "title_sc":"乘客资讯显示系统",
+                    "image_en":"",
+                    "image_tc":"",
+                    "image_sc":"",
+                    "content_en":"<p>Passenger Information Display Systems provide visual messages and are supported by an audible warning in case of an incident. They are installed at the entrances and concourses of Hong Kong West Kowloon Station, with the next train arriving visual message always displayed on platforms. Trains are also equipped with displays to show the name of the next station and railway operation information</p>",
+                    "content_tc":"<p>香港西九龍站入口和大堂都設有乘客資訊顯示系統，為乘客提供視像信息。一旦發生事故，乘客資訊顯示系統會發出警報聲響，提示乘客注意當時所顯示的信息。此外，月台上的乘客資訊顯示系統會顯示列車抵站時間的視像信息。列車上亦裝有顯示屏，為乘客提供下一站的名稱及鐵路運作的資訊</p>",
+                    "content_sc":"<p>香港西九龙站入口和大堂都设有乘客信息显示系统，为乘客提供视像信息。一旦发生事故，乘客信息显示系统会发出警报声响，提示乘客注意当时所显示的信息。此外，月台上的乘客信息显示系统会显示列车抵站时间的视像信息。列车上亦装有显示屏，为乘客提供下一站的名称及铁路运作的信息</p>"
+                }
+            ]
+        }		
+    ]
+}

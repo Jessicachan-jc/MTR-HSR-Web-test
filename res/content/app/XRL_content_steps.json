@@ -1,0 +1,179 @@
+{
+   "section": "steps",
+   "current_ver": "202006090004",
+   "last_update_date": "yyyy-MM-DD",
+   "step": [
+      {
+         "type_id": "INT",
+         "type_en": "Process- Departures",
+         "type_tc": "乘車流程- 離港",
+         "type_sc": "乘车流程- 离港",
+         "step_list": [
+            {
+               "id": 1,
+               "title_en": "Easy Journey in 3 Steps",
+               "title_tc": "輕鬆乘車三步曲",
+               "title_sc": "轻松乘車三步曲",
+               "image_en": "/res/media/app/trip-info/travel-flow-en_20190608.jpg",
+               "image_tc": "/res/media/app/trip-info/travel-flow-tc_20190608.jpg",
+               "image_sc": "/res/media/app/trip-info/travel-flow-sc_20190608.jpg",
+               "content_en": "<p>Passengers should bring their personal identity document that is used for ticket purchase for real-name ID check and immigration procedures.</p><p>Follow 3 easy steps for journeys departing from Hong Kong:</p><ol><li><p>After you have passed the real-name ID check at the Ticketing Concourse on Level B1, you can then proceed for luggage and security check.</p></li><li><p>Descend to the Departure Concourse on Level B3 to complete both the Hong Kong and Mainland clearance procedures in one go</p></li><li><p>Wait at the Departure Concourse and follow the directions to the gates to Level B4. The gates will be closed 5 minutes before departure time.</p></li></ol>",
+               "content_tc": "<p>旅客必須出示購票時所使用的身份證明文件進行實名驗證及辦理通關手續。</p><p>香港出發，輕鬆乘車三步曲：</p><ol><li>於B1層票務大堂通過實名驗證，然後進行行李及保安檢查。</li><li>前往B3層離港大堂一次過完成香港和內地的通關程序。</li><li>在離港大堂的候車區等候，再按指示通過閘機前往B4層登車，閘機將於列車開出前5 分鐘關閉。</li></ol>",
+               "content_sc": "<p>旅客必须出示购票时所使用的身份证明文件进行实名验证及办理通关手续。</p><p>香港出发，轻松乘车三步曲：</p><ol><li>于B1层票务大堂通过实名验证，然后进行行李及保安检查。</li><li>前往B3层离港大堂一次过完成香港和内地的通关程序。</li><li>在离港大堂的候车区等候，再按指示通过闸机前往B4层登车，闸机将于列车开出前5 分钟关闭。</li></ol>"
+            }
+         ]
+      },
+	  {
+         "type_id": "PRA",
+         "type_en": "Process- Arrivals",
+         "type_tc": "乘車流程- 抵港",
+         "type_sc": "乘车流程- 抵港",
+         "step_list": [
+            {
+               "id": 1,
+               "title_en": "Arrival in Hong Kong",
+               "title_tc": "抵港入境程序",
+               "title_sc": "抵港入境程序",
+               "image_en": "/res/media/app/trip-info/arrivals.jpg",
+               "image_tc": "/res/media/app/trip-info/arrivals.jpg",
+               "image_sc": "/res/media/app/trip-info/arrivals.jpg",
+               "content_en": "<p>After the train has arrived at West Kowloon Station:</p><ol><li>Alight from the train at the platform on Level B4</li><li>Head to Level B2 to complete one-time immigration formalities for both Hong Kong and Mainland China</li><li>After arrival in Hong Kong, exit the gates using the train ticket and depart from the West Kowloon Station to continue your journey on foot or via a connecting transportation option.</li></ol>",
+               "content_tc": "<p>到達香港的乘客所乘搭的列車到達西九龍站後：</p><ol><li>在B4月台層下車</li><li>前往B2層一次過完成内地和香港的出入境程序</li><li>入境後以車票出閘，步行或乘車離開西九龍站</li></ol>",
+               "content_sc": "<p>到达香港的乘客所乘搭的列车到达西九龙站后：</p><ol><li>在B4月台层下车</li><li>前往B2层一次过完成内地和香港的出入境程序</li><li>入境后以车票出闸，步行或乘车离开西九龙站</li></ol>"
+            }
+         ]
+      },
+      {
+         "type_id": "LUG",
+         "type_en": "Baggage Regulations",
+         "type_tc": "行李規章",
+         "type_sc": "行李规章",
+         "step_list": [
+            {
+               "id": 1,
+               "title_en": "Baggage Regulations",
+               "title_tc": "行李規章",
+               "title_sc": "行李规章",
+               "image_en": "/res/media/app/trip-info/hand-carry-en.jpg",
+               "image_tc": "/res/media/app/trip-info/hand-carry-tc.jpg",
+               "image_sc": "/res/media/app/trip-info/hand-carry-sc.jpg",
+               "content_en": "<ul><li>The maximum weight of baggage （excluding folding wheelchairs for the disabled） that can be carried by travellers is: Adult 20 kg; Child 10 kg; Diplomat 35 kg. The sum of the length, width and height of hand-carried baggage must not exceed 130 cm.</li><li>Travellers are not allowed to bring any animals onboard the trains （except for guide dogs）</li><li>High Speed Rail does not provide baggage or parcel consignments. Passengers may contact the service provider for parcel consignment and delivery services which is located in the Ticketing Concourse at level B1 （next to the Ticketing Counter）, Hong Kong West Kowloon Station.</li></ul><p><strong>Prohibited or restricted items</strong></p><p>These items are strictly prohibited in trains, stations or anywhere else on railway premises<br><strong>Explosives</strong>: explosives in any form, explosive devices, maroons, etc.<br /><strong>Dangerous items</strong>: any weapon, e.g. knives, guns, offensive weapons, etc.Compressed gases: petroleum gas, coal gas, oxygen, hydrogen, etc.<br /><strong>Flammable liquids</strong>: alcohol, retinol, benzene, thinners, petrol, paint, hydrogen peroxide, diesel oils, etc.<br /><strong>Poisons</strong>: arsenic trioxide, cyanide, hazardous pesticides, etc.Corrosive items: nitric acid, sulphuric acid, mercury, etc.<br />The range of prohibited items is extensive and is not limited to these items</p><p><strong>Restricted items:</strong></p><ul><li>nail polish, delustrant, and hair dyes must not exceed 20 ml;</li><li>pressurised self-spray containers such as cold waving conditioner, mousse, hair spray</li><li>insecticides, air fresheners, etc. must not exceed 120 ml;</li><li>two small boxes of safety matches; and two ordinary lighters</li></ul><p>The MTR Corporation has the absolute authority and its sole discretion to refuse permission to board to any passenger found with any explosive/ dangerous/ flammable/ toxic/ corrosive items whether or not they are listed above</p><p><strong>**For more information on the prohibited and restricted items in stations and on trains, please refer to the Rules for Guangzhou-Shenzhen-Hong Kong High Speed Rail Cross-Boundary Passenger Transport and to the notices in stations.</strong></p>",
+               "content_tc": "<ul><li>持票旅客可攜帶物品的（殘疾人士自用的輪椅除外）上限為：成人20公斤；兒童10公斤；外交人員35公斤；每件行李外部尺寸，長、闊、高相加的總和，不得超逾130厘米</li><li>高速鐵路不提供行李或包裹託運。<br>乘客如有需要，可於香港西九龍站B1層票務大堂（票務處旁），向包裹寄送服務供應商查詢。</li><li>禁止旅客隨身攜帶任何動物進站乘車（導盲犬除外）</li></ul><p><strong>禁止或限量攜帶物品</strong></p><p>嚴禁攜帶下列物品進入車廂、車站或鐵路範圍內任何地方<br><strong>爆炸品</strong>：任何形式的炸藥、爆破器材、鞭炮等<br><strong>危險品</strong>：任何武器，例如刀、槍、攻擊性武器等<br><strong>壓縮氣體</strong>：石油氣、煤氣、氧氣、氫氣等<br><strong>易燃液體</strong>：酒精、松香油、苯、稀釋劑、汽油、油漆、雙氧水、柴油等<br><strong>有毒物品</strong>：砒霜、山埃、劇毒農藥等<br><strong>腐蝕性物品</strong>：硝酸、硫酸、汞（水銀）等<br>嚴禁攜帶的物品種類繁多，未能盡列</p><p><strong>限量攜帶物品：</strong></p><ul><li>不超過20毫升的指甲油、去光劑、染髮劑；</li><li>不超過120毫升的冷燙精、摩絲、髮膠、殺蟲劑、空氣清新劑等</li><li>自噴壓力容器；</li><li>安全火柴2小盒；普通打火機2個</li></ul><p>港鐵公司擁有絕對權力，酌情決定拒絕任何乘客攜帶任何爆炸品／危險品／易燃物品／有毒物品／腐蝕性物品上車，不論是否屬上列物品</p><p><strong>**有關禁止或限制帶進車站及列車的物品，請參閱《廣深港高速鐵路跨境旅客運輸組織規則》及車站的通告</strong></p>",
+               "content_sc": "<ul><li>持票旅客可携带物品的（残疾人士自用的轮椅除外）上限为：成人20公斤；儿童10公斤；外交人员35公斤；每件行李外部尺寸，长、阔、高相加的总和，不得超逾130厘米</li><li>高速铁路不提供行李或包裹托运。<br>乘客如有需要，可于香港西九龙站B1层票务大堂（票务处旁），向包裹寄送服务供应商查询。</li><li>禁止旅客随身携带任何动物进站乘车（导盲犬除外）</li></ul><p><strong>禁止或限量携带物品</strong></p><p>严禁携带下列物品进入车厢、车站或铁路范围内任何地方<br><strong>爆炸品</strong>：任何形式的炸药、爆破器材、鞭炮等<br><strong>危险品</strong>：任何武器，例如刀、枪、攻击性武器等<br><strong>压缩气体</strong>：石油气、煤气、氧气、氢气等<br><strong>易燃液体</strong>：酒精、松香油、苯、稀释剂、汽油、油漆、双氧水、柴油等<br><strong>有毒物品</strong>：砒霜、山埃、剧毒农药等<br><strong>腐蚀性物品</strong>：硝酸、硫酸、汞（水银）等<br>严禁携带的物品种类繁多，未能尽列</p><p><strong>限量携带物品：</strong></p><ul><li>不超过20毫升的指甲油、去光剂、染发剂；</li><li>不超过120毫升的冷烫精、摩丝、发胶、杀虫剂、空气清新剂等</li><li>自喷压力容器；</li><li>安全火柴2小盒；普通打火机2个</li></ul><p>港铁公司拥有绝对权力，酌情决定拒绝任何乘客携带任何爆炸品／危险品／易燃物品／有毒物品／腐蚀性物品上车，不论是否属上列物品</p><p><strong>**有关禁止或限制带进车站及列车的物品，请参阅《广深港高速铁路跨境旅客运输组织规则》及车站的通告</strong></p>"
+            }
+         ]
+      },
+      {
+         "type_id": "TNC",
+         "type_en": "Notice to Travellers",
+         "type_tc": "旅客須知",
+         "type_sc": "旅客须知",
+         "step_list": [
+            {
+               "id": 1,
+               "title_en": "Notice to Travellers",
+               "title_tc": "旅客須知",
+               "title_sc": "旅客须知",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<ul><li>Station service hours: 6:00 am - 12:00 midnight.</li><li>Tickets are only valid for the date, train number and boarding station as shown on the ticket. Travellers who get off the train mid-journey or those who have not travelled the whole journey cannot use the same ticket for the remainder of the journey.</li><li>Passengers are reminded to ensure that they have the valid travel documents with them while travelling. The gates at level B3 will close 5 minutes prior to departure.</li><li>Travellers must board at the station as shown on the ticket and produce an original identification document that complies with the Rules for Guangzhou-Shenzhen-Hong Kong High Speed Rail Cross-Boundary Passenger Transport. Otherwise, passengers will not be allowed to board the train.</li><li>Travellers found to be travelling with an invalid ticket or without a ticket shall be handled in accordance with the relevant regulations. Adult travellers found to be travelling with a child's ticket will be treated as travelling without a ticket.</li><li>Travellers must keep their tickets safe and properly throughout the journey.</li><li>Unless affected by service disruptions or the train crew agrees to issue a supplementary ticket at excess fare, travellers must alight at the destination station as shown on the ticket.</li><li>Travellers who are deemed unsuitable for train journeys in accordance with the relevant laws and regulations, and passengers who the railway transport company believes will threaten public health and safety, violate the relevant laws, disturb public order at the stations or trains, or harass other travellers, or travellers who are travelling in violation of the regulations or refuse to pay excess fares can be denied train service. Travellers who have bought a ticket but did not travel with the ticket, can request  a refund at the departure station after paying the refund fee; for those who have travelled with the ticket, the fare for the journey from the alighting station to the original destination station will not be refunded and the transport contract will be terminated immediately.<u></u></li></ul><p>Click <a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/hsr-notes-to-travellers-en.pdf\")'><font color=\"red\">here</font></a> for further notes.</p>",
+               "content_tc": "<ul><li>香港西九龍站服務時間為上午六時至晚上十二時。</li><li>車票只在票面指定乘車日期、車次及車站有效。旅客如在中途站下車或未完成全程，將不能使用同一車票繼續餘下旅程。</li><li>旅客必須帶同有效的旅遊證件辦理出入境手續。B3 層檢票閘口將於開車前 5 分鐘關閉。</li><li>旅客須於票面指定的車站乘車，並須出示符合《廣深港高速鐵路跨境旅客運輸組織規則》的身份證明文件正本，否則不得乘車。</li><li>旅客如無票或持無效車票，將按相關規定處理。成人如持用小童票，將被視作無票處理。</li><li>旅客必須全程妥善保管車票。</li><li>除因服務因故受到影響或經列車乘務人員同意辦理補票外，旅客必須按車票指定到達站下車。</li><li>按照相關法律規定不適宜乘車、鐵路運輸企業認為會威脅公共健康及安全、違反相關法律，擾亂車站或列車公共秩序或騷擾他人、違規乘車且拒絕補票的旅客，可被拒絕乘車。已購買車票而未乘車的旅客，可在出發站辦理退票手續並須支付退票費；已乘車的，下車站至原到達站的票款將不予退回，運輸合同即告終止。</li></ul><p>有關旅客須知進一步詳請，請<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/hsr-notes-to-travellers-tc.pdf\")'><font color=\"red\">按此</font></a>查詢。</p>",
+               "content_sc": "<ul><li>香港西九龙站服务时间为上午六时至晚上十二时。</li><li>车票只在票面指定乘车日期、车次及车站有效。旅客如在中途站下车或未完成全程，将不能使用同一车票继续余下旅程。</li><li>旅客必须带同有效的旅游证件办理出入境手续。B3 层检票闸口将于开车前 5 分钟关闭。</li><li>旅客须于票面指定的车站乘车，并须出示符合《广深港高速铁路跨境旅客运输组织规则》的身份证明文件正本，否则不得乘车。</li><li>旅客如无票或持无效车票，将按相关规定处理。成人如持用小童票，将被视作无票处理。</li><li>旅客必须全程妥善保管车票。</li><li>除因服务因故受到影响或经列车乘务人员同意办理补票外，旅客必须按车票指定到达站下车。</li><li>按照相关法律规定不适宜乘车、铁路运输企业认为会威胁公共健康及安全、违反相关法律，扰乱车站或列车公共秩序或骚扰他人、违规乘车且拒绝补票的旅客，可被拒绝乘车。已购买车票而未乘车的旅客，可在出发站办理退票手续并须支付退票费；已乘车的，下车站至原到达站的票款将不予退回，运输合同即告终止。</li></ul><p>有关旅客须知进一步详请，请<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/hsr-notes-to-travellers-sc.pdf\")'><font color=\"red\">按此</font></a>查询。</p>"
+            }
+         ]
+      },
+      {
+         "type_id": "SMT",
+         "type_en": "Smart Tips",
+         "type_tc": "乘車錦囊",
+         "type_sc": "乘车锦囊",
+         "step_list": [
+            {
+               "id": 1,
+               "title_en": "Departure Procedures",
+               "title_tc": "離境篇",
+               "title_sc": "离境篇",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>To ensure timely departure, passengers are advised to allow sufficient time for completing security checks and immigration formalities at Hong Kong West Kowloon Station. Normally, travellers can complete the above procedures smoothly within 30 minutes*. However, as there are more travellers visiting the Mainland during festive seasons and public holidays, please allow extra time for your clearance process.</p><p>Prior to security check, travellers are also advised to empty out their pockets of any loose objects (e.g. mobile phone, coins and keys etc.) and put them in handbags or hand baggage for facilitating the process.</p><p>* Passport holders or travellers using traditional immigration counters may require additional time for clearance process.</p>",
+               "content_tc": "<p>旅客請預留充裕時間於香港西九龍站辦理安檢及出入境手續，以便準時登車。一般情況下，旅客只需約30分鐘即可完成辦理相關手續* ，十分方便快捷。而節日及假日期間會有較多旅客前往內地，請預留額外時間到站辦理手續。</p><p>通過安檢時，建議旅客預先將身上的個人物品取出（如手機、硬幣及鑰匙等）並放置於手提袋或行李內，使過程更快捷順暢。</p><p>* 持護照或使用出入境檢查櫃枱的旅客可能需要較長時間</p>",
+               "content_sc": "<p>旅客请预留充裕时间于香港西九龙站办理安检及出入境手续，以便准时登车。一般情况下，旅客只需约30分钟即可完成办理相关手续* ，十分方便快捷。而节日及假日期间会有较多旅客前往内地，请预留额外时间到站办理手续。</p><p>通过安检时，建议旅客提早把身上的个人物品取出（如手机、硬币及钥匙等）并放置于手提包或行李内，使过程更快捷顺畅。</p><p>* 持护照或使用出入境检查柜枱的旅客可能需要较长时间</p>"
+            },
+			{
+               "id": 2,
+               "title_en": "Baggage",
+               "title_tc": "行李篇",
+               "title_sc": "行李篇",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>When you travel on the High Speed Rail, there are restrictions on the dimensions of your baggage. The total dimensions for each piece of baggage cannot exceed 130cm, and the maximum total weight for your baggage is 20kg for each adult passenger and 10kg for each child passenger. Baggage or parcel consignment service is not offered by the High Speed Rail.</p>",
+               "content_tc": "<p>高鐵設有行李限制，每件可攜帶物品的長、闊、高之總和不得超逾130厘米，而行李總重量上限為成人20公斤；小童10公斤。提提你，高鐵並不提供行李或包裹託運服務。</p>",
+               "content_sc": "<p>高铁设有行李限制，每件可携带物品的长、阔、高之总和不得超逾130厘米，而行李总重量上限为成人20公斤；小童10公斤。提提你，高铁并不提供行李或包裹托运服务。</p>"
+            },
+			{
+               "id": 3,
+               "title_en": "Prohibited & Restricted Items",
+               "title_tc": "注意事項篇",
+               "title_sc": "注意事项篇",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>For safety reasons, items such as explosives, dangerous goods, compressed gases, flammable liquids, poisons and corrosive items are strictly prohibited in High Speed Rail stations and trains. In addition, you are reminded that there are several restricted items such as nail polish, hair dyes, etc. that can only be carried in very limited quantities.</p><p>For further details, please click here to visit related webpage or call the tele-ticketing and enquiry hotline on (852) 2120 0888.</p>",
+               "content_tc": "<p>為確保安全，旅客嚴禁攜帶爆炸品、危險品、壓縮氣體、易燃液體、有毒物品及腐蝕性物品進入高鐵車站和車廂。另外，一些物品亦設有限量攜帶的要求，如指甲油、染髮劑等。</p><p>如欲了解更多詳情亦可<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/tc/guide/carriage-of-luggage.html\")'><font color=\"red\">按此</font></a>瀏覽相關網頁或致電購票及客務熱綫 (852) 2120 0888查詢。</p>",
+               "content_sc": "<p>为确保安全，旅客严禁携带爆炸品、危险品、压缩气体、易燃液体、有毒物品及腐蚀性物品进入高铁车站和车厢。另外，一些物品亦设有限量携带的要求，如指甲油、染发剂等。</p><p>如欲了解更多详情，可<a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/hsr-notes-to-travellers-tc.pdf\")'><font color=\"red\">按此</font></a>浏览相关网页或致电购票及客务热綫 (852) 2120 0888查询。</p>"
+            },
+			{
+               "id": 4,
+               "title_en": "Child Ticket",
+               "title_tc": "小童車票篇",
+               "title_sc": "小童车票篇",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>Child Ticket is available for traveller aged under 18 and whose height is between 1.2m and 1.5m.</p><p>A child whose height is under 1.2m can travel free of charge if accompanied by an adult, provided that the child does not occupy a seat. Any additional child under 1.2m must have their own ticket.</p>",
+               "content_tc": "<p>高鐵小童票適用於未滿18歲及身高1.2至1.5米的旅客。</p><p>每名成人的旅客可免費攜同一名身高1.2米以下且不單獨佔用座位的小童乘車，而額外同行的小童就需購買小童票啦！</p>",
+               "content_sc": "<p>高铁小童票适用于未满18岁及身高1.2至1.5米的旅客。</p><p>每名成人的旅客可免费携同一名身高1.2米以下且不单独占用座位的小童乘车，而额外同行的小童就需购买小童票啦！</p>"
+            },
+			{
+               "id": 5,
+               "title_en": "Ticket Purchase – Ticketing Counters",
+               "title_tc": "購票篇 - 票務處",
+               "title_sc": "购票篇 - 票务处",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>In addition to Ticket Machines, you may also purchase cross boundary tickets from Ticketing Counters in Hong Kong West Kowloon Station. Dedicated counters are available for collections, refunds, alterations and lost tickets. A 'Priority Counter' is also available for wheelchair users and passengers with various special needs.</p><p>The counters accept both HKD & RMB cash payments, as well as various electronic and mobile payments. If you wish to buy tickets between Mainland cities connected by the High Speed Rail network in Mainland China, these are available at ticketing counters operated by China Railway (Hong Kong) Holdings Limited at Hong Kong West Kowloon Station. Tickets will be issued at time of purchase*.</p><p>* corresponding service charge applies.</p>",
+               "content_tc": "<p>除了自助售票機，旅客亦可透過香港西九龍站內的票務處，購買跨境車票。為了方便旅客，亦特設櫃位辦理取票、改票、退票、報失及補領服務。同時亦設優先櫃位予輪椅使用者及其他有需要人士使用。</p><p>票務處可接受港幣、人民幣現金及一系列的電子支付方式。另外，考慮到大家有機會需要轉駁到內地高鐵網絡，票務處設有中鐵控股營運的櫃位發售內地票 *，可立即出票，省時方便。</p><p>* 須繳付相應手續費。</p>",
+               "content_sc": "<p>除了自助售票机，旅客亦可透过香港西九龙站内的票务处﹐购买跨境车票。为了方便旅客，亦特设窗口办理取票、改签、退票、报失及补领服务。同时亦设优先窗口予轮椅使用者及其他有需要人士使用。</p><p>票务处可接受港币、人民币现金及一系列的电子支付方式。另外，考虑到大家有机会需要转驳到内地高铁网络，票务处设有中铁控股营运的柜位发售内地票 *，可立即出票，省时方便。</p><p>* 须缴付相应手续费。</p>"
+            },
+			{
+               "id": 6,
+               "title_en": "Ticket Purchase – Ticketing Machines",
+               "title_tc": "購票篇 - 自助售票機",
+               "title_sc": "购票篇 - 自助售票机",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>If you are the holder of Home Return Permit or PRC Resident Identity Card, you can use the Ticket Machines at Hong Kong West Kowloon Station to buy cross boundary tickets. The Ticket Machines accept HKD cash, Octopus, Visa payWave and Mastercard contactless credit card*.</p><p>Steps:</p><p>1. Click “Ticket purchase” on the screen</p><p>2. Select train (press “Change” to select tickets for other departure date or destination)</p><p>3. Select ticket type and number of tickets</p><p>4. If you wish to receive updated information about your journey, please input a Hong Kong mobile phone number</p><p>5. Read and agree to the terms and conditions</p><p>6. Touch or swipe your identification document to the corresponding card reader</p><p>7. Select payment method</p><p>8. After payment, take ticket(s) and receipt(s)</p><p>9. Check information printed on the ticket(s)</p><p>For holders of other types of identification documents, you should go to the Ticketing Counters to purchase tickets.</p><p>* Maximum amount for Octopus and contactless credit card is HKD1,000 per transaction.</p>",
+               "content_tc": "<p>旅客如持有回鄉證或內地居民身份證，可使用香港西九龍站內的售票機購買跨境車票，過程簡單方便。售票機可接受港幣現金、八達通、Visa payWave及感應式Mastercard *。</p><p>步驟:</p><p>1. 於屏幕上按「購買車票」</p><p>2. 選擇車次(如欲購買其他日子或目的地的車票，請按「更改」)</p><p>3. 選擇車票類別及數量，按「購票」</p><p>4. 如果你希望接收所購買的列車車次的最新資訊，可提供香港流動電話號碼</p><p>5. 細閱及同意有關條款及條件</p><p>6. 請於相關證件閱讀器上刷卡</p><p>7. 選擇付款方式</p><p>8. 付款後，領取車票及收據</p><p>9. 核對車票資料</p><p>提提你，如果使用上述以外的身份證明文件購票，就要到票務處啦！</p><p>* 八達通和感應式信用卡交易額上限為每次港幣1,000元。</p>",
+               "content_sc": "<p>旅客如持有回乡证或内地居民身份证，可使用香港西九龙站内的售票机购买跨境车票，过程简单方便。售票机可接受港币现金、八达通、Visa payWave及感应式Mastercard *。</p><p>步骤:</p><p>1. 屏幕上按「购买车票」</p><p>2. 选择车次(如欲购买其他日子或目的地的车票，请按「更改」)</p><p>3. 选择车票类别及数量，再按「购票」</p><p>4. 如果你希望接收所购买的列车车次的最新信息，可提供香港流动电话号码</p><p>5. 细阅及同意有关条款及条件</p><p>6. 请于相关证件阅读器上刷卡</p><p>7. 选择付款方式</p><p>8. 支付后，领取车票及收据</p><p>9. 核对车票资料</p><p>提提你，如果使用上述以外的身分证明文件购票，就要到票务处啦！</p><p>* 八达通和感应式信用卡交易额上限为每次港币1,000元。</p>"
+            },
+			{
+               "id": 7,
+               "title_en": "Ticket Collection",
+               "title_tc": "取票篇",
+               "title_sc": "取票篇",
+               "image_en": "",
+               "image_tc": "",
+               "image_sc": "",
+               "content_en": "<p>Please allow enough time (at least 30 minutes) for ticket collection, proceeding through security checks, immigration, and boarding procedures.</p><p>If you purchased tickets via online ticketing, ticket agents or tele-ticketing hotline, you can collect your tickets from the Ticketing Counters and Ticket Machines at Hong Kong West Kowloon Station on the day of travel. Remember to bring along the original copy of your identification document, and the credit card used for booking or the booking number together with the customized ticket collection password, when collecting the tickets.</p><p>Ticket collection steps at Ticket Machines:</p><p>1. Select 'Ticket Redemption' on screen</p><p>2. Insert credit card or input order number and ticket collection password</p><p>3. Touch or swipe your identification document to the corresponding card reader</p><p>4. Select number of tickets to be printed (Please collect your return ticket at the same time)</p><p>5. Select 'Print'</p><p>6. Take ticket(s) </p><p>7. Check the information printed on the ticket(s)</p><p>If you have purchased your tickets through 12306.cn website or mobile app, they can be collected at the counters operated by China Railway (HK) Holdings Ltd at Hong Kong West Kowloon Station on the day of travel*.</p><p>* corresponding service charge applies</p>",
+               "content_tc": "<p>旅客須預留足夠時間取票，並於列車開出前至少30分鐘入閘辦理過關手續。</p><p>已透過網上、電話或代理購票的旅客，可於出發當日，帶備身份證明文件正本、購票時所使用的信用卡或訂單編號連同購票時自定的取票密碼，在香港西九龍站的票務處及自助售票機取票，過程簡單方便。</p><p>自助售票機取票流程如下 :</p><p>1. 於屏幕上按「領取預訂票」</p><p>2. 插入信用卡或輸入訂單編號及取票密碼</p><p>3. 於相關證件閱讀器刷卡</p><p>4. 選擇需要列印的車票(如已訂購回程票，請一併領取)</p><p>5. 按「列印」</p><p>6. 領取車票</p><p>7. 核對車票資料</p><p>另外，如已透過內地12306.cn網站或手機應用程式購票的乘客，亦可於出發當日或上述期間在香港西九龍站中鐵控股營運的櫃位取票*。</p><p>* 須繳付相應手續費。</p>",
+               "content_sc": "<p>旅客须预留足够时间取票，并于列车开出前至少30分钟入闸办理过关手续。</p><p>已透过网上、电话或代理购票的乘客，可于出发当日，带备身份证明文件正本、购票时所使用的信用卡或订单编号连同购票时自定的取票密码，在香港西九龙站的票务处及自助售票机取票，过程简单方便。</p><p>自助售票机取票流程如下 :</p><p>1. 于屏幕上按「领取预订票」</p><p>2. 插入信用卡或输入订单编号及取票密码</p><p>3. 于相关证件阅读器刷卡</p><p>4. 选择需要打印的车票(如已订购返程票，请一并领取) </p><p>5. 按「打印」</p><p>6. 领取车票</p><p>7. 核对车票资料</p><p>另外，如已透过内地12306.cn网站或手机应用程式购票的乘客，亦可于出发当日或上述期间在香港西九龙站中铁控股营运的柜位取票*。</p><p>* 须缴付相应手续费。</p>"
+            }
+         ]
+      }
+   ]
+}

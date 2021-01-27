@@ -1,0 +1,80 @@
+[
+  {
+    "name": "首頁",
+    "id": "home",
+    "link": "./",
+    "depth2": []
+  },
+  {
+    "name": "今期推介",
+    "id": "offer",
+    "link": "./offer.html",
+    "depth2": []
+  },
+  {
+    "name": "主題旅遊",
+    "id": "theme",
+    "link": "./theme.html",
+    "depth2": [
+      {
+        "name": "美食之旅",
+        "link": "./theme.html?category=3"
+      },
+      {
+        "name": "世界級美景",
+        "link": "./theme.html?category=5"
+      },
+      {
+        "name": "季節主題",
+        "link": "./theme.html?category=1"
+      },
+      {
+        "name": "家庭遊",
+        "link": "./theme.html?category=2"
+      },
+      {
+        "name": "特色主題",
+        "link": "./theme.html?category=4"
+      }
+    ]
+  },
+  {
+    "name": "熱門城市",
+    "id": "hotspot",
+    "link": "./hotspot.html",
+    "depth2": [
+      {
+        "name": "華南",
+        "link": "./hotspot.html?region=1"
+      },
+      {
+        "name": "華東",
+        "link": "./hotspot.html?region=2"
+      },
+      {
+        "name": "華北",
+        "link": "./hotspot.html?region=3"
+      },
+      {
+        "name": "華中",
+        "link": "./hotspot.html?region=4"
+      },
+      {
+        "name": "西南",
+        "link": "./hotspot.html?region=5"
+      }
+    ]
+  },
+  {
+    "name": "行程推介",
+    "id": "plan",
+    "link": "./plan.html",
+    "depth2": []
+  },
+  {
+    "name": "高鐵旅遊專家",
+    "id": "agency",
+    "link": "./agency.html",
+    "depth2": []
+  }
+]

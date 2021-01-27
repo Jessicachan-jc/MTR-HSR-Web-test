@@ -1,0 +1,27 @@
+{
+    "section":"attraction",
+    "current_ver":"202006180003",
+    "last_update_date":"yyyy-MM-DD",
+    "city":[
+        {
+"city_id": "REC",
+"city_en": "Recommended itineraries",
+"city_tc": "TEST高鐵玩樂王",
+"city_sc": "旅游行程推介",
+"attraction_list": [
+{
+"id": 0,
+"attraction_en": "Introduction",
+"attraction_tc": "TEST高鐵玩樂王",
+"attraction_sc": "行程推介",
+"image_en": "",
+"image_tc": "/res/media/web/promotion/TESTING_960x640-tc.jpg",
+"image_sc": "",
+"content_en": "<p>High Speed Rail connects Hong Kong with several Mainland stations without interchange. Why not take a short trip for a weekend break? Here are some 1 to 5-day itineraries recommended for you to explore hot spots along the Futian, Shenzhenbei, Guangzhounan, Chaoshan, Xiamen, Guilinxi and Wuhan Station.</p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/itinerary-futian-en.pdf\")'><font color=\"red\">Shenzhen Art-in-Style 1-day Trip</font></a></p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/itinerary-shenzhenbei-en.pdf\")'><font color=\"red\">Shenzhen \"Photoholic\" 1-day Trip</font></a></p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/itinerary-guangzhou-checkin-en.pdf\")'><font color=\"red\">Guangzhou Check-in Spot 2-day Trip</font></a></p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/itinerary-chaoshan-history-delicacy-en.pdf\")'><font color=\"red\">Chaoshan 4-day History & Delicacy Trip</font></a></p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/itinerary-xiamen-fujian-world-cultural-heritage-en.pdf\")'><font color=\"red\">Xiamen, Fujian World Cultural Heritage 4-day Trip</font></a></p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/itinerary-guilin-dynamic-scenic-en.pdf\")'><font color=\"red\">Guilin Dynamic & Scenic 4-day Trip</font></a></p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/itinerary-wuhan-urban-garden-en.pdf\")'><font color=\"red\">Wuhan Urban Garden 5-day Trip</font></a></p>",
+"content_tc": "<p>請<a href='javascript:link(\"https://hk.yahoo.com\")'><font color=\"red\">按此</font></a>進入高鐵旅遊網頁，發掘當地旅遊資訊。</p>",
+"content_sc": "<p>高速铁路连接香港与内地多个站点，毋须转车可以去到更多地方。为方便大家周末短线游，特别推介几个1-5天的行程，让你沿福田、深圳北、广州南、潮汕、厦门、桂林西及武汉站一带发掘精彩热点，快来享受出行崭新体验！</p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/itinerary-futian-sc.pdf\")'><font color=\"red\">深圳：文青潮玩1天游</font></a></p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/itinerary-shenzhenbei-sc.pdf\")'><font color=\"red\">深圳：打卡朝圣1天游</font></a></p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/itinerary-guangzhou-checkin-sc.pdf\")'><font color=\"red\">广州：快闪寻艺2天游</font></a></p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/itinerary-chaoshan-history-delicacy-sc.pdf\")'><font color=\"red\">潮汕：访古寻味4天游</font></a></p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/itinerary-xiamen-fujian-world-cultural-heritage-sc.pdf\")'><font color=\"red\">厦门、福建：世界文化遗产4天游</font></a></p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/itinerary-guilin-dynamic-scenic-sc.pdf\")'><font color=\"red\">桂林：不一样的山水4天游</font></a></p><p><a href='javascript:link(\"https://www.highspeed.mtr.com.hk/res/pdf/itinerary-wuhan-urban-garden-sc.pdf\")'><font color=\"red\">武汉：城中花园5天游</font></a></p>"
+}
+            ]
+        }
+    ]
+}

@@ -1,0 +1,7242 @@
+{
+    "current_ver":"202011260001a",
+    "station_type":[
+        {
+            "type_id":"SHT",
+            "type_en":"Short-haul train",
+            "type_sc":"短途列车",
+            "type_tc":"短途列車",
+            "is_expend":true
+        },
+        {
+            "type_id":"LHT",
+            "type_en":"Long-haul train",
+            "type_sc":"長途列车",
+            "type_tc":"長途列車",
+            "is_expend":true
+        }
+    ],
+    "station":[
+
+	
+{
+"station_id":"WEK",
+"station_title_en":"Hong Kong\n West Kowloon",
+"station_title_sc":"香港西九龙",
+"station_title_tc":"香港西九龍",
+"type_id":"SHT",
+"order_en":1,
+"order_sc":1,
+"order_tc":1
+},
+{
+"station_id":"FUT",
+"station_title_en":"Futian",
+"station_title_sc":"福田",
+"station_title_tc":"福田",
+"type_id":"SHT",
+"order_en":2,
+"order_sc":2,
+"order_tc":2
+},
+{
+"station_id":"GMC",
+"station_title_en":"Guangmingcheng",
+"station_title_sc":"光明城",
+"station_title_tc":"光明城",
+"type_id":"SHT",
+"order_en":3,
+"order_sc":3,
+"order_tc":3
+},
+{
+"station_id":"GZN",
+"station_title_en":"Guangzhounan",
+"station_title_sc":"广州南",
+"station_title_tc":"廣州南",
+"type_id":"SHT",
+"order_en":4,
+"order_sc":4,
+"order_tc":4
+},
+{
+"station_id":"HUM",
+"station_title_en":"Humen",
+"station_title_sc":"虎门",
+"station_title_tc":"虎門",
+"type_id":"SHT",
+"order_en":5,
+"order_sc":5,
+"order_tc":5
+},
+{
+"station_id":"QIS",
+"station_title_en":"Qingsheng",
+"station_title_sc":"庆盛",
+"station_title_tc":"慶盛",
+"type_id":"SHT",
+"order_en":6,
+"order_sc":6,
+"order_tc":6
+},
+{
+"station_id":"SZB",
+"station_title_en":"Shenzhenbei",
+"station_title_sc":"深圳北",
+"station_title_tc":"深圳北",
+"type_id":"SHT",
+"order_en":7,
+"order_sc":7,
+"order_tc":7
+},
+{
+"station_id":"BYD",
+"station_title_en":"Baiyangdian",
+"station_title_sc":"白洋淀",
+"station_title_tc":"白洋淀",
+"type_id":"LHT",
+"order_en":8,
+"order_sc":8,
+"order_tc":8
+},
+{
+"station_id":"BEX",
+"station_title_en":"Beijingxi",
+"station_title_sc":"北京西",
+"station_title_tc":"北京西",
+"type_id":"LHT",
+"order_en":9,
+"order_sc":9,
+"order_tc":9
+},
+{
+"station_id":"CSN",
+"station_title_en":"Changshanan",
+"station_title_sc":"长沙南",
+"station_title_tc":"長沙南",
+"type_id":"LHT",
+"order_en":10,
+"order_sc":10,
+"order_tc":10
+},
+{
+"station_id":"CHS",
+"station_title_en":"Chaoshan",
+"station_title_sc":"潮汕",
+"station_title_tc":"潮汕",
+"type_id":"LHT",
+"order_en":11,
+"order_sc":11,
+"order_tc":11
+},
+{
+"station_id":"CHY",
+"station_title_en":"Chaoyang",
+"station_title_sc":"潮阳",
+"station_title_tc":"潮陽",
+"type_id":"LHT",
+"order_en":12,
+"order_sc":12,
+"order_tc":12
+},
+{
+"station_id":"CZX",
+"station_title_en":"Chenzhouxi",
+"station_title_sc":"郴州西",
+"station_title_tc":"郴州西",
+"type_id":"LHT",
+"order_en":13,
+"order_sc":13,
+"order_tc":13
+},
+{
+"station_id":"CQX",
+"station_title_en":"Chongqingxi",
+"station_title_sc":"重庆西",
+"station_title_tc":"重慶西",
+"type_id":"LHT",
+"order_en":14,
+"order_sc":14,
+"order_tc":14
+},
+{
+"station_id":"FSX",
+"station_title_en":"Foshanxi",
+"station_title_sc":"佛山西",
+"station_title_tc":"佛山西",
+"type_id":"LHT",
+"order_en":15,
+"order_sc":15,
+"order_tc":15
+},
+{
+"station_id":"FUZ",
+"station_title_en":"Fuzhou",
+"station_title_sc":"福州",
+"station_title_tc":"福州",
+"type_id":"LHT",
+"order_en":16,
+"order_sc":16,
+"order_tc":16
+},
+{
+"station_id":"GLX",
+"station_title_en":"Guilinxi",
+"station_title_sc":"桂林西",
+"station_title_tc":"桂林西",
+"type_id":"LHT",
+"order_en":17,
+"order_sc":17,
+"order_tc":17
+},
+{
+"station_id":"GYB",
+"station_title_en":"Guiyangbei",
+"station_title_sc":"贵阳北",
+"station_title_tc":"貴陽北",
+"type_id":"LHT",
+"order_en":18,
+"order_sc":18,
+"order_tc":18
+},
+{
+"station_id":"GYD",
+"station_title_en":"Guiyangdong",
+"station_title_sc":"贵阳东",
+"station_title_tc":"貴陽東",
+"type_id":"LHT",
+"order_en":19,
+"order_sc":19,
+"order_tc":19
+},
+{
+"station_id":"HDD",
+"station_title_en":"Handandong",
+"station_title_sc":"邯郸东",
+"station_title_tc":"邯鄲東",
+"type_id":"LHT",
+"order_en":20,
+"order_sc":20,
+"order_tc":20
+},
+{
+"station_id":"HZD",
+"station_title_en":"Hangzhoudong",
+"station_title_sc":"杭州东",
+"station_title_tc":"杭州東",
+"type_id":"LHT",
+"order_en":21,
+"order_sc":21,
+"order_tc":21
+},
+{
+"station_id":"HSX",
+"station_title_en":"Hengshanxi",
+"station_title_sc":"衡山西",
+"station_title_tc":"衡山西",
+"type_id":"LHT",
+"order_en":22,
+"order_sc":22,
+"order_tc":22
+},
+{
+"station_id":"HYD",
+"station_title_en":"Hengyangdong",
+"station_title_sc":"衡阳东",
+"station_title_tc":"衡陽東",
+"type_id":"LHT",
+"order_en":23,
+"order_sc":23,
+"order_tc":23
+},
+{
+"station_id":"HOM",
+"station_title_en":"Houmen",
+"station_title_sc":"鲘门",
+"station_title_tc":"鮜門",
+"type_id":"LHT",
+"order_en":24,
+"order_sc":24,
+"order_tc":24
+},
+{
+"station_id":"HUD",
+"station_title_en":"Huidong",
+"station_title_sc":"惠东",
+"station_title_tc":"惠東",
+"type_id":"LHT",
+"order_en":25,
+"order_sc":25,
+"order_tc":25
+},
+{
+"station_id":"HZN",
+"station_title_en":"Huizhounan",
+"station_title_sc":"惠州南",
+"station_title_tc":"惠州南",
+"type_id":"LHT",
+"order_en":26,
+"order_sc":26,
+"order_tc":26
+},
+{
+"station_id":"JIM",
+"station_title_en":"Jiaomei",
+"station_title_sc":"角美",
+"station_title_tc":"角美",
+"type_id":"LHT",
+"order_en":27,
+"order_sc":27,
+"order_tc":27
+},
+{
+"station_id":"JIH",
+"station_title_en":"Jinhua",
+"station_title_sc":"金华",
+"station_title_tc":"金華",
+"type_id":"LHT",
+"order_en":28,
+"order_sc":28,
+"order_tc":28
+},
+{
+"station_id":"KUT",
+"station_title_en":"Kuitan",
+"station_title_sc":"葵潭",
+"station_title_tc":"葵潭",
+"type_id":"LHT",
+"order_en":29,
+"order_sc":29,
+"order_tc":29
+},
+{
+"station_id":"KMN",
+"station_title_en":"Kunmingnan",
+"station_title_sc":"昆明南",
+"station_title_tc":"昆明南",
+"type_id":"LHT",
+"order_en":30,
+"order_sc":30,
+"order_tc":30
+},
+{
+"station_id":"LUF",
+"station_title_en":"Lufeng",
+"station_title_sc":"陆丰",
+"station_title_tc":"陸豐",
+"type_id":"LHT",
+"order_en":31,
+"order_sc":31,
+"order_tc":31
+},
+{
+"station_id":"NCX",
+"station_title_en":"Nanchangxi",
+"station_title_sc":"南昌西",
+"station_title_tc":"南昌西",
+"type_id":"LHT",
+"order_en":32,
+"order_sc":32,
+"order_tc":32
+},
+{
+"station_id":"NND",
+"station_title_en":"Nanningdong",
+"station_title_sc":"南宁东",
+"station_title_tc":"南寧東",
+"type_id":"LHT",
+"order_en":33,
+"order_sc":33,
+"order_tc":33
+},
+{
+"station_id":"PUN",
+"station_title_en":"Puning",
+"station_title_sc":"普宁",
+"station_title_tc":"普寧",
+"type_id":"LHT",
+"order_en":34,
+"order_sc":34,
+"order_tc":34
+},
+{
+"station_id":"PUT",
+"station_title_en":"Putian",
+"station_title_sc":"莆田",
+"station_title_tc":"莆田",
+"type_id":"LHT",
+"order_en":35,
+"order_sc":35,
+"order_tc":35
+},
+{
+"station_id":"QUZ",
+"station_title_en":"Quanzhou",
+"station_title_sc":"泉州",
+"station_title_tc":"泉州",
+"type_id":"LHT",
+"order_en":36,
+"order_sc":36,
+"order_tc":36
+},
+{
+"station_id":"RAP",
+"station_title_en":"Raoping",
+"station_title_sc":"饶平",
+"station_title_tc":"饒平",
+"type_id":"LHT",
+"order_en":37,
+"order_sc":37,
+"order_tc":37
+},
+{
+"station_id":"SSN",
+"station_title_en":"Sanshuinan",
+"station_title_sc":"三水南",
+"station_title_tc":"三水南",
+"type_id":"LHT",
+"order_en":38,
+"order_sc":38,
+"order_tc":38
+},
+{
+"station_id":"SHH",
+"station_title_en":"Shanghai Hongqiao",
+"station_title_sc":"上海虹桥",
+"station_title_tc":"上海虹橋",
+"type_id":"LHT",
+"order_en":39,
+"order_sc":39,
+"order_tc":39
+},
+{
+"station_id":"SHR",
+"station_title_en":"Shangrao",
+"station_title_sc":"上饶",
+"station_title_tc":"上饒",
+"type_id":"LHT",
+"order_en":40,
+"order_sc":40,
+"order_tc":40
+},
+{
+"station_id":"SHT",
+"station_title_en":"Shantou",
+"station_title_sc":"汕头",
+"station_title_tc":"汕頭",
+"type_id":"LHT",
+"order_en":41,
+"order_sc":41,
+"order_tc":41
+},
+{
+"station_id":"SHW",
+"station_title_en":"Shanwei",
+"station_title_sc":"汕尾",
+"station_title_tc":"汕尾",
+"type_id":"LHT",
+"order_en":42,
+"order_sc":42,
+"order_tc":42
+},
+{
+"station_id":"SHG",
+"station_title_en":"Shaoguan",
+"station_title_sc":"韶关",
+"station_title_tc":"韶關",
+"type_id":"LHT",
+"order_en":43,
+"order_sc":43,
+"order_tc":43
+},
+{
+"station_id":"SHP",
+"station_title_en":"Shenzhen Pingshan",
+"station_title_sc":"深圳坪山",
+"station_title_tc":"深圳坪山",
+"type_id":"LHT",
+"order_en":44,
+"order_sc":44,
+"order_tc":44
+},
+{
+"station_id":"SJZ",
+"station_title_en":"Shijiazhuang",
+"station_title_sc":"石家庄",
+"station_title_tc":"石家莊",
+"type_id":"LHT",
+"order_en":45,
+"order_sc":45,
+"order_tc":45
+},
+{
+"station_id":"TJX",
+"station_title_en":"Tianjinxi",
+"station_title_sc":"天津西",
+"station_title_tc":"天津西",
+"type_id":"LHT",
+"order_en":46,
+"order_sc":46,
+"order_tc":46
+},
+{
+"station_id":"WUH",
+"station_title_en":"Wuhan",
+"station_title_sc":"武汉",
+"station_title_tc":"武漢",
+"type_id":"LHT",
+"order_en":47,
+"order_sc":47,
+"order_tc":47
+},
+{
+"station_id":"WZN",
+"station_title_en":"Wuzhounan",
+"station_title_sc":"梧州南",
+"station_title_tc":"梧州南",
+"type_id":"LHT",
+"order_en":48,
+"order_sc":48,
+"order_tc":48
+},
+{
+"station_id":"XIM",
+"station_title_en":"Xiamen",
+"station_title_sc":"厦门",
+"station_title_tc":"廈門",
+"type_id":"LHT",
+"order_en":49,
+"order_sc":49,
+"order_tc":49
+},
+{
+"station_id":"XMB",
+"station_title_en":"Xiamenbei",
+"station_title_sc":"厦门北",
+"station_title_tc":"廈門北",
+"type_id":"LHT",
+"order_en":50,
+"order_sc":50,
+"order_tc":50
+},
+{
+"station_id":"YYD",
+"station_title_en":"Yueyangdong",
+"station_title_sc":"岳阳东",
+"station_title_tc":"岳陽東",
+"type_id":"LHT",
+"order_en":51,
+"order_sc":51,
+"order_tc":51
+},
+{
+"station_id":"YUX",
+"station_title_en":"Yunxiao",
+"station_title_sc":"云霄",
+"station_title_tc":"雲霄",
+"type_id":"LHT",
+"order_en":52,
+"order_sc":52,
+"order_tc":52
+},
+{
+"station_id":"ZHP",
+"station_title_en":"Zhangpu",
+"station_title_sc":"漳浦",
+"station_title_tc":"漳浦",
+"type_id":"LHT",
+"order_en":53,
+"order_sc":53,
+"order_tc":53
+},
+{
+"station_id":"ZHZ",
+"station_title_en":"Zhangzhou",
+"station_title_sc":"漳州",
+"station_title_tc":"漳州",
+"type_id":"LHT",
+"order_en":54,
+"order_sc":54,
+"order_tc":54
+},
+{
+"station_id":"ZHA",
+"station_title_en":"Zhao'an",
+"station_title_sc":"诏安",
+"station_title_tc":"詔安",
+"type_id":"LHT",
+"order_en":55,
+"order_sc":55,
+"order_tc":55
+},
+{
+"station_id":"ZQD",
+"station_title_en":"Zhaoqingdong",
+"station_title_sc":"肇庆东",
+"station_title_tc":"肇慶東",
+"type_id":"LHT",
+"order_en":56,
+"order_sc":56,
+"order_tc":56
+},
+{
+"station_id":"ZZD",
+"station_title_en":"Zhengzhoudong",
+"station_title_sc":"郑州东",
+"station_title_tc":"鄭州東",
+"type_id":"LHT",
+"order_en":57,
+"order_sc":57,
+"order_tc":57
+},
+{
+"station_id":"ZZX",
+"station_title_en":"Zhuzhouxi",
+"station_title_sc":"株洲西",
+"station_title_tc":"株洲西",
+"type_id":"LHT",
+"order_en":58,
+"order_sc":58,
+"order_tc":58
+},
+{
+"station_id":"ZUY",
+"station_title_en":"Zunyi",
+"station_title_sc":"遵义",
+"station_title_tc":"遵義",
+"type_id":"LHT",
+"order_en":59,
+"order_sc":59,
+"order_tc":59
+}
+
+
+		
+		
+		
+    ],
+    "fee":[
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 68,
+"adult_hkd": 80,
+"child_cny": 34,
+"child_hkd": 40,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 109,
+"adult_hkd": 128,
+"child_cny": 55,
+"child_hkd": 65,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 122,
+"adult_hkd": 144,
+"child_cny": 61,
+"child_hkd": 72,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 204,
+"adult_hkd": 240,
+"child_cny": 102,
+"child_hkd": 120,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 1,
+"route_id": "WEK2FUT"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 95,
+"adult_hkd": 112,
+"child_cny": 48,
+"child_hkd": 57,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 152,
+"adult_hkd": 179,
+"child_cny": 76,
+"child_hkd": 90,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 171,
+"adult_hkd": 202,
+"child_cny": 86,
+"child_hkd": 101,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 284,
+"adult_hkd": 335,
+"child_cny": 142,
+"child_hkd": 167,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 2,
+"route_id": "WEK2GMC"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 215,
+"adult_hkd": 253,
+"child_cny": 108,
+"child_hkd": 127,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 323,
+"adult_hkd": 381,
+"child_cny": 172,
+"child_hkd": 203,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 368,
+"adult_hkd": 434,
+"child_cny": 194,
+"child_hkd": 229,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 452,
+"adult_hkd": 533,
+"child_cny": 323,
+"child_hkd": 381,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 3,
+"route_id": "WEK2GZN"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 178,
+"adult_hkd": 210,
+"child_cny": 89,
+"child_hkd": 105,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 268,
+"adult_hkd": 316,
+"child_cny": 143,
+"child_hkd": 169,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 304,
+"adult_hkd": 358,
+"child_cny": 160,
+"child_hkd": 189,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 373,
+"adult_hkd": 440,
+"child_cny": 267,
+"child_hkd": 315,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 4,
+"route_id": "WEK2HUM"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 185,
+"adult_hkd": 218,
+"child_cny": 93,
+"child_hkd": 110,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 278,
+"adult_hkd": 328,
+"child_cny": 148,
+"child_hkd": 174,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 316,
+"adult_hkd": 372,
+"child_cny": 167,
+"child_hkd": 197,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 389,
+"adult_hkd": 458,
+"child_cny": 278,
+"child_hkd": 328,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 5,
+"route_id": "WEK2QIS"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 75,
+"adult_hkd": 88,
+"child_cny": 38,
+"child_hkd": 45,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 120,
+"adult_hkd": 141,
+"child_cny": 60,
+"child_hkd": 71,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 136,
+"adult_hkd": 160,
+"child_cny": 68,
+"child_hkd": 80,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 226,
+"adult_hkd": 266,
+"child_cny": 113,
+"child_hkd": 133,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 6,
+"route_id": "WEK2SZB"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 1053.5,
+"adult_hkd": 1242,
+"child_cny": 527,
+"child_hkd": 621,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 1685.5,
+"adult_hkd": 1986,
+"child_cny": 843,
+"child_hkd": 994,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 1982.5,
+"adult_hkd": 2336,
+"child_cny": 991.5,
+"child_hkd": 1169,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 3291,
+"adult_hkd": 3879,
+"child_cny": 1645.5,
+"child_hkd": 1939,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 7,
+"route_id": "WEK2BYD"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 1077,
+"adult_hkd": 1269,
+"child_cny": 538.5,
+"child_hkd": 635,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 1724,
+"adult_hkd": 2032,
+"child_cny": 862,
+"child_hkd": 1016,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 2029,
+"adult_hkd": 2391,
+"child_cny": 1014.5,
+"child_hkd": 1196,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 3369,
+"adult_hkd": 3971,
+"child_cny": 1684.5,
+"child_hkd": 1985,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 8,
+"route_id": "WEK2BEX"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 529,
+"adult_hkd": 623,
+"child_cny": 264.5,
+"child_hkd": 312,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 848,
+"adult_hkd": 999,
+"child_cny": 424,
+"child_hkd": 500,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 987,
+"adult_hkd": 1163,
+"child_cny": 493.5,
+"child_hkd": 582,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 1640,
+"adult_hkd": 1933,
+"child_cny": 820,
+"child_hkd": 966,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 9,
+"route_id": "WEK2CSN"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 182,
+"adult_hkd": 214,
+"child_cny": 94,
+"child_hkd": 111,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 291,
+"adult_hkd": 343,
+"child_cny": 151,
+"child_hkd": 178,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 328,
+"adult_hkd": 387,
+"child_cny": 170,
+"child_hkd": 200,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 546,
+"adult_hkd": 643,
+"child_cny": 283,
+"child_hkd": 334,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 10,
+"route_id": "WEK2CHS"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 172,
+"adult_hkd": 203,
+"child_cny": 89,
+"child_hkd": 105,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 276,
+"adult_hkd": 325,
+"child_cny": 143,
+"child_hkd": 169,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 312,
+"adult_hkd": 368,
+"child_cny": 161,
+"child_hkd": 190,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 519,
+"adult_hkd": 612,
+"child_cny": 268,
+"child_hkd": 316,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 11,
+"route_id": "WEK2CHY"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 389.5,
+"adult_hkd": 459,
+"child_cny": 195,
+"child_hkd": 230,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 618.5,
+"adult_hkd": 729,
+"child_cny": 309.5,
+"child_hkd": 365,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 716.5,
+"adult_hkd": 844,
+"child_cny": 358.5,
+"child_hkd": 423,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 1191.5,
+"adult_hkd": 1404,
+"child_cny": 596,
+"child_hkd": 702,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 12,
+"route_id": "WEK2CZX"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 660,
+"adult_hkd": 778,
+"child_cny": 335,
+"child_hkd": 395,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 1056,
+"adult_hkd": 1245,
+"child_cny": 536,
+"child_hkd": 632,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 1188,
+"adult_hkd": 1400,
+"child_cny": 603,
+"child_hkd": 711,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 1979,
+"adult_hkd": 2332,
+"child_cny": 1005,
+"child_hkd": 1184,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 13,
+"route_id": "WEK2CQX"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 225,
+"adult_hkd": 265,
+"child_cny": 112.5,
+"child_hkd": 133,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 360,
+"adult_hkd": 424,
+"child_cny": 180,
+"child_hkd": 212,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 405.5,
+"adult_hkd": 478,
+"child_cny": 203,
+"child_hkd": 239,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 675.5,
+"adult_hkd": 796,
+"child_cny": 338,
+"child_hkd": 398,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 14,
+"route_id": "WEK2FSX"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 339.5,
+"adult_hkd": 400,
+"child_cny": 177.5,
+"child_hkd": 209,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 544,
+"adult_hkd": 641,
+"child_cny": 284,
+"child_hkd": 335,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 612.5,
+"adult_hkd": 722,
+"child_cny": 320,
+"child_hkd": 377,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 1020.5,
+"adult_hkd": 1203,
+"child_cny": 533.5,
+"child_hkd": 629,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 15,
+"route_id": "WEK2FUZ"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 379,
+"adult_hkd": 447,
+"child_cny": 190,
+"child_hkd": 224,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 607,
+"adult_hkd": 715,
+"child_cny": 304,
+"child_hkd": 358,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 683,
+"adult_hkd": 805,
+"child_cny": 342,
+"child_hkd": 403,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 1138,
+"adult_hkd": 1341,
+"child_cny": 569,
+"child_hkd": 671,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 16,
+"route_id": "WEK2GLX"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 538,
+"adult_hkd": 634,
+"child_cny": 269,
+"child_hkd": 317,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 862,
+"adult_hkd": 1016,
+"child_cny": 431,
+"child_hkd": 508,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 969,
+"adult_hkd": 1142,
+"child_cny": 484.5,
+"child_hkd": 571,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 1615.5,
+"adult_hkd": 1904,
+"child_cny": 808,
+"child_hkd": 952,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 17,
+"route_id": "WEK2GYB"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 532,
+"adult_hkd": 627,
+"child_cny": 266,
+"child_hkd": 313,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 852,
+"adult_hkd": 1004,
+"child_cny": 426,
+"child_hkd": 502,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 958,
+"adult_hkd": 1129,
+"child_cny": 479,
+"child_hkd": 565,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 1597,
+"adult_hkd": 1882,
+"child_cny": 799,
+"child_hkd": 942,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 18,
+"route_id": "WEK2GYD"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 944.5,
+"adult_hkd": 1113,
+"child_cny": 472.5,
+"child_hkd": 557,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 1511.5,
+"adult_hkd": 1781,
+"child_cny": 756,
+"child_hkd": 891,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 1775.5,
+"adult_hkd": 2093,
+"child_cny": 888,
+"child_hkd": 1047,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 2949.5,
+"adult_hkd": 3476,
+"child_cny": 1475,
+"child_hkd": 1738,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 19,
+"route_id": "WEK2HDD"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 935,
+"adult_hkd": 1102,
+"child_cny": 467.5,
+"child_hkd": 551,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 1529.5,
+"adult_hkd": 1803,
+"child_cny": 765,
+"child_hkd": 902,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 1757.5,
+"adult_hkd": 2071,
+"child_cny": 879,
+"child_hkd": 1036,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 2918,
+"adult_hkd": 3439,
+"child_cny": 1459,
+"child_hkd": 1720,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 20,
+"route_id": "WEK2HZD"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 474,
+"adult_hkd": 559,
+"child_cny": 237,
+"child_hkd": 279,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 758,
+"adult_hkd": 893,
+"child_cny": 379,
+"child_hkd": 447,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 880,
+"adult_hkd": 1037,
+"child_cny": 440,
+"child_hkd": 519,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 1462,
+"adult_hkd": 1723,
+"child_cny": 731,
+"child_hkd": 862,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 21,
+"route_id": "WEK2HSX"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 459,
+"adult_hkd": 541,
+"child_cny": 229.5,
+"child_hkd": 270,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 733,
+"adult_hkd": 864,
+"child_cny": 366.5,
+"child_hkd": 432,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 847,
+"adult_hkd": 998,
+"child_cny": 423.5,
+"child_hkd": 499,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 1409,
+"adult_hkd": 1661,
+"child_cny": 704.5,
+"child_hkd": 830,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 22,
+"route_id": "WEK2HYD"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 118,
+"adult_hkd": 139,
+"child_cny": 61,
+"child_hkd": 72,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 189,
+"adult_hkd": 223,
+"child_cny": 97,
+"child_hkd": 114,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 213,
+"adult_hkd": 251,
+"child_cny": 109,
+"child_hkd": 128,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 355,
+"adult_hkd": 418,
+"child_cny": 182,
+"child_hkd": 214,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 23,
+"route_id": "WEK2HOM"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 106,
+"adult_hkd": 125,
+"child_cny": 54,
+"child_hkd": 64,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 169,
+"adult_hkd": 199,
+"child_cny": 86,
+"child_hkd": 101,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 192,
+"adult_hkd": 226,
+"child_cny": 98,
+"child_hkd": 115,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 319,
+"adult_hkd": 376,
+"child_cny": 162,
+"child_hkd": 191,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 24,
+"route_id": "WEK2HUD"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 95,
+"adult_hkd": 112,
+"child_cny": 48,
+"child_hkd": 57,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 151,
+"adult_hkd": 178,
+"child_cny": 77,
+"child_hkd": 91,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 171,
+"adult_hkd": 202,
+"child_cny": 87,
+"child_hkd": 103,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 285,
+"adult_hkd": 336,
+"child_cny": 144,
+"child_hkd": 170,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 25,
+"route_id": "WEK2HZN"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 246,
+"adult_hkd": 290,
+"child_cny": 128,
+"child_hkd": 151,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 394,
+"adult_hkd": 464,
+"child_cny": 205,
+"child_hkd": 242,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 445,
+"adult_hkd": 524,
+"child_cny": 232,
+"child_hkd": 273,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 740,
+"adult_hkd": 872,
+"child_cny": 385,
+"child_hkd": 454,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 26,
+"route_id": "WEK2JIM"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 868,
+"adult_hkd": 1023,
+"child_cny": 434,
+"child_hkd": 511,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 1417.5,
+"adult_hkd": 1671,
+"child_cny": 709,
+"child_hkd": 836,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 1631,
+"adult_hkd": 1922,
+"child_cny": 815.5,
+"child_hkd": 961,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 2708,
+"adult_hkd": 3192,
+"child_cny": 1354,
+"child_hkd": 1596,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 27,
+"route_id": "WEK2JIH"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 152,
+"adult_hkd": 179,
+"child_cny": 79,
+"child_hkd": 93,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 244,
+"adult_hkd": 288,
+"child_cny": 126,
+"child_hkd": 148,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 275,
+"adult_hkd": 324,
+"child_cny": 142,
+"child_hkd": 167,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 458,
+"adult_hkd": 540,
+"child_cny": 236,
+"child_hkd": 278,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 28,
+"route_id": "WEK2KUT"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 750.5,
+"adult_hkd": 885,
+"child_cny": 375.5,
+"child_hkd": 443,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 1220,
+"adult_hkd": 1438,
+"child_cny": 610,
+"child_hkd": 719,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 1373.5,
+"adult_hkd": 1619,
+"child_cny": 687,
+"child_hkd": 810,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 2287,
+"adult_hkd": 2695,
+"child_cny": 1143.5,
+"child_hkd": 1348,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 29,
+"route_id": "WEK2KMN"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 142,
+"adult_hkd": 167,
+"child_cny": 73,
+"child_hkd": 86,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 227,
+"adult_hkd": 268,
+"child_cny": 117,
+"child_hkd": 138,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 256,
+"adult_hkd": 302,
+"child_cny": 132,
+"child_hkd": 156,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 426,
+"adult_hkd": 502,
+"child_cny": 219,
+"child_hkd": 258,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 30,
+"route_id": "WEK2LUF"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 687,
+"adult_hkd": 810,
+"child_cny": 343.5,
+"child_hkd": 405,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 1112.5,
+"adult_hkd": 1311,
+"child_cny": 556.5,
+"child_hkd": 656,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 1286,
+"adult_hkd": 1516,
+"child_cny": 643,
+"child_hkd": 758,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 2136,
+"adult_hkd": 2517,
+"child_cny": 1068,
+"child_hkd": 1259,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 31,
+"route_id": "WEK2NCX"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 384,
+"adult_hkd": 453,
+"child_cny": 194.5,
+"child_hkd": 229,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 613,
+"adult_hkd": 722,
+"child_cny": 311,
+"child_hkd": 367,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 690.5,
+"adult_hkd": 814,
+"child_cny": 350,
+"child_hkd": 412,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 1151.5,
+"adult_hkd": 1357,
+"child_cny": 583,
+"child_hkd": 687,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 32,
+"route_id": "WEK2NND"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 163,
+"adult_hkd": 192,
+"child_cny": 84,
+"child_hkd": 99,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 261,
+"adult_hkd": 308,
+"child_cny": 135,
+"child_hkd": 159,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 295,
+"adult_hkd": 348,
+"child_cny": 152,
+"child_hkd": 179,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 491,
+"adult_hkd": 579,
+"child_cny": 253,
+"child_hkd": 298,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 33,
+"route_id": "WEK2PUN"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 304,
+"adult_hkd": 358,
+"child_cny": 159,
+"child_hkd": 187,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 486,
+"adult_hkd": 573,
+"child_cny": 254,
+"child_hkd": 299,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 548,
+"adult_hkd": 646,
+"child_cny": 286,
+"child_hkd": 337,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 913,
+"adult_hkd": 1076,
+"child_cny": 477,
+"child_hkd": 562,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 34,
+"route_id": "WEK2PUT"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 280,
+"adult_hkd": 330,
+"child_cny": 146,
+"child_hkd": 172,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 448,
+"adult_hkd": 528,
+"child_cny": 234,
+"child_hkd": 276,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 505,
+"adult_hkd": 595,
+"child_cny": 263,
+"child_hkd": 310,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 840,
+"adult_hkd": 990,
+"child_cny": 438,
+"child_hkd": 516,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 35,
+"route_id": "WEK2QUZ"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 196,
+"adult_hkd": 231,
+"child_cny": 102,
+"child_hkd": 120,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 314,
+"adult_hkd": 370,
+"child_cny": 163,
+"child_hkd": 192,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 354,
+"adult_hkd": 417,
+"child_cny": 184,
+"child_hkd": 217,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 589,
+"adult_hkd": 694,
+"child_cny": 305,
+"child_hkd": 359,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 36,
+"route_id": "WEK2RAP"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 230.5,
+"adult_hkd": 272,
+"child_cny": 115.5,
+"child_hkd": 136,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 369,
+"adult_hkd": 435,
+"child_cny": 185,
+"child_hkd": 218,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 415.5,
+"adult_hkd": 490,
+"child_cny": 208,
+"child_hkd": 245,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 692,
+"adult_hkd": 816,
+"child_cny": 346,
+"child_hkd": 408,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 37,
+"route_id": "WEK2SSN"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 1008,
+"adult_hkd": 1188,
+"child_cny": 504,
+"child_hkd": 594,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 1646.5,
+"adult_hkd": 1940,
+"child_cny": 823.5,
+"child_hkd": 971,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 1889.5,
+"adult_hkd": 2227,
+"child_cny": 945,
+"child_hkd": 1114,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 3137.5,
+"adult_hkd": 3698,
+"child_cny": 1569,
+"child_hkd": 1849,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 38,
+"route_id": "WEK2SHH"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 794,
+"adult_hkd": 936,
+"child_cny": 397,
+"child_hkd": 468,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 1292.5,
+"adult_hkd": 1523,
+"child_cny": 646.5,
+"child_hkd": 762,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 1489.5,
+"adult_hkd": 1755,
+"child_cny": 745,
+"child_hkd": 878,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 2473.5,
+"adult_hkd": 2915,
+"child_cny": 1237,
+"child_hkd": 1458,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 39,
+"route_id": "WEK2SHR"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 192,
+"adult_hkd": 226,
+"child_cny": 100,
+"child_hkd": 118,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 307,
+"adult_hkd": 362,
+"child_cny": 159,
+"child_hkd": 187,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 347,
+"adult_hkd": 409,
+"child_cny": 180,
+"child_hkd": 212,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 577,
+"adult_hkd": 680,
+"child_cny": 299,
+"child_hkd": 352,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 40,
+"route_id": "WEK2SHT"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 130,
+"adult_hkd": 153,
+"child_cny": 67,
+"child_hkd": 79,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 207,
+"adult_hkd": 244,
+"child_cny": 106,
+"child_hkd": 125,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 234,
+"adult_hkd": 276,
+"child_cny": 120,
+"child_hkd": 141,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 389,
+"adult_hkd": 458,
+"child_cny": 200,
+"child_hkd": 236,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 41,
+"route_id": "WEK2SHW"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 319.5,
+"adult_hkd": 377,
+"child_cny": 160,
+"child_hkd": 189,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 508.5,
+"adult_hkd": 599,
+"child_cny": 254.5,
+"child_hkd": 300,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 585.5,
+"adult_hkd": 690,
+"child_cny": 293,
+"child_hkd": 345,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 973.5,
+"adult_hkd": 1147,
+"child_cny": 487,
+"child_hkd": 574,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 42,
+"route_id": "WEK2SHG"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 87,
+"adult_hkd": 103,
+"child_cny": 44,
+"child_hkd": 52,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 140,
+"adult_hkd": 165,
+"child_cny": 71,
+"child_hkd": 84,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 159,
+"adult_hkd": 187,
+"child_cny": 80,
+"child_hkd": 94,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 264,
+"adult_hkd": 311,
+"child_cny": 133,
+"child_hkd": 157,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 43,
+"route_id": "WEK2SHP"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 1000.5,
+"adult_hkd": 1179,
+"child_cny": 500.5,
+"child_hkd": 590,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 1600.5,
+"adult_hkd": 1886,
+"child_cny": 800.5,
+"child_hkd": 943,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 1881.5,
+"adult_hkd": 2217,
+"child_cny": 941,
+"child_hkd": 1109,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 3124.5,
+"adult_hkd": 3682,
+"child_cny": 1562.5,
+"child_hkd": 1841,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 44,
+"route_id": "WEK2SJZ"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 1092.5,
+"adult_hkd": 1288,
+"child_cny": 546.5,
+"child_hkd": 644,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 1748,
+"adult_hkd": 2060,
+"child_cny": 874,
+"child_hkd": 1030,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 2053,
+"adult_hkd": 2420,
+"child_cny": 1026.5,
+"child_hkd": 1210,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 3409,
+"adult_hkd": 4018,
+"child_cny": 1704.5,
+"child_hkd": 2009,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 45,
+"route_id": "WEK2TJX"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 678.5,
+"adult_hkd": 800,
+"child_cny": 339.5,
+"child_hkd": 400,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 1082.5,
+"adult_hkd": 1276,
+"child_cny": 541.5,
+"child_hkd": 638,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 1265.5,
+"adult_hkd": 1491,
+"child_cny": 633,
+"child_hkd": 746,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 2103.5,
+"adult_hkd": 2479,
+"child_cny": 1052,
+"child_hkd": 1240,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 46,
+"route_id": "WEK2WUH"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 291,
+"adult_hkd": 343,
+"child_cny": 145.5,
+"child_hkd": 171,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 465,
+"adult_hkd": 548,
+"child_cny": 233,
+"child_hkd": 275,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 523.5,
+"adult_hkd": 617,
+"child_cny": 262,
+"child_hkd": 309,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 872.5,
+"adult_hkd": 1028,
+"child_cny": 436.5,
+"child_hkd": 514,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 47,
+"route_id": "WEK2WZN"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 258.5,
+"adult_hkd": 305,
+"child_cny": 134.5,
+"child_hkd": 159,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 413,
+"adult_hkd": 487,
+"child_cny": 215,
+"child_hkd": 253,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 466,
+"adult_hkd": 549,
+"child_cny": 242.5,
+"child_hkd": 286,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 775,
+"adult_hkd": 913,
+"child_cny": 403.5,
+"child_hkd": 476,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 48,
+"route_id": "WEK2XIM"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 255,
+"adult_hkd": 301,
+"child_cny": 133,
+"child_hkd": 157,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 408,
+"adult_hkd": 481,
+"child_cny": 213,
+"child_hkd": 251,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 460,
+"adult_hkd": 542,
+"child_cny": 240,
+"child_hkd": 283,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 766,
+"adult_hkd": 903,
+"child_cny": 399,
+"child_hkd": 470,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 49,
+"route_id": "WEK2XMB"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 588.5,
+"adult_hkd": 694,
+"child_cny": 294.5,
+"child_hkd": 347,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 942.5,
+"adult_hkd": 1111,
+"child_cny": 471.5,
+"child_hkd": 556,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 1101.5,
+"adult_hkd": 1298,
+"child_cny": 551,
+"child_hkd": 649,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 1831.5,
+"adult_hkd": 2159,
+"child_cny": 916,
+"child_hkd": 1080,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 50,
+"route_id": "WEK2YYD"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 214,
+"adult_hkd": 252,
+"child_cny": 111,
+"child_hkd": 131,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 342,
+"adult_hkd": 403,
+"child_cny": 178,
+"child_hkd": 210,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 385,
+"adult_hkd": 454,
+"child_cny": 200,
+"child_hkd": 236,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 642,
+"adult_hkd": 757,
+"child_cny": 333,
+"child_hkd": 392,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 51,
+"route_id": "WEK2YUX"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 224,
+"adult_hkd": 264,
+"child_cny": 117,
+"child_hkd": 138,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 359,
+"adult_hkd": 423,
+"child_cny": 187,
+"child_hkd": 220,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 405,
+"adult_hkd": 477,
+"child_cny": 211,
+"child_hkd": 249,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 674,
+"adult_hkd": 794,
+"child_cny": 350,
+"child_hkd": 412,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 52,
+"route_id": "WEK2ZHP"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 240,
+"adult_hkd": 283,
+"child_cny": 125,
+"child_hkd": 147,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 385,
+"adult_hkd": 454,
+"child_cny": 200,
+"child_hkd": 236,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 434,
+"adult_hkd": 511,
+"child_cny": 226,
+"child_hkd": 266,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 721,
+"adult_hkd": 850,
+"child_cny": 375,
+"child_hkd": 442,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 53,
+"route_id": "WEK2ZHZ"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 203,
+"adult_hkd": 239,
+"child_cny": 105,
+"child_hkd": 124,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 324,
+"adult_hkd": 382,
+"child_cny": 168,
+"child_hkd": 198,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 366,
+"adult_hkd": 431,
+"child_cny": 190,
+"child_hkd": 224,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 608,
+"adult_hkd": 717,
+"child_cny": 315,
+"child_hkd": 371,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 54,
+"route_id": "WEK2ZHA"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 243,
+"adult_hkd": 286,
+"child_cny": 122,
+"child_hkd": 144,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 389,
+"adult_hkd": 458,
+"child_cny": 195,
+"child_hkd": 230,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 438,
+"adult_hkd": 516,
+"child_cny": 219,
+"child_hkd": 258,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 729,
+"adult_hkd": 859,
+"child_cny": 365,
+"child_hkd": 430,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 55,
+"route_id": "WEK2ZQD"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 868,
+"adult_hkd": 1023,
+"child_cny": 434,
+"child_hkd": 511,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 1390,
+"adult_hkd": 1638,
+"child_cny": 695,
+"child_hkd": 819,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 1631,
+"adult_hkd": 1922,
+"child_cny": 815.5,
+"child_hkd": 961,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 2709,
+"adult_hkd": 3193,
+"child_cny": 1354.5,
+"child_hkd": 1596,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 56,
+"route_id": "WEK2ZZD"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 509,
+"adult_hkd": 600,
+"child_cny": 254.5,
+"child_hkd": 300,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 813,
+"adult_hkd": 958,
+"child_cny": 406.5,
+"child_hkd": 479,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 946,
+"adult_hkd": 1115,
+"child_cny": 473,
+"child_hkd": 557,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 1572,
+"adult_hkd": 1853,
+"child_cny": 786,
+"child_hkd": 926,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 57,
+"route_id": "WEK2ZZX"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 577,
+"adult_hkd": 680,
+"child_cny": 291,
+"child_hkd": 343,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 925,
+"adult_hkd": 1090,
+"child_cny": 466,
+"child_hkd": 549,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 1040,
+"adult_hkd": 1226,
+"child_cny": 524,
+"child_hkd": 618,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 1734,
+"adult_hkd": 2044,
+"child_cny": 873,
+"child_hkd": 1029,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 58,
+"route_id": "WEK2ZUY"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 68,
+"adult_hkd": 80,
+"child_cny": 34,
+"child_hkd": 40,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 109,
+"adult_hkd": 128,
+"child_cny": 55,
+"child_hkd": 65,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 122,
+"adult_hkd": 144,
+"child_cny": 61,
+"child_hkd": 72,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 204,
+"adult_hkd": 240,
+"child_cny": 102,
+"child_hkd": 120,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 59,
+"route_id": "FUT2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 95,
+"adult_hkd": 112,
+"child_cny": 48,
+"child_hkd": 57,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 152,
+"adult_hkd": 179,
+"child_cny": 76,
+"child_hkd": 90,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 171,
+"adult_hkd": 202,
+"child_cny": 86,
+"child_hkd": 101,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 284,
+"adult_hkd": 335,
+"child_cny": 142,
+"child_hkd": 167,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 60,
+"route_id": "GMC2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 215,
+"adult_hkd": 253,
+"child_cny": 108,
+"child_hkd": 127,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 323,
+"adult_hkd": 381,
+"child_cny": 172,
+"child_hkd": 203,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 368,
+"adult_hkd": 434,
+"child_cny": 194,
+"child_hkd": 229,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 452,
+"adult_hkd": 533,
+"child_cny": 323,
+"child_hkd": 381,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 61,
+"route_id": "GZN2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 178,
+"adult_hkd": 210,
+"child_cny": 89,
+"child_hkd": 105,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 268,
+"adult_hkd": 316,
+"child_cny": 143,
+"child_hkd": 169,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 304,
+"adult_hkd": 358,
+"child_cny": 160,
+"child_hkd": 189,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 373,
+"adult_hkd": 440,
+"child_cny": 267,
+"child_hkd": 315,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 62,
+"route_id": "HUM2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 185,
+"adult_hkd": 218,
+"child_cny": 93,
+"child_hkd": 110,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 278,
+"adult_hkd": 328,
+"child_cny": 148,
+"child_hkd": 174,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 316,
+"adult_hkd": 372,
+"child_cny": 167,
+"child_hkd": 197,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 389,
+"adult_hkd": 458,
+"child_cny": 278,
+"child_hkd": 328,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 63,
+"route_id": "QIS2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 75,
+"adult_hkd": 88,
+"child_cny": 38,
+"child_hkd": 45,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 120,
+"adult_hkd": 141,
+"child_cny": 60,
+"child_hkd": 71,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 136,
+"adult_hkd": 160,
+"child_cny": 68,
+"child_hkd": 80,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 226,
+"adult_hkd": 266,
+"child_cny": 113,
+"child_hkd": 133,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 64,
+"route_id": "SZB2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 1053.5,
+"adult_hkd": 1242,
+"child_cny": 527,
+"child_hkd": 621,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 1685.5,
+"adult_hkd": 1986,
+"child_cny": 843,
+"child_hkd": 994,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 1982.5,
+"adult_hkd": 2336,
+"child_cny": 991.5,
+"child_hkd": 1169,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 3291,
+"adult_hkd": 3879,
+"child_cny": 1645.5,
+"child_hkd": 1939,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 65,
+"route_id": "BYD2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 1077,
+"adult_hkd": 1269,
+"child_cny": 538.5,
+"child_hkd": 635,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 1724,
+"adult_hkd": 2032,
+"child_cny": 862,
+"child_hkd": 1016,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 2029,
+"adult_hkd": 2391,
+"child_cny": 1014.5,
+"child_hkd": 1196,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 3369,
+"adult_hkd": 3971,
+"child_cny": 1684.5,
+"child_hkd": 1985,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 66,
+"route_id": "BEX2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 529,
+"adult_hkd": 623,
+"child_cny": 264.5,
+"child_hkd": 312,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 848,
+"adult_hkd": 999,
+"child_cny": 424,
+"child_hkd": 500,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 987,
+"adult_hkd": 1163,
+"child_cny": 493.5,
+"child_hkd": 582,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 1640,
+"adult_hkd": 1933,
+"child_cny": 820,
+"child_hkd": 966,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 67,
+"route_id": "CSN2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 182,
+"adult_hkd": 214,
+"child_cny": 94,
+"child_hkd": 111,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 291,
+"adult_hkd": 343,
+"child_cny": 151,
+"child_hkd": 178,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 328,
+"adult_hkd": 387,
+"child_cny": 170,
+"child_hkd": 200,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 546,
+"adult_hkd": 643,
+"child_cny": 283,
+"child_hkd": 334,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 68,
+"route_id": "CHS2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 172,
+"adult_hkd": 203,
+"child_cny": 89,
+"child_hkd": 105,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 276,
+"adult_hkd": 325,
+"child_cny": 143,
+"child_hkd": 169,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 312,
+"adult_hkd": 368,
+"child_cny": 161,
+"child_hkd": 190,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 519,
+"adult_hkd": 612,
+"child_cny": 268,
+"child_hkd": 316,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 69,
+"route_id": "CHY2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 389.5,
+"adult_hkd": 459,
+"child_cny": 195,
+"child_hkd": 230,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 618.5,
+"adult_hkd": 729,
+"child_cny": 309.5,
+"child_hkd": 365,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 716.5,
+"adult_hkd": 844,
+"child_cny": 358.5,
+"child_hkd": 423,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 1191.5,
+"adult_hkd": 1404,
+"child_cny": 596,
+"child_hkd": 702,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 70,
+"route_id": "CZX2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 660,
+"adult_hkd": 778,
+"child_cny": 335,
+"child_hkd": 395,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 1056,
+"adult_hkd": 1245,
+"child_cny": 536,
+"child_hkd": 632,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 1188,
+"adult_hkd": 1400,
+"child_cny": 603,
+"child_hkd": 711,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 1979,
+"adult_hkd": 2332,
+"child_cny": 1005,
+"child_hkd": 1184,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 71,
+"route_id": "CQX2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 225,
+"adult_hkd": 265,
+"child_cny": 112.5,
+"child_hkd": 133,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 360,
+"adult_hkd": 424,
+"child_cny": 180,
+"child_hkd": 212,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 405.5,
+"adult_hkd": 478,
+"child_cny": 203,
+"child_hkd": 239,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 675.5,
+"adult_hkd": 796,
+"child_cny": 338,
+"child_hkd": 398,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 72,
+"route_id": "FSX2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 339.5,
+"adult_hkd": 400,
+"child_cny": 177.5,
+"child_hkd": 209,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 544,
+"adult_hkd": 641,
+"child_cny": 284,
+"child_hkd": 335,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 612.5,
+"adult_hkd": 722,
+"child_cny": 320,
+"child_hkd": 377,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 1020.5,
+"adult_hkd": 1203,
+"child_cny": 533.5,
+"child_hkd": 629,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 73,
+"route_id": "FUZ2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 379,
+"adult_hkd": 447,
+"child_cny": 190,
+"child_hkd": 224,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 607,
+"adult_hkd": 715,
+"child_cny": 304,
+"child_hkd": 358,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 683,
+"adult_hkd": 805,
+"child_cny": 342,
+"child_hkd": 403,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 1138,
+"adult_hkd": 1341,
+"child_cny": 569,
+"child_hkd": 671,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 74,
+"route_id": "GLX2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 538,
+"adult_hkd": 634,
+"child_cny": 269,
+"child_hkd": 317,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 862,
+"adult_hkd": 1016,
+"child_cny": 431,
+"child_hkd": 508,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 969,
+"adult_hkd": 1142,
+"child_cny": 484.5,
+"child_hkd": 571,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 1615.5,
+"adult_hkd": 1904,
+"child_cny": 808,
+"child_hkd": 952,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 75,
+"route_id": "GYB2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 532,
+"adult_hkd": 627,
+"child_cny": 266,
+"child_hkd": 313,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 852,
+"adult_hkd": 1004,
+"child_cny": 426,
+"child_hkd": 502,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 958,
+"adult_hkd": 1129,
+"child_cny": 479,
+"child_hkd": 565,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 1597,
+"adult_hkd": 1882,
+"child_cny": 799,
+"child_hkd": 942,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 76,
+"route_id": "GYD2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 944.5,
+"adult_hkd": 1113,
+"child_cny": 472.5,
+"child_hkd": 557,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 1511.5,
+"adult_hkd": 1781,
+"child_cny": 756,
+"child_hkd": 891,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 1775.5,
+"adult_hkd": 2093,
+"child_cny": 888,
+"child_hkd": 1047,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 2949.5,
+"adult_hkd": 3476,
+"child_cny": 1475,
+"child_hkd": 1738,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 77,
+"route_id": "HDD2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 935,
+"adult_hkd": 1102,
+"child_cny": 467.5,
+"child_hkd": 551,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 1529.5,
+"adult_hkd": 1803,
+"child_cny": 765,
+"child_hkd": 902,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 1757.5,
+"adult_hkd": 2071,
+"child_cny": 879,
+"child_hkd": 1036,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 2918,
+"adult_hkd": 3439,
+"child_cny": 1459,
+"child_hkd": 1720,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 78,
+"route_id": "HZD2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 474,
+"adult_hkd": 559,
+"child_cny": 237,
+"child_hkd": 279,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 758,
+"adult_hkd": 893,
+"child_cny": 379,
+"child_hkd": 447,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 880,
+"adult_hkd": 1037,
+"child_cny": 440,
+"child_hkd": 519,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 1462,
+"adult_hkd": 1723,
+"child_cny": 731,
+"child_hkd": 862,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 79,
+"route_id": "HSX2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 459,
+"adult_hkd": 541,
+"child_cny": 229.5,
+"child_hkd": 270,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 733,
+"adult_hkd": 864,
+"child_cny": 366.5,
+"child_hkd": 432,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 847,
+"adult_hkd": 998,
+"child_cny": 423.5,
+"child_hkd": 499,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 1409,
+"adult_hkd": 1661,
+"child_cny": 704.5,
+"child_hkd": 830,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 80,
+"route_id": "HYD2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 118,
+"adult_hkd": 139,
+"child_cny": 61,
+"child_hkd": 72,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 189,
+"adult_hkd": 223,
+"child_cny": 97,
+"child_hkd": 114,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 213,
+"adult_hkd": 251,
+"child_cny": 109,
+"child_hkd": 128,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 355,
+"adult_hkd": 418,
+"child_cny": 182,
+"child_hkd": 214,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 81,
+"route_id": "HOM2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 106,
+"adult_hkd": 125,
+"child_cny": 54,
+"child_hkd": 64,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 169,
+"adult_hkd": 199,
+"child_cny": 86,
+"child_hkd": 101,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 192,
+"adult_hkd": 226,
+"child_cny": 98,
+"child_hkd": 115,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 319,
+"adult_hkd": 376,
+"child_cny": 162,
+"child_hkd": 191,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 82,
+"route_id": "HUD2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 95,
+"adult_hkd": 112,
+"child_cny": 48,
+"child_hkd": 57,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 151,
+"adult_hkd": 178,
+"child_cny": 77,
+"child_hkd": 91,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 171,
+"adult_hkd": 202,
+"child_cny": 87,
+"child_hkd": 103,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 285,
+"adult_hkd": 336,
+"child_cny": 144,
+"child_hkd": 170,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 83,
+"route_id": "HZN2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 246,
+"adult_hkd": 290,
+"child_cny": 128,
+"child_hkd": 151,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 394,
+"adult_hkd": 464,
+"child_cny": 205,
+"child_hkd": 242,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 445,
+"adult_hkd": 524,
+"child_cny": 232,
+"child_hkd": 273,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 740,
+"adult_hkd": 872,
+"child_cny": 385,
+"child_hkd": 454,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 84,
+"route_id": "JIM2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 868,
+"adult_hkd": 1023,
+"child_cny": 434,
+"child_hkd": 511,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 1417.5,
+"adult_hkd": 1671,
+"child_cny": 709,
+"child_hkd": 836,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 1631,
+"adult_hkd": 1922,
+"child_cny": 815.5,
+"child_hkd": 961,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 2708,
+"adult_hkd": 3192,
+"child_cny": 1354,
+"child_hkd": 1596,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 85,
+"route_id": "JIH2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 152,
+"adult_hkd": 179,
+"child_cny": 79,
+"child_hkd": 93,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 244,
+"adult_hkd": 288,
+"child_cny": 126,
+"child_hkd": 148,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 275,
+"adult_hkd": 324,
+"child_cny": 142,
+"child_hkd": 167,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 458,
+"adult_hkd": 540,
+"child_cny": 236,
+"child_hkd": 278,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 86,
+"route_id": "KUT2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 750.5,
+"adult_hkd": 885,
+"child_cny": 375.5,
+"child_hkd": 443,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 1220,
+"adult_hkd": 1438,
+"child_cny": 610,
+"child_hkd": 719,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 1373.5,
+"adult_hkd": 1619,
+"child_cny": 687,
+"child_hkd": 810,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 2287,
+"adult_hkd": 2695,
+"child_cny": 1143.5,
+"child_hkd": 1348,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 87,
+"route_id": "KMN2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 142,
+"adult_hkd": 167,
+"child_cny": 73,
+"child_hkd": 86,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 227,
+"adult_hkd": 268,
+"child_cny": 117,
+"child_hkd": 138,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 256,
+"adult_hkd": 302,
+"child_cny": 132,
+"child_hkd": 156,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 426,
+"adult_hkd": 502,
+"child_cny": 219,
+"child_hkd": 258,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 88,
+"route_id": "LUF2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 687,
+"adult_hkd": 810,
+"child_cny": 343.5,
+"child_hkd": 405,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 1112.5,
+"adult_hkd": 1311,
+"child_cny": 556.5,
+"child_hkd": 656,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 1286,
+"adult_hkd": 1516,
+"child_cny": 643,
+"child_hkd": 758,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 2136,
+"adult_hkd": 2517,
+"child_cny": 1068,
+"child_hkd": 1259,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 89,
+"route_id": "NCX2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 384,
+"adult_hkd": 453,
+"child_cny": 194.5,
+"child_hkd": 229,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 613,
+"adult_hkd": 722,
+"child_cny": 311,
+"child_hkd": 367,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 690.5,
+"adult_hkd": 814,
+"child_cny": 350,
+"child_hkd": 412,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 1151.5,
+"adult_hkd": 1357,
+"child_cny": 583,
+"child_hkd": 687,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 90,
+"route_id": "NND2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 163,
+"adult_hkd": 192,
+"child_cny": 84,
+"child_hkd": 99,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 261,
+"adult_hkd": 308,
+"child_cny": 135,
+"child_hkd": 159,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 295,
+"adult_hkd": 348,
+"child_cny": 152,
+"child_hkd": 179,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 491,
+"adult_hkd": 579,
+"child_cny": 253,
+"child_hkd": 298,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 91,
+"route_id": "PUN2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 304,
+"adult_hkd": 358,
+"child_cny": 159,
+"child_hkd": 187,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 486,
+"adult_hkd": 573,
+"child_cny": 254,
+"child_hkd": 299,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 548,
+"adult_hkd": 646,
+"child_cny": 286,
+"child_hkd": 337,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 913,
+"adult_hkd": 1076,
+"child_cny": 477,
+"child_hkd": 562,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 92,
+"route_id": "PUT2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 280,
+"adult_hkd": 330,
+"child_cny": 146,
+"child_hkd": 172,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 448,
+"adult_hkd": 528,
+"child_cny": 234,
+"child_hkd": 276,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 505,
+"adult_hkd": 595,
+"child_cny": 263,
+"child_hkd": 310,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 840,
+"adult_hkd": 990,
+"child_cny": 438,
+"child_hkd": 516,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 93,
+"route_id": "QUZ2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 196,
+"adult_hkd": 231,
+"child_cny": 102,
+"child_hkd": 120,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 314,
+"adult_hkd": 370,
+"child_cny": 163,
+"child_hkd": 192,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 354,
+"adult_hkd": 417,
+"child_cny": 184,
+"child_hkd": 217,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 589,
+"adult_hkd": 694,
+"child_cny": 305,
+"child_hkd": 359,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 94,
+"route_id": "RAP2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 230.5,
+"adult_hkd": 272,
+"child_cny": 115.5,
+"child_hkd": 136,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 369,
+"adult_hkd": 435,
+"child_cny": 185,
+"child_hkd": 218,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 415.5,
+"adult_hkd": 490,
+"child_cny": 208,
+"child_hkd": 245,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 692,
+"adult_hkd": 816,
+"child_cny": 346,
+"child_hkd": 408,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 95,
+"route_id": "SSN2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 1008,
+"adult_hkd": 1188,
+"child_cny": 504,
+"child_hkd": 594,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 1646.5,
+"adult_hkd": 1940,
+"child_cny": 823.5,
+"child_hkd": 971,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 1889.5,
+"adult_hkd": 2227,
+"child_cny": 945,
+"child_hkd": 1114,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 3137.5,
+"adult_hkd": 3698,
+"child_cny": 1569,
+"child_hkd": 1849,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 96,
+"route_id": "SHH2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 794,
+"adult_hkd": 936,
+"child_cny": 397,
+"child_hkd": 468,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 1292.5,
+"adult_hkd": 1523,
+"child_cny": 646.5,
+"child_hkd": 762,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 1489.5,
+"adult_hkd": 1755,
+"child_cny": 745,
+"child_hkd": 878,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 2473.5,
+"adult_hkd": 2915,
+"child_cny": 1237,
+"child_hkd": 1458,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 97,
+"route_id": "SHR2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 192,
+"adult_hkd": 226,
+"child_cny": 100,
+"child_hkd": 118,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 307,
+"adult_hkd": 362,
+"child_cny": 159,
+"child_hkd": 187,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 347,
+"adult_hkd": 409,
+"child_cny": 180,
+"child_hkd": 212,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 577,
+"adult_hkd": 680,
+"child_cny": 299,
+"child_hkd": 352,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 98,
+"route_id": "SHT2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 130,
+"adult_hkd": 153,
+"child_cny": 67,
+"child_hkd": 79,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 207,
+"adult_hkd": 244,
+"child_cny": 106,
+"child_hkd": 125,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 234,
+"adult_hkd": 276,
+"child_cny": 120,
+"child_hkd": 141,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 389,
+"adult_hkd": 458,
+"child_cny": 200,
+"child_hkd": 236,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 99,
+"route_id": "SHW2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 319.5,
+"adult_hkd": 377,
+"child_cny": 160,
+"child_hkd": 189,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 508.5,
+"adult_hkd": 599,
+"child_cny": 254.5,
+"child_hkd": 300,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 585.5,
+"adult_hkd": 690,
+"child_cny": 293,
+"child_hkd": 345,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 973.5,
+"adult_hkd": 1147,
+"child_cny": 487,
+"child_hkd": 574,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 100,
+"route_id": "SHG2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 87,
+"adult_hkd": 103,
+"child_cny": 44,
+"child_hkd": 52,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 140,
+"adult_hkd": 165,
+"child_cny": 71,
+"child_hkd": 84,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 159,
+"adult_hkd": 187,
+"child_cny": 80,
+"child_hkd": 94,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 264,
+"adult_hkd": 311,
+"child_cny": 133,
+"child_hkd": 157,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 101,
+"route_id": "SHP2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 1000.5,
+"adult_hkd": 1179,
+"child_cny": 500.5,
+"child_hkd": 590,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 1600.5,
+"adult_hkd": 1886,
+"child_cny": 800.5,
+"child_hkd": 943,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 1881.5,
+"adult_hkd": 2217,
+"child_cny": 941,
+"child_hkd": 1109,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 3124.5,
+"adult_hkd": 3682,
+"child_cny": 1562.5,
+"child_hkd": 1841,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 102,
+"route_id": "SJZ2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 1092.5,
+"adult_hkd": 1288,
+"child_cny": 546.5,
+"child_hkd": 644,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 1748,
+"adult_hkd": 2060,
+"child_cny": 874,
+"child_hkd": 1030,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 2053,
+"adult_hkd": 2420,
+"child_cny": 1026.5,
+"child_hkd": 1210,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 3409,
+"adult_hkd": 4018,
+"child_cny": 1704.5,
+"child_hkd": 2009,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 103,
+"route_id": "TJX2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 678.5,
+"adult_hkd": 800,
+"child_cny": 339.5,
+"child_hkd": 400,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 1082.5,
+"adult_hkd": 1276,
+"child_cny": 541.5,
+"child_hkd": 638,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 1265.5,
+"adult_hkd": 1491,
+"child_cny": 633,
+"child_hkd": 746,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 2103.5,
+"adult_hkd": 2479,
+"child_cny": 1052,
+"child_hkd": 1240,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 104,
+"route_id": "WUH2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 291,
+"adult_hkd": 343,
+"child_cny": 145.5,
+"child_hkd": 171,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 465,
+"adult_hkd": 548,
+"child_cny": 233,
+"child_hkd": 275,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 523.5,
+"adult_hkd": 617,
+"child_cny": 262,
+"child_hkd": 309,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 872.5,
+"adult_hkd": 1028,
+"child_cny": 436.5,
+"child_hkd": 514,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 105,
+"route_id": "WZN2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 258.5,
+"adult_hkd": 305,
+"child_cny": 134.5,
+"child_hkd": 159,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 413,
+"adult_hkd": 487,
+"child_cny": 215,
+"child_hkd": 253,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 466,
+"adult_hkd": 549,
+"child_cny": 242.5,
+"child_hkd": 286,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 775,
+"adult_hkd": 913,
+"child_cny": 403.5,
+"child_hkd": 476,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 106,
+"route_id": "XIM2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 255,
+"adult_hkd": 301,
+"child_cny": 133,
+"child_hkd": 157,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 408,
+"adult_hkd": 481,
+"child_cny": 213,
+"child_hkd": 251,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 460,
+"adult_hkd": 542,
+"child_cny": 240,
+"child_hkd": 283,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 766,
+"adult_hkd": 903,
+"child_cny": 399,
+"child_hkd": 470,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 107,
+"route_id": "XMB2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 588.5,
+"adult_hkd": 694,
+"child_cny": 294.5,
+"child_hkd": 347,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 942.5,
+"adult_hkd": 1111,
+"child_cny": 471.5,
+"child_hkd": 556,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 1101.5,
+"adult_hkd": 1298,
+"child_cny": 551,
+"child_hkd": 649,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 1831.5,
+"adult_hkd": 2159,
+"child_cny": 916,
+"child_hkd": 1080,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 108,
+"route_id": "YYD2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 214,
+"adult_hkd": 252,
+"child_cny": 111,
+"child_hkd": 131,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 342,
+"adult_hkd": 403,
+"child_cny": 178,
+"child_hkd": 210,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 385,
+"adult_hkd": 454,
+"child_cny": 200,
+"child_hkd": 236,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 642,
+"adult_hkd": 757,
+"child_cny": 333,
+"child_hkd": 392,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 109,
+"route_id": "YUX2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 224,
+"adult_hkd": 264,
+"child_cny": 117,
+"child_hkd": 138,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 359,
+"adult_hkd": 423,
+"child_cny": 187,
+"child_hkd": 220,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 405,
+"adult_hkd": 477,
+"child_cny": 211,
+"child_hkd": 249,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 674,
+"adult_hkd": 794,
+"child_cny": 350,
+"child_hkd": 412,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 110,
+"route_id": "ZHP2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 240,
+"adult_hkd": 283,
+"child_cny": 125,
+"child_hkd": 147,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 385,
+"adult_hkd": 454,
+"child_cny": 200,
+"child_hkd": 236,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 434,
+"adult_hkd": 511,
+"child_cny": 226,
+"child_hkd": 266,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 721,
+"adult_hkd": 850,
+"child_cny": 375,
+"child_hkd": 442,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 111,
+"route_id": "ZHZ2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 203,
+"adult_hkd": 239,
+"child_cny": 105,
+"child_hkd": 124,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 324,
+"adult_hkd": 382,
+"child_cny": 168,
+"child_hkd": 198,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 366,
+"adult_hkd": 431,
+"child_cny": 190,
+"child_hkd": 224,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 608,
+"adult_hkd": 717,
+"child_cny": 315,
+"child_hkd": 371,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 112,
+"route_id": "ZHA2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 243,
+"adult_hkd": 286,
+"child_cny": 122,
+"child_hkd": 144,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 389,
+"adult_hkd": 458,
+"child_cny": 195,
+"child_hkd": 230,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 438,
+"adult_hkd": 516,
+"child_cny": 219,
+"child_hkd": 258,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 729,
+"adult_hkd": 859,
+"child_cny": 365,
+"child_hkd": 430,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 113,
+"route_id": "ZQD2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 868,
+"adult_hkd": 1023,
+"child_cny": 434,
+"child_hkd": 511,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 1390,
+"adult_hkd": 1638,
+"child_cny": 695,
+"child_hkd": 819,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 1631,
+"adult_hkd": 1922,
+"child_cny": 815.5,
+"child_hkd": 961,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 2709,
+"adult_hkd": 3193,
+"child_cny": 1354.5,
+"child_hkd": 1596,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 114,
+"route_id": "ZZD2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 509,
+"adult_hkd": 600,
+"child_cny": 254.5,
+"child_hkd": 300,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 813,
+"adult_hkd": 958,
+"child_cny": 406.5,
+"child_hkd": 479,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 946,
+"adult_hkd": 1115,
+"child_cny": 473,
+"child_hkd": 557,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 1572,
+"adult_hkd": 1853,
+"child_cny": 786,
+"child_hkd": 926,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 115,
+"route_id": "ZZX2WEK"
+},
+{
+"fee_data":[
+{
+"fee_date":"2020,12",
+"fee_detail":[
+{
+"adult_cny": 577,
+"adult_hkd": 680,
+"child_cny": 291,
+"child_hkd": 343,
+"class_title":"second_class",
+"class_type":4
+},
+{
+"adult_cny": 925,
+"adult_hkd": 1090,
+"child_cny": 466,
+"child_hkd": 549,
+"class_title":"first_class",
+"class_type":3
+},
+{
+"adult_cny": 1040,
+"adult_hkd": 1226,
+"child_cny": 524,
+"child_hkd": 618,
+"class_title":"premium_class",
+"class_type":2
+},
+{
+"adult_cny": 1734,
+"adult_hkd": 2044,
+"child_cny": 873,
+"child_hkd": 1029,
+"class_title":"business_class",
+"class_type":1
+}
+]
+}
+],
+"fee_id": 116,
+"route_id": "ZUY2WEK"
+}
+
+
+
+
+    ],
+    "route_result":[
+
+{
+"dest_id":"FUT",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(FUT,1)"
+},
+"route_desc":"WEK2FUT",
+"route_id":"WEK2FUT",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"GMC",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(GMC,1)"
+},
+"route_desc":"WEK2GMC",
+"route_id":"WEK2GMC",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"GZN",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(GZN,1)"
+},
+"route_desc":"WEK2GZN",
+"route_id":"WEK2GZN",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"HUM",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(HUM,1)"
+},
+"route_desc":"WEK2HUM",
+"route_id":"WEK2HUM",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"QIS",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(QIS,1)"
+},
+"route_desc":"WEK2QIS",
+"route_id":"WEK2QIS",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"SZB",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(SZB,1)"
+},
+"route_desc":"WEK2SZB",
+"route_id":"WEK2SZB",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"BYD",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(BYD,1)"
+},
+"route_desc":"WEK2BYD",
+"route_id":"WEK2BYD",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"BEX",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(BEX,1)"
+},
+"route_desc":"WEK2BEX",
+"route_id":"WEK2BEX",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"CSN",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(CSN,1)"
+},
+"route_desc":"WEK2CSN",
+"route_id":"WEK2CSN",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"CHS",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(CHS,1)"
+},
+"route_desc":"WEK2CHS",
+"route_id":"WEK2CHS",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"CHY",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(CHY,1)"
+},
+"route_desc":"WEK2CHY",
+"route_id":"WEK2CHY",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"CZX",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(CZX,1)"
+},
+"route_desc":"WEK2CZX",
+"route_id":"WEK2CZX",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"CQX",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(CQX,1)"
+},
+"route_desc":"WEK2CQX",
+"route_id":"WEK2CQX",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"FSX",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(FSX,1)"
+},
+"route_desc":"WEK2FSX",
+"route_id":"WEK2FSX",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"FUZ",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(FUZ,1)"
+},
+"route_desc":"WEK2FUZ",
+"route_id":"WEK2FUZ",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"GLX",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(GLX,1)"
+},
+"route_desc":"WEK2GLX",
+"route_id":"WEK2GLX",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"GYB",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(GYB,1)"
+},
+"route_desc":"WEK2GYB",
+"route_id":"WEK2GYB",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"GYD",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(GYD,1)"
+},
+"route_desc":"WEK2GYD",
+"route_id":"WEK2GYD",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"HDD",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(HDD,1)"
+},
+"route_desc":"WEK2HDD",
+"route_id":"WEK2HDD",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"HZD",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(HZD,1)"
+},
+"route_desc":"WEK2HZD",
+"route_id":"WEK2HZD",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"HSX",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(HSX,1)"
+},
+"route_desc":"WEK2HSX",
+"route_id":"WEK2HSX",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"HYD",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(HYD,1)"
+},
+"route_desc":"WEK2HYD",
+"route_id":"WEK2HYD",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"HOM",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(HOM,1)"
+},
+"route_desc":"WEK2HOM",
+"route_id":"WEK2HOM",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"HUD",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(HUD,1)"
+},
+"route_desc":"WEK2HUD",
+"route_id":"WEK2HUD",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"HZN",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(HZN,1)"
+},
+"route_desc":"WEK2HZN",
+"route_id":"WEK2HZN",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"JIM",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(JIM,1)"
+},
+"route_desc":"WEK2JIM",
+"route_id":"WEK2JIM",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"JIH",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(JIH,1)"
+},
+"route_desc":"WEK2JIH",
+"route_id":"WEK2JIH",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"KUT",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(KUT,1)"
+},
+"route_desc":"WEK2KUT",
+"route_id":"WEK2KUT",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"KMN",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(KMN,1)"
+},
+"route_desc":"WEK2KMN",
+"route_id":"WEK2KMN",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"LUF",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(LUF,1)"
+},
+"route_desc":"WEK2LUF",
+"route_id":"WEK2LUF",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"NCX",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(NCX,1)"
+},
+"route_desc":"WEK2NCX",
+"route_id":"WEK2NCX",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"NND",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(NND,1)"
+},
+"route_desc":"WEK2NND",
+"route_id":"WEK2NND",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"PUN",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(PUN,1)"
+},
+"route_desc":"WEK2PUN",
+"route_id":"WEK2PUN",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"PUT",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(PUT,1)"
+},
+"route_desc":"WEK2PUT",
+"route_id":"WEK2PUT",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"QUZ",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(QUZ,1)"
+},
+"route_desc":"WEK2QUZ",
+"route_id":"WEK2QUZ",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"RAP",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(RAP,1)"
+},
+"route_desc":"WEK2RAP",
+"route_id":"WEK2RAP",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"SSN",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(SSN,1)"
+},
+"route_desc":"WEK2SSN",
+"route_id":"WEK2SSN",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"SHH",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(SHH,1)"
+},
+"route_desc":"WEK2SHH",
+"route_id":"WEK2SHH",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"SHR",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(SHR,1)"
+},
+"route_desc":"WEK2SHR",
+"route_id":"WEK2SHR",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"SHT",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(SHT,1)"
+},
+"route_desc":"WEK2SHT",
+"route_id":"WEK2SHT",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"SHW",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(SHW,1)"
+},
+"route_desc":"WEK2SHW",
+"route_id":"WEK2SHW",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"SHG",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(SHG,1)"
+},
+"route_desc":"WEK2SHG",
+"route_id":"WEK2SHG",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"SHP",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(SHP,1)"
+},
+"route_desc":"WEK2SHP",
+"route_id":"WEK2SHP",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"SJZ",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(SJZ,1)"
+},
+"route_desc":"WEK2SJZ",
+"route_id":"WEK2SJZ",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"TJX",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(TJX,1)"
+},
+"route_desc":"WEK2TJX",
+"route_id":"WEK2TJX",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WUH",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(WUH,1)"
+},
+"route_desc":"WEK2WUH",
+"route_id":"WEK2WUH",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WZN",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(WZN,1)"
+},
+"route_desc":"WEK2WZN",
+"route_id":"WEK2WZN",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"XIM",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(XIM,1)"
+},
+"route_desc":"WEK2XIM",
+"route_id":"WEK2XIM",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"XMB",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(XMB,1)"
+},
+"route_desc":"WEK2XMB",
+"route_id":"WEK2XMB",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"YYD",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(YYD,1)"
+},
+"route_desc":"WEK2YYD",
+"route_id":"WEK2YYD",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"YUX",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(YUX,1)"
+},
+"route_desc":"WEK2YUX",
+"route_id":"WEK2YUX",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"ZHP",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(ZHP,1)"
+},
+"route_desc":"WEK2ZHP",
+"route_id":"WEK2ZHP",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"ZHZ",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(ZHZ,1)"
+},
+"route_desc":"WEK2ZHZ",
+"route_id":"WEK2ZHZ",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"ZHA",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(ZHA,1)"
+},
+"route_desc":"WEK2ZHA",
+"route_id":"WEK2ZHA",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"ZQD",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(ZQD,1)"
+},
+"route_desc":"WEK2ZQD",
+"route_id":"WEK2ZQD",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"ZZD",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(ZZD,1)"
+},
+"route_desc":"WEK2ZZD",
+"route_id":"WEK2ZZD",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"ZZX",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(ZZX,1)"
+},
+"route_desc":"WEK2ZZX",
+"route_id":"WEK2ZZX",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"ZUY",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WEK,0)+(ZUY,1)"
+},
+"route_desc":"WEK2ZUY",
+"route_id":"WEK2ZUY",
+"start_id":"WEK",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(FUT,0)+(WEK,1)"
+},
+"route_desc":"FUT2WEK",
+"route_id":"FUT2WEK",
+"start_id":"FUT",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(GMC,0)+(WEK,1)"
+},
+"route_desc":"GMC2WEK",
+"route_id":"GMC2WEK",
+"start_id":"GMC",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(GZN,0)+(WEK,1)"
+},
+"route_desc":"GZN2WEK",
+"route_id":"GZN2WEK",
+"start_id":"GZN",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(HUM,0)+(WEK,1)"
+},
+"route_desc":"HUM2WEK",
+"route_id":"HUM2WEK",
+"start_id":"HUM",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(QIS,0)+(WEK,1)"
+},
+"route_desc":"QIS2WEK",
+"route_id":"QIS2WEK",
+"start_id":"QIS",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(SZB,0)+(WEK,1)"
+},
+"route_desc":"SZB2WEK",
+"route_id":"SZB2WEK",
+"start_id":"SZB",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(BYD,0)+(WEK,1)"
+},
+"route_desc":"BYD2WEK",
+"route_id":"BYD2WEK",
+"start_id":"BYD",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(BEX,0)+(WEK,1)"
+},
+"route_desc":"BEX2WEK",
+"route_id":"BEX2WEK",
+"start_id":"BEX",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(CSN,0)+(WEK,1)"
+},
+"route_desc":"CSN2WEK",
+"route_id":"CSN2WEK",
+"start_id":"CSN",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(CHS,0)+(WEK,1)"
+},
+"route_desc":"CHS2WEK",
+"route_id":"CHS2WEK",
+"start_id":"CHS",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(CHY,0)+(WEK,1)"
+},
+"route_desc":"CHY2WEK",
+"route_id":"CHY2WEK",
+"start_id":"CHY",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(CZX,0)+(WEK,1)"
+},
+"route_desc":"CZX2WEK",
+"route_id":"CZX2WEK",
+"start_id":"CZX",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(CQX,0)+(WEK,1)"
+},
+"route_desc":"CQX2WEK",
+"route_id":"CQX2WEK",
+"start_id":"CQX",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(FSX,0)+(WEK,1)"
+},
+"route_desc":"FSX2WEK",
+"route_id":"FSX2WEK",
+"start_id":"FSX",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(FUZ,0)+(WEK,1)"
+},
+"route_desc":"FUZ2WEK",
+"route_id":"FUZ2WEK",
+"start_id":"FUZ",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(GLX,0)+(WEK,1)"
+},
+"route_desc":"GLX2WEK",
+"route_id":"GLX2WEK",
+"start_id":"GLX",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(GYB,0)+(WEK,1)"
+},
+"route_desc":"GYB2WEK",
+"route_id":"GYB2WEK",
+"start_id":"GYB",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(GYD,0)+(WEK,1)"
+},
+"route_desc":"GYD2WEK",
+"route_id":"GYD2WEK",
+"start_id":"GYD",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(HDD,0)+(WEK,1)"
+},
+"route_desc":"HDD2WEK",
+"route_id":"HDD2WEK",
+"start_id":"HDD",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(HZD,0)+(WEK,1)"
+},
+"route_desc":"HZD2WEK",
+"route_id":"HZD2WEK",
+"start_id":"HZD",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(HSX,0)+(WEK,1)"
+},
+"route_desc":"HSX2WEK",
+"route_id":"HSX2WEK",
+"start_id":"HSX",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(HYD,0)+(WEK,1)"
+},
+"route_desc":"HYD2WEK",
+"route_id":"HYD2WEK",
+"start_id":"HYD",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(HOM,0)+(WEK,1)"
+},
+"route_desc":"HOM2WEK",
+"route_id":"HOM2WEK",
+"start_id":"HOM",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(HUD,0)+(WEK,1)"
+},
+"route_desc":"HUD2WEK",
+"route_id":"HUD2WEK",
+"start_id":"HUD",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(HZN,0)+(WEK,1)"
+},
+"route_desc":"HZN2WEK",
+"route_id":"HZN2WEK",
+"start_id":"HZN",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(JIM,0)+(WEK,1)"
+},
+"route_desc":"JIM2WEK",
+"route_id":"JIM2WEK",
+"start_id":"JIM",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(JIH,0)+(WEK,1)"
+},
+"route_desc":"JIH2WEK",
+"route_id":"JIH2WEK",
+"start_id":"JIH",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(KUT,0)+(WEK,1)"
+},
+"route_desc":"KUT2WEK",
+"route_id":"KUT2WEK",
+"start_id":"KUT",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(KMN,0)+(WEK,1)"
+},
+"route_desc":"KMN2WEK",
+"route_id":"KMN2WEK",
+"start_id":"KMN",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(LUF,0)+(WEK,1)"
+},
+"route_desc":"LUF2WEK",
+"route_id":"LUF2WEK",
+"start_id":"LUF",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(NCX,0)+(WEK,1)"
+},
+"route_desc":"NCX2WEK",
+"route_id":"NCX2WEK",
+"start_id":"NCX",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(NND,0)+(WEK,1)"
+},
+"route_desc":"NND2WEK",
+"route_id":"NND2WEK",
+"start_id":"NND",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(PUN,0)+(WEK,1)"
+},
+"route_desc":"PUN2WEK",
+"route_id":"PUN2WEK",
+"start_id":"PUN",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(PUT,0)+(WEK,1)"
+},
+"route_desc":"PUT2WEK",
+"route_id":"PUT2WEK",
+"start_id":"PUT",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(QUZ,0)+(WEK,1)"
+},
+"route_desc":"QUZ2WEK",
+"route_id":"QUZ2WEK",
+"start_id":"QUZ",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(RAP,0)+(WEK,1)"
+},
+"route_desc":"RAP2WEK",
+"route_id":"RAP2WEK",
+"start_id":"RAP",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(SSN,0)+(WEK,1)"
+},
+"route_desc":"SSN2WEK",
+"route_id":"SSN2WEK",
+"start_id":"SSN",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(SHH,0)+(WEK,1)"
+},
+"route_desc":"SHH2WEK",
+"route_id":"SHH2WEK",
+"start_id":"SHH",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(SHR,0)+(WEK,1)"
+},
+"route_desc":"SHR2WEK",
+"route_id":"SHR2WEK",
+"start_id":"SHR",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(SHT,0)+(WEK,1)"
+},
+"route_desc":"SHT2WEK",
+"route_id":"SHT2WEK",
+"start_id":"SHT",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(SHW,0)+(WEK,1)"
+},
+"route_desc":"SHW2WEK",
+"route_id":"SHW2WEK",
+"start_id":"SHW",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(SHG,0)+(WEK,1)"
+},
+"route_desc":"SHG2WEK",
+"route_id":"SHG2WEK",
+"start_id":"SHG",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(SHP,0)+(WEK,1)"
+},
+"route_desc":"SHP2WEK",
+"route_id":"SHP2WEK",
+"start_id":"SHP",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(SJZ,0)+(WEK,1)"
+},
+"route_desc":"SJZ2WEK",
+"route_id":"SJZ2WEK",
+"start_id":"SJZ",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(TJX,0)+(WEK,1)"
+},
+"route_desc":"TJX2WEK",
+"route_id":"TJX2WEK",
+"start_id":"TJX",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WUH,0)+(WEK,1)"
+},
+"route_desc":"WUH2WEK",
+"route_id":"WUH2WEK",
+"start_id":"WUH",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(WZN,0)+(WEK,1)"
+},
+"route_desc":"WZN2WEK",
+"route_id":"WZN2WEK",
+"start_id":"WZN",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(XIM,0)+(WEK,1)"
+},
+"route_desc":"XIM2WEK",
+"route_id":"XIM2WEK",
+"start_id":"XIM",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(XMB,0)+(WEK,1)"
+},
+"route_desc":"XMB2WEK",
+"route_id":"XMB2WEK",
+"start_id":"XMB",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(YYD,0)+(WEK,1)"
+},
+"route_desc":"YYD2WEK",
+"route_id":"YYD2WEK",
+"start_id":"YYD",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(YUX,0)+(WEK,1)"
+},
+"route_desc":"YUX2WEK",
+"route_id":"YUX2WEK",
+"start_id":"YUX",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(ZHP,0)+(WEK,1)"
+},
+"route_desc":"ZHP2WEK",
+"route_id":"ZHP2WEK",
+"start_id":"ZHP",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(ZHZ,0)+(WEK,1)"
+},
+"route_desc":"ZHZ2WEK",
+"route_id":"ZHZ2WEK",
+"start_id":"ZHZ",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(ZHA,0)+(WEK,1)"
+},
+"route_desc":"ZHA2WEK",
+"route_id":"ZHA2WEK",
+"start_id":"ZHA",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(ZQD,0)+(WEK,1)"
+},
+"route_desc":"ZQD2WEK",
+"route_id":"ZQD2WEK",
+"start_id":"ZQD",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(ZZD,0)+(WEK,1)"
+},
+"route_desc":"ZZD2WEK",
+"route_id":"ZZD2WEK",
+"start_id":"ZZD",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(ZZX,0)+(WEK,1)"
+},
+"route_desc":"ZZX2WEK",
+"route_id":"ZZX2WEK",
+"start_id":"ZZX",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+},
+{
+"dest_id":"WEK",
+"normal_route":{
+"estimate_time_max":2,
+"estimate_time_min":1,
+"route":"(ZUY,0)+(WEK,1)"
+},
+"route_desc":"ZUY2WEK",
+"route_id":"ZUY2WEK",
+"start_id":"ZUY",
+"timetable_pdf_en":"https://www.highspeed.mtr.com.hk/en/ticket/timetable.html",
+"timetable_pdf_tc":"https://www.highspeed.mtr.com.hk/tc/ticket/timetable.html",
+"timetable_pdf_sc":"https://www.highspeed.mtr.com.hk/sc/ticket/timetable.html"
+}
+
+	
+	
+    ]
+}
